@@ -2,8 +2,8 @@
     "name": "Live and Upcoming Sports Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "06:58:07 PM 17-05-2026",
-    "total_matches": 69,
+    "last_update_time": "08:04:46 PM 17-05-2026",
+    "total_matches": 56,
     "matches": [
         {
             "status": "LIVE",
@@ -33,27 +33,6 @@
         },
         {
             "status": "LIVE",
-            "id": "385",
-            "event_name": "Al-Shabab vs Al-Ittihad",
-            "eventInfo": {
-                "teamA": "Al-Shabab",
-                "teamB": "Al-Ittihad",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/34313/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/34315/image",
-                "eventName": "Al-Shabab vs Al-Ittihad",
-                "startTime": "2026/05/17 18:00:00 +0000",
-                "endTime": "2026/05/17 20:00:00 +0000"
-            },
-            "streams": [
-                {
-                    "Channel_Name": "THMANYAH HD",
-                    "drm_key": "",
-                    "stream_url": "https://rolis.drompakisdoulesonline.online/premium19/tracks-v1a1/mono.m3u8|Referer=https://donis.jimpenopisonline.online/"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
             "id": "394",
             "event_name": "Kansas City Royals",
             "eventInfo": {
@@ -75,16 +54,37 @@
         },
         {
             "status": "LIVE",
-            "id": "406",
-            "event_name": "Sevilla vs Real Madrid",
+            "id": "395",
+            "event_name": "Arizona Diamondbacks",
             "eventInfo": {
-                "teamA": "Sevilla",
-                "teamB": "Real Madrid",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/2833/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/2829/image",
-                "eventName": "Sevilla vs Real Madrid",
-                "startTime": "2026/05/17 17:00:00 +0000",
-                "endTime": "2026/05/17 19:00:00 +0000"
+                "teamA": "Rockies",
+                "teamB": "Diamondbacks",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3628/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3640/image",
+                "eventName": "Colorado Rockies vs Arizona Diamondbacks",
+                "startTime": "2026/05/17 19:10:00 +0000",
+                "endTime": "2026/05/17 22:10:00 +0000"
+            },
+            "streams": [
+                {
+                    "Channel_Name": "SportzX Live",
+                    "drm_key": "",
+                    "stream_url": "https://mainstreams.pro/hls/dzjhkfazbka26.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "id": "407",
+            "event_name": "Barcelona vs Real Betis",
+            "eventInfo": {
+                "teamA": "Barcelona",
+                "teamB": "Real Betis",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2817/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2816/image",
+                "eventName": "Barcelona vs Real Betis",
+                "startTime": "2026/05/17 19:15:00 +0000",
+                "endTime": "2026/05/17 21:15:00 +0000"
             },
             "streams": [
                 {
@@ -98,14 +98,14 @@
                     "stream_url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd"
                 },
                 {
-                    "Channel_Name": "FANCODE FHD",
-                    "drm_key": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
-                    "stream_url": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd"
-                },
-                {
                     "Channel_Name": "TSN SPORTS FHD",
                     "drm_key": "f5c2b30eac11be1e8cdfc9585f5fe6af:a8198d17bf9b0da77450fbb919a38b2d",
                     "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lzhmuzmjsl/out/v1/c171eeb214c749f2b351c79df317b21e/cenc.mpd"
+                },
+                {
+                    "Channel_Name": "FANCODE FHD",
+                    "drm_key": "065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2",
+                    "stream_url": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd"
                 },
                 {
                     "Channel_Name": "Laliga TV FHD",
@@ -113,287 +113,9 @@
                     "stream_url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd"
                 },
                 {
-                    "Channel_Name": "ESPN DEPORTES",
-                    "drm_key": "",
-                    "stream_url": "https://chatgpt.hereisman.net/playlist/50761/load-playlist?|Referer=https://gooz.aapmains.net"
-                },
-                {
-                    "Channel_Name": "ESPN LIVE HD",
-                    "drm_key": "",
-                    "stream_url": "https://livecdn-tc-livestream.rumsport10.live/stream/23/chunks.m3u8?is_vip=false&token=1779123171-Kv4cPTAAP5YTi-e3b73f76eb1850f42fc741e7d134e8919c99167f-a3b4f07e2215255056a4b840d7b94a4d"
-                },
-                {
-                    "Channel_Name": "SportzX Live",
-                    "drm_key": "",
-                    "stream_url": "https://live.vivo200.com/live/hd-en-1-4358300.m3u8?txSecret=dca9ffb24a68610b9dfc5880d5cb1904&txTime=6A0A3954|Referer=https://player.online909.com/"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "id": "408",
-            "event_name": "Atlético Madrid vs Girona",
-            "eventInfo": {
-                "teamA": "Atl. Madrid",
-                "teamB": "Girona",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/2836/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/24264/image",
-                "eventName": "Atlético Madrid vs Girona",
-                "startTime": "2026/05/17 17:00:00 +0000",
-                "endTime": "2026/05/17 19:00:00 +0000"
-            },
-            "streams": [
-                {
-                    "Channel_Name": "LALIGA TV HD",
-                    "drm_key": "",
-                    "stream_url": "https://chatgpt.hereisman.net/playlist/50754/load-playlist?|Referer=https://gooz.aapmains.net"
-                },
-                {
                     "Channel_Name": "SPX LIVE HD",
                     "drm_key": "",
-                    "stream_url": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1779123412-Kv4cPTAAP5YTi-e3b73f76eb1850f42fc741e7d134e8919c99167f-c76d689c335670f3e3c933699894c25c"
-                },
-                {
-                    "Channel_Name": "PREMIER SPORTS - SIMULCAST",
-                    "drm_key": "620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a",
-                    "stream_url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "id": "409",
-            "event_name": "Athletic Club vs Celta Vigo",
-            "eventInfo": {
-                "teamA": "Athletic Club",
-                "teamB": "Celta",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/2825/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/2821/image",
-                "eventName": "Athletic Club vs Celta Vigo",
-                "startTime": "2026/05/17 17:00:00 +0000",
-                "endTime": "2026/05/17 19:00:00 +0000"
-            },
-            "streams": [
-                {
-                    "Channel_Name": "LALIGA TV HD",
-                    "drm_key": "",
-                    "stream_url": "https://chatgpt.hereisman.net/playlist/50759/load-playlist?|Referer=https://gooz.aapmains.net"
-                },
-                {
-                    "Channel_Name": "SPX LIVE HD",
-                    "drm_key": "",
-                    "stream_url": "https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1779122021-Kv4cPTAAP5YTi-e3b73f76eb1850f42fc741e7d134e8919c99167f-442269eddb5136dcee87d3922dc83330"
-                },
-                {
-                    "Channel_Name": "PREMIER SPORTS - SIMULCAST",
-                    "drm_key": "620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a",
-                    "stream_url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "id": "410",
-            "event_name": "Elche vs Getafe",
-            "eventInfo": {
-                "teamA": "Elche",
-                "teamB": "Getafe",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/2846/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/2859/image",
-                "eventName": "Elche vs Getafe",
-                "startTime": "2026/05/17 17:00:00 +0000",
-                "endTime": "2026/05/17 19:00:00 +0000"
-            },
-            "streams": [
-                {
-                    "Channel_Name": "LALIGA TV HD",
-                    "drm_key": "",
-                    "stream_url": "https://chatgpt.hereisman.net/playlist/50756/load-playlist?|Referer=https://gooz.aapmains.net"
-                },
-                {
-                    "Channel_Name": "SPX LIVE HD",
-                    "drm_key": "",
-                    "stream_url": "https://livecdn-tc-livestream.rumsport10.live/stream/9/chunks.m3u8?is_vip=false&token=1779123585-Kv4cPTAAP5YTi-e3b73f76eb1850f42fc741e7d134e8919c99167f-0ec4fb9ffa458a00565e6880b216c8f1"
-                },
-                {
-                    "Channel_Name": "SportzX Live",
-                    "drm_key": "",
-                    "stream_url": "https://live.vivo200.com/live/hd-en-1-4358282.m3u8?txSecret=354dd6e082baeef3fa168969de2ee4ad&txTime=6A0A39B5|Referer=https://player.online909.com/"
-                },
-                {
-                    "Channel_Name": "PREMIER SPORTS - SIMULCAST",
-                    "drm_key": "620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a",
-                    "stream_url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "id": "411",
-            "event_name": "Levante UD vs Mallorca",
-            "eventInfo": {
-                "teamA": "Levante",
-                "teamB": "Mallorca",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/2849/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/2826/image",
-                "eventName": "Levante UD vs Mallorca",
-                "startTime": "2026/05/17 17:00:00 +0000",
-                "endTime": "2026/05/17 19:00:00 +0000"
-            },
-            "streams": [
-                {
-                    "Channel_Name": "LALIGA TV HD",
-                    "drm_key": "",
-                    "stream_url": "https://chatgpt.hereisman.net/playlist/50758/load-playlist?|Referer=https://gooz.aapmains.net"
-                },
-                {
-                    "Channel_Name": "SPX LIVE HD",
-                    "drm_key": "",
-                    "stream_url": "https://livecdn-tc-livestream.rumsport10.live/stream/15/chunks.m3u8?is_vip=false&token=1779123739-Kv4cPTAAP5YTi-e3b73f76eb1850f42fc741e7d134e8919c99167f-4d442cc1e3607cf1b97078a367e984b4"
-                },
-                {
-                    "Channel_Name": "PREMIER SPORTS - SIMULCAST",
-                    "drm_key": "620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a",
-                    "stream_url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "id": "412",
-            "event_name": "Osasuna vs Espanyol",
-            "eventInfo": {
-                "teamA": "Osasuna",
-                "teamB": "Espanyol",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/2820/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/2814/image",
-                "eventName": "Osasuna vs Espanyol",
-                "startTime": "2026/05/17 17:00:00 +0000",
-                "endTime": "2026/05/17 19:00:00 +0000"
-            },
-            "streams": [
-                {
-                    "Channel_Name": "LALIGA TV HD",
-                    "drm_key": "",
-                    "stream_url": "https://chatgpt.hereisman.net/playlist/50760/load-playlist?|Referer=https://gooz.aapmains.net"
-                },
-                {
-                    "Channel_Name": "SPX LIVE HD",
-                    "drm_key": "",
-                    "stream_url": "https://livecdn-tc-livestream.rumsport10.live/stream/17/chunks.m3u8?is_vip=false&token=1779123824-Kv4cPTAAP5YTi-e3b73f76eb1850f42fc741e7d134e8919c99167f-68d82d6705d166b3133f2f931323eea2"
-                },
-                {
-                    "Channel_Name": "SportzX Live",
-                    "drm_key": "",
-                    "stream_url": "https://live.vivo200.com/live/hd-en-1-4358287.m3u8?txSecret=bdc37fcfcc861a9f260309ca856762a9&txTime=6A0A3A52|Referer=https://player.online909.com/"
-                },
-                {
-                    "Channel_Name": "PREMIER SPORTS - SIMULCAST",
-                    "drm_key": "620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a",
-                    "stream_url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "id": "413",
-            "event_name": "Rayo Vallecano vs Villarreal",
-            "eventInfo": {
-                "teamA": "Rayo Vallecano",
-                "teamB": "Villarreal",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/2818/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/2819/image",
-                "eventName": "Rayo Vallecano vs Villarreal",
-                "startTime": "2026/05/17 17:00:00 +0000",
-                "endTime": "2026/05/17 19:00:00 +0000"
-            },
-            "streams": [
-                {
-                    "Channel_Name": "LALIGA TV HD",
-                    "drm_key": "",
-                    "stream_url": "https://chatgpt.hereisman.net/playlist/50757/load-playlist?|Referer=https://gooz.aapmains.net"
-                },
-                {
-                    "Channel_Name": "SPX LIVE HD",
-                    "drm_key": "",
-                    "stream_url": "https://livecdn-tc-livestream.rumsport10.live/stream/18/chunks.m3u8?is_vip=false&token=1779123499-Kv4cPTAAP5YTi-e3b73f76eb1850f42fc741e7d134e8919c99167f-a85d5f5e68cdc2b639702a05a13bf370"
-                },
-                {
-                    "Channel_Name": "SportzX Live",
-                    "drm_key": "",
-                    "stream_url": "https://live.vivo200.com/live/hd-en-1-4358295.m3u8?txSecret=6a291bd91992f2afcc0ed2cb43d07ace&txTime=6A0A3A2F|Referer=https://player.online909.com/"
-                },
-                {
-                    "Channel_Name": "PREMIER SPORTS - SIMULCAST",
-                    "drm_key": "620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a",
-                    "stream_url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "id": "414",
-            "event_name": "Real Oviedo vs Deportivo",
-            "eventInfo": {
-                "teamA": "Real Oviedo",
-                "teamB": "Alavés",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/2851/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/2885/image",
-                "eventName": "Real Oviedo vs Deportivo Alavés",
-                "startTime": "2026/05/17 17:00:00 +0000",
-                "endTime": "2026/05/17 19:00:00 +0000"
-            },
-            "streams": [
-                {
-                    "Channel_Name": "LALIGA TV HD",
-                    "drm_key": "",
-                    "stream_url": "https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1779123894-Kv4cPTAAP5YTi-e3b73f76eb1850f42fc741e7d134e8919c99167f-f540b163126b885270753c36d8a4c3b5"
-                },
-                {
-                    "Channel_Name": "SportzX Live",
-                    "drm_key": "",
-                    "stream_url": "https://live.vivo200.com/live/hd-en-1-4358292.m3u8?txSecret=b47f06708ec06c094ff6497443722415&txTime=6A0A3982|Referer=https://player.online909.com/"
-                },
-                {
-                    "Channel_Name": "PREMIER SPORTS - SIMULCAST",
-                    "drm_key": "620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a",
-                    "stream_url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "id": "415",
-            "event_name": "Real Sociedad vs Valencia",
-            "eventInfo": {
-                "teamA": "Real Sociedad",
-                "teamB": "Valencia",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/2824/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/2828/image",
-                "eventName": "Real Sociedad vs Valencia",
-                "startTime": "2026/05/17 17:00:00 +0000",
-                "endTime": "2026/05/17 19:00:00 +0000"
-            },
-            "streams": [
-                {
-                    "Channel_Name": "ESPN LIVE HD",
-                    "drm_key": "",
-                    "stream_url": "https://chatgpt.hereisman.net/playlist/50755/load-playlist?|Referer=https://gooz.aapmains.net"
-                },
-                {
-                    "Channel_Name": "SPX LIVE HD",
-                    "drm_key": "",
-                    "stream_url": "https://livecdn-tc-livestream.rumsport10.live/stream/5/chunks.m3u8?is_vip=false&token=1779123270-Kv4cPTAAP5YTi-e3b73f76eb1850f42fc741e7d134e8919c99167f-d79a795c6ffe1a88ac000efbb369bbaf"
-                },
-                {
-                    "Channel_Name": "SportzX Live",
-                    "drm_key": "",
-                    "stream_url": "https://live.vivo200.com/live/hd-en-1-4358297.m3u8?txSecret=4aee52cead1e0bce507c64d285b67617&txTime=6A0A3A00|Referer=https://player.online909.com/"
-                },
-                {
-                    "Channel_Name": "PREMIER SPORTS - SIMULCAST",
-                    "drm_key": "620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a",
-                    "stream_url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd"
+                    "stream_url": "https://livecdn-tc-livestream.rumsport10.live/stream/15/chunks.m3u8?is_vip=false&token=1779130988-Kv4cPTAAP5YTi-e3b73f76eb1850f42fc741e7d134e8919c99167f-eae00ff634b891588d360ba1556afd06"
                 }
             ]
         },
@@ -482,74 +204,288 @@
         },
         {
             "status": "LIVE",
-            "id": "446",
-            "event_name": "Fenerbahçe vs Eyüpspor",
+            "id": "426",
+            "event_name": "Paris FC vs PSG",
             "eventInfo": {
-                "teamA": "Fenerbahçe",
-                "teamB": "Eyüpspor",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3052/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/7040/image",
-                "eventName": "Fenerbahçe vs Eyüpspor",
-                "startTime": "2026/05/17 17:00:00 +0000",
-                "endTime": "2026/05/17 19:00:00 +0000"
+                "teamA": "Paris",
+                "teamB": "PSG",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/6070/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/1644/image",
+                "eventName": "Paris FC vs PSG",
+                "startTime": "2026/05/17 19:00:00 +0000",
+                "endTime": "2026/05/17 21:00:00 +0000"
             },
             "streams": [
                 {
-                    "Channel_Name": "beIN SPORTS HD",
-                    "drm_key": "",
-                    "stream_url": "https://zomis.zempovlantis.online/premium63/tracks-v1a1/mono.m3u8|Referer=https://donis.jimpenopisonline.online/"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "id": "447",
-            "event_name": "Kasımpaşa vs Galatasaray",
-            "eventInfo": {
-                "teamA": "Kasımpaşa",
-                "teamB": "Galatasaray",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/6063/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3061/image",
-                "eventName": "Kasımpaşa vs Galatasaray",
-                "startTime": "2026/05/17 17:00:00 +0000",
-                "endTime": "2026/05/17 19:00:00 +0000"
-            },
-            "streams": [
-                {
-                    "Channel_Name": "beIN SPORTS US",
+                    "Channel_Name": "beIN ENGLISH US",
                     "drm_key": "",
                     "stream_url": "https://zomis.zempovlantis.online/premium425/tracks-v1a1/mono.m3u8|Referer=https://donis.jimpenopisonline.online/"
                 },
                 {
+                    "Channel_Name": "beIN SPORTS FHD",
+                    "drm_key": "",
+                    "stream_url": "https://sunffov.kuvuslov.cymru/parisfc-v-psg.m3u8|Referer=https://cxfoot.pages.dev/"
+                },
+                {
                     "Channel_Name": "beIN SPORTS HD",
                     "drm_key": "",
-                    "stream_url": "https://zomis.zempovlantis.online/premium62/tracks-v1a1/mono.m3u8|Referer=https://donis.jimpenopisonline.online/"
+                    "stream_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/398/chunks.m3u8?is_vip=false&token=1779130208-Kv4cPTAAP5YTi-e3b73f76eb1850f42fc741e7d134e8919c99167f-401a8eb290295e22fab1cf5031d5cf57"
                 }
             ]
         },
         {
             "status": "LIVE",
-            "id": "451",
-            "event_name": "Rays vs Miami Marlins",
+            "id": "427",
+            "event_name": "Lille vs Auxerre",
             "eventInfo": {
-                "teamA": "Rays",
-                "teamB": "Marlins",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3653/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3639/image",
-                "eventName": "Tampa Bay Rays vs Miami Marlins",
-                "startTime": "2026/05/17 16:15:00 +0000",
-                "endTime": "2026/05/17 19:15:00 +0000"
+                "teamA": "Lille",
+                "teamB": "Auxerre",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1643/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/1646/image",
+                "eventName": "Lille vs Auxerre",
+                "startTime": "2026/05/17 19:00:00 +0000",
+                "endTime": "2026/05/17 21:00:00 +0000"
             },
             "streams": [
                 {
-                    "Channel_Name": "SportzX MLB",
+                    "Channel_Name": "DAZN SPORTS HD",
                     "drm_key": "",
-                    "stream_url": "https://chatgpt.hereisman.net/playlist/50748/load-playlist?|Referer=https://gooz.aapmains.net"
+                    "stream_url": "https://agelis.voglempanis.online/premium157/tracks-v1a1/mono.m3u8|Referer=https://donis.jimpenopisonline.online/"
                 },
                 {
                     "Channel_Name": "SportzX Live",
                     "drm_key": "",
-                    "stream_url": "https://mainstreams.pro/hls/dazhfiach15.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
+                    "stream_url": "https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1779130258-Kv4cPTAAP5YTi-e3b73f76eb1850f42fc741e7d134e8919c99167f-532ded175bcabcc3fa9725261877d9a8"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "id": "428",
+            "event_name": "Lorient vs Le Havre",
+            "eventInfo": {
+                "teamA": "Lorient",
+                "teamB": "Le Havre",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1656/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/1662/image",
+                "eventName": "Lorient vs Le Havre",
+                "startTime": "2026/05/17 19:00:00 +0000",
+                "endTime": "2026/05/17 21:00:00 +0000"
+            },
+            "streams": [
+                {
+                    "Channel_Name": "DAZN SPORTS HD",
+                    "drm_key": "",
+                    "stream_url": "https://agelis.voglempanis.online/premium156/tracks-v1a1/mono.m3u8|Referer=https://donis.jimpenopisonline.online/"
+                },
+                {
+                    "Channel_Name": "SportzX Live",
+                    "drm_key": "",
+                    "stream_url": "https://livecdn-tc-livestream.rumsport10.live/stream/25/chunks.m3u8?is_vip=false&token=1779130339-Kv4cPTAAP5YTi-e3b73f76eb1850f42fc741e7d134e8919c99167f-36f9dbd5ab7b8d57a33771b169a5f905"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "id": "429",
+            "event_name": "Nantes vs Toulouse",
+            "eventInfo": {
+                "teamA": "Nantes",
+                "teamB": "Toulouse",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1647/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/1681/image",
+                "eventName": "Nantes vs Toulouse",
+                "startTime": "2026/05/17 19:00:00 +0000",
+                "endTime": "2026/05/17 21:00:00 +0000"
+            },
+            "streams": [
+                {
+                    "Channel_Name": "Ligue1+ HD",
+                    "drm_key": "",
+                    "stream_url": "https://agelis.voglempanis.online/premium159/tracks-v1a1/mono.m3u8|Referer=https://donis.jimpenopisonline.online/"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "id": "430",
+            "event_name": "Nice vs Metz",
+            "eventInfo": {
+                "teamA": "Nice",
+                "teamB": "Metz",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1661/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/1651/image",
+                "eventName": "Nice vs Metz",
+                "startTime": "2026/05/17 19:00:00 +0000",
+                "endTime": "2026/05/17 21:00:00 +0000"
+            },
+            "streams": [
+                {
+                    "Channel_Name": "Ligue1+ HD",
+                    "drm_key": "",
+                    "stream_url": "https://bobis.zaglemplokis.online/premium155/tracks-v1a1/mono.m3u8|Referer=https://donis.jimpenopisonline.online/"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "id": "431",
+            "event_name": "Olympique Lyon vs RC Lens",
+            "eventInfo": {
+                "teamA": "Lyon",
+                "teamB": "Lens",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1649/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/1648/image",
+                "eventName": "Olympique Lyon vs RC Lens",
+                "startTime": "2026/05/17 19:00:00 +0000",
+                "endTime": "2026/05/17 21:00:00 +0000"
+            },
+            "streams": [
+                {
+                    "Channel_Name": "beIN SPORTS HD",
+                    "drm_key": "",
+                    "stream_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/274844/chunks.m3u8?is_vip=false&token=1779130587-Kv4cPTAAP5YTi-e3b73f76eb1850f42fc741e7d134e8919c99167f-9358c9f58c3a4920e25d90f55a7db203"
+                },
+                {
+                    "Channel_Name": "Ligue1+ HD",
+                    "drm_key": "",
+                    "stream_url": "https://zomis.zempovlantis.online/premium116/tracks-v1a1/mono.m3u8|Referer=https://donis.jimpenopisonline.online/"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "id": "432",
+            "event_name": "Marseille vs Stade Rennais",
+            "eventInfo": {
+                "teamA": "Marseille",
+                "teamB": "Rennes",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1641/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/1658/image",
+                "eventName": "Olympique Marseille vs Stade Rennais",
+                "startTime": "2026/05/17 19:00:00 +0000",
+                "endTime": "2026/05/17 21:00:00 +0000"
+            },
+            "streams": [
+                {
+                    "Channel_Name": "Ligue1+ HD",
+                    "drm_key": "",
+                    "stream_url": "https://bobis.zaglemplokis.online/premium161/tracks-v1a1/mono.m3u8|Referer=https://donis.jimpenopisonline.online/"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "id": "433",
+            "event_name": "Strasbourg vs AS Monaco",
+            "eventInfo": {
+                "teamA": "Strasbourg",
+                "teamB": "AS Monaco",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1659/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/1653/image",
+                "eventName": "Strasbourg vs AS Monaco",
+                "startTime": "2026/05/17 19:00:00 +0000",
+                "endTime": "2026/05/17 21:00:00 +0000"
+            },
+            "streams": [
+                {
+                    "Channel_Name": "Ligue1+ HD",
+                    "drm_key": "",
+                    "stream_url": "https://agelis.voglempanis.online/premium158/tracks-v1a1/mono.m3u8|Referer=https://donis.jimpenopisonline.online/"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "id": "434",
+            "event_name": "Stade Brestois vs Angers",
+            "eventInfo": {
+                "teamA": "Brest",
+                "teamB": "Angers",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1715/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/1684/image",
+                "eventName": "Stade Brestois vs Angers",
+                "startTime": "2026/05/17 19:00:00 +0000",
+                "endTime": "2026/05/17 21:00:00 +0000"
+            },
+            "streams": [
+                {
+                    "Channel_Name": "SportzX Live",
+                    "drm_key": "",
+                    "stream_url": "https://livecdn-tc-livestream.rumsport10.live/stream/20/chunks.m3u8?is_vip=false&token=1779129932-Kv4cPTAAP5YTi-e3b73f76eb1850f42fc741e7d134e8919c99167f-835233a83a662b8255b89ed73588da4e"
+                },
+                {
+                    "Channel_Name": "DAZN SPORTS HD",
+                    "drm_key": "",
+                    "stream_url": "https://poklis.rontokakishop.online/premium154/tracks-v1a1/mono.m3u8|Referer=https://donis.jimpenopisonline.online/"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "id": "439",
+            "event_name": "Bahia vs Grêmio",
+            "eventInfo": {
+                "teamA": "Bahia",
+                "teamB": "Grêmio",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1955/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/5926/image",
+                "eventName": "Bahia vs Grêmio",
+                "startTime": "2026/05/17 19:00:00 +0000",
+                "endTime": "2026/05/17 21:00:00 +0000"
+            },
+            "streams": [
+                {
+                    "Channel_Name": "PREMIERER BR",
+                    "drm_key": "d23f7433798a652a7d4f6791d9e1036c:4942eebd598b5727c5cc484cc62b52e8",
+                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/6onrfniyry/out/v1/f23069c61dbf4e00890a40b705a84079/cenc.mpd"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "id": "440",
+            "event_name": "Botafogo vs Corinthians",
+            "eventInfo": {
+                "teamA": "Botafogo",
+                "teamB": "Corinthians",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1958/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/1957/image",
+                "eventName": "Botafogo vs Corinthians",
+                "startTime": "2026/05/17 19:00:00 +0000",
+                "endTime": "2026/05/17 21:00:00 +0000"
+            },
+            "streams": [
+                {
+                    "Channel_Name": "PREMIERER BR",
+                    "drm_key": "56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3",
+                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd"
+                },
+                {
+                    "Channel_Name": "SporTV BR",
+                    "drm_key": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
+                    "stream_url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "id": "450",
+            "event_name": "Real Zaragoza vs Sporting Gijón",
+            "eventInfo": {
+                "teamA": "Real Zaragoza",
+                "teamB": "Sporting",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2815/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2852/image",
+                "eventName": "Real Zaragoza vs Sporting Gijón",
+                "startTime": "2026/05/17 19:15:00 +0000",
+                "endTime": "2026/05/17 21:15:00 +0000"
+            },
+            "streams": [
+                {
+                    "Channel_Name": "Laliga Hypermotion ES",
+                    "drm_key": "d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30",
+                    "stream_url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd"
                 }
             ]
         },
@@ -1149,27 +1085,6 @@
         },
         {
             "status": "UPCOMING",
-            "id": "395",
-            "event_name": "Arizona Diamondbacks",
-            "eventInfo": {
-                "teamA": "Rockies",
-                "teamB": "Diamondbacks",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3628/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3640/image",
-                "eventName": "Colorado Rockies vs Arizona Diamondbacks",
-                "startTime": "2026/05/17 19:10:00 +0000",
-                "endTime": "2026/05/17 22:10:00 +0000"
-            },
-            "streams": [
-                {
-                    "Channel_Name": "SportzX Live",
-                    "drm_key": "",
-                    "stream_url": "https://mainstreams.pro/hls/dzjhkfazbka26.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
-                }
-            ]
-        },
-        {
-            "status": "UPCOMING",
             "id": "397",
             "event_name": "Athletics",
             "eventInfo": {
@@ -1228,303 +1143,6 @@
                     "Channel_Name": "SportzX Live",
                     "drm_key": "",
                     "stream_url": "https://mainstreams.pro/hls/hfzljfahzcax29.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
-                }
-            ]
-        },
-        {
-            "status": "UPCOMING",
-            "id": "407",
-            "event_name": "Barcelona vs Real Betis",
-            "eventInfo": {
-                "teamA": "Barcelona",
-                "teamB": "Real Betis",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/2817/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/2816/image",
-                "eventName": "Barcelona vs Real Betis",
-                "startTime": "2026/05/17 19:15:00 +0000",
-                "endTime": "2026/05/17 21:15:00 +0000"
-            },
-            "streams": [
-                {
-                    "Channel_Name": "beIN ENGLISH FHD",
-                    "drm_key": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
-                    "stream_url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd"
-                },
-                {
-                    "Channel_Name": "PREMIER SPORTS",
-                    "drm_key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
-                    "stream_url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd"
-                },
-                {
-                    "Channel_Name": "TSN SPORTS FHD",
-                    "drm_key": "f5c2b30eac11be1e8cdfc9585f5fe6af:a8198d17bf9b0da77450fbb919a38b2d",
-                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/lzhmuzmjsl/out/v1/c171eeb214c749f2b351c79df317b21e/cenc.mpd"
-                },
-                {
-                    "Channel_Name": "Laliga TV FHD",
-                    "drm_key": "620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a",
-                    "stream_url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd"
-                }
-            ]
-        },
-        {
-            "status": "UPCOMING",
-            "id": "426",
-            "event_name": "Paris FC vs PSG",
-            "eventInfo": {
-                "teamA": "Paris",
-                "teamB": "PSG",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/6070/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/1644/image",
-                "eventName": "Paris FC vs PSG",
-                "startTime": "2026/05/17 19:00:00 +0000",
-                "endTime": "2026/05/17 21:00:00 +0000"
-            },
-            "streams": [
-                {
-                    "Channel_Name": "beIN ENGLISH US",
-                    "drm_key": "",
-                    "stream_url": "https://zomis.zempovlantis.online/premium425/tracks-v1a1/mono.m3u8|Referer=https://donis.jimpenopisonline.online/"
-                },
-                {
-                    "Channel_Name": "beIN SPORTS HD",
-                    "drm_key": "",
-                    "stream_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/398/chunks.m3u8?is_vip=false&token=1779130208-Kv4cPTAAP5YTi-e3b73f76eb1850f42fc741e7d134e8919c99167f-401a8eb290295e22fab1cf5031d5cf57"
-                }
-            ]
-        },
-        {
-            "status": "UPCOMING",
-            "id": "427",
-            "event_name": "Lille vs Auxerre",
-            "eventInfo": {
-                "teamA": "Lille",
-                "teamB": "Auxerre",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/1643/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/1646/image",
-                "eventName": "Lille vs Auxerre",
-                "startTime": "2026/05/17 19:00:00 +0000",
-                "endTime": "2026/05/17 21:00:00 +0000"
-            },
-            "streams": [
-                {
-                    "Channel_Name": "SportzX Live",
-                    "drm_key": "",
-                    "stream_url": "https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1779130258-Kv4cPTAAP5YTi-e3b73f76eb1850f42fc741e7d134e8919c99167f-532ded175bcabcc3fa9725261877d9a8"
-                },
-                {
-                    "Channel_Name": "DAZN SPORTS HD",
-                    "drm_key": "",
-                    "stream_url": "https://agelis.voglempanis.online/premium157/tracks-v1a1/mono.m3u8|Referer=https://donis.jimpenopisonline.online/"
-                }
-            ]
-        },
-        {
-            "status": "UPCOMING",
-            "id": "428",
-            "event_name": "Lorient vs Le Havre",
-            "eventInfo": {
-                "teamA": "Lorient",
-                "teamB": "Le Havre",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/1656/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/1662/image",
-                "eventName": "Lorient vs Le Havre",
-                "startTime": "2026/05/17 19:00:00 +0000",
-                "endTime": "2026/05/17 21:00:00 +0000"
-            },
-            "streams": [
-                {
-                    "Channel_Name": "SportzX Live",
-                    "drm_key": "",
-                    "stream_url": "https://livecdn-tc-livestream.rumsport10.live/stream/25/chunks.m3u8?is_vip=false&token=1779130339-Kv4cPTAAP5YTi-e3b73f76eb1850f42fc741e7d134e8919c99167f-36f9dbd5ab7b8d57a33771b169a5f905"
-                },
-                {
-                    "Channel_Name": "DAZN SPORTS HD",
-                    "drm_key": "",
-                    "stream_url": "https://agelis.voglempanis.online/premium156/tracks-v1a1/mono.m3u8|Referer=https://donis.jimpenopisonline.online/"
-                }
-            ]
-        },
-        {
-            "status": "UPCOMING",
-            "id": "429",
-            "event_name": "Nantes vs Toulouse",
-            "eventInfo": {
-                "teamA": "Nantes",
-                "teamB": "Toulouse",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/1647/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/1681/image",
-                "eventName": "Nantes vs Toulouse",
-                "startTime": "2026/05/17 19:00:00 +0000",
-                "endTime": "2026/05/17 21:00:00 +0000"
-            },
-            "streams": [
-                {
-                    "Channel_Name": "Ligue1+ HD",
-                    "drm_key": "",
-                    "stream_url": "https://agelis.voglempanis.online/premium159/tracks-v1a1/mono.m3u8|Referer=https://donis.jimpenopisonline.online/"
-                }
-            ]
-        },
-        {
-            "status": "UPCOMING",
-            "id": "430",
-            "event_name": "Nice vs Metz",
-            "eventInfo": {
-                "teamA": "Nice",
-                "teamB": "Metz",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/1661/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/1651/image",
-                "eventName": "Nice vs Metz",
-                "startTime": "2026/05/17 19:00:00 +0000",
-                "endTime": "2026/05/17 21:00:00 +0000"
-            },
-            "streams": [
-                {
-                    "Channel_Name": "Ligue1+ HD",
-                    "drm_key": "",
-                    "stream_url": "https://bobis.zaglemplokis.online/premium155/tracks-v1a1/mono.m3u8|Referer=https://donis.jimpenopisonline.online/"
-                }
-            ]
-        },
-        {
-            "status": "UPCOMING",
-            "id": "431",
-            "event_name": "Olympique Lyon vs RC Lens",
-            "eventInfo": {
-                "teamA": "Lyon",
-                "teamB": "Lens",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/1649/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/1648/image",
-                "eventName": "Olympique Lyon vs RC Lens",
-                "startTime": "2026/05/17 19:00:00 +0000",
-                "endTime": "2026/05/17 21:00:00 +0000"
-            },
-            "streams": [
-                {
-                    "Channel_Name": "beIN SPORTS HD",
-                    "drm_key": "",
-                    "stream_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/274844/chunks.m3u8?is_vip=false&token=1779130587-Kv4cPTAAP5YTi-e3b73f76eb1850f42fc741e7d134e8919c99167f-9358c9f58c3a4920e25d90f55a7db203"
-                },
-                {
-                    "Channel_Name": "Ligue1+ HD",
-                    "drm_key": "",
-                    "stream_url": "https://bobis.zaglemplokis.online/premium161/tracks-v1a1/mono.m3u8|Referer=https://donis.jimpenopisonline.online/"
-                }
-            ]
-        },
-        {
-            "status": "UPCOMING",
-            "id": "432",
-            "event_name": "Marseille vs Stade Rennais",
-            "eventInfo": {
-                "teamA": "Marseille",
-                "teamB": "Rennes",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/1641/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/1658/image",
-                "eventName": "Olympique Marseille vs Stade Rennais",
-                "startTime": "2026/05/17 19:00:00 +0000",
-                "endTime": "2026/05/17 21:00:00 +0000"
-            },
-            "streams": [
-                {
-                    "Channel_Name": "Ligue1+ HD",
-                    "drm_key": "",
-                    "stream_url": "https://bobis.zaglemplokis.online/premium161/tracks-v1a1/mono.m3u8|Referer=https://donis.jimpenopisonline.online/"
-                }
-            ]
-        },
-        {
-            "status": "UPCOMING",
-            "id": "433",
-            "event_name": "Strasbourg vs AS Monaco",
-            "eventInfo": {
-                "teamA": "Strasbourg",
-                "teamB": "AS Monaco",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/1659/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/1653/image",
-                "eventName": "Strasbourg vs AS Monaco",
-                "startTime": "2026/05/17 19:00:00 +0000",
-                "endTime": "2026/05/17 21:00:00 +0000"
-            },
-            "streams": [
-                {
-                    "Channel_Name": "SportzX Live",
-                    "drm_key": "",
-                    "stream_url": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14"
-                }
-            ]
-        },
-        {
-            "status": "UPCOMING",
-            "id": "434",
-            "event_name": "Stade Brestois vs Angers",
-            "eventInfo": {
-                "teamA": "Brest",
-                "teamB": "Angers",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/1715/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/1684/image",
-                "eventName": "Stade Brestois vs Angers",
-                "startTime": "2026/05/17 19:00:00 +0000",
-                "endTime": "2026/05/17 21:00:00 +0000"
-            },
-            "streams": [
-                {
-                    "Channel_Name": "SportzX Live",
-                    "drm_key": "",
-                    "stream_url": "https://livecdn-tc-livestream.rumsport10.live/stream/20/chunks.m3u8?is_vip=false&token=1779129932-Kv4cPTAAP5YTi-e3b73f76eb1850f42fc741e7d134e8919c99167f-835233a83a662b8255b89ed73588da4e"
-                },
-                {
-                    "Channel_Name": "DAZN SPORTS HD",
-                    "drm_key": "",
-                    "stream_url": "https://poklis.rontokakishop.online/premium154/tracks-v1a1/mono.m3u8|Referer=https://donis.jimpenopisonline.online/"
-                }
-            ]
-        },
-        {
-            "status": "UPCOMING",
-            "id": "439",
-            "event_name": "Bahia vs Grêmio",
-            "eventInfo": {
-                "teamA": "Bahia",
-                "teamB": "Grêmio",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/1955/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/5926/image",
-                "eventName": "Bahia vs Grêmio",
-                "startTime": "2026/05/17 19:00:00 +0000",
-                "endTime": "2026/05/17 21:00:00 +0000"
-            },
-            "streams": [
-                {
-                    "Channel_Name": "PREMIERER BR",
-                    "drm_key": "d23f7433798a652a7d4f6791d9e1036c:4942eebd598b5727c5cc484cc62b52e8",
-                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/6onrfniyry/out/v1/f23069c61dbf4e00890a40b705a84079/cenc.mpd"
-                }
-            ]
-        },
-        {
-            "status": "UPCOMING",
-            "id": "440",
-            "event_name": "Botafogo vs Corinthians",
-            "eventInfo": {
-                "teamA": "Botafogo",
-                "teamB": "Corinthians",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/1958/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/1957/image",
-                "eventName": "Botafogo vs Corinthians",
-                "startTime": "2026/05/17 19:00:00 +0000",
-                "endTime": "2026/05/17 21:00:00 +0000"
-            },
-            "streams": [
-                {
-                    "Channel_Name": "PREMIERER BR",
-                    "drm_key": "56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3",
-                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd"
-                },
-                {
-                    "Channel_Name": "SporTV BR",
-                    "drm_key": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
-                    "stream_url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd"
                 }
             ]
         },
@@ -1598,27 +1216,6 @@
                     "Channel_Name": "SportDigital Fussball",
                     "drm_key": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
                     "stream_url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd"
-                }
-            ]
-        },
-        {
-            "status": "UPCOMING",
-            "id": "450",
-            "event_name": "Real Zaragoza vs Sporting Gijón",
-            "eventInfo": {
-                "teamA": "Real Zaragoza",
-                "teamB": "Sporting",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/2815/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/2852/image",
-                "eventName": "Real Zaragoza vs Sporting Gijón",
-                "startTime": "2026/05/17 19:15:00 +0000",
-                "endTime": "2026/05/17 21:15:00 +0000"
-            },
-            "streams": [
-                {
-                    "Channel_Name": "Laliga Hypermotion ES",
-                    "drm_key": "d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30",
-                    "stream_url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd"
                 }
             ]
         },
@@ -1807,57 +1404,6 @@
         },
         {
             "status": "ENDED",
-            "id": "367",
-            "event_name": "IPL - 02",
-            "eventInfo": {
-                "teamA": "DC",
-                "teamB": "RR",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/187841/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/187842/image",
-                "eventName": "Delhi Capitals vs Rajasthan Royals",
-                "startTime": "2026/05/17 14:00:00 +0000",
-                "endTime": "2026/05/17 17:45:00 +0000"
-            },
-            "streams": [
-                {
-                    "Channel_Name": "WILLOW [Ad-Free]",
-                    "drm_key": "8ab6b4ac429bfe070cfdb2a734b0f2e3:61a2198ca92d1c539abd22636fe0bf23",
-                    "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fbo5ncnbyv/out/v1/ba5ff04083324474800234e8d2eef8d4/cenc.mpd"
-                },
-                {
-                    "Channel_Name": "SKY SPORTS FHD",
-                    "drm_key": "708a98b352bd4418a73a028edd84da8f:b1fa5c2bca4c4b57b924b748564532cb",
-                    "stream_url": "https://dice-live-oc.akamaized.net/hdntl=exp=1779070453~acl=%2F*~id=319ab612-2e20-46d8-844b-27cb156b638c~data=hdntl,aXA9NTIuMTYxLjU2LjcwJmV4cD0xNzc4OTg0MDgzJmVpZD05MzY0MjQmb2lkPTE1NCZ0eXBlPVZPRCZ1aWQ9YWRjV1lXfGI2MGFmMjk5LTAzOTEtNGQxZi1hNmQwLWQ4MjQ0ZGZhZjFjOSZjaWQ9ZGNlLmZpc2ZlZCZwdD1udWxs~hmac=0f528e265590e386ba6fb3983f21449ea43d5fa28aed795503f83643861de1ff/dash/live/2093715/219027-321028/manifest-d.mpd"
-                },
-                {
-                    "Channel_Name": "KAYO HINDI FHD",
-                    "drm_key": "d61f78cdfd675eee8a2144f5f7142a33:7a4d6f780440cd645d9bcaaa1295529d",
-                    "stream_url": "https://dck1-ak-livedazn.akamaized.net/out/v1/814bffb9b389f652/e1f3582cdf2a4b4fbc1b8a7306d8c757/index.mpd"
-                },
-                {
-                    "Channel_Name": "NOON SPORTS",
-                    "drm_key": "",
-                    "stream_url": "https://dai.google.com/linear/hls/event/mbsfWpAoS2Olw5e-nkM-gw/master.m3u8|user-agent=Cricbuzz/7.00.01 (Linux;Android 13) AndroidXMedia3/1.5.1&x-forwarded-for=1.178.20.23"
-                },
-                {
-                    "Channel_Name": "SKY CRICKET",
-                    "drm_key": "",
-                    "stream_url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla"
-                },
-                {
-                    "Channel_Name": "FOX SPORTS HD",
-                    "drm_key": "",
-                    "stream_url": "https://sunffov.kuvuslov.cymru/fox501.m3u8|Referer=https://estraaw.pages.dev/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36"
-                },
-                {
-                    "Channel_Name": "SD SERVER",
-                    "drm_key": "",
-                    "stream_url": "https://v.zgdyoqa.shop/hls/JPPPX.m3u8|Referer=http://www.fawanews.sc/"
-                }
-            ]
-        },
-        {
-            "status": "ENDED",
             "id": "372",
             "event_name": "ATP Rome Masters",
             "eventInfo": {
@@ -1894,22 +1440,27 @@
         },
         {
             "status": "ENDED",
-            "id": "435",
-            "event_name": "Wales W vs Italy W",
+            "id": "385",
+            "event_name": "Al-Shabab vs Al-Ittihad",
             "eventInfo": {
-                "teamA": "Wales",
-                "teamB": "Italy",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/164620/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/189292/image",
-                "eventName": "Wales W vs Italy W",
-                "startTime": "2026/05/17 11:15:00 +0000",
-                "endTime": "2026/05/17 13:30:00 +0000"
+                "teamA": "Al-Shabab",
+                "teamB": "Al-Ittihad",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/34313/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/34315/image",
+                "eventName": "Al-Shabab vs Al-Ittihad",
+                "startTime": "2026/05/17 18:00:00 +0000",
+                "endTime": "2026/05/17 20:00:00 +0000"
             },
             "streams": [
                 {
-                    "Channel_Name": "SKY SPORTS FHD",
-                    "drm_key": "708a98b352bd4418a73a028edd84da8f:b1fa5c2bca4c4b57b924b748564532cb",
-                    "stream_url": "https://dice-live-oc.akamaized.net/hdntl=exp=1779070453~acl=%2F*~id=319ab612-2e20-46d8-844b-27cb156b638c~data=hdntl,aXA9NTIuMTYxLjU2LjcwJmV4cD0xNzc4OTg0MDgzJmVpZD05MzY0MjQmb2lkPTE1NCZ0eXBlPVZPRCZ1aWQ9YWRjV1lXfGI2MGFmMjk5LTAzOTEtNGQxZi1hNmQwLWQ4MjQ0ZGZhZjFjOSZjaWQ9ZGNlLmZpc2ZlZCZwdD1udWxs~hmac=0f528e265590e386ba6fb3983f21449ea43d5fa28aed795503f83643861de1ff/dash/live/2093715/219027-321028/manifest-d.mpd"
+                    "Channel_Name": "THMANYAH FHD",
+                    "drm_key": "",
+                    "stream_url": "https://prod-fastly-eu-west-1.video.pscp.tv/Transcoding/v1/hls/XDUBOt7yMc7LynpepRJTT50GQIjQEqx19jHwNB8Bo3h8f61Aq4nMFshFoa8ELjnjOdctt1t5A73CyAq2QtcP7Q/non_transcode/eu-west-1/periscope-replay-direct-prod-eu-west-1-public/master_dynamic_delta.m3u8?type=live"
+                },
+                {
+                    "Channel_Name": "THMANYAH HD",
+                    "drm_key": "",
+                    "stream_url": "https://rolis.drompakisdoulesonline.online/premium19/tracks-v1a1/mono.m3u8|Referer=https://donis.jimpenopisonline.online/"
                 }
             ]
         },
@@ -1925,27 +1476,6 @@
                 "eventName": "Ireland W vs Scotland W",
                 "startTime": "2026/05/17 13:30:00 +0000",
                 "endTime": "2026/05/17 15:30:00 +0000"
-            },
-            "streams": [
-                {
-                    "Channel_Name": "SKY SPORTS FHD",
-                    "drm_key": "278b8746b7c7410e901af0aa3774f037:15e1142d647b474ebbd49e41efa2a9d7",
-                    "stream_url": "https://dice-live-oc.akamaized.net/hdntl=exp=1779070453~acl=%2F*~id=ac995ce9-4460-4baf-aa98-8964bf914c77~data=hdntl,aXA9NTIuMTYxLjU2LjcwJmV4cD0xNzc4OTg0MDgzJmVpZD05MzU1NDYmb2lkPTE1NCZ0eXBlPVZPRCZ1aWQ9YWRjV1lXfGI2MGFmMjk5LTAzOTEtNGQxZi1hNmQwLWQ4MjQ0ZGZhZjFjOSZjaWQ9ZGNlLmZpc2ZlZCZwdD1udWxs~hmac=f6b8f98b065a74d282a69083cc879a3b075e09696d12209ba9f1048055d753b7/dash/live/2093720/219029-321032/manifest-d.mpd"
-                }
-            ]
-        },
-        {
-            "status": "ENDED",
-            "id": "437",
-            "event_name": "France W vs England W",
-            "eventInfo": {
-                "teamA": "France",
-                "teamB": "England",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/164616/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/164602/image",
-                "eventName": "France W vs England W",
-                "startTime": "2026/05/17 15:45:00 +0000",
-                "endTime": "2026/05/17 17:45:00 +0000"
             },
             "streams": [
                 {
@@ -2009,32 +1539,48 @@
         },
         {
             "status": "ENDED",
-            "id": "448",
-            "event_name": "Livingston vs Kilmarnock",
+            "id": "446",
+            "event_name": "Fenerbahçe vs Eyüpspor",
             "eventInfo": {
-                "teamA": "Livingston",
-                "teamB": "Kilmarnock",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/2356/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/2347/image",
-                "eventName": "Livingston vs Kilmarnock",
-                "startTime": "2026/05/17 13:00:00 +0000",
-                "endTime": "2026/05/17 15:00:00 +0000"
+                "teamA": "Fenerbahçe",
+                "teamB": "Eyüpspor",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3052/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/7040/image",
+                "eventName": "Fenerbahçe vs Eyüpspor",
+                "startTime": "2026/05/17 17:00:00 +0000",
+                "endTime": "2026/05/17 19:00:00 +0000"
             },
             "streams": [
                 {
-                    "Channel_Name": "beIN ENGLISH",
-                    "drm_key": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
-                    "stream_url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd"
-                },
-                {
-                    "Channel_Name": "PREMIER SPORTS",
-                    "drm_key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
-                    "stream_url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd"
-                },
-                {
-                    "Channel_Name": "CBS SPORTS HD",
+                    "Channel_Name": "beIN SPORTS HD",
                     "drm_key": "",
-                    "stream_url": "https://livecdn-tc-iptv.rumsport10.live/live_abr/274860/chunks.m3u8?is_vip=false&token=1779108856-Kv4cPTAAP5YTi-2223516ee6861d31f8b0239a4aaf0e07a93fd97b-f342a2ef062d47dd55e2c1f2d4422ed3"
+                    "stream_url": "https://zomis.zempovlantis.online/premium63/tracks-v1a1/mono.m3u8|Referer=https://donis.jimpenopisonline.online/"
+                }
+            ]
+        },
+        {
+            "status": "ENDED",
+            "id": "447",
+            "event_name": "Kasımpaşa vs Galatasaray",
+            "eventInfo": {
+                "teamA": "Kasımpaşa",
+                "teamB": "Galatasaray",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/6063/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3061/image",
+                "eventName": "Kasımpaşa vs Galatasaray",
+                "startTime": "2026/05/17 17:00:00 +0000",
+                "endTime": "2026/05/17 19:00:00 +0000"
+            },
+            "streams": [
+                {
+                    "Channel_Name": "beIN SPORTS US",
+                    "drm_key": "",
+                    "stream_url": "https://zomis.zempovlantis.online/premium425/tracks-v1a1/mono.m3u8|Referer=https://donis.jimpenopisonline.online/"
+                },
+                {
+                    "Channel_Name": "beIN SPORTS HD",
+                    "drm_key": "",
+                    "stream_url": "https://zomis.zempovlantis.online/premium62/tracks-v1a1/mono.m3u8|Referer=https://donis.jimpenopisonline.online/"
                 }
             ]
         },
@@ -2056,6 +1602,32 @@
                     "Channel_Name": "Laliga Hypermotion ES",
                     "drm_key": "d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30",
                     "stream_url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd"
+                }
+            ]
+        },
+        {
+            "status": "ENDED",
+            "id": "451",
+            "event_name": "Rays vs Miami Marlins",
+            "eventInfo": {
+                "teamA": "Rays",
+                "teamB": "Marlins",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3653/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3639/image",
+                "eventName": "Tampa Bay Rays vs Miami Marlins",
+                "startTime": "2026/05/17 16:15:00 +0000",
+                "endTime": "2026/05/17 19:15:00 +0000"
+            },
+            "streams": [
+                {
+                    "Channel_Name": "SportzX MLB",
+                    "drm_key": "",
+                    "stream_url": "https://chatgpt.hereisman.net/playlist/50748/load-playlist?|Referer=https://gooz.aapmains.net"
+                },
+                {
+                    "Channel_Name": "SportzX Live",
+                    "drm_key": "",
+                    "stream_url": "https://mainstreams.pro/hls/dazhfiach15.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
                 }
             ]
         }
