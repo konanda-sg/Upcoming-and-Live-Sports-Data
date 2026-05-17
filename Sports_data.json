@@ -2,27 +2,32 @@
     "name": "Live and Upcoming Sports Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "09:47:33 PM 17-05-2026",
-    "total_matches": 38,
+    "last_update_time": "10:45:06 PM 17-05-2026",
+    "total_matches": 37,
     "matches": [
         {
             "status": "LIVE",
-            "id": "395",
-            "event_name": "Arizona Diamondbacks",
+            "id": "378",
+            "event_name": "Indiana Fever vs Seattle Storm",
             "eventInfo": {
-                "teamA": "Rockies",
-                "teamB": "Diamondbacks",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3628/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3640/image",
-                "eventName": "Colorado Rockies vs Arizona Diamondbacks",
-                "startTime": "2026/05/17 19:10:00 +0000",
-                "endTime": "2026/05/17 22:10:00 +0000"
+                "teamA": "Fever",
+                "teamB": "Storm",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3452/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3448/image",
+                "eventName": "Indiana Fever vs Seattle Storm",
+                "startTime": "2026/05/17 22:00:00 +0000",
+                "endTime": "2026/05/18 00:30:00 +0000"
             },
             "streams": [
                 {
+                    "Channel_Name": "SportzX WNBA",
+                    "drm_key": "",
+                    "stream_url": "https://chatgpt.hereisman.net/playlist/50799/load-playlist?|Referer=https://gooz.aapmains.net"
+                },
+                {
                     "Channel_Name": "SportzX Live",
                     "drm_key": "",
-                    "stream_url": "https://mainstreams.pro/hls/dzjhkfazbka26.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
+                    "stream_url": "https://mainstreams.pro/hls/ztyarueaghj71.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
                 }
             ]
         },
@@ -107,6 +112,63 @@
                     "Channel_Name": "PREMIERER BR",
                     "drm_key": "9dc40460c93087aea84d6315f08ecb64:f69c8d4624fddff4ca89bd0b31bdc4a7",
                     "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "id": "443",
+            "event_name": "Athletico vs Flamengo",
+            "eventInfo": {
+                "teamA": "Athletico",
+                "teamB": "Flamengo",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1967/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/5981/image",
+                "eventName": "Athletico vs Flamengo",
+                "startTime": "2026/05/17 22:30:00 +0000",
+                "endTime": "2026/05/18 00:30:00 +0000"
+            },
+            "streams": [
+                {
+                    "Channel_Name": "PREMIERER BR",
+                    "drm_key": "e23365c2ad97870c871712b73f0d6195:58709c714320bb862dbd07270df81c94",
+                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tirjor64kh/out/v1/fd2ed9916d994f09a3bd62b64141b9cb/cenc.mpd"
+                },
+                {
+                    "Channel_Name": "SporTV BR",
+                    "drm_key": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
+                    "stream_url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd"
+                },
+                {
+                    "Channel_Name": "SportDigital Fussball",
+                    "drm_key": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
+                    "stream_url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "id": "461",
+            "event_name": "Inter Miami vs Portland Timbers",
+            "eventInfo": {
+                "teamA": "Inter Miami",
+                "teamB": "Portland",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/337602/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/22007/image",
+                "eventName": "Inter Miami vs Portland Timbers",
+                "startTime": "2026/05/17 22:00:00 +0000",
+                "endTime": "2026/05/18 00:00:00 +0000"
+            },
+            "streams": [
+                {
+                    "Channel_Name": "APPLE TV+ HD",
+                    "drm_key": "",
+                    "stream_url": "https://chatgpt.hereisman.net/playlist/50798/load-playlist?|Referer=https://gooz.aapmains.net"
+                },
+                {
+                    "Channel_Name": "MLS PASS HD",
+                    "drm_key": "",
+                    "stream_url": "https://bobis.zaglemplokis.online/premium59/tracks-v1a1/mono.m3u8|Referer=https://donis.jimpenopisonline.online/"
                 }
             ]
         },
@@ -434,32 +496,6 @@
         },
         {
             "status": "UPCOMING",
-            "id": "378",
-            "event_name": "Indiana Fever vs Seattle Storm",
-            "eventInfo": {
-                "teamA": "Fever",
-                "teamB": "Storm",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3452/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3448/image",
-                "eventName": "Indiana Fever vs Seattle Storm",
-                "startTime": "2026/05/17 22:00:00 +0000",
-                "endTime": "2026/05/18 00:30:00 +0000"
-            },
-            "streams": [
-                {
-                    "Channel_Name": "SportzX WNBA",
-                    "drm_key": "",
-                    "stream_url": "https://chatgpt.hereisman.net/playlist/50799/load-playlist?|Referer=https://gooz.aapmains.net"
-                },
-                {
-                    "Channel_Name": "SportzX Live",
-                    "drm_key": "",
-                    "stream_url": "https://mainstreams.pro/hls/ztyarueaghj71.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
-                }
-            ]
-        },
-        {
-            "status": "UPCOMING",
             "id": "379",
             "event_name": "Minnesota Lynx vs Chicago Sky",
             "eventInfo": {
@@ -544,63 +580,6 @@
                     "Channel_Name": "TUDN MX HD",
                     "drm_key": "",
                     "stream_url": "https://rolis.drompakisdoulesonline.online/premium935/tracks-v1a1/mono.m3u8|Referer=https://donis.jimpenopisonline.online/"
-                }
-            ]
-        },
-        {
-            "status": "UPCOMING",
-            "id": "443",
-            "event_name": "Athletico vs Flamengo",
-            "eventInfo": {
-                "teamA": "Athletico",
-                "teamB": "Flamengo",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/1967/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/5981/image",
-                "eventName": "Athletico vs Flamengo",
-                "startTime": "2026/05/17 22:30:00 +0000",
-                "endTime": "2026/05/18 00:30:00 +0000"
-            },
-            "streams": [
-                {
-                    "Channel_Name": "PREMIERER BR",
-                    "drm_key": "e23365c2ad97870c871712b73f0d6195:58709c714320bb862dbd07270df81c94",
-                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tirjor64kh/out/v1/fd2ed9916d994f09a3bd62b64141b9cb/cenc.mpd"
-                },
-                {
-                    "Channel_Name": "SporTV BR",
-                    "drm_key": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
-                    "stream_url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd"
-                },
-                {
-                    "Channel_Name": "SportDigital Fussball",
-                    "drm_key": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8",
-                    "stream_url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd"
-                }
-            ]
-        },
-        {
-            "status": "UPCOMING",
-            "id": "461",
-            "event_name": "Inter Miami vs Portland Timbers",
-            "eventInfo": {
-                "teamA": "Inter Miami",
-                "teamB": "Portland",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/337602/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/22007/image",
-                "eventName": "Inter Miami vs Portland Timbers",
-                "startTime": "2026/05/17 22:00:00 +0000",
-                "endTime": "2026/05/18 00:00:00 +0000"
-            },
-            "streams": [
-                {
-                    "Channel_Name": "APPLE TV+ HD",
-                    "drm_key": "",
-                    "stream_url": "https://chatgpt.hereisman.net/playlist/50798/load-playlist?|Referer=https://gooz.aapmains.net"
-                },
-                {
-                    "Channel_Name": "MLS PASS HD",
-                    "drm_key": "",
-                    "stream_url": "https://bobis.zaglemplokis.online/premium59/tracks-v1a1/mono.m3u8|Referer=https://donis.jimpenopisonline.online/"
                 }
             ]
         },
@@ -789,22 +768,22 @@
         },
         {
             "status": "ENDED",
-            "id": "394",
-            "event_name": "Kansas City Royals",
+            "id": "395",
+            "event_name": "Arizona Diamondbacks",
             "eventInfo": {
-                "teamA": "Cardinals",
-                "teamB": "Royals",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3632/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3651/image",
-                "eventName": "Cardinals vs Kansas City Royals",
-                "startTime": "2026/05/17 18:15:00 +0000",
-                "endTime": "2026/05/17 21:15:00 +0000"
+                "teamA": "Rockies",
+                "teamB": "Diamondbacks",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3628/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3640/image",
+                "eventName": "Colorado Rockies vs Arizona Diamondbacks",
+                "startTime": "2026/05/17 19:10:00 +0000",
+                "endTime": "2026/05/17 22:10:00 +0000"
             },
             "streams": [
                 {
                     "Channel_Name": "SportzX Live",
                     "drm_key": "",
-                    "stream_url": "https://mainstreams.pro/hls/kjhfzua25.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
+                    "stream_url": "https://mainstreams.pro/hls/dzjhkfazbka26.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
                 }
             ]
         },
