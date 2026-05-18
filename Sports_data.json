@@ -2,62 +2,92 @@
     "name": "Live and Upcoming Sports Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "11:01:02 AM 18-05-2026",
-    "total_matches": 11,
+    "last_update_time": "02:57:44 PM 18-05-2026",
+    "total_matches": 26,
     "matches": [
         {
             "status": "LIVE",
-            "id": "355",
-            "event_name": "Bangladesh vs Pakistan",
+            "id": "366",
+            "event_name": "IPL - 01",
             "eventInfo": {
-                "teamA": "BAN",
-                "teamB": "PAK",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/187744/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/187754/image",
-                "eventName": "Bangladesh vs Pakistan",
-                "startTime": "2026/05/18 04:00:00 +0000",
-                "endTime": "2026/05/18 11:45:00 +0000"
+                "teamA": "CSK",
+                "teamB": "SRH",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/187777/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/187844/image",
+                "eventName": "Chennai Super Kings vs Sunrisers Hyderabad",
+                "startTime": "2026/05/18 14:00:00 +0000",
+                "endTime": "2026/05/18 18:00:00 +0000"
             },
             "streams": [
                 {
-                    "Channel_Name": "Willow FHD AQ",
-                    "drm_key": "22d23cc5d8ee5dc11868ea5371387454:be261cc3350661a698f0267c4562429c",
-                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ehmlupq7wp/out/v1/cc2ef48039df4338ba504cfd37deef88/cenc.mpd"
+                    "Channel_Name": "PRIME VIDEO",
+                    "drm_key": "470a5bda0ae8965c3ab4004c302bc1c8:b04888df6ed570c9435b97471504bd9b",
+                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ptptpteoh7/out/v1/564bb083afea4561a5a60c4447258379/cenc.mpd"
                 },
                 {
-                    "Channel_Name": "SKY SPORTS FHD",
-                    "drm_key": "708a98b352bd4418a73a028edd84da8f:b1fa5c2bca4c4b57b924b748564532cb",
-                    "stream_url": "https://dice-live-oc.akamaized.net/hdntl=exp=1779158077~acl=%2F*~id=49805124-7de7-433c-b410-bcc0164e59f4~data=hdntl,aXA9NTIuMTU0LjE5LjIyNSZleHA9MTc3OTA3MTcwNyZlaWQ9OTM2NTc2Jm9pZD0xNTQmdHlwZT1WT0QmdWlkPXZ1Q1Jtenw0ZWJlNjg1ZC1mZGY0LTQ1YWItODlhOS1kZDVjNzQ3YTQzZjAmY2lkPWRjZS5maXNmZWQmcHQ9bnVsbA~hmac=335907a80e190b660c61c6c4b158c55ade2bd1e8894bcaa419ae45efa9b22329/dash/live/2093715/219027-321028/manifest-d.mpd"
+                    "Channel_Name": "WILLOW [Ad Free]",
+                    "drm_key": "2d0646dd8a8c511de3b2485071705038:1ddbda2f121875fd43dcd758497cbf82",
+                    "stream_url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/enc/7j8yftutgs/out/v1/8a40608178f045839a1c0c0a055d6a90/cenc.mpd"
                 },
                 {
-                    "Channel_Name": "PREMIER SPORTS",
-                    "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
-                    "stream_url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd"
+                    "Channel_Name": "PRIME HINDI",
+                    "drm_key": "9909e33838e1152cc512c4636f513f8f:02f67060c94bcc3307280f505ad508ab",
+                    "stream_url": "https://otte.cache.aiv-cdn.net/fra-nitro/live/clients/dash/enc/nn1qrdjaha/out/v1/bc4fa7d9cebf47858bebf14ad589025e/cenc.mpd"
                 },
                 {
-                    "Channel_Name": "FANCODE FHD",
-                    "drm_key": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
-                    "stream_url": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd"
-                },
-                {
-                    "Channel_Name": "FANCODE - SD",
-                    "drm_key": "709c812e1b4174002605df1d17d34a4c:0bbee6c9c20a0f065bf8369d54cbf83e",
-                    "stream_url": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd"
-                },
-                {
-                    "Channel_Name": "TAPMAD [BD]",
+                    "Channel_Name": "SKY SPORTS - AQ",
                     "drm_key": "",
-                    "stream_url": "https://cdn16lhr.tamashaweb.com:8087/jazzauth/PAKvsBANTS-2026-ABR/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS84LzIwMjYgMzo1OTowMCBBTSZoYXNoX3ZhbHVlPUlBd1BtNCtKZmZQd1FvY3BhdU9LOEE9PSZ2YWxpZG1pbnV0ZXM9NjA%3D"
+                    "stream_url": "https://bl.rutube.ru/livestream/9585fdae92af45f113fdcc9f6c4ba442/index.m3u8?s=KgZtccuHrnaljGaN7cmUwA&e=2068506973&scheme=https"
                 },
                 {
-                    "Channel_Name": "FANCODE [BD]",
+                    "Channel_Name": "PTV Sports",
                     "drm_key": "",
-                    "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/142161_english_hls_e85dce235974353_1ta-di_h264/index.m3u8"
+                    "stream_url": "https://customer-jfpjrgh1mi5y63cd.cloudflarestream.com/57c9fd581995339676bb330a024502e2/manifest/stream_t9e72c8d63ef150818cea65aca509f8bd_r1479738631.m3u8?llhlsHBs=0.9"
                 },
                 {
-                    "Channel_Name": "TOFFEE [BD]",
+                    "Channel_Name": "S©portzX Live",
                     "drm_key": "",
-                    "stream_url": "https://mprod-cdn.toffeelive.com/live/bdvsnz26/index.m3u8|cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20:Expires=1779035383:KeyName=prod_live_events:Signature=Kr38dsw0IGXIXhtxxMxkUXhl9FzcqFvi3Lw_j7JqClJ6qJsyk2O2TfK9KOYiP2sfkvsHbIQguB3XlLQ0Gro4DQ"
+                    "stream_url": "https://sfsfs.valverdeae7.workers.dev/live.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0&Referer=https://matcheslinkz.pages.dev/&origin=https://matcheslinkz.pages.dev"
+                },
+                {
+                    "Channel_Name": "JIO HOTSTAR",
+                    "drm_key": "",
+                    "stream_url": "https://live-pull.aisports.mobi/moviebox/device01/playlist.m3u8|Referer=https://sportslivenow.top/"
+                },
+                {
+                    "Channel_Name": "WILLOW HD",
+                    "drm_key": "",
+                    "stream_url": "https://cdn16348712.blazingcdn.net/dx14fhd/index.m3u8|Referer=https://yahoo.com/&Origin=https://yahoo.com&User-Agent=AppleCoreMedia/1.0.0.23D5103d (iPhone; U; CPU OS 26_3 like Mac OS X; en_us)"
+                },
+                {
+                    "Channel_Name": "Star Sports [HIN]",
+                    "drm_key": "",
+                    "stream_url": "http://103.229.254.25:7001/play/a0a0/index.m3u8"
+                },
+                {
+                    "Channel_Name": "STAR ENG - IN",
+                    "drm_key": "",
+                    "stream_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/output/index.mpd?__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343|drmScheme=com.clearkey.alpha&drmLicense=965dc2ddb1d85138ad787999a7f30ca5:859695076e67fe961836b564db6d689c|user-agent=JioTV.Plus/2.1.9_2027 (Linux;Android 13) AndroidXMedia3/1.4.0&cookie=__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343"
+                },
+                {
+                    "Channel_Name": "STAR HIN - IN",
+                    "drm_key": "",
+                    "stream_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/output/index.mpd?__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343|drmScheme=com.clearkey.alpha&drmLicense=400131994b445d8c8817202248760fda:2d56cb6f07a75b9aff165d534ae2bfc4|user-agent=JioTV.Plus/2.1.9_2027 (Linux;Android 13) AndroidXMedia3/1.4.0&cookie=__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343"
+                },
+                {
+                    "Channel_Name": "STAR TAM - IN",
+                    "drm_key": "",
+                    "stream_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Tamil_HD_BTS/output/index.mpd?__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343|drmScheme=com.clearkey.alpha&drmLicense=2272c0bc6b2e5cb090b1f55996e0026c:943923934de1d5536ab01c67fca8b337|user-agent=JioTV.Plus/2.1.9_2027 (Linux;Android 13) AndroidXMedia3/1.4.0&cookie=__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343"
+                },
+                {
+                    "Channel_Name": "STAR TEL - IN",
+                    "drm_key": "",
+                    "stream_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/index.mpd?__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343|drmScheme=com.clearkey.alpha&drmLicense=49e84b9edfd85379b90c81b7d2d3d2bf:19c82d3ff094fa06af95820a1572ecb5|user-agent=JioTV.Plus/2.1.9_2027 (Linux;Android 13) AndroidXMedia3/1.4.0&cookie=__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343"
+                },
+                {
+                    "Channel_Name": "STAR KAN - IN",
+                    "drm_key": "",
+                    "stream_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Kannada_BTS/output/index.mpd?__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343|drmScheme=com.clearkey.alpha&drmLicense=9a6d058fa40b5460a946178900eb44cb:791d7444110cec32d731ca0c33ac6c15|user-agent=JioTV.Plus/2.1.9_2027 (Linux;Android 13) AndroidXMedia3/1.4.0&cookie=__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343"
                 }
             ]
         },
@@ -405,87 +435,208 @@
         },
         {
             "status": "UPCOMING",
-            "id": "366",
-            "event_name": "IPL - 01",
+            "id": "355",
+            "event_name": "Bangladesh vs Pakistan",
             "eventInfo": {
-                "teamA": "CSK",
-                "teamB": "SRH",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/187777/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/187844/image",
-                "eventName": "Chennai Super Kings vs Sunrisers Hyderabad",
-                "startTime": "2026/05/18 14:00:00 +0000",
-                "endTime": "2026/05/18 18:00:00 +0000"
+                "teamA": "BAN",
+                "teamB": "PAK",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/187744/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/187754/image",
+                "eventName": "Bangladesh vs Pakistan",
+                "startTime": "2026/05/19 04:00:00 +0000",
+                "endTime": "2026/05/19 11:45:00 +0000"
             },
             "streams": [
                 {
-                    "Channel_Name": "PRIME VIDEO",
-                    "drm_key": "470a5bda0ae8965c3ab4004c302bc1c8:b04888df6ed570c9435b97471504bd9b",
-                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ptptpteoh7/out/v1/564bb083afea4561a5a60c4447258379/cenc.mpd"
+                    "Channel_Name": "Willow FHD AQ",
+                    "drm_key": "22d23cc5d8ee5dc11868ea5371387454:be261cc3350661a698f0267c4562429c",
+                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ehmlupq7wp/out/v1/cc2ef48039df4338ba504cfd37deef88/cenc.mpd"
                 },
                 {
-                    "Channel_Name": "WILLOW [Ad Free]",
-                    "drm_key": "2d0646dd8a8c511de3b2485071705038:1ddbda2f121875fd43dcd758497cbf82",
-                    "stream_url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/enc/7j8yftutgs/out/v1/8a40608178f045839a1c0c0a055d6a90/cenc.mpd"
+                    "Channel_Name": "SKY SPORTS FHD",
+                    "drm_key": "708a98b352bd4418a73a028edd84da8f:b1fa5c2bca4c4b57b924b748564532cb",
+                    "stream_url": "https://dice-live-oc.akamaized.net/hdntl=exp=1779158077~acl=%2F*~id=49805124-7de7-433c-b410-bcc0164e59f4~data=hdntl,aXA9NTIuMTU0LjE5LjIyNSZleHA9MTc3OTA3MTcwNyZlaWQ9OTM2NTc2Jm9pZD0xNTQmdHlwZT1WT0QmdWlkPXZ1Q1Jtenw0ZWJlNjg1ZC1mZGY0LTQ1YWItODlhOS1kZDVjNzQ3YTQzZjAmY2lkPWRjZS5maXNmZWQmcHQ9bnVsbA~hmac=335907a80e190b660c61c6c4b158c55ade2bd1e8894bcaa419ae45efa9b22329/dash/live/2093715/219027-321028/manifest-d.mpd"
                 },
                 {
-                    "Channel_Name": "PRIME HINDI",
-                    "drm_key": "9909e33838e1152cc512c4636f513f8f:02f67060c94bcc3307280f505ad508ab",
-                    "stream_url": "https://otte.cache.aiv-cdn.net/fra-nitro/live/clients/dash/enc/nn1qrdjaha/out/v1/bc4fa7d9cebf47858bebf14ad589025e/cenc.mpd"
+                    "Channel_Name": "PREMIER SPORTS",
+                    "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
+                    "stream_url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd"
                 },
                 {
-                    "Channel_Name": "SKY SPORTS - AQ",
+                    "Channel_Name": "FANCODE FHD",
+                    "drm_key": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
+                    "stream_url": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd"
+                },
+                {
+                    "Channel_Name": "FANCODE - SD",
+                    "drm_key": "709c812e1b4174002605df1d17d34a4c:0bbee6c9c20a0f065bf8369d54cbf83e",
+                    "stream_url": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd"
+                },
+                {
+                    "Channel_Name": "TAPMAD [BD]",
                     "drm_key": "",
-                    "stream_url": "https://bl.rutube.ru/livestream/9585fdae92af45f113fdcc9f6c4ba442/index.m3u8?s=KgZtccuHrnaljGaN7cmUwA&e=2068506973&scheme=https"
+                    "stream_url": "https://cdn16lhr.tamashaweb.com:8087/jazzauth/PAKvsBANTS-2026-ABR/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS84LzIwMjYgMzo1OTowMCBBTSZoYXNoX3ZhbHVlPUlBd1BtNCtKZmZQd1FvY3BhdU9LOEE9PSZ2YWxpZG1pbnV0ZXM9NjA%3D"
                 },
                 {
-                    "Channel_Name": "PTV Sports",
+                    "Channel_Name": "FANCODE [BD]",
                     "drm_key": "",
-                    "stream_url": "https://customer-jfpjrgh1mi5y63cd.cloudflarestream.com/57c9fd581995339676bb330a024502e2/manifest/stream_t9e72c8d63ef150818cea65aca509f8bd_r1479738631.m3u8?llhlsHBs=0.9"
+                    "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/142161_english_hls_e85dce235974353_1ta-di_h264/index.m3u8"
                 },
                 {
-                    "Channel_Name": "S©portzX Live",
+                    "Channel_Name": "TOFFEE [BD]",
                     "drm_key": "",
-                    "stream_url": "https://sfsfs.valverdeae7.workers.dev/live.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0&Referer=https://matcheslinkz.pages.dev/&origin=https://matcheslinkz.pages.dev"
+                    "stream_url": "https://mprod-cdn.toffeelive.com/live/bdvsnz26/index.m3u8|cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20:Expires=1779035383:KeyName=prod_live_events:Signature=Kr38dsw0IGXIXhtxxMxkUXhl9FzcqFvi3Lw_j7JqClJ6qJsyk2O2TfK9KOYiP2sfkvsHbIQguB3XlLQ0Gro4DQ"
+                }
+            ]
+        },
+        {
+            "status": "UPCOMING",
+            "id": "373",
+            "event_name": "Oklahoma City Thunder",
+            "eventInfo": {
+                "teamA": "Thunder",
+                "teamB": "Spurs",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3418/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3429/image",
+                "eventName": "Oklahoma City Thunder vs San Antonio Spurs",
+                "startTime": "2026/05/19 00:30:00 +0000",
+                "endTime": "2026/05/19 03:30:00 +0000"
+            },
+            "streams": [
+                {
+                    "Channel_Name": "TSN SPORTS FHD",
+                    "drm_key": "c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003",
+                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd"
                 },
                 {
-                    "Channel_Name": "JIO HOTSTAR",
-                    "drm_key": "",
-                    "stream_url": "https://live-pull.aisports.mobi/moviebox/device01/playlist.m3u8|Referer=https://sportslivenow.top/"
+                    "Channel_Name": "TSN SPORTS HD",
+                    "drm_key": "e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689",
+                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd"
                 },
                 {
-                    "Channel_Name": "WILLOW HD",
+                    "Channel_Name": "SportzX Live",
                     "drm_key": "",
-                    "stream_url": "https://cdn16348712.blazingcdn.net/dx14fhd/index.m3u8|Referer=https://yahoo.com/&Origin=https://yahoo.com&User-Agent=AppleCoreMedia/1.0.0.23D5103d (iPhone; U; CPU OS 26_3 like Mac OS X; en_us)"
+                    "stream_url": "https://mainstreams.pro/hls/mlkijfezag65.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
                 },
                 {
-                    "Channel_Name": "Star Sports [HIN]",
+                    "Channel_Name": "HD SERVER",
                     "drm_key": "",
-                    "stream_url": "http://103.229.254.25:7001/play/a0a0/index.m3u8"
+                    "stream_url": "https://instreams.pro/US/NBA1/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click"
+                }
+            ]
+        },
+        {
+            "status": "UPCOMING",
+            "id": "377",
+            "event_name": "Dallas Wings vs Washington Mystics",
+            "eventInfo": {
+                "teamA": "Wings",
+                "teamB": "Mystics",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3450/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3454/image",
+                "eventName": "Dallas Wings vs Washington Mystics",
+                "startTime": "2026/05/19 00:00:00 +0000",
+                "endTime": "2026/05/19 02:30:00 +0000"
+            },
+            "streams": [
+                {
+                    "Channel_Name": "SportzX WNBA",
+                    "drm_key": "",
+                    "stream_url": "https://chatgpt.hereisman.net/playlist/50765/load-playlist?|Referer=https://gooz.aapmains.net"
                 },
                 {
-                    "Channel_Name": "STAR ENG - IN",
+                    "Channel_Name": "SportzX Live",
                     "drm_key": "",
-                    "stream_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/output/index.mpd?__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343|drmScheme=com.clearkey.alpha&drmLicense=965dc2ddb1d85138ad787999a7f30ca5:859695076e67fe961836b564db6d689c|user-agent=JioTV.Plus/2.1.9_2027 (Linux;Android 13) AndroidXMedia3/1.4.0&cookie=__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343"
+                    "stream_url": "https://mainstreams.pro/hls/bvnsqdfvgha70.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+                }
+            ]
+        },
+        {
+            "status": "UPCOMING",
+            "id": "378",
+            "event_name": "Portland Fire vs Connecticut Sun",
+            "eventInfo": {
+                "teamA": "Fire",
+                "teamB": "Connecticut",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1166446/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/35547/image",
+                "eventName": "Portland Fire vs Connecticut Sun",
+                "startTime": "2026/05/19 02:00:00 +0000",
+                "endTime": "2026/05/19 04:30:00 +0000"
+            },
+            "streams": [
+                {
+                    "Channel_Name": "SportzX WNBA",
+                    "drm_key": "",
+                    "stream_url": "https://chatgpt.hereisman.net/playlist/50799/load-playlist?|Referer=https://gooz.aapmains.net"
                 },
                 {
-                    "Channel_Name": "STAR HIN - IN",
+                    "Channel_Name": "SportzX Live",
                     "drm_key": "",
-                    "stream_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/output/index.mpd?__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343|drmScheme=com.clearkey.alpha&drmLicense=400131994b445d8c8817202248760fda:2d56cb6f07a75b9aff165d534ae2bfc4|user-agent=JioTV.Plus/2.1.9_2027 (Linux;Android 13) AndroidXMedia3/1.4.0&cookie=__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343"
-                },
+                    "stream_url": "https://mainstreams.pro/hls/ztyarueaghj71.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+                }
+            ]
+        },
+        {
+            "status": "UPCOMING",
+            "id": "394",
+            "event_name": "Colorado Rockies",
+            "eventInfo": {
+                "teamA": "Rockies",
+                "teamB": "Rangers",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3628/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3647/image",
+                "eventName": "Colorado Rockies vs Texas Rangers",
+                "startTime": "2026/05/19 00:40:00 +0000",
+                "endTime": "2026/05/19 03:40:00 +0000"
+            },
+            "streams": [
                 {
-                    "Channel_Name": "STAR TAM - IN",
+                    "Channel_Name": "SportzX Live",
                     "drm_key": "",
-                    "stream_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Tamil_HD_BTS/output/index.mpd?__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343|drmScheme=com.clearkey.alpha&drmLicense=2272c0bc6b2e5cb090b1f55996e0026c:943923934de1d5536ab01c67fca8b337|user-agent=JioTV.Plus/2.1.9_2027 (Linux;Android 13) AndroidXMedia3/1.4.0&cookie=__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343"
-                },
+                    "stream_url": "https://mainstreams.pro/hls/fskjanach24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
+                }
+            ]
+        },
+        {
+            "status": "UPCOMING",
+            "id": "395",
+            "event_name": "Arizona Diamondbacks",
+            "eventInfo": {
+                "teamA": "Diamondbacks",
+                "teamB": "Giants",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3640/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3634/image",
+                "eventName": "Arizona Diamondbacks vs Giants",
+                "startTime": "2026/05/19 01:40:00 +0000",
+                "endTime": "2026/05/19 04:40:00 +0000"
+            },
+            "streams": [
                 {
-                    "Channel_Name": "STAR TEL - IN",
+                    "Channel_Name": "SportzX Live",
                     "drm_key": "",
-                    "stream_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/index.mpd?__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343|drmScheme=com.clearkey.alpha&drmLicense=49e84b9edfd85379b90c81b7d2d3d2bf:19c82d3ff094fa06af95820a1572ecb5|user-agent=JioTV.Plus/2.1.9_2027 (Linux;Android 13) AndroidXMedia3/1.4.0&cookie=__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343"
-                },
+                    "stream_url": "https://mainstreams.pro/hls/hefbafbakx28.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
+                }
+            ]
+        },
+        {
+            "status": "UPCOMING",
+            "id": "397",
+            "event_name": "Athletics",
+            "eventInfo": {
+                "teamA": "Angels",
+                "teamB": "Athletics",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/5929/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3645/image",
+                "eventName": "Los Angeles Angels vs Athletics",
+                "startTime": "2026/05/19 01:38:00 +0000",
+                "endTime": "2026/05/19 04:38:00 +0000"
+            },
+            "streams": [
                 {
-                    "Channel_Name": "STAR KAN - IN",
+                    "Channel_Name": "SportzX Live",
                     "drm_key": "",
-                    "stream_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Kannada_BTS/output/index.mpd?__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343|drmScheme=com.clearkey.alpha&drmLicense=9a6d058fa40b5460a946178900eb44cb:791d7444110cec32d731ca0c33ac6c15|user-agent=JioTV.Plus/2.1.9_2027 (Linux;Android 13) AndroidXMedia3/1.4.0&cookie=__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343"
+                    "stream_url": "https://mainstreams.pro/hls/kjhfzua25.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
                 }
             ]
         },
@@ -538,6 +689,195 @@
                     "Channel_Name": "Laliga Hypermotion ES",
                     "drm_key": "d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30",
                     "stream_url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd"
+                }
+            ]
+        },
+        {
+            "status": "UPCOMING",
+            "id": "402",
+            "event_name": "Tigers vs Cleveland Guardians",
+            "eventInfo": {
+                "teamA": "Tigers",
+                "teamB": "Guardians",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3648/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3650/image",
+                "eventName": "Detroit Tigers vs Cleveland Guardians",
+                "startTime": "2026/05/18 22:40:00 +0000",
+                "endTime": "2026/05/19 01:40:00 +0000"
+            },
+            "streams": [
+                {
+                    "Channel_Name": "SportzX Live",
+                    "drm_key": "",
+                    "stream_url": "https://mainstreams.pro/hls/Czajafjihafch18.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
+                }
+            ]
+        },
+        {
+            "status": "UPCOMING",
+            "id": "403",
+            "event_name": "Miami Marlins vs Atlanta Braves",
+            "eventInfo": {
+                "teamA": "Marlins",
+                "teamB": "Braves",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3639/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3656/image",
+                "eventName": "Miami Marlins vs Atlanta Braves",
+                "startTime": "2026/05/18 22:40:00 +0000",
+                "endTime": "2026/05/19 01:40:00 +0000"
+            },
+            "streams": [
+                {
+                    "Channel_Name": "SportzX Live",
+                    "drm_key": "",
+                    "stream_url": "https://mainstreams.pro/hls/dazhfiach15.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
+                }
+            ]
+        },
+        {
+            "status": "UPCOMING",
+            "id": "404",
+            "event_name": "Phillies vs Cincinnati Reds",
+            "eventInfo": {
+                "teamA": "Phillies",
+                "teamB": "Reds",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3635/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3633/image",
+                "eventName": "Phillies vs Cincinnati Reds",
+                "startTime": "2026/05/18 22:40:00 +0000",
+                "endTime": "2026/05/19 01:40:00 +0000"
+            },
+            "streams": [
+                {
+                    "Channel_Name": "SportzX Live",
+                    "drm_key": "",
+                    "stream_url": "https://mainstreams.pro/hls/ihfazugfyjcazich17.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
+                }
+            ]
+        },
+        {
+            "status": "UPCOMING",
+            "id": "405",
+            "event_name": "Rays vs Baltimore Orioles",
+            "eventInfo": {
+                "teamA": "Rays",
+                "teamB": "Orioles",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3653/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3652/image",
+                "eventName": "Tampa Bay Rays vs Baltimore Orioles",
+                "startTime": "2026/05/18 22:40:00 +0000",
+                "endTime": "2026/05/19 01:40:00 +0000"
+            },
+            "streams": [
+                {
+                    "Channel_Name": "SportzX Live",
+                    "drm_key": "",
+                    "stream_url": "https://mainstreams.pro/hls/16yuitzaerghbhc16.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
+                }
+            ]
+        },
+        {
+            "status": "UPCOMING",
+            "id": "406",
+            "event_name": "Nationals vs New York Mets",
+            "eventInfo": {
+                "teamA": "Nationals",
+                "teamB": "Mets",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/5930/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3629/image",
+                "eventName": "Nationals vs New York Mets",
+                "startTime": "2026/05/18 22:45:00 +0000",
+                "endTime": "2026/05/19 01:45:00 +0000"
+            },
+            "streams": [
+                {
+                    "Channel_Name": "SportzX Live",
+                    "drm_key": "",
+                    "stream_url": "https://mainstreams.pro/hls/bzagLHzach19.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
+                }
+            ]
+        },
+        {
+            "status": "UPCOMING",
+            "id": "407",
+            "event_name": "Yankees vs Blue Jays",
+            "eventInfo": {
+                "teamA": "Yankees",
+                "teamB": "Blue Jays",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3654/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3642/image",
+                "eventName": "Yankees vs Blue Jays",
+                "startTime": "2026/05/18 23:05:00 +0000",
+                "endTime": "2026/05/19 02:05:00 +0000"
+            },
+            "streams": [
+                {
+                    "Channel_Name": "SportzX Live",
+                    "drm_key": "",
+                    "stream_url": "https://mainstreams.pro/hls/jkzahzadach20.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
+                }
+            ]
+        },
+        {
+            "status": "UPCOMING",
+            "id": "408",
+            "event_name": "Chicago Cubs vs Milwaukee Brewers",
+            "eventInfo": {
+                "teamA": "Cubs",
+                "teamB": "Brewers",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3627/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3630/image",
+                "eventName": "Chicago Cubs vs Milwaukee Brewers",
+                "startTime": "2026/05/18 23:40:00 +0000",
+                "endTime": "2026/05/19 02:40:00 +0000"
+            },
+            "streams": [
+                {
+                    "Channel_Name": "SportzX Live",
+                    "drm_key": "",
+                    "stream_url": "https://mainstreams.pro/hls/jnzkdzjfanch23.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
+                }
+            ]
+        },
+        {
+            "status": "UPCOMING",
+            "id": "409",
+            "event_name": "Royals vs Boston Red Sox",
+            "eventInfo": {
+                "teamA": "Royals",
+                "teamB": "Red Sox",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3651/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3646/image",
+                "eventName": "Royals vs Boston Red Sox",
+                "startTime": "2026/05/18 23:40:00 +0000",
+                "endTime": "2026/05/19 02:40:00 +0000"
+            },
+            "streams": [
+                {
+                    "Channel_Name": "SportzX Live",
+                    "drm_key": "",
+                    "stream_url": "https://mainstreams.pro/hls/ojzkajnach21.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
+                }
+            ]
+        },
+        {
+            "status": "UPCOMING",
+            "id": "410",
+            "event_name": "Minnesota Twins vs Houston Astros",
+            "eventInfo": {
+                "teamA": "Twins",
+                "teamB": "Astros",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3649/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3655/image",
+                "eventName": "Minnesota Twins vs Houston Astros",
+                "startTime": "2026/05/18 23:40:00 +0000",
+                "endTime": "2026/05/19 02:40:00 +0000"
+            },
+            "streams": [
+                {
+                    "Channel_Name": "SportzX Live",
+                    "drm_key": "",
+                    "stream_url": "https://mainstreams.pro/hls/ijfnakfidch22.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
                 }
             ]
         }
