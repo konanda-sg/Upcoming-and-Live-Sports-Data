@@ -2,92 +2,108 @@
     "name": "Live and Upcoming Sports Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "05:29:45 PM 18-05-2026",
+    "last_update_time": "07:28:12 PM 18-05-2026",
     "total_matches": 26,
     "matches": [
         {
             "status": "LIVE",
-            "id": "366",
-            "event_name": "IPL - 01",
+            "id": "400",
+            "event_name": "Arsenal vs Burnley",
             "eventInfo": {
-                "teamA": "CSK",
-                "teamB": "SRH",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/187777/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/187844/image",
-                "eventName": "Chennai Super Kings vs Sunrisers Hyderabad",
-                "startTime": "2026/05/18 14:00:00 +0000",
-                "endTime": "2026/05/18 18:00:00 +0000"
+                "teamA": "Arsenal",
+                "teamB": "Burnley",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/42/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/6/image",
+                "eventName": "Arsenal vs Burnley",
+                "startTime": "2026/05/18 19:00:00 +0000",
+                "endTime": "2026/05/18 21:00:00 +0000"
             },
             "streams": [
                 {
-                    "Channel_Name": "PRIME VIDEO",
-                    "drm_key": "470a5bda0ae8965c3ab4004c302bc1c8:b04888df6ed570c9435b97471504bd9b",
-                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ptptpteoh7/out/v1/564bb083afea4561a5a60c4447258379/cenc.mpd"
+                    "Channel_Name": "FUBO SPORTS - AQ",
+                    "drm_key": "dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f",
+                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd"
                 },
                 {
-                    "Channel_Name": "WILLOW [Ad Free]",
-                    "drm_key": "2d0646dd8a8c511de3b2485071705038:1ddbda2f121875fd43dcd758497cbf82",
-                    "stream_url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/enc/7j8yftutgs/out/v1/8a40608178f045839a1c0c0a055d6a90/cenc.mpd"
+                    "Channel_Name": "SKY SPORTS FHD",
+                    "drm_key": "7a2758575dc04d63acc3573ab594d441:47071dd80de746a38cdc6a4dcde21abc",
+                    "stream_url": "https://dice-live-oc.akamaized.net/hdntl=exp=1779183829~acl=%2f*~id=53b856a2-54ac-440a-8abf-b3e51eb12450~data=hdntl,aXA9NTIuMTkwLjE0MC4xMzMmZXhwPTE3NzkwOTc0NTkmZWlkPTkzNTYyMyZvaWQ9MTU0JnR5cGU9Vk9EJnVpZD1hZGNXWVd8YjYwYWYyOTktMDM5MS00ZDFmLWE2ZDAtZDgyNDRkZmFmMWM5JmNpZD1kY2UuZmlzZmVkJnB0PW51bGw~hmac=d59b3c0ef2ee7d07113ebb9935f72016bcade0b771049f24269b570d70c40fc7/dash/live/2093712/219035-321027/manifest-d.mpd"
                 },
                 {
-                    "Channel_Name": "PRIME HINDI",
-                    "drm_key": "9909e33838e1152cc512c4636f513f8f:02f67060c94bcc3307280f505ad508ab",
-                    "stream_url": "https://otte.cache.aiv-cdn.net/fra-nitro/live/clients/dash/enc/nn1qrdjaha/out/v1/bc4fa7d9cebf47858bebf14ad589025e/cenc.mpd"
+                    "Channel_Name": "NBC UNIVERSO",
+                    "drm_key": "96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f",
+                    "stream_url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd"
                 },
                 {
-                    "Channel_Name": "SKY SPORTS - AQ",
+                    "Channel_Name": "SKY SPORTS DE",
+                    "drm_key": "446af6dd9ec0395eaf5ab6adac2b8234:a70a5944e51312f5a045b1e81651d033",
+                    "stream_url": "https://simplitv-live.mdn.ors.at/live/eds/sky_sport_premier_league_hd/dash/sky_sport_premier_league_hd.mpd"
+                },
+                {
+                    "Channel_Name": "USA TV HD",
                     "drm_key": "",
-                    "stream_url": "https://bl.rutube.ru/livestream/9585fdae92af45f113fdcc9f6c4ba442/index.m3u8?s=KgZtccuHrnaljGaN7cmUwA&e=2068506973&scheme=https"
+                    "stream_url": "https://chatgpt.hereisman.net/playlist/50811/load-playlist?|Referer=https://gooz.aapmains.net"
                 },
                 {
-                    "Channel_Name": "PTV Sports",
+                    "Channel_Name": "USA TV - AQ",
                     "drm_key": "",
-                    "stream_url": "https://customer-jfpjrgh1mi5y63cd.cloudflarestream.com/57c9fd581995339676bb330a024502e2/manifest/stream_t9e72c8d63ef150818cea65aca509f8bd_r1479738631.m3u8?llhlsHBs=0.9"
+                    "stream_url": "https://veronicamxpx.s3.us-east-1.amazonaws.com/btsport.m3u8"
                 },
                 {
-                    "Channel_Name": "S©portzX Live",
+                    "Channel_Name": "MAIN EVENT HD",
                     "drm_key": "",
-                    "stream_url": "https://sfsfs.valverdeae7.workers.dev/live.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0&Referer=https://matcheslinkz.pages.dev/&origin=https://matcheslinkz.pages.dev"
+                    "stream_url": "https://daffodil.heritagebd.shop/main.m3u8"
                 },
                 {
-                    "Channel_Name": "JIO HOTSTAR",
+                    "Channel_Name": "STAR SPORTS HD",
                     "drm_key": "",
-                    "stream_url": "https://live-pull.aisports.mobi/moviebox/device01/playlist.m3u8|Referer=https://sportslivenow.top/"
+                    "stream_url": "https://storage.googleapis.com/poutynggerqsedsa1/mux_video_ts1/index-1.m3u8"
                 },
                 {
-                    "Channel_Name": "WILLOW HD",
+                    "Channel_Name": "HUB PREMIER HD",
                     "drm_key": "",
-                    "stream_url": "https://cdn16348712.blazingcdn.net/dx14fhd/index.m3u8|Referer=https://yahoo.com/&Origin=https://yahoo.com&User-Agent=AppleCoreMedia/1.0.0.23D5103d (iPhone; U; CPU OS 26_3 like Mac OS X; en_us)"
+                    "stream_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/144253/chunks.m3u8?is_vip=false&token=2223516ee6861d31f8b0239a4aaf0e07a93fd97b&x-sign=c516008a5bc4def147a330f9df9140e9&x-time=1779129780"
                 },
                 {
-                    "Channel_Name": "Star Sports [HIN]",
+                    "Channel_Name": "STAN SPORTS HD",
                     "drm_key": "",
-                    "stream_url": "http://103.229.254.25:7001/play/a0a0/index.m3u8"
+                    "stream_url": "https://livecdn-tc-livestream.rumsport10.live/stream/24/chunks.m3u8?is_vip=false&token=1779216263-Kv4cPTAAP5YTi-2223516ee6861d31f8b0239a4aaf0e07a93fd97b-d4df76f4880f313dd439517bd1a76e03"
                 },
                 {
-                    "Channel_Name": "STAR ENG - IN",
+                    "Channel_Name": "FAST SERVER",
                     "drm_key": "",
-                    "stream_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/output/index.mpd?__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343|drmScheme=com.clearkey.alpha&drmLicense=965dc2ddb1d85138ad787999a7f30ca5:859695076e67fe961836b564db6d689c|user-agent=JioTV.Plus/2.1.9_2027 (Linux;Android 13) AndroidXMedia3/1.4.0&cookie=__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343"
+                    "stream_url": "https://play.ltwxsc.com/live/hd-en-6MuT7JxHDhkcQB2GpW.m3u8?txSecret=c0a49599084d9a56e06974c5a2657c91&txTime=6A0B8913"
                 },
                 {
-                    "Channel_Name": "STAR HIN - IN",
+                    "Channel_Name": "beIN SPORTS HD",
                     "drm_key": "",
-                    "stream_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/output/index.mpd?__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343|drmScheme=com.clearkey.alpha&drmLicense=400131994b445d8c8817202248760fda:2d56cb6f07a75b9aff165d534ae2bfc4|user-agent=JioTV.Plus/2.1.9_2027 (Linux;Android 13) AndroidXMedia3/1.4.0&cookie=__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343"
+                    "stream_url": "https://xluiaaaaa.yallaliveshoot.info/hls/ch1/master.m3u8"
                 },
                 {
-                    "Channel_Name": "STAR TAM - IN",
+                    "Channel_Name": "SportzX Live",
                     "drm_key": "",
-                    "stream_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Tamil_HD_BTS/output/index.mpd?__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343|drmScheme=com.clearkey.alpha&drmLicense=2272c0bc6b2e5cb090b1f55996e0026c:943923934de1d5536ab01c67fca8b337|user-agent=JioTV.Plus/2.1.9_2027 (Linux;Android 13) AndroidXMedia3/1.4.0&cookie=__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343"
-                },
+                    "stream_url": "https://pul-tenm.nbs3g.com/live/hd-en-1-4343225.m3u8?txSecret=5c0cd78215ae7ebac872676db2c7fa80&txTime=6A0CB150"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "id": "401",
+            "event_name": "Leganés vs Huesca",
+            "eventInfo": {
+                "teamA": "Leganés",
+                "teamB": "Huesca",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2845/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/24265/image",
+                "eventName": "Leganés vs Huesca",
+                "startTime": "2026/05/18 18:30:00 +0000",
+                "endTime": "2026/05/18 20:30:00 +0000"
+            },
+            "streams": [
                 {
-                    "Channel_Name": "STAR TEL - IN",
-                    "drm_key": "",
-                    "stream_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/index.mpd?__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343|drmScheme=com.clearkey.alpha&drmLicense=49e84b9edfd85379b90c81b7d2d3d2bf:19c82d3ff094fa06af95820a1572ecb5|user-agent=JioTV.Plus/2.1.9_2027 (Linux;Android 13) AndroidXMedia3/1.4.0&cookie=__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343"
-                },
-                {
-                    "Channel_Name": "STAR KAN - IN",
-                    "drm_key": "",
-                    "stream_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Kannada_BTS/output/index.mpd?__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343|drmScheme=com.clearkey.alpha&drmLicense=9a6d058fa40b5460a946178900eb44cb:791d7444110cec32d731ca0c33ac6c15|user-agent=JioTV.Plus/2.1.9_2027 (Linux;Android 13) AndroidXMedia3/1.4.0&cookie=__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343"
+                    "Channel_Name": "Laliga Hypermotion ES",
+                    "drm_key": "d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30",
+                    "stream_url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd"
                 }
             ]
         },
@@ -642,58 +658,6 @@
         },
         {
             "status": "UPCOMING",
-            "id": "400",
-            "event_name": "Arsenal vs Burnley",
-            "eventInfo": {
-                "teamA": "Arsenal",
-                "teamB": "Burnley",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/42/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/6/image",
-                "eventName": "Arsenal vs Burnley",
-                "startTime": "2026/05/18 19:00:00 +0000",
-                "endTime": "2026/05/18 21:00:00 +0000"
-            },
-            "streams": [
-                {
-                    "Channel_Name": "FUBO SPORTS - AQ",
-                    "drm_key": "dc69b6159a0f9f0a4e03b3ff91cbacd5:d0dcbcd7723bc40df0bf34c9c092d51f",
-                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3b7qwiqzk3/out/v1/9f14895badca43e6a716db021dcd0c31/cenc.mpd"
-                },
-                {
-                    "Channel_Name": "SKY SPORTS FHD",
-                    "drm_key": "7a2758575dc04d63acc3573ab594d441:47071dd80de746a38cdc6a4dcde21abc",
-                    "stream_url": "https://dice-live-oc.akamaized.net/hdntl=exp=1779158076~acl=%2F*~id=341cec7b-33c8-4f73-b865-d9643441454b~data=hdntl,aXA9NTIuMTU0LjE5LjIyNSZleHA9MTc3OTA3MTcwNSZlaWQ9OTM5OTYzJm9pZD0xNTQmdHlwZT1WT0QmdWlkPXZ1Q1Jtenw0ZWJlNjg1ZC1mZGY0LTQ1YWItODlhOS1kZDVjNzQ3YTQzZjAmY2lkPWRjZS5maXNmZWQmcHQ9bnVsbA~hmac=625598d228a5556533ef83cc177d554ecc8bd6f48507c930be4c58d510fe5687/dash/live/2093712/219035-321027/manifest-d.mpd"
-                },
-                {
-                    "Channel_Name": "NBC UNIVERSO",
-                    "drm_key": "96b67fa09140329a89b7a1ead134eda3:c618d32c56cdc6cad8330eb98507ca3f",
-                    "stream_url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(universo-east)/master.mpd"
-                }
-            ]
-        },
-        {
-            "status": "UPCOMING",
-            "id": "401",
-            "event_name": "Leganés vs Huesca",
-            "eventInfo": {
-                "teamA": "Leganés",
-                "teamB": "Huesca",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/2845/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/24265/image",
-                "eventName": "Leganés vs Huesca",
-                "startTime": "2026/05/18 18:30:00 +0000",
-                "endTime": "2026/05/18 20:30:00 +0000"
-            },
-            "streams": [
-                {
-                    "Channel_Name": "Laliga Hypermotion ES",
-                    "drm_key": "d69894c7b729c5d1e85893e5e6cfcb0f:db0d53f871f5d2ef91d3a112c7ec9f30",
-                    "stream_url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/tcninbbnt5/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd"
-                }
-            ]
-        },
-        {
-            "status": "UPCOMING",
             "id": "402",
             "event_name": "Tigers vs Cleveland Guardians",
             "eventInfo": {
@@ -878,6 +842,92 @@
                     "Channel_Name": "SportzX Live",
                     "drm_key": "",
                     "stream_url": "https://mainstreams.pro/hls/ijfnakfidch22.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
+                }
+            ]
+        },
+        {
+            "status": "ENDED",
+            "id": "366",
+            "event_name": "IPL - 01",
+            "eventInfo": {
+                "teamA": "CSK",
+                "teamB": "SRH",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/187777/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/187844/image",
+                "eventName": "Chennai Super Kings vs Sunrisers Hyderabad",
+                "startTime": "2026/05/18 14:00:00 +0000",
+                "endTime": "2026/05/18 18:00:00 +0000"
+            },
+            "streams": [
+                {
+                    "Channel_Name": "PRIME VIDEO",
+                    "drm_key": "470a5bda0ae8965c3ab4004c302bc1c8:b04888df6ed570c9435b97471504bd9b",
+                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ptptpteoh7/out/v1/564bb083afea4561a5a60c4447258379/cenc.mpd"
+                },
+                {
+                    "Channel_Name": "WILLOW [Ad Free]",
+                    "drm_key": "2d0646dd8a8c511de3b2485071705038:1ddbda2f121875fd43dcd758497cbf82",
+                    "stream_url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/enc/7j8yftutgs/out/v1/8a40608178f045839a1c0c0a055d6a90/cenc.mpd"
+                },
+                {
+                    "Channel_Name": "PRIME HINDI",
+                    "drm_key": "9909e33838e1152cc512c4636f513f8f:02f67060c94bcc3307280f505ad508ab",
+                    "stream_url": "https://otte.cache.aiv-cdn.net/fra-nitro/live/clients/dash/enc/nn1qrdjaha/out/v1/bc4fa7d9cebf47858bebf14ad589025e/cenc.mpd"
+                },
+                {
+                    "Channel_Name": "SKY SPORTS - AQ",
+                    "drm_key": "",
+                    "stream_url": "https://bl.rutube.ru/livestream/9585fdae92af45f113fdcc9f6c4ba442/index.m3u8?s=KgZtccuHrnaljGaN7cmUwA&e=2068506973&scheme=https"
+                },
+                {
+                    "Channel_Name": "PTV Sports",
+                    "drm_key": "",
+                    "stream_url": "https://customer-jfpjrgh1mi5y63cd.cloudflarestream.com/57c9fd581995339676bb330a024502e2/manifest/stream_t9e72c8d63ef150818cea65aca509f8bd_r1479738631.m3u8?llhlsHBs=0.9"
+                },
+                {
+                    "Channel_Name": "S©portzX Live",
+                    "drm_key": "",
+                    "stream_url": "https://sfsfs.valverdeae7.workers.dev/live.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0&Referer=https://matcheslinkz.pages.dev/&origin=https://matcheslinkz.pages.dev"
+                },
+                {
+                    "Channel_Name": "JIO HOTSTAR",
+                    "drm_key": "",
+                    "stream_url": "https://live-pull.aisports.mobi/moviebox/device01/playlist.m3u8|Referer=https://sportslivenow.top/"
+                },
+                {
+                    "Channel_Name": "WILLOW HD",
+                    "drm_key": "",
+                    "stream_url": "https://cdn16348712.blazingcdn.net/dx14fhd/index.m3u8|Referer=https://yahoo.com/&Origin=https://yahoo.com&User-Agent=AppleCoreMedia/1.0.0.23D5103d (iPhone; U; CPU OS 26_3 like Mac OS X; en_us)"
+                },
+                {
+                    "Channel_Name": "Star Sports [HIN]",
+                    "drm_key": "",
+                    "stream_url": "http://103.229.254.25:7001/play/a0a0/index.m3u8"
+                },
+                {
+                    "Channel_Name": "STAR ENG - IN",
+                    "drm_key": "",
+                    "stream_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/output/index.mpd?__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343|drmScheme=com.clearkey.alpha&drmLicense=965dc2ddb1d85138ad787999a7f30ca5:859695076e67fe961836b564db6d689c|user-agent=JioTV.Plus/2.1.9_2027 (Linux;Android 13) AndroidXMedia3/1.4.0&cookie=__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343"
+                },
+                {
+                    "Channel_Name": "STAR HIN - IN",
+                    "drm_key": "",
+                    "stream_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/output/index.mpd?__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343|drmScheme=com.clearkey.alpha&drmLicense=400131994b445d8c8817202248760fda:2d56cb6f07a75b9aff165d534ae2bfc4|user-agent=JioTV.Plus/2.1.9_2027 (Linux;Android 13) AndroidXMedia3/1.4.0&cookie=__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343"
+                },
+                {
+                    "Channel_Name": "STAR TAM - IN",
+                    "drm_key": "",
+                    "stream_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Tamil_HD_BTS/output/index.mpd?__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343|drmScheme=com.clearkey.alpha&drmLicense=2272c0bc6b2e5cb090b1f55996e0026c:943923934de1d5536ab01c67fca8b337|user-agent=JioTV.Plus/2.1.9_2027 (Linux;Android 13) AndroidXMedia3/1.4.0&cookie=__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343"
+                },
+                {
+                    "Channel_Name": "STAR TEL - IN",
+                    "drm_key": "",
+                    "stream_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/index.mpd?__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343|drmScheme=com.clearkey.alpha&drmLicense=49e84b9edfd85379b90c81b7d2d3d2bf:19c82d3ff094fa06af95820a1572ecb5|user-agent=JioTV.Plus/2.1.9_2027 (Linux;Android 13) AndroidXMedia3/1.4.0&cookie=__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343"
+                },
+                {
+                    "Channel_Name": "STAR KAN - IN",
+                    "drm_key": "",
+                    "stream_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Kannada_BTS/output/index.mpd?__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343|drmScheme=com.clearkey.alpha&drmLicense=9a6d058fa40b5460a946178900eb44cb:791d7444110cec32d731ca0c33ac6c15|user-agent=JioTV.Plus/2.1.9_2027 (Linux;Android 13) AndroidXMedia3/1.4.0&cookie=__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343"
                 }
             ]
         }
