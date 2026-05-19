@@ -2,8 +2,8 @@
     "name": "Live and Upcoming Sports Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "06:56:08 PM 19-05-2026",
-    "total_matches": 30,
+    "last_update_time": "08:27:51 PM 19-05-2026",
+    "total_matches": 35,
     "matches": [
         {
             "status": "LIVE",
@@ -45,6 +45,11 @@
                     "stream_url": "https://chatgpt.hereisman.net/playlist/50849/load-playlist?|Referer=https://gooz.aapmains.net"
                 },
                 {
+                    "Channel_Name": "SKY SPORTS HD",
+                    "drm_key": "",
+                    "stream_url": "https://storage.googleapis.com/unicertyngherfgac1/mux_video_ts1/index-1.m3u8"
+                },
+                {
                     "Channel_Name": "HUB PREMIER HD",
                     "drm_key": "",
                     "stream_url": "https://livecdn-bp-iptv.rumsport7.live/live_abr/144253/chunks.m3u8?is_vip=false&token=c4e813fd8940d2eda6336e1f984933bdac831262&x-sign=863c8f3876243e07b3eceb336e00a02f&x-time=1779214920"
@@ -68,6 +73,63 @@
                     "Channel_Name": "FAST SERVER",
                     "drm_key": "",
                     "stream_url": "https://play.ltwxsc.com/live/hd-en-6MuT7JwWZRxR14W1EW.m3u8?txSecret=1e959115a7052af4863985749252ac41&txTime=6A0CD47C"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "id": "401",
+            "event_name": "Chelsea vs Tottenham Hotspur",
+            "eventInfo": {
+                "teamA": "Chelsea",
+                "teamB": "Tottenham",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/38/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/33/image",
+                "eventName": "Chelsea vs Tottenham Hotspur",
+                "startTime": "2026/05/19 19:15:00 +0000",
+                "endTime": "2026/05/19 21:20:00 +0000"
+            },
+            "streams": [
+                {
+                    "Channel_Name": "SKY SPORTS FHD",
+                    "drm_key": "af95024eda94455e922b90a39a3af93e:852e715ef4064b05b8e1cdee285648b5",
+                    "stream_url": "https://dice-live-oc.akamaized.net/hdntl=exp=1779288067~acl=%2F*~id=bc0df595-e886-4891-a3fa-62c9b7c5f5d8~data=hdntl,aXA9NTguNjkuMjA0LjYzJmV4cD0xNzc5MjAxNjk0JmVpZD05Mzk1MjYmb2lkPTE1NCZ0eXBlPVZPRCZ1aWQ9UHBrTHB6fGY0YWJjOWU1LTMwNDItNDkwNC1hZTU5LWEwOTNiOWQ0NmJhZSZjaWQ9ZGNlLmZpc2ZlZCZwdD1udWxs~hmac=9b7d41eeb4c51ee475487c96ec7f1c3905aef1fb993c2950ec0674d85493f0dc/dash/live/2093711/219034-321026/manifest-d.mpd"
+                },
+                {
+                    "Channel_Name": "SKY SPORTS PL",
+                    "drm_key": "",
+                    "stream_url": "https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=bCY_j9Yll_25zjoE6y1Fqg&e=2079158010&scheme=https"
+                },
+                {
+                    "Channel_Name": "Peacock FHD AQ",
+                    "drm_key": "00226b7cccbf5c7a0e60d41f353bf726:c478220fb0d06d13a88dbea68593540f",
+                    "stream_url": "https://g003-sle-us-cmaf-prd-cf.cdn.peacocktv.com/pck-sle/us-east-2/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021547-723405-4912b917a8d)/master_2hr.mpd?c3.ri=6a0cabbf_Q1ZYMDc_1_Q0xPVURGUk9OVA_f1523d3ea545&aws.sessionId=5e548873-1083-48a5-957f-9ca8d4b10a5c"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "id": "402",
+            "event_name": "Miami Marlins vs Atlanta Braves",
+            "eventInfo": {
+                "teamA": "Marlins",
+                "teamB": "Braves",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3639/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3656/image",
+                "eventName": "Miami Marlins vs Atlanta Braves",
+                "startTime": "2026/05/19 20:10:00 +0000",
+                "endTime": "2026/05/19 23:10:00 +0000"
+            },
+            "streams": [
+                {
+                    "Channel_Name": "TNT SPORTS FHD",
+                    "drm_key": "294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b",
+                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd"
+                },
+                {
+                    "Channel_Name": "SportzX Live",
+                    "drm_key": "",
+                    "stream_url": "https://mainstreams.pro/hls/dazhfiach15.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
                 }
             ]
         },
@@ -439,6 +501,16 @@
             },
             "streams": [
                 {
+                    "Channel_Name": "TSN SPORTS FHD",
+                    "drm_key": "e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689",
+                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd"
+                },
+                {
+                    "Channel_Name": "TSN SPORTS HD",
+                    "drm_key": "e853333da2c9196ea11374634231bc45:de2e2dbe818d78dfad07d6cd9a4c63d4",
+                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/jkcljgqbx8/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd"
+                },
+                {
                     "Channel_Name": "SportzX Live",
                     "drm_key": "",
                     "stream_url": "https://mainstreams.pro/hls/mlkijfezag65.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
@@ -583,58 +655,6 @@
         },
         {
             "status": "UPCOMING",
-            "id": "401",
-            "event_name": "Chelsea vs Tottenham Hotspur",
-            "eventInfo": {
-                "teamA": "Chelsea",
-                "teamB": "Tottenham",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/38/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/33/image",
-                "eventName": "Chelsea vs Tottenham Hotspur",
-                "startTime": "2026/05/19 19:15:00 +0000",
-                "endTime": "2026/05/19 21:20:00 +0000"
-            },
-            "streams": [
-                {
-                    "Channel_Name": "SKY SPORTS FHD",
-                    "drm_key": "af95024eda94455e922b90a39a3af93e:852e715ef4064b05b8e1cdee285648b5",
-                    "stream_url": "https://dice-live-oc.akamaized.net/hdntl=exp=1779288067~acl=%2F*~id=bc0df595-e886-4891-a3fa-62c9b7c5f5d8~data=hdntl,aXA9NTguNjkuMjA0LjYzJmV4cD0xNzc5MjAxNjk0JmVpZD05Mzk1MjYmb2lkPTE1NCZ0eXBlPVZPRCZ1aWQ9UHBrTHB6fGY0YWJjOWU1LTMwNDItNDkwNC1hZTU5LWEwOTNiOWQ0NmJhZSZjaWQ9ZGNlLmZpc2ZlZCZwdD1udWxs~hmac=9b7d41eeb4c51ee475487c96ec7f1c3905aef1fb993c2950ec0674d85493f0dc/dash/live/2093711/219034-321026/manifest-d.mpd"
-                },
-                {
-                    "Channel_Name": "SKY SPORTS PL",
-                    "drm_key": "",
-                    "stream_url": "https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=bCY_j9Yll_25zjoE6y1Fqg&e=2079158010&scheme=https"
-                },
-                {
-                    "Channel_Name": "Peacock FHD AQ",
-                    "drm_key": "00226b7cccbf5c7a0e60d41f353bf726:c478220fb0d06d13a88dbea68593540f",
-                    "stream_url": "https://g003-sle-us-cmaf-prd-cf.cdn.peacocktv.com/pck-sle/us-east-2/v1/dash/6f3f45fea6332a47667932dede90d20a96f2690c/peacock-dash-sle-4s-generic-cfd/co01/pcksle2/Content/CMAF_CTR-4s-v2/Live/channel(5021547-723405-4912b917a8d)/master_2hr.mpd?c3.ri=6a0cabbf_Q1ZYMDc_1_Q0xPVURGUk9OVA_f1523d3ea545&aws.sessionId=5e548873-1083-48a5-957f-9ca8d4b10a5c"
-                }
-            ]
-        },
-        {
-            "status": "UPCOMING",
-            "id": "402",
-            "event_name": "Miami Marlins vs Atlanta Braves",
-            "eventInfo": {
-                "teamA": "Marlins",
-                "teamB": "Braves",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3639/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3656/image",
-                "eventName": "Miami Marlins vs Atlanta Braves",
-                "startTime": "2026/05/19 20:10:00 +0000",
-                "endTime": "2026/05/19 23:10:00 +0000"
-            },
-            "streams": [
-                {
-                    "Channel_Name": "SportzX Live",
-                    "drm_key": "",
-                    "stream_url": "https://mainstreams.pro/hls/dazhfiach15.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
-                }
-            ]
-        },
-        {
-            "status": "UPCOMING",
             "id": "403",
             "event_name": "Detroit Tigers vs Guardians",
             "eventInfo": {
@@ -732,6 +752,11 @@
             },
             "streams": [
                 {
+                    "Channel_Name": "TNT SPORTS FHD",
+                    "drm_key": "f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875",
+                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd"
+                },
+                {
                     "Channel_Name": "SportzX Live",
                     "drm_key": "",
                     "stream_url": "https://mainstreams.pro/hls/jkzahzadach20.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
@@ -819,6 +844,111 @@
                     "Channel_Name": "SportzX Live",
                     "drm_key": "",
                     "stream_url": "https://mainstreams.pro/hls/fskjanach24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
+                }
+            ]
+        },
+        {
+            "status": "UPCOMING",
+            "id": "414",
+            "event_name": "Fluminense vs Bolívar",
+            "eventInfo": {
+                "teamA": "Fluminense",
+                "teamB": "Bolívar",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1961/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/7059/image",
+                "eventName": "Fluminense vs Bolívar",
+                "startTime": "2026/05/19 22:00:00 +0000",
+                "endTime": "2026/05/20 00:00:00 +0000"
+            },
+            "streams": [
+                {
+                    "Channel_Name": "beIN ENGLISH 2",
+                    "drm_key": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+                    "stream_url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd"
+                }
+            ]
+        },
+        {
+            "status": "UPCOMING",
+            "id": "415",
+            "event_name": "Coquimbo Unido vs Tolima",
+            "eventInfo": {
+                "teamA": "Coquimbo Unido",
+                "teamB": "Tolima",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3165/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/6111/image",
+                "eventName": "Coquimbo Unido vs Tolima",
+                "startTime": "2026/05/19 22:00:00 +0000",
+                "endTime": "2026/05/20 00:00:00 +0000"
+            },
+            "streams": [
+                {
+                    "Channel_Name": "beIN ENGLISH 3",
+                    "drm_key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+                    "stream_url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd"
+                }
+            ]
+        },
+        {
+            "status": "UPCOMING",
+            "id": "416",
+            "event_name": "Rosario Central vs UCV",
+            "eventInfo": {
+                "teamA": "Rosario Central",
+                "teamB": "UCV",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3217/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/249952/image",
+                "eventName": "Rosario Central vs UCV",
+                "startTime": "2026/05/19 22:00:00 +0000",
+                "endTime": "2026/05/20 00:00:00 +0000"
+            },
+            "streams": [
+                {
+                    "Channel_Name": "beIN ENGLISH 1",
+                    "drm_key": "335dad778109954503dcbb21dc92015f:24bfd75d436cbf73168a2a2dccd40281",
+                    "stream_url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/ghwcl6hv68/out/v1/83536910d8034e9b9895a20fbe1c1687/cenc.mpd"
+                }
+            ]
+        },
+        {
+            "status": "UPCOMING",
+            "id": "417",
+            "event_name": "Boca Juniors vs Cruzeiro",
+            "eventInfo": {
+                "teamA": "Boca Juniors",
+                "teamB": "Cruzeiro",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3202/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/1954/image",
+                "eventName": "Boca Juniors vs Cruzeiro",
+                "startTime": "2026/05/20 00:30:00 +0000",
+                "endTime": "2026/05/20 02:30:00 +0000"
+            },
+            "streams": [
+                {
+                    "Channel_Name": "beIN ENGLISH 3",
+                    "drm_key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+                    "stream_url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd"
+                }
+            ]
+        },
+        {
+            "status": "UPCOMING",
+            "id": "418",
+            "event_name": "São Paulo vs Millonarios",
+            "eventInfo": {
+                "teamA": "São Paulo",
+                "teamB": "Millonarios",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1981/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/6117/image",
+                "eventName": "São Paulo vs Millonarios",
+                "startTime": "2026/05/20 00:00:00 +0000",
+                "endTime": "2026/05/20 02:00:00 +0000"
+            },
+            "streams": [
+                {
+                    "Channel_Name": "beIN ENGLISH 2",
+                    "drm_key": "0b42be2664d7e811d04f3e504e0924c5:ae24090123b8c72ac5404dc152847cb8",
+                    "stream_url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd"
                 }
             ]
         },
