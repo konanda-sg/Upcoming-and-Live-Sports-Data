@@ -2,65 +2,9 @@
     "name": "Live and Upcoming Sports Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "10:55:58 AM 19-05-2026",
-    "total_matches": 11,
+    "last_update_time": "01:54:31 PM 19-05-2026",
+    "total_matches": 12,
     "matches": [
-        {
-            "status": "LIVE",
-            "id": "355",
-            "event_name": "Bangladesh vs Pakistan",
-            "eventInfo": {
-                "teamA": "BAN",
-                "teamB": "PAK",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/187744/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/187754/image",
-                "eventName": "Bangladesh vs Pakistan",
-                "startTime": "2026/05/19 04:00:00 +0000",
-                "endTime": "2026/05/19 11:45:00 +0000"
-            },
-            "streams": [
-                {
-                    "Channel_Name": "Willow FHD",
-                    "drm_key": "a3f18ff86cc7d6197d18f17abb1c7bfb:b6d462d09bbac4f3eda79022f5b4b5d7",
-                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wsncgxp4c5/out/v1/f1d290b91fa642a7a63913e24211ca09/cenc.mpd"
-                },
-                {
-                    "Channel_Name": "SKY SPORTS FHD",
-                    "drm_key": "708a98b352bd4418a73a028edd84da8f:b1fa5c2bca4c4b57b924b748564532cb",
-                    "stream_url": "https://dice-live-oc.akamaized.net/hdntl=exp=1779183829~acl=%2F*~id=53b856a2-54ac-440a-8abf-b3e51eb12450~data=hdntl,aXA9NTIuMTkwLjE0MC4xMzMmZXhwPTE3NzkwOTc0NTkmZWlkPTkzNTYyMyZvaWQ9MTU0JnR5cGU9Vk9EJnVpZD1hZGNXWVd8YjYwYWYyOTktMDM5MS00ZDFmLWE2ZDAtZDgyNDRkZmFmMWM5JmNpZD1kY2UuZmlzZmVkJnB0PW51bGw~hmac=d59b3c0ef2ee7d07113ebb9935f72016bcade0b771049f24269b570d70c40fc7/dash/live/2093715/219027-321028/manifest-d.mpd"
-                },
-                {
-                    "Channel_Name": "PREMIER SPORTS",
-                    "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
-                    "stream_url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd"
-                },
-                {
-                    "Channel_Name": "FANCODE FHD",
-                    "drm_key": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
-                    "stream_url": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd"
-                },
-                {
-                    "Channel_Name": "FANCODE - SD",
-                    "drm_key": "709c812e1b4174002605df1d17d34a4c:0bbee6c9c20a0f065bf8369d54cbf83e",
-                    "stream_url": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd"
-                },
-                {
-                    "Channel_Name": "TAPMAD [BD]",
-                    "drm_key": "",
-                    "stream_url": "https://cdn16lhr.tamashaweb.com:8087/jazzauth/PAKvsBANTS-2026-ABR/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS84LzIwMjYgMzo1OTowMCBBTSZoYXNoX3ZhbHVlPUlBd1BtNCtKZmZQd1FvY3BhdU9LOEE9PSZ2YWxpZG1pbnV0ZXM9NjA%3D"
-                },
-                {
-                    "Channel_Name": "FANCODE [BD]",
-                    "drm_key": "",
-                    "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/142161_english_hls_e85dce235994710_1ta-di_h264/index.m3u8"
-                },
-                {
-                    "Channel_Name": "TOFFEE [BD]",
-                    "drm_key": "",
-                    "stream_url": "https://mprod-cdn.toffeelive.com/live/bdvsnz26/index.m3u8|cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20:Expires=1779035383:KeyName=prod_live_events:Signature=Kr38dsw0IGXIXhtxxMxkUXhl9FzcqFvi3Lw_j7JqClJ6qJsyk2O2TfK9KOYiP2sfkvsHbIQguB3XlLQ0Gro4DQ"
-                }
-            ]
-        },
         {
             "status": "UPCOMING",
             "id": "312",
@@ -455,6 +399,42 @@
         },
         {
             "status": "UPCOMING",
+            "id": "373",
+            "event_name": "Cleveland Cavaliers",
+            "eventInfo": {
+                "teamA": "Knicks",
+                "teamB": "Cavaliers",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3421/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3432/image",
+                "eventName": "New York Knicks vs Cleveland Cavaliers",
+                "startTime": "2026/05/20 00:00:00 +0000",
+                "endTime": "2026/05/20 03:00:00 +0000"
+            },
+            "streams": [
+                {
+                    "Channel_Name": "TSN SPORTS FHD",
+                    "drm_key": "c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003",
+                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd"
+                },
+                {
+                    "Channel_Name": "SportzX NBA",
+                    "drm_key": "",
+                    "stream_url": "https://chatgpt.hereisman.net/playlist/50835/load-playlist?|Referer=https://gooz.aapmains.net"
+                },
+                {
+                    "Channel_Name": "SportzX Live",
+                    "drm_key": "",
+                    "stream_url": "https://mainstreams.pro/hls/mlkijfezag65.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+                },
+                {
+                    "Channel_Name": "HD SERVER",
+                    "drm_key": "",
+                    "stream_url": "https://instreams.pro/US/NBA1/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click"
+                }
+            ]
+        },
+        {
+            "status": "UPCOMING",
             "id": "400",
             "event_name": "Bournemouth vs Manchester City",
             "eventInfo": {
@@ -548,6 +528,62 @@
                     "Channel_Name": "More",
                     "drm_key": "",
                     "stream_url": "https://hesgoal.cc/live/player.php?ch=es17"
+                }
+            ]
+        },
+        {
+            "status": "ENDED",
+            "id": "355",
+            "event_name": "Bangladesh vs Pakistan",
+            "eventInfo": {
+                "teamA": "BAN",
+                "teamB": "PAK",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/187744/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/187754/image",
+                "eventName": "Bangladesh vs Pakistan",
+                "startTime": "2026/05/19 04:00:00 +0000",
+                "endTime": "2026/05/19 11:45:00 +0000"
+            },
+            "streams": [
+                {
+                    "Channel_Name": "Willow FHD",
+                    "drm_key": "a3f18ff86cc7d6197d18f17abb1c7bfb:b6d462d09bbac4f3eda79022f5b4b5d7",
+                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/wsncgxp4c5/out/v1/f1d290b91fa642a7a63913e24211ca09/cenc.mpd"
+                },
+                {
+                    "Channel_Name": "SKY SPORTS FHD",
+                    "drm_key": "708a98b352bd4418a73a028edd84da8f:b1fa5c2bca4c4b57b924b748564532cb",
+                    "stream_url": "https://dice-live-oc.akamaized.net/hdntl=exp=1779183829~acl=%2F*~id=53b856a2-54ac-440a-8abf-b3e51eb12450~data=hdntl,aXA9NTIuMTkwLjE0MC4xMzMmZXhwPTE3NzkwOTc0NTkmZWlkPTkzNTYyMyZvaWQ9MTU0JnR5cGU9Vk9EJnVpZD1hZGNXWVd8YjYwYWYyOTktMDM5MS00ZDFmLWE2ZDAtZDgyNDRkZmFmMWM5JmNpZD1kY2UuZmlzZmVkJnB0PW51bGw~hmac=d59b3c0ef2ee7d07113ebb9935f72016bcade0b771049f24269b570d70c40fc7/dash/live/2093715/219027-321028/manifest-d.mpd"
+                },
+                {
+                    "Channel_Name": "PREMIER SPORTS",
+                    "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
+                    "stream_url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd"
+                },
+                {
+                    "Channel_Name": "FANCODE FHD",
+                    "drm_key": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
+                    "stream_url": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd"
+                },
+                {
+                    "Channel_Name": "FANCODE - SD",
+                    "drm_key": "709c812e1b4174002605df1d17d34a4c:0bbee6c9c20a0f065bf8369d54cbf83e",
+                    "stream_url": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash-sd/enc/qddnwqthpp/out/v1/6c25cddab58043a6ace0ac64d97983f0/cenc-sd.mpd"
+                },
+                {
+                    "Channel_Name": "TAPMAD [BD]",
+                    "drm_key": "",
+                    "stream_url": "https://cdn16lhr.tamashaweb.com:8087/jazzauth/PAKvsBANTS-2026-ABR/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS84LzIwMjYgMzo1OTowMCBBTSZoYXNoX3ZhbHVlPUlBd1BtNCtKZmZQd1FvY3BhdU9LOEE9PSZ2YWxpZG1pbnV0ZXM9NjA%3D"
+                },
+                {
+                    "Channel_Name": "FANCODE [BD]",
+                    "drm_key": "",
+                    "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/142161_english_hls_e85dce235994710_1ta-di_h264/index.m3u8"
+                },
+                {
+                    "Channel_Name": "TOFFEE [BD]",
+                    "drm_key": "",
+                    "stream_url": "https://mprod-cdn.toffeelive.com/live/bdvsnz26/index.m3u8|cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20:Expires=1779035383:KeyName=prod_live_events:Signature=Kr38dsw0IGXIXhtxxMxkUXhl9FzcqFvi3Lw_j7JqClJ6qJsyk2O2TfK9KOYiP2sfkvsHbIQguB3XlLQ0Gro4DQ"
                 }
             ]
         }
