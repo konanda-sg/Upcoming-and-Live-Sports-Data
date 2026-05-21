@@ -2,8 +2,8 @@
     "name": "Live and Upcoming Sports Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "02:00:36 PM 21-05-2026",
-    "total_matches": 28,
+    "last_update_time": "05:27:46 PM 21-05-2026",
+    "total_matches": 26,
     "matches": [
         {
             "status": "LIVE",
@@ -88,6 +88,94 @@
                     "Channel_Name": "STAR KAN - IN",
                     "drm_key": "",
                     "stream_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Kannada_BTS/output/index.mpd?__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343|drmScheme=com.clearkey.alpha&drmLicense=9a6d058fa40b5460a946178900eb44cb:791d7444110cec32d731ca0c33ac6c15|user-agent=JioTV.Plus/2.1.9_2027 (Linux;Android 13) AndroidXMedia3/1.4.0&cookie=__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "id": "407",
+            "event_name": "Detroit Tigers vs Guardians",
+            "eventInfo": {
+                "teamA": "Tigers",
+                "teamB": "Guardians",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3648/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3650/image",
+                "eventName": "Detroit Tigers vs Guardians",
+                "startTime": "2026/05/21 17:10:00 +0000",
+                "endTime": "2026/05/21 20:10:00 +0000"
+            },
+            "streams": [
+                {
+                    "Channel_Name": "SportzX MLB",
+                    "drm_key": "",
+                    "stream_url": "https://chatgpt.hereisman.net/playlist/50932/load-playlist?|Referer=https://gooz.aapmains.net"
+                },
+                {
+                    "Channel_Name": "MLB LIVE HD",
+                    "drm_key": "",
+                    "stream_url": "https://streamxyz.shop/guardians/tracks-v1a1/mono.ts.m3u8"
+                },
+                {
+                    "Channel_Name": "SportzX Live",
+                    "drm_key": "",
+                    "stream_url": "https://mainstreams.pro/hls/dazhfiach15.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "id": "408",
+            "event_name": "Cardinals vs Pittsburgh Pirates",
+            "eventInfo": {
+                "teamA": "Cardinals",
+                "teamB": "Pirates",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3632/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3637/image",
+                "eventName": "Cardinals vs Pittsburgh Pirates",
+                "startTime": "2026/05/21 17:15:00 +0000",
+                "endTime": "2026/05/21 20:15:00 +0000"
+            },
+            "streams": [
+                {
+                    "Channel_Name": "SportzX MLB",
+                    "drm_key": "",
+                    "stream_url": "https://chatgpt.hereisman.net/playlist/50934/load-playlist?|Referer=https://gooz.aapmains.net"
+                },
+                {
+                    "Channel_Name": "SportzX Live",
+                    "drm_key": "",
+                    "stream_url": "https://mainstreams.pro/hls/16yuitzaerghbhc16.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "id": "411",
+            "event_name": "AFC Ajax vs Groningen",
+            "eventInfo": {
+                "teamA": "Ajax",
+                "teamB": "Groningen",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2953/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2951/image",
+                "eventName": "AFC Ajax vs Groningen",
+                "startTime": "2026/05/21 16:45:00 +0000",
+                "endTime": "2026/05/21 18:45:00 +0000"
+            },
+            "streams": [
+                {
+                    "Channel_Name": "PREMIER SPORTS",
+                    "drm_key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
+                    "stream_url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd"
+                },
+                {
+                    "Channel_Name": "SportzX Live",
+                    "drm_key": "",
+                    "stream_url": "https://live.vivo200.com/live/sd-1-4543843.m3u8?txSecret=1f688c7a9ba225df1ac133b638542722&txTime=6A0F4075|referer=https://player.online909.com/"
+                },
+                {
+                    "Channel_Name": "HD SERVER",
+                    "drm_key": "",
+                    "stream_url": "https://instreams.pro/EU/HDTV1/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click"
                 }
             ]
         },
@@ -666,9 +754,9 @@
             },
             "streams": [
                 {
-                    "Channel_Name": "SportzX Live",
+                    "Channel_Name": "FOX SOCCER+ HD",
                     "drm_key": "",
-                    "stream_url": "https://video.twimg.com/amplify_video/1919602814160125952/pl/t5p2RHLI21i-hXga.m3u8?variant_version=1&tag=14"
+                    "stream_url": "https://chatgpt.hereisman.net/playlist/50926/load-playlist?|Referer=https://gooz.aapmains.net"
                 }
             ]
         },
@@ -695,32 +783,6 @@
         },
         {
             "status": "UPCOMING",
-            "id": "403",
-            "event_name": "Canada vs Norway",
-            "eventInfo": {
-                "teamA": "Canada",
-                "teamB": "Norway",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/5729/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/5913/image",
-                "eventName": "Canada vs Norway",
-                "startTime": "2026/05/21 14:20:00 +0000",
-                "endTime": "2026/05/21 17:00:00 +0000"
-            },
-            "streams": [
-                {
-                    "Channel_Name": "TSN SPORTS FHD",
-                    "drm_key": "e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689",
-                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd"
-                },
-                {
-                    "Channel_Name": "SportzX Live",
-                    "drm_key": "",
-                    "stream_url": "https://chatgpt.hereisman.net/playlist/50928/load-playlist?|Referer=https://gooz.aapmains.net"
-                }
-            ]
-        },
-        {
-            "status": "UPCOMING",
             "id": "404",
             "event_name": "Denmark vs Slovakia",
             "eventInfo": {
@@ -742,27 +804,6 @@
         },
         {
             "status": "UPCOMING",
-            "id": "405",
-            "event_name": "Latvia vs Finland",
-            "eventInfo": {
-                "teamA": "Latvia",
-                "teamB": "Finland",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/5739/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/5731/image",
-                "eventName": "Latvia vs Finland",
-                "startTime": "2026/05/21 14:20:00 +0000",
-                "endTime": "2026/05/21 17:00:00 +0000"
-            },
-            "streams": [
-                {
-                    "Channel_Name": "TSN SPORTS FHD",
-                    "drm_key": "c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003",
-                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd"
-                }
-            ]
-        },
-        {
-            "status": "UPCOMING",
             "id": "406",
             "event_name": "Switzerland vs Great Britain",
             "eventInfo": {
@@ -779,48 +820,6 @@
                     "Channel_Name": "TSN SPORTS FHD",
                     "drm_key": "c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003",
                     "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd"
-                }
-            ]
-        },
-        {
-            "status": "UPCOMING",
-            "id": "407",
-            "event_name": "Detroit Tigers vs Guardians",
-            "eventInfo": {
-                "teamA": "Tigers",
-                "teamB": "Guardians",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3648/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3650/image",
-                "eventName": "Detroit Tigers vs Guardians",
-                "startTime": "2026/05/21 17:10:00 +0000",
-                "endTime": "2026/05/21 20:10:00 +0000"
-            },
-            "streams": [
-                {
-                    "Channel_Name": "SportzX Live",
-                    "drm_key": "",
-                    "stream_url": "https://mainstreams.pro/hls/dazhfiach15.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
-                }
-            ]
-        },
-        {
-            "status": "UPCOMING",
-            "id": "408",
-            "event_name": "Cardinals vs Pittsburgh Pirates",
-            "eventInfo": {
-                "teamA": "Cardinals",
-                "teamB": "Pirates",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3632/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3637/image",
-                "eventName": "Cardinals vs Pittsburgh Pirates",
-                "startTime": "2026/05/21 17:15:00 +0000",
-                "endTime": "2026/05/21 20:15:00 +0000"
-            },
-            "streams": [
-                {
-                    "Channel_Name": "SportzX Live",
-                    "drm_key": "",
-                    "stream_url": "https://mainstreams.pro/hls/16yuitzaerghbhc16.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
                 }
             ]
         },
@@ -863,27 +862,6 @@
                     "Channel_Name": "beIN ENGLISH",
                     "drm_key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
                     "stream_url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd"
-                }
-            ]
-        },
-        {
-            "status": "UPCOMING",
-            "id": "411",
-            "event_name": "AFC Ajax vs Groningen",
-            "eventInfo": {
-                "teamA": "Ajax",
-                "teamB": "Groningen",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/2953/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/2951/image",
-                "eventName": "AFC Ajax vs Groningen",
-                "startTime": "2026/05/21 16:45:00 +0000",
-                "endTime": "2026/05/21 18:45:00 +0000"
-            },
-            "streams": [
-                {
-                    "Channel_Name": "PREMIER SPORTS",
-                    "drm_key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
-                    "stream_url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd"
                 }
             ]
         },
