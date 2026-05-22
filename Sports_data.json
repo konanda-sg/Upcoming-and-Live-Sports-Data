@@ -2,103 +2,32 @@
     "name": "Live and Upcoming Sports Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "09:03:54 PM 22-05-2026",
+    "last_update_time": "10:51:37 PM 22-05-2026",
     "total_matches": 31,
     "matches": [
         {
             "status": "LIVE",
-            "id": "312",
-            "event_name": "Formula 1",
+            "id": "411",
+            "event_name": "Phillies vs Cleveland Guardians",
             "eventInfo": {
-                "teamA": "Formula 1",
-                "teamB": "Formula 1",
-                "teamAFlag": "https://scdnmain.net/assets/tournament/40-c.png",
-                "teamBFlag": "https://scdnmain.net/assets/tournament/40-c.png",
-                "eventName": "Formula 1 - Canada GP",
-                "startTime": "2026/05/22 20:30:00 +0000",
-                "endTime": "2026/05/22 21:45:00 +0000"
+                "teamA": "Phillies",
+                "teamB": "Guardians",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3635/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3650/image",
+                "eventName": "Phillies vs Cleveland Guardians",
+                "startTime": "2026/05/22 22:40:00 +0000",
+                "endTime": "2026/05/23 01:40:00 +0000"
             },
             "streams": [
                 {
-                    "Channel_Name": "SKY SPORTS FHD",
-                    "drm_key": "708a98b352bd4418a73a028edd84da8f:b1fa5c2bca4c4b57b924b748564532cb",
-                    "stream_url": "https://dice-live-oc.akamaized.net/hdntl=exp=1779566116~acl=%2F*~id=1f26dfa9-cc78-4598-ac11-c03c5b9ab880~data=hdntl,aXA9MTcyLjIxNS4yMzEuMTE0JmV4cD0xNzc5NDc5NzQ1JmVpZD05NjE2MDQmb2lkPTEwOCZ0eXBlPVZPRCZ1aWQ9TmNKcjRkfDZlMjc2YTBmLWJkMmUtNDZhMC1iMTJiLTdhMWJlYmEyMzI2YyZjaWQ9ZGNlLnNwdXJzJnB0PW51bGw~hmac=5dadc1cbbbf42f4bc2791431fbd5b3f20400aa204a111b1220e8155c4ae0bf93/dash/live/2093715/219027-321028/manifest-d.mpd"
-                },
-                {
-                    "Channel_Name": "TSN SPORTS FHD",
-                    "drm_key": "e853333da2c9196ea11374634231bc45:de2e2dbe818d78dfad07d6cd9a4c63d4",
-                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/jkcljgqbx8/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd"
-                },
-                {
-                    "Channel_Name": "SETANTA SPORTS",
-                    "drm_key": "6eb77216ea7945998d3713be4ebbfc41:c36275beed344adbb6fdfc547be034ba",
-                    "stream_url": "https://adjara-live-eu.akamaized.net/hdntl=exp=1779566123~acl=%2F*~id=40e65163-693a-41e1-bab0-0b6994d8b4fd~data=hdntl,aXA9MTcyLjIxNS4yMzEuMTE0JmV4cD0xNzc5NDc5NzUzJmVpZD05NjE1MDEmb2lkPTEwOCZ0eXBlPVZPRCZ1aWQ9TmNKcjRkfDZlMjc2YTBmLWJkMmUtNDZhMC1iMTJiLTdhMWJlYmEyMzI2YyZjaWQ9ZGNlLnNwdXJzJnB0PW51bGw~hmac=f408469ff316d7a34ff16c7378362289e67f76705ea31c4810be76b7fc97608a/dash/live/2005778/303504-321866/manifest-d.mpd"
-                },
-                {
-                    "Channel_Name": "FANCODE FHD",
-                    "drm_key": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
-                    "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd"
-                },
-                {
-                    "Channel_Name": "SportzX F1 HD",
-                    "drm_key": "",
-                    "stream_url": "https://chatgpt.hereisman.net/playlist/50931/load-playlist?|Referer=https://gooz.aapmains.net"
-                },
-                {
-                    "Channel_Name": "SKY SPORTS HD",
-                    "drm_key": "",
-                    "stream_url": "https://mainstreams.pro/hls/hbfkazbkaznc49.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
-                },
-                {
-                    "Channel_Name": "ELEVEN SPORTS",
-                    "drm_key": "69021095220f3c0eae9bc24215fd692b:eb58cfe0458ed0b48f7351fa3393ad59",
-                    "stream_url": "https://r.e.blueonline.tv/l/tvsmart/live/eds/Eleven_Sport_1/DHD/Manifest.mpd"
-                },
-                {
-                    "Channel_Name": "Sky F1 DE",
-                    "drm_key": "",
-                    "stream_url": "https://instreams.pro/bil2/skyf1de/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click"
-                },
-                {
-                    "Channel_Name": "F1 TV FHD",
-                    "drm_key": "609d795905904705028ef54653019af7:2c791eb611e57a7d7f203022bc1b9ba3",
-                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/duqbirmk0d/out/v1/40f53c7cbc95498db3afd081c377d776/cenc.mpd"
-                },
-                {
-                    "Channel_Name": "Fox Sports - AQ",
-                    "drm_key": "2fbdaa3bea0d0323ae011b318d1db716:8726ef7eaf5b9dce15fb6aa9f80bd53f",
-                    "stream_url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "id": "409",
-            "event_name": "Chicago Cubs vs Houston Astros",
-            "eventInfo": {
-                "teamA": "Cubs",
-                "teamB": "Astros",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3627/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3655/image",
-                "eventName": "Chicago Cubs vs Houston Astros",
-                "startTime": "2026/05/22 18:20:00 +0000",
-                "endTime": "2026/05/22 21:20:00 +0000"
-            },
-            "streams": [
-                {
-                    "Channel_Name": "SportzX MLB",
-                    "drm_key": "",
-                    "stream_url": "https://chatgpt.hereisman.net/playlist/50960/load-playlist?|Referer=https://gooz.aapmains.net"
-                },
-                {
-                    "Channel_Name": "MLB LIVE HD",
-                    "drm_key": "",
-                    "stream_url": "https://streamxyz.shop/cubs/tracks-v1a1/mono.ts.m3u8"
+                    "Channel_Name": "TNT SPORTS FHD",
+                    "drm_key": "294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b",
+                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd"
                 },
                 {
                     "Channel_Name": "SportzX Live",
                     "drm_key": "",
-                    "stream_url": "https://edge2caster.pro/hls/dazhfiach15.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
+                    "stream_url": "https://edgestreams.pro/hls/16yuitzaerghbhc16.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
                 }
             ]
         },
@@ -641,32 +570,6 @@
         },
         {
             "status": "UPCOMING",
-            "id": "411",
-            "event_name": "Phillies vs Cleveland Guardians",
-            "eventInfo": {
-                "teamA": "Phillies",
-                "teamB": "Guardians",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3635/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3650/image",
-                "eventName": "Phillies vs Cleveland Guardians",
-                "startTime": "2026/05/22 22:40:00 +0000",
-                "endTime": "2026/05/23 01:40:00 +0000"
-            },
-            "streams": [
-                {
-                    "Channel_Name": "TNT SPORTS FHD",
-                    "drm_key": "294b5761cefc22d0c6312939e13d8278:52148f1042d238849f0a7813f1da8a7b",
-                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd"
-                },
-                {
-                    "Channel_Name": "SportzX Live",
-                    "drm_key": "",
-                    "stream_url": "https://edgestreams.pro/hls/16yuitzaerghbhc16.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
-                }
-            ]
-        },
-        {
-            "status": "UPCOMING",
             "id": "412",
             "event_name": "Yankees vs Tampa Bay Rays",
             "eventInfo": {
@@ -809,6 +712,72 @@
                     "Channel_Name": "SportzX Live",
                     "drm_key": "",
                     "stream_url": "https://edge2caster.pro/hls/dzjhkfazbka26.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
+                }
+            ]
+        },
+        {
+            "status": "ENDED",
+            "id": "312",
+            "event_name": "Formula 1",
+            "eventInfo": {
+                "teamA": "Formula 1",
+                "teamB": "Formula 1",
+                "teamAFlag": "https://scdnmain.net/assets/tournament/40-c.png",
+                "teamBFlag": "https://scdnmain.net/assets/tournament/40-c.png",
+                "eventName": "Formula 1 - Canada GP",
+                "startTime": "2026/05/22 20:30:00 +0000",
+                "endTime": "2026/05/22 21:45:00 +0000"
+            },
+            "streams": [
+                {
+                    "Channel_Name": "SKY SPORTS FHD",
+                    "drm_key": "708a98b352bd4418a73a028edd84da8f:b1fa5c2bca4c4b57b924b748564532cb",
+                    "stream_url": "https://dice-live-oc.akamaized.net/hdntl=exp=1779566116~acl=%2F*~id=1f26dfa9-cc78-4598-ac11-c03c5b9ab880~data=hdntl,aXA9MTcyLjIxNS4yMzEuMTE0JmV4cD0xNzc5NDc5NzQ1JmVpZD05NjE2MDQmb2lkPTEwOCZ0eXBlPVZPRCZ1aWQ9TmNKcjRkfDZlMjc2YTBmLWJkMmUtNDZhMC1iMTJiLTdhMWJlYmEyMzI2YyZjaWQ9ZGNlLnNwdXJzJnB0PW51bGw~hmac=5dadc1cbbbf42f4bc2791431fbd5b3f20400aa204a111b1220e8155c4ae0bf93/dash/live/2093715/219027-321028/manifest-d.mpd"
+                },
+                {
+                    "Channel_Name": "TSN SPORTS FHD",
+                    "drm_key": "e853333da2c9196ea11374634231bc45:de2e2dbe818d78dfad07d6cd9a4c63d4",
+                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/jkcljgqbx8/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd"
+                },
+                {
+                    "Channel_Name": "SETANTA SPORTS",
+                    "drm_key": "6eb77216ea7945998d3713be4ebbfc41:c36275beed344adbb6fdfc547be034ba",
+                    "stream_url": "https://adjara-live-eu.akamaized.net/hdntl=exp=1779566123~acl=%2F*~id=40e65163-693a-41e1-bab0-0b6994d8b4fd~data=hdntl,aXA9MTcyLjIxNS4yMzEuMTE0JmV4cD0xNzc5NDc5NzUzJmVpZD05NjE1MDEmb2lkPTEwOCZ0eXBlPVZPRCZ1aWQ9TmNKcjRkfDZlMjc2YTBmLWJkMmUtNDZhMC1iMTJiLTdhMWJlYmEyMzI2YyZjaWQ9ZGNlLnNwdXJzJnB0PW51bGw~hmac=f408469ff316d7a34ff16c7378362289e67f76705ea31c4810be76b7fc97608a/dash/live/2005778/303504-321866/manifest-d.mpd"
+                },
+                {
+                    "Channel_Name": "FANCODE FHD",
+                    "drm_key": "7e9239c1982d984a002df3ed049d0756:1b8a17598129a3618535c8fb05f103fe",
+                    "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd"
+                },
+                {
+                    "Channel_Name": "SportzX F1 HD",
+                    "drm_key": "",
+                    "stream_url": "https://chatgpt.hereisman.net/playlist/50931/load-playlist?|Referer=https://gooz.aapmains.net"
+                },
+                {
+                    "Channel_Name": "SKY SPORTS HD",
+                    "drm_key": "",
+                    "stream_url": "https://mainstreams.pro/hls/hbfkazbkaznc49.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
+                },
+                {
+                    "Channel_Name": "ELEVEN SPORTS",
+                    "drm_key": "69021095220f3c0eae9bc24215fd692b:eb58cfe0458ed0b48f7351fa3393ad59",
+                    "stream_url": "https://r.e.blueonline.tv/l/tvsmart/live/eds/Eleven_Sport_1/DHD/Manifest.mpd"
+                },
+                {
+                    "Channel_Name": "Sky F1 DE",
+                    "drm_key": "",
+                    "stream_url": "https://instreams.pro/bil2/skyf1de/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click"
+                },
+                {
+                    "Channel_Name": "F1 TV FHD",
+                    "drm_key": "609d795905904705028ef54653019af7:2c791eb611e57a7d7f203022bc1b9ba3",
+                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/duqbirmk0d/out/v1/40f53c7cbc95498db3afd081c377d776/cenc.mpd"
+                },
+                {
+                    "Channel_Name": "Fox Sports - AQ",
+                    "drm_key": "2fbdaa3bea0d0323ae011b318d1db716:8726ef7eaf5b9dce15fb6aa9f80bd53f",
+                    "stream_url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/oboxe53wyo/out/v1/f7892a9d706d419a846d738fa22ea33e/cenc.mpd"
                 }
             ]
         },
@@ -1013,6 +982,37 @@
                     "Channel_Name": "FRANCE TV SD",
                     "drm_key": "",
                     "stream_url": "https://instreams.pro/bil1/france2/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click"
+                }
+            ]
+        },
+        {
+            "status": "ENDED",
+            "id": "409",
+            "event_name": "Chicago Cubs vs Houston Astros",
+            "eventInfo": {
+                "teamA": "Cubs",
+                "teamB": "Astros",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3627/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3655/image",
+                "eventName": "Chicago Cubs vs Houston Astros",
+                "startTime": "2026/05/22 18:20:00 +0000",
+                "endTime": "2026/05/22 21:20:00 +0000"
+            },
+            "streams": [
+                {
+                    "Channel_Name": "SportzX MLB",
+                    "drm_key": "",
+                    "stream_url": "https://chatgpt.hereisman.net/playlist/50960/load-playlist?|Referer=https://gooz.aapmains.net"
+                },
+                {
+                    "Channel_Name": "MLB LIVE HD",
+                    "drm_key": "",
+                    "stream_url": "https://streamxyz.shop/cubs/tracks-v1a1/mono.ts.m3u8"
+                },
+                {
+                    "Channel_Name": "SportzX Live",
+                    "drm_key": "",
+                    "stream_url": "https://edge2caster.pro/hls/dazhfiach15.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
                 }
             ]
         }
