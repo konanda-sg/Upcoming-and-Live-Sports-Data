@@ -2,9 +2,95 @@
     "name": "Live and Upcoming Sports Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "01:15:53 PM 23-05-2026",
+    "last_update_time": "02:54:59 PM 23-05-2026",
     "total_matches": 52,
     "matches": [
+        {
+            "status": "LIVE",
+            "id": "366",
+            "event_name": "IPL - 01",
+            "eventInfo": {
+                "teamA": "LSG",
+                "teamB": "PBKS",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/410010/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/187776/image",
+                "eventName": "Lucknow Super Giants vs Punjab Kings",
+                "startTime": "2026/05/23 14:00:00 +0000",
+                "endTime": "2026/05/23 18:00:00 +0000"
+            },
+            "streams": [
+                {
+                    "Channel_Name": "PRIME VIDEO",
+                    "drm_key": "470a5bda0ae8965c3ab4004c302bc1c8:b04888df6ed570c9435b97471504bd9b",
+                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ptptpteoh7/out/v1/564bb083afea4561a5a60c4447258379/cenc.mpd"
+                },
+                {
+                    "Channel_Name": "WILLOW [Ad Free]",
+                    "drm_key": "2d0646dd8a8c511de3b2485071705038:1ddbda2f121875fd43dcd758497cbf82",
+                    "stream_url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/enc/7j8yftutgs/out/v1/8a40608178f045839a1c0c0a055d6a90/cenc.mpd"
+                },
+                {
+                    "Channel_Name": "PRIME HINDI",
+                    "drm_key": "9909e33838e1152cc512c4636f513f8f:02f67060c94bcc3307280f505ad508ab",
+                    "stream_url": "https://otte.cache.aiv-cdn.net/fra-nitro/live/clients/dash/enc/nn1qrdjaha/out/v1/bc4fa7d9cebf47858bebf14ad589025e/cenc.mpd"
+                },
+                {
+                    "Channel_Name": "SKY SPORTS - AQ",
+                    "drm_key": "",
+                    "stream_url": "https://bl.rutube.ru/livestream/9585fdae92af45f113fdcc9f6c4ba442/index.m3u8?s=KgZtccuHrnaljGaN7cmUwA&e=2068506973&scheme=https"
+                },
+                {
+                    "Channel_Name": "PTV Sports",
+                    "drm_key": "",
+                    "stream_url": "https://customer-jfpjrgh1mi5y63cd.cloudflarestream.com/57c9fd581995339676bb330a024502e2/manifest/stream_t9e72c8d63ef150818cea65aca509f8bd_r1479738631.m3u8?llhlsHBs=0.9"
+                },
+                {
+                    "Channel_Name": "S©portzX Live",
+                    "drm_key": "",
+                    "stream_url": "https://sfsfs.valverdeae7.workers.dev/live.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0&Referer=https://matcheslinkz.pages.dev/&origin=https://matcheslinkz.pages.dev"
+                },
+                {
+                    "Channel_Name": "JIO HOTSTAR",
+                    "drm_key": "",
+                    "stream_url": "https://live-pull.aisports.mobi/moviebox/device01/playlist.m3u8|Referer=https://sportslivenow.top/"
+                },
+                {
+                    "Channel_Name": "WILLOW HD",
+                    "drm_key": "",
+                    "stream_url": "https://cdn16348712.blazingcdn.net/dx14fhd/index.m3u8|Referer=https://yahoo.com/&Origin=https://yahoo.com&User-Agent=AppleCoreMedia/1.0.0.23D5103d (iPhone; U; CPU OS 26_3 like Mac OS X; en_us)"
+                },
+                {
+                    "Channel_Name": "Star Sports [HIN]",
+                    "drm_key": "",
+                    "stream_url": "http://103.229.254.25:7001/play/a0a0/index.m3u8"
+                },
+                {
+                    "Channel_Name": "STAR ENG - IN",
+                    "drm_key": "",
+                    "stream_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/output/index.mpd?__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343|drmScheme=com.clearkey.alpha&drmLicense=965dc2ddb1d85138ad787999a7f30ca5:859695076e67fe961836b564db6d689c|user-agent=JioTV.Plus/2.1.9_2027 (Linux;Android 13) AndroidXMedia3/1.4.0&cookie=__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343"
+                },
+                {
+                    "Channel_Name": "STAR HIN - IN",
+                    "drm_key": "",
+                    "stream_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/output/index.mpd?__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343|drmScheme=com.clearkey.alpha&drmLicense=400131994b445d8c8817202248760fda:2d56cb6f07a75b9aff165d534ae2bfc4|user-agent=JioTV.Plus/2.1.9_2027 (Linux;Android 13) AndroidXMedia3/1.4.0&cookie=__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343"
+                },
+                {
+                    "Channel_Name": "STAR TAM - IN",
+                    "drm_key": "",
+                    "stream_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Tamil_HD_BTS/output/index.mpd?__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343|drmScheme=com.clearkey.alpha&drmLicense=2272c0bc6b2e5cb090b1f55996e0026c:943923934de1d5536ab01c67fca8b337|user-agent=JioTV.Plus/2.1.9_2027 (Linux;Android 13) AndroidXMedia3/1.4.0&cookie=__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343"
+                },
+                {
+                    "Channel_Name": "STAR TEL - IN",
+                    "drm_key": "",
+                    "stream_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/index.mpd?__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343|drmScheme=com.clearkey.alpha&drmLicense=49e84b9edfd85379b90c81b7d2d3d2bf:19c82d3ff094fa06af95820a1572ecb5|user-agent=JioTV.Plus/2.1.9_2027 (Linux;Android 13) AndroidXMedia3/1.4.0&cookie=__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343"
+                },
+                {
+                    "Channel_Name": "STAR KAN - IN",
+                    "drm_key": "",
+                    "stream_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Kannada_BTS/output/index.mpd?__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343|drmScheme=com.clearkey.alpha&drmLicense=9a6d058fa40b5460a946178900eb44cb:791d7444110cec32d731ca0c33ac6c15|user-agent=JioTV.Plus/2.1.9_2027 (Linux;Android 13) AndroidXMedia3/1.4.0&cookie=__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343"
+                }
+            ]
+        },
         {
             "status": "LIVE",
             "id": "372",
@@ -38,6 +124,110 @@
                     "Channel_Name": "WILLOW SD",
                     "drm_key": "",
                     "stream_url": "https://crichdplayer.com/willow-cricket-live-stream-2026"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "id": "400",
+            "event_name": "England W vs New Zealand W",
+            "eventInfo": {
+                "teamA": "ENG-W",
+                "teamB": "NZ-W",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/213121/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/213115/image",
+                "eventName": "England W vs New Zealand W",
+                "startTime": "2026/05/23 13:30:00 +0000",
+                "endTime": "2026/05/23 17:15:00 +0000"
+            },
+            "streams": [
+                {
+                    "Channel_Name": "SKY SPORTS FHD",
+                    "drm_key": "aefc2c8d1c8840f1b6981f856c9269ba:cf8ea114c45b4d6596b2748258ab74d6",
+                    "stream_url": "https://dice-live-oc.akamaized.net/hdntl=exp=1779611161~acl=%2F*~id=76d3cf88-ffc3-413a-98ea-5139b26ca05c~data=hdntl,aXA9MTcyLjE4Mi4yMjUuMTYyJmV4cD0xNzc5NTI0NzkxJmVpZD05NjE1Mzkmb2lkPTEwOCZ0eXBlPVZPRCZ1aWQ9aVVFd1VXfGVlZjY4NGJmLTBlNWItNDk3MC05NWNjLTRjNWNkODM2OTJiZiZjaWQ9ZGNlLnNwdXJzJnB0PW51bGw~hmac=c0e0e486d7d98eb5f95652cefb3be57d76b1152beaa8d82adf990f73d6a25cc5/dash/live/2093710/219026-321025/manifest-d.mpd"
+                },
+                {
+                    "Channel_Name": "SKY SPORTS 4k",
+                    "drm_key": "4d346b1d1ae64d4a800409cffa14983e:208c972bd2da4359ac94e6944fe378b6",
+                    "stream_url": "https://dice-live-oc.akamaized.net/hdntl=exp=1779611158~acl=%2F*~id=d6e2c6de-d50e-481c-9959-1045ec8a65c9~data=hdntl,aXA9MTcyLjE4Mi4yMjUuMTYyJmV4cD0xNzc5NTI0Nzg4JmVpZD05NjE2MDQmb2lkPTEwOCZ0eXBlPVZPRCZ1aWQ9aVVFd1VXfGVlZjY4NGJmLTBlNWItNDk3MC05NWNjLTRjNWNkODM2OTJiZiZjaWQ9ZGNlLnNwdXJzJnB0PW51bGw~hmac=148ac436dad441f38b56370db62b140f7ebf929cec0617c2f38f10a6798fecd7/dash/live/2093666/294921-318514/manifest-d.mpd"
+                },
+                {
+                    "Channel_Name": "WILLOW [Ad-Free]",
+                    "drm_key": "6f3eaab7db8b0b8f9a247fa56ee10065:0480f4421c542db9faefc632f9ab54d7",
+                    "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/wfu91ice15/out/v1/97aa6cb2e1214a0c8be700eb4ce24200/cenc-sd.mpd"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "id": "416",
+            "event_name": "Hull City vs Middlesbrough",
+            "eventInfo": {
+                "teamA": "Hull",
+                "teamB": "Middlesbrough",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/96/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/36/image",
+                "eventName": "Hull City vs Middlesbrough",
+                "startTime": "2026/05/23 14:30:00 +0000",
+                "endTime": "2026/05/23 16:30:00 +0000"
+            },
+            "streams": [
+                {
+                    "Channel_Name": "SETANTA SPORTS",
+                    "drm_key": "243ba606b42842e48f824ba1523f99d3:23c469d7d45c4da3b98d50a3fa0013f7",
+                    "stream_url": "https://adjara-live-eu.akamaized.net/hdntl=exp=1779630451~acl=%2F*~id=8980c9d6-ed65-4bdb-bbd2-78a7f7021bdb~data=hdntl,aXA9MjAuMjMxLjEwMS4zNiZleHA9MTc3OTU0NDA4MSZlaWQ9OTYxNTM5Jm9pZD0xMDgmdHlwZT1WT0QmdWlkPTNZTlVqeHw4NmE4YTYxYi04YTkxLTRhMDAtOGQ0OS04MmFlNWM2YWVmYmUmY2lkPWRjZS5zcHVycyZwdD1udWxs~hmac=2bc3a2381fba47a3b8639e381c3fa3aa19323040aa2fff1e739e9ff0d3a2af70/dash/live/2005792/303308-321903/manifest-d.mpd"
+                },
+                {
+                    "Channel_Name": "beIN ENGLISH FHD",
+                    "drm_key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
+                    "stream_url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "id": "417",
+            "event_name": "Celtic vs Dunfermline",
+            "eventInfo": {
+                "teamA": "Celtic",
+                "teamB": "Dunfermline",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/2352/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/2350/image",
+                "eventName": "Celtic vs Dunfermline Athletic",
+                "startTime": "2026/05/23 14:00:00 +0000",
+                "endTime": "2026/05/23 16:00:00 +0000"
+            },
+            "streams": [
+                {
+                    "Channel_Name": "PREMIER SPORTS",
+                    "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
+                    "stream_url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd"
+                },
+                {
+                    "Channel_Name": "SETANTA SPORTS",
+                    "drm_key": "b94f0f437f864eb5831c3629cd4501e0:d0a07e006b734aa49438433e2667b5fa",
+                    "stream_url": "https://adjara-live-eu.akamaized.net/hdntl=exp=1779630444~acl=%2F*~id=75e99b22-9e1a-445e-8f68-3653387dfdb1~data=hdntl,aXA9MjAuMjMxLjEwMS4zNiZleHA9MTc3OTU0NDA3NCZlaWQ9OTYxNjEzJm9pZD0xMDgmdHlwZT1WT0QmdWlkPTNZTlVqeHw4NmE4YTYxYi04YTkxLTRhMDAtOGQ0OS04MmFlNWM2YWVmYmUmY2lkPWRjZS5zcHVycyZwdD1udWxs~hmac=8049e4dab19fd3be83631bd94a8d1b97c5ae17d3b8f7b25ab49bf5ae2cbd2a6e/dash/live/2005782/303294-321902/manifest-d.mpd"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "id": "431",
+            "event_name": "Slovakia vs Czechia",
+            "eventInfo": {
+                "teamA": "Slovakia",
+                "teamB": "Czechia",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/5736/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/5730/image",
+                "eventName": "Slovakia vs Czechia",
+                "startTime": "2026/05/23 14:20:00 +0000",
+                "endTime": "2026/05/23 17:00:00 +0000"
+            },
+            "streams": [
+                {
+                    "Channel_Name": "TSN SPORTS FHD",
+                    "drm_key": "e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689",
+                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd"
                 }
             ]
         },
@@ -375,92 +565,6 @@
         },
         {
             "status": "UPCOMING",
-            "id": "366",
-            "event_name": "IPL - 01",
-            "eventInfo": {
-                "teamA": "LSG",
-                "teamB": "PBKS",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/410010/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/187776/image",
-                "eventName": "Lucknow Super Giants vs Punjab Kings",
-                "startTime": "2026/05/23 14:00:00 +0000",
-                "endTime": "2026/05/23 18:00:00 +0000"
-            },
-            "streams": [
-                {
-                    "Channel_Name": "PRIME VIDEO",
-                    "drm_key": "470a5bda0ae8965c3ab4004c302bc1c8:b04888df6ed570c9435b97471504bd9b",
-                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ptptpteoh7/out/v1/564bb083afea4561a5a60c4447258379/cenc.mpd"
-                },
-                {
-                    "Channel_Name": "WILLOW [Ad Free]",
-                    "drm_key": "2d0646dd8a8c511de3b2485071705038:1ddbda2f121875fd43dcd758497cbf82",
-                    "stream_url": "https://a96aivottlinear-a.akamaihd.net/OTTB/iad-nitro/enc/7j8yftutgs/out/v1/8a40608178f045839a1c0c0a055d6a90/cenc.mpd"
-                },
-                {
-                    "Channel_Name": "PRIME HINDI",
-                    "drm_key": "9909e33838e1152cc512c4636f513f8f:02f67060c94bcc3307280f505ad508ab",
-                    "stream_url": "https://otte.cache.aiv-cdn.net/fra-nitro/live/clients/dash/enc/nn1qrdjaha/out/v1/bc4fa7d9cebf47858bebf14ad589025e/cenc.mpd"
-                },
-                {
-                    "Channel_Name": "SKY SPORTS - AQ",
-                    "drm_key": "",
-                    "stream_url": "https://bl.rutube.ru/livestream/9585fdae92af45f113fdcc9f6c4ba442/index.m3u8?s=KgZtccuHrnaljGaN7cmUwA&e=2068506973&scheme=https"
-                },
-                {
-                    "Channel_Name": "PTV Sports",
-                    "drm_key": "",
-                    "stream_url": "https://customer-jfpjrgh1mi5y63cd.cloudflarestream.com/57c9fd581995339676bb330a024502e2/manifest/stream_t9e72c8d63ef150818cea65aca509f8bd_r1479738631.m3u8?llhlsHBs=0.9"
-                },
-                {
-                    "Channel_Name": "S©portzX Live",
-                    "drm_key": "",
-                    "stream_url": "https://sfsfs.valverdeae7.workers.dev/live.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:148.0) Gecko/20100101 Firefox/148.0&Referer=https://matcheslinkz.pages.dev/&origin=https://matcheslinkz.pages.dev"
-                },
-                {
-                    "Channel_Name": "JIO HOTSTAR",
-                    "drm_key": "",
-                    "stream_url": "https://live-pull.aisports.mobi/moviebox/device01/playlist.m3u8|Referer=https://sportslivenow.top/"
-                },
-                {
-                    "Channel_Name": "WILLOW HD",
-                    "drm_key": "",
-                    "stream_url": "https://cdn16348712.blazingcdn.net/dx14fhd/index.m3u8|Referer=https://yahoo.com/&Origin=https://yahoo.com&User-Agent=AppleCoreMedia/1.0.0.23D5103d (iPhone; U; CPU OS 26_3 like Mac OS X; en_us)"
-                },
-                {
-                    "Channel_Name": "Star Sports [HIN]",
-                    "drm_key": "",
-                    "stream_url": "http://103.229.254.25:7001/play/a0a0/index.m3u8"
-                },
-                {
-                    "Channel_Name": "STAR ENG - IN",
-                    "drm_key": "",
-                    "stream_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_BTS/output/index.mpd?__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343|drmScheme=com.clearkey.alpha&drmLicense=965dc2ddb1d85138ad787999a7f30ca5:859695076e67fe961836b564db6d689c|user-agent=JioTV.Plus/2.1.9_2027 (Linux;Android 13) AndroidXMedia3/1.4.0&cookie=__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343"
-                },
-                {
-                    "Channel_Name": "STAR HIN - IN",
-                    "drm_key": "",
-                    "stream_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_HD1_Hindi_BTS/output/index.mpd?__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343|drmScheme=com.clearkey.alpha&drmLicense=400131994b445d8c8817202248760fda:2d56cb6f07a75b9aff165d534ae2bfc4|user-agent=JioTV.Plus/2.1.9_2027 (Linux;Android 13) AndroidXMedia3/1.4.0&cookie=__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343"
-                },
-                {
-                    "Channel_Name": "STAR TAM - IN",
-                    "drm_key": "",
-                    "stream_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Tamil_HD_BTS/output/index.mpd?__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343|drmScheme=com.clearkey.alpha&drmLicense=2272c0bc6b2e5cb090b1f55996e0026c:943923934de1d5536ab01c67fca8b337|user-agent=JioTV.Plus/2.1.9_2027 (Linux;Android 13) AndroidXMedia3/1.4.0&cookie=__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343"
-                },
-                {
-                    "Channel_Name": "STAR TEL - IN",
-                    "drm_key": "",
-                    "stream_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_HD_BTS/output/index.mpd?__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343|drmScheme=com.clearkey.alpha&drmLicense=49e84b9edfd85379b90c81b7d2d3d2bf:19c82d3ff094fa06af95820a1572ecb5|user-agent=JioTV.Plus/2.1.9_2027 (Linux;Android 13) AndroidXMedia3/1.4.0&cookie=__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343"
-                },
-                {
-                    "Channel_Name": "STAR KAN - IN",
-                    "drm_key": "",
-                    "stream_url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Kannada_BTS/output/index.mpd?__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343|drmScheme=com.clearkey.alpha&drmLicense=9a6d058fa40b5460a946178900eb44cb:791d7444110cec32d731ca0c33ac6c15|user-agent=JioTV.Plus/2.1.9_2027 (Linux;Android 13) AndroidXMedia3/1.4.0&cookie=__hdnea__=st=1772692216~exp=1772778616~acl=/*~hmac=d91b97fddea1ccde2329a99c4a436354628a82ca1b618b94f1b90ef0e2131343"
-                }
-            ]
-        },
-        {
-            "status": "UPCOMING",
             "id": "373",
             "event_name": "Cleveland Cavaliers",
             "eventInfo": {
@@ -696,32 +800,6 @@
                     "Channel_Name": "SportzX Live",
                     "drm_key": "",
                     "stream_url": "https://mainstreams.pro/hls/hfzljfahzcax29.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
-                }
-            ]
-        },
-        {
-            "status": "UPCOMING",
-            "id": "400",
-            "event_name": "England W vs New Zealand W",
-            "eventInfo": {
-                "teamA": "ENG-W",
-                "teamB": "NZ-W",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/213121/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/213115/image",
-                "eventName": "England W vs New Zealand W",
-                "startTime": "2026/05/23 13:30:00 +0000",
-                "endTime": "2026/05/23 17:15:00 +0000"
-            },
-            "streams": [
-                {
-                    "Channel_Name": "SKY SPORTS FHD",
-                    "drm_key": "aefc2c8d1c8840f1b6981f856c9269ba:cf8ea114c45b4d6596b2748258ab74d6",
-                    "stream_url": "https://dice-live-oc.akamaized.net/hdntl=exp=1779611161~acl=%2F*~id=76d3cf88-ffc3-413a-98ea-5139b26ca05c~data=hdntl,aXA9MTcyLjE4Mi4yMjUuMTYyJmV4cD0xNzc5NTI0NzkxJmVpZD05NjE1Mzkmb2lkPTEwOCZ0eXBlPVZPRCZ1aWQ9aVVFd1VXfGVlZjY4NGJmLTBlNWItNDk3MC05NWNjLTRjNWNkODM2OTJiZiZjaWQ9ZGNlLnNwdXJzJnB0PW51bGw~hmac=c0e0e486d7d98eb5f95652cefb3be57d76b1152beaa8d82adf990f73d6a25cc5/dash/live/2093710/219026-321025/manifest-d.mpd"
-                },
-                {
-                    "Channel_Name": "SKY SPORTS 4k",
-                    "drm_key": "4d346b1d1ae64d4a800409cffa14983e:208c972bd2da4359ac94e6944fe378b6",
-                    "stream_url": "https://dice-live-oc.akamaized.net/hdntl=exp=1779611158~acl=%2F*~id=d6e2c6de-d50e-481c-9959-1045ec8a65c9~data=hdntl,aXA9MTcyLjE4Mi4yMjUuMTYyJmV4cD0xNzc5NTI0Nzg4JmVpZD05NjE2MDQmb2lkPTEwOCZ0eXBlPVZPRCZ1aWQ9aVVFd1VXfGVlZjY4NGJmLTBlNWItNDk3MC05NWNjLTRjNWNkODM2OTJiZiZjaWQ9ZGNlLnNwdXJzJnB0PW51bGw~hmac=148ac436dad441f38b56370db62b140f7ebf929cec0617c2f38f10a6798fecd7/dash/live/2093666/294921-318514/manifest-d.mpd"
                 }
             ]
         },
@@ -1057,48 +1135,6 @@
         },
         {
             "status": "UPCOMING",
-            "id": "416",
-            "event_name": "Hull City vs Middlesbrough",
-            "eventInfo": {
-                "teamA": "Hull",
-                "teamB": "Middlesbrough",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/96/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/36/image",
-                "eventName": "Hull City vs Middlesbrough",
-                "startTime": "2026/05/23 14:30:00 +0000",
-                "endTime": "2026/05/23 16:30:00 +0000"
-            },
-            "streams": [
-                {
-                    "Channel_Name": "beIN ENGLISH FHD",
-                    "drm_key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e",
-                    "stream_url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd"
-                }
-            ]
-        },
-        {
-            "status": "UPCOMING",
-            "id": "417",
-            "event_name": "Celtic vs Dunfermline",
-            "eventInfo": {
-                "teamA": "Celtic",
-                "teamB": "Dunfermline",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/2352/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/2350/image",
-                "eventName": "Celtic vs Dunfermline Athletic",
-                "startTime": "2026/05/23 14:00:00 +0000",
-                "endTime": "2026/05/23 16:00:00 +0000"
-            },
-            "streams": [
-                {
-                    "Channel_Name": "PREMIER SPORTS",
-                    "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
-                    "stream_url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd"
-                }
-            ]
-        },
-        {
-            "status": "UPCOMING",
             "id": "420",
             "event_name": "Cincinnati Reds vs Cardinals",
             "eventInfo": {
@@ -1325,27 +1361,6 @@
                     "Channel_Name": "SportzX Live",
                     "drm_key": "",
                     "stream_url": "https://mainstreams.pro/hls/ijfnakfidch22.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
-                }
-            ]
-        },
-        {
-            "status": "UPCOMING",
-            "id": "431",
-            "event_name": "Slovakia vs Czechia",
-            "eventInfo": {
-                "teamA": "Slovakia",
-                "teamB": "Czechia",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/5736/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/5730/image",
-                "eventName": "Slovakia vs Czechia",
-                "startTime": "2026/05/23 14:20:00 +0000",
-                "endTime": "2026/05/23 17:00:00 +0000"
-            },
-            "streams": [
-                {
-                    "Channel_Name": "TSN SPORTS FHD",
-                    "drm_key": "e51aa21f2a0fef9aabc120dfb655b52f:a12a987fe725a40b6be95cd84b15f689",
-                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/7janu55dwc/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd"
                 }
             ]
         },
