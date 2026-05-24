@@ -2,8 +2,8 @@
     "name": "Live and Upcoming Sports Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "10:51:33 PM 24-05-2026",
-    "total_matches": 45,
+    "last_update_time": "11:53:37 PM 24-05-2026",
+    "total_matches": 40,
     "matches": [
         {
             "status": "LIVE",
@@ -28,126 +28,79 @@
         },
         {
             "status": "LIVE",
-            "id": "394",
-            "event_name": "Atlanta Braves",
+            "id": "395",
+            "event_name": "Texas Rangers",
             "eventInfo": {
-                "teamA": "Braves",
-                "teamB": "Nationals",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3656/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/5930/image",
-                "eventName": "Atlanta Braves vs Washington Nationals",
-                "startTime": "2026/05/24 20:10:00 +0000",
-                "endTime": "2026/05/24 23:10:00 +0000"
+                "teamA": "Angels",
+                "teamB": "Rangers",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/5929/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3647/image",
+                "eventName": "Angels vs Texas Rangers",
+                "startTime": "2026/05/24 23:20:00 +0000",
+                "endTime": "2026/05/25 02:20:00 +0000"
             },
             "streams": [
-                {
-                    "Channel_Name": "SportzX MLB",
-                    "drm_key": "",
-                    "stream_url": "https://chatgpt.hereisman.net/playlist/51137/load-playlist?|Referer=https://gooz.aapmains.net"
-                },
                 {
                     "Channel_Name": "SportzX Live",
                     "drm_key": "",
-                    "stream_url": "https://mainstreams.pro/hls/dzjhkfazbka26.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
+                    "stream_url": "https://mainstreams.pro/hls/hfzljfahzcax29.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
                 }
             ]
         },
         {
             "status": "LIVE",
-            "id": "398",
-            "event_name": "Athletics",
+            "id": "481",
+            "event_name": "Vasco da Gama vs Bragantino",
             "eventInfo": {
-                "teamA": "Padres",
-                "teamB": "Athletics",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3636/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3645/image",
-                "eventName": "San Diego Padres vs Athletics",
-                "startTime": "2026/05/24 20:10:00 +0000",
-                "endTime": "2026/05/24 23:10:00 +0000"
+                "teamA": "Vasco",
+                "teamB": "RB Bragantino",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1974/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/1999/image",
+                "eventName": "Vasco da Gama vs Bragantino",
+                "startTime": "2026/05/24 23:30:00 +0000",
+                "endTime": "2026/05/25 01:30:00 +0000"
             },
             "streams": [
                 {
-                    "Channel_Name": "SportzX MLB",
-                    "drm_key": "",
-                    "stream_url": "https://chatgpt.hereisman.net/playlist/51139/load-playlist?|Referer=https://gooz.aapmains.net"
+                    "Channel_Name": "SporTV BR FHD",
+                    "drm_key": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
+                    "stream_url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd"
                 },
-                {
-                    "Channel_Name": "SportzX LIVE",
-                    "drm_key": "",
-                    "stream_url": "https://mainstreams.pro/hls/jzabfazkbf27.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "id": "399",
-            "event_name": "Arizona Diamondbacks",
-            "eventInfo": {
-                "teamA": "Diamondbacks",
-                "teamB": "Rockies",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3640/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3628/image",
-                "eventName": "Diamondbacks vs Colorado Rockies",
-                "startTime": "2026/05/24 20:10:00 +0000",
-                "endTime": "2026/05/24 23:10:00 +0000"
-            },
-            "streams": [
-                {
-                    "Channel_Name": "SportzX MLB",
-                    "drm_key": "",
-                    "stream_url": "https://chatgpt.hereisman.net/playlist/51141/load-playlist?|Referer=https://gooz.aapmains.net"
-                },
-                {
-                    "Channel_Name": "SportzX Live",
-                    "drm_key": "",
-                    "stream_url": "https://mainstreams.pro/hls/hefbafbakx28.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "id": "477",
-            "event_name": "Giants vs White Sox",
-            "eventInfo": {
-                "teamA": "Giants",
-                "teamB": "White Sox",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3634/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3644/image",
-                "eventName": "Giants vs White Sox",
-                "startTime": "2026/05/24 20:05:00 +0000",
-                "endTime": "2026/05/24 23:05:00 +0000"
-            },
-            "streams": [
-                {
-                    "Channel_Name": "SportzX MLB",
-                    "drm_key": "",
-                    "stream_url": "https://chatgpt.hereisman.net/playlist/51136/load-playlist?|Referer=https://gooz.aapmains.net"
-                },
-                {
-                    "Channel_Name": "SportzX Live",
-                    "drm_key": "",
-                    "stream_url": "https://mainstreams.pro/hls/kjhfzua25.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "id": "480",
-            "event_name": "Corinthians vs Atlético Mineiro",
-            "eventInfo": {
-                "teamA": "Corinthians",
-                "teamB": "Atlético-MG",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/1957/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/1977/image",
-                "eventName": "Corinthians vs Atlético Mineiro",
-                "startTime": "2026/05/24 21:30:00 +0000",
-                "endTime": "2026/05/24 23:30:00 +0000"
-            },
-            "streams": [
                 {
                     "Channel_Name": "PREMIERER BR",
-                    "drm_key": "9dc40460c93087aea84d6315f08ecb64:f69c8d4624fddff4ca89bd0b31bdc4a7",
-                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd"
+                    "drm_key": "56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3",
+                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "id": "482",
+            "event_name": "Inter Miami vs Philadelphia Union",
+            "eventInfo": {
+                "teamA": "Inter Miami",
+                "teamB": "Philadelphia",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/337602/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/39833/image",
+                "eventName": "Inter Miami vs Philadelphia Union",
+                "startTime": "2026/05/24 23:00:00 +0000",
+                "endTime": "2026/05/25 01:00:00 +0000"
+            },
+            "streams": [
+                {
+                    "Channel_Name": "APPLE TV+ HD",
+                    "drm_key": "",
+                    "stream_url": "https://chatgpt.hereisman.net/playlist/51151/load-playlist?|Referer=https://gooz.aapmains.net"
+                },
+                {
+                    "Channel_Name": "FOX DEPORTES",
+                    "drm_key": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
+                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd"
+                },
+                {
+                    "Channel_Name": "FOX SPORTS HD",
+                    "drm_key": "",
+                    "stream_url": "https://daffodil.sandhost.qzz.io/fox.m3u8"
                 }
             ]
         },
@@ -437,6 +390,11 @@
                     "stream_url": "https://dice-live-oc.akamaized.net/hdntl=exp=1779716803~acl=%2F*~id=e3c0718d-26eb-451b-b368-a9fbedc1b4e4~data=hdntl,aXA9MjAuOTcuMTk4LjI0MCZleHA9MTc3OTYzMDQzMyZlaWQ9OTYxOTI1Jm9pZD0xMDgmdHlwZT1WT0QmdWlkPXNleWRIdHwzM2RmMTQ4NS1jZmNlLTRlZGUtODA0Ny0zMjExOGNjYjhkNjgmY2lkPWRjZS5zcHVycyZwdD1udWxs~hmac=800bc367bc4fbebb5232949fb01a993338ba9807309cf0e71c39a0c15060d608/dash/live/2093723/219038-321034/manifest-d.mpd"
                 },
                 {
+                    "Channel_Name": "SportzX NBA",
+                    "drm_key": "",
+                    "stream_url": "https://chatgpt.hereisman.net/playlist/51154/load-playlist?|Referer=https://gooz.aapmains.net"
+                },
+                {
                     "Channel_Name": "SportzX Live",
                     "drm_key": "",
                     "stream_url": "https://mainstreams.pro/hls/mlkijfezag65.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
@@ -463,14 +421,24 @@
             },
             "streams": [
                 {
+                    "Channel_Name": "SETANTA SPORTS",
+                    "drm_key": "6547dbaa76c54917b68b90cfc9c606dc:e82672e5d155441da8e2d2b111b6d584",
+                    "stream_url": "https://adjara-live-eu.akamaized.net/hdntl=exp=1779737054~acl=%2F*~id=91b2b77c-5acf-4562-a302-81dfd4e0db31~data=hdntl,aXA9MTcyLjE4NS4xNjcuMzYmZXhwPTE3Nzk2NTA2ODQmZWlkPTk2MjYwOCZvaWQ9MTA4JnR5cGU9Vk9EJnVpZD1FcVo5d2d8YmY4MTQ1ODAtMWFjMy00NjczLWFhMDktMDhlMjI1Y2NkMDFhJmNpZD1kY2Uuc3B1cnMmcHQ9bnVsbA~hmac=e3d75e1fd221b2be35a0c17a3e03975e84b24153ab4ec4f7ac54eb335251287b/dash/live/2019654/303496-322029/manifest-d.mpd"
+                },
+                {
                     "Channel_Name": "PREMIER SPORTS",
-                    "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
-                    "stream_url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd"
+                    "drm_key": "1444f4235529f183f0a5a486befe9cdb:e5e3fec67a1bb3472a2089c8a0a2557f",
+                    "stream_url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m6sqanvm2m/out/v1/f6beb46c6e9a4132ad739f3ca27df6aa/cenc.mpd"
                 },
                 {
                     "Channel_Name": "ESPN SPORTS HD",
                     "drm_key": "a01e1e0d5fb145b8b33190588490a27a:bfd9e3b0866e49cbae1bb7f7116451c9",
                     "stream_url": "https://dice-live-oc.akamaized.net/hdntl=exp=1779716810~acl=%2F*~id=fafefc95-635e-4e0d-ac2d-24d2bf8963f8~data=hdntl,aXA9MjAuOTcuMTk4LjI0MCZleHA9MTc3OTYzMDQ0MCZlaWQ9OTYxNjA0Jm9pZD0xMDgmdHlwZT1WT0QmdWlkPXNleWRIdHwzM2RmMTQ4NS1jZmNlLTRlZGUtODA0Ny0zMjExOGNjYjhkNjgmY2lkPWRjZS5zcHVycyZwdD1udWxs~hmac=183a25a7ecc2a191fbf6ed5293ed1502669a94be9f30bbdccd5ba99d3f809ab7/dash/live/2093724/219039-321035/manifest-d.mpd"
+                },
+                {
+                    "Channel_Name": "SportzX NHL",
+                    "drm_key": "",
+                    "stream_url": "https://chatgpt.hereisman.net/playlist/51155/load-playlist?|Referer=https://gooz.aapmains.net"
                 },
                 {
                     "Channel_Name": "SportzX Live",
@@ -481,27 +449,6 @@
                     "Channel_Name": "HD SERVER",
                     "drm_key": "",
                     "stream_url": "https://instreams.pro/US/NHL1/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click"
-                }
-            ]
-        },
-        {
-            "status": "UPCOMING",
-            "id": "395",
-            "event_name": "Texas Rangers",
-            "eventInfo": {
-                "teamA": "Angels",
-                "teamB": "Rangers",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/5929/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3647/image",
-                "eventName": "Angels vs Texas Rangers",
-                "startTime": "2026/05/24 23:20:00 +0000",
-                "endTime": "2026/05/25 02:20:00 +0000"
-            },
-            "streams": [
-                {
-                    "Channel_Name": "SportzX Live",
-                    "drm_key": "",
-                    "stream_url": "https://mainstreams.pro/hls/hfzljfahzcax29.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
                 }
             ]
         },
@@ -519,6 +466,11 @@
                 "endTime": "2026/05/25 02:30:00 +0000"
             },
             "streams": [
+                {
+                    "Channel_Name": "SportzX AEW",
+                    "drm_key": "",
+                    "stream_url": "https://chatgpt.hereisman.net/playlist/51152/load-playlist?|Referer=https://gooz.aapmains.net"
+                },
                 {
                     "Channel_Name": "SportzX Live",
                     "drm_key": "",
@@ -551,9 +503,9 @@
             },
             "streams": [
                 {
-                    "Channel_Name": "TUDN USA HD",
+                    "Channel_Name": "TUDN SPORTS HD",
                     "drm_key": "",
-                    "stream_url": "https://daffodil.thelistener.pk/tudn.m3u8"
+                    "stream_url": "https://daffodil.sandhost.qzz.io/tudn.m3u8"
                 },
                 {
                     "Channel_Name": "SportzX Live",
@@ -561,66 +513,9 @@
                     "stream_url": "https://instreams.pro/bil1/tudn/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click"
                 },
                 {
-                    "Channel_Name": "TUDN SPORTS HD",
+                    "Channel_Name": "TUDN USA HD",
                     "drm_key": "",
-                    "stream_url": "https://daffodil.sandhost.qzz.io/tudn.m3u8"
-                }
-            ]
-        },
-        {
-            "status": "UPCOMING",
-            "id": "481",
-            "event_name": "Vasco da Gama vs Bragantino",
-            "eventInfo": {
-                "teamA": "Vasco",
-                "teamB": "RB Bragantino",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/1974/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/1999/image",
-                "eventName": "Vasco da Gama vs Bragantino",
-                "startTime": "2026/05/24 23:30:00 +0000",
-                "endTime": "2026/05/25 01:30:00 +0000"
-            },
-            "streams": [
-                {
-                    "Channel_Name": "SporTV BR FHD",
-                    "drm_key": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
-                    "stream_url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd"
-                },
-                {
-                    "Channel_Name": "PREMIERER BR",
-                    "drm_key": "56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3",
-                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd"
-                }
-            ]
-        },
-        {
-            "status": "UPCOMING",
-            "id": "482",
-            "event_name": "Inter Miami vs Philadelphia Union",
-            "eventInfo": {
-                "teamA": "Inter Miami",
-                "teamB": "Philadelphia",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/337602/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/39833/image",
-                "eventName": "Inter Miami vs Philadelphia Union",
-                "startTime": "2026/05/24 23:00:00 +0000",
-                "endTime": "2026/05/25 01:00:00 +0000"
-            },
-            "streams": [
-                {
-                    "Channel_Name": "FOX USA HD",
-                    "drm_key": "",
-                    "stream_url": "https://daffodil.thelistener.pk/fox.m3u8"
-                },
-                {
-                    "Channel_Name": "FOX DEPORTES",
-                    "drm_key": "d1a163914db8ffad2c3e94f979896a0d:9728800a3959aafdd5b0bcfbf3768811",
-                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd"
-                },
-                {
-                    "Channel_Name": "FOX SPORTS HD",
-                    "drm_key": "",
-                    "stream_url": "https://daffodil.sandhost.qzz.io/fox.m3u8"
+                    "stream_url": "https://daffodil.thelistener.pk/tudn.m3u8"
                 }
             ]
         },
@@ -743,58 +638,6 @@
                     "Channel_Name": "Server 3",
                     "drm_key": "a6b967afcb974bb5a549377b4f09befd:87d993257a099324ccd0215475fc61a0",
                     "stream_url": "https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561402/index.mpd"
-                }
-            ]
-        },
-        {
-            "status": "ENDED",
-            "id": "377",
-            "event_name": "Atlanta Dream vs Mercury",
-            "eventInfo": {
-                "teamA": "Atlanta",
-                "teamB": "Mercury",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/35545/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3444/image",
-                "eventName": "Atlanta Dream vs Phoenix Mercury",
-                "startTime": "2026/05/24 19:00:00 +0000",
-                "endTime": "2026/05/24 21:30:00 +0000"
-            },
-            "streams": [
-                {
-                    "Channel_Name": "SportzX WNBA",
-                    "drm_key": "",
-                    "stream_url": "https://chatgpt.hereisman.net/playlist/51132/load-playlist?|Referer=https://gooz.aapmains.net"
-                },
-                {
-                    "Channel_Name": "SportzX Live",
-                    "drm_key": "",
-                    "stream_url": "https://mainstreams.pro/hls/bvnsqdfvgha70.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
-                }
-            ]
-        },
-        {
-            "status": "ENDED",
-            "id": "378",
-            "event_name": "Liberty vs Dallas Wings",
-            "eventInfo": {
-                "teamA": "Liberty",
-                "teamB": "Wings",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3446/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3450/image",
-                "eventName": "New York Liberty vs Dallas Wings",
-                "startTime": "2026/05/24 19:30:00 +0000",
-                "endTime": "2026/05/24 22:10:00 +0000"
-            },
-            "streams": [
-                {
-                    "Channel_Name": "SportzX WNBA",
-                    "drm_key": "",
-                    "stream_url": "https://chatgpt.hereisman.net/playlist/51135/load-playlist?|Referer=https://gooz.aapmains.net"
-                },
-                {
-                    "Channel_Name": "SportzX Live",
-                    "drm_key": "",
-                    "stream_url": "https://mainstreams.pro/hls/ztyarueaghj71.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
                 }
             ]
         },
@@ -1380,6 +1223,32 @@
         },
         {
             "status": "ENDED",
+            "id": "477",
+            "event_name": "Giants vs White Sox",
+            "eventInfo": {
+                "teamA": "Giants",
+                "teamB": "White Sox",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3634/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3644/image",
+                "eventName": "Giants vs White Sox",
+                "startTime": "2026/05/24 20:05:00 +0000",
+                "endTime": "2026/05/24 23:05:00 +0000"
+            },
+            "streams": [
+                {
+                    "Channel_Name": "SportzX MLB",
+                    "drm_key": "",
+                    "stream_url": "https://chatgpt.hereisman.net/playlist/51136/load-playlist?|Referer=https://gooz.aapmains.net"
+                },
+                {
+                    "Channel_Name": "SportzX Live",
+                    "drm_key": "",
+                    "stream_url": "https://mainstreams.pro/hls/kjhfzua25.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
+                }
+            ]
+        },
+        {
+            "status": "ENDED",
             "id": "478",
             "event_name": "Remo vs Athletico",
             "eventInfo": {
@@ -1417,6 +1286,27 @@
                     "Channel_Name": "PRIME VIDEO",
                     "drm_key": "7daa94378ef6b4da0dde4e5e40a83360:cf780489726c04879889b97270cbf31a",
                     "stream_url": "https://abkv2pxaaaaaaaamms3xu2tu2eynb.ta.bia-cf.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/uq2koin2rk/out/v1/178bde30fb5a49209e3d41f17da49bfe/cenc.mpd"
+                }
+            ]
+        },
+        {
+            "status": "ENDED",
+            "id": "480",
+            "event_name": "Corinthians vs Atlético Mineiro",
+            "eventInfo": {
+                "teamA": "Corinthians",
+                "teamB": "Atlético-MG",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1957/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/1977/image",
+                "eventName": "Corinthians vs Atlético Mineiro",
+                "startTime": "2026/05/24 21:30:00 +0000",
+                "endTime": "2026/05/24 23:30:00 +0000"
+            },
+            "streams": [
+                {
+                    "Channel_Name": "PREMIERER BR",
+                    "drm_key": "9dc40460c93087aea84d6315f08ecb64:f69c8d4624fddff4ca89bd0b31bdc4a7",
+                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oy6rp0jwmf/out/v1/580ecf12bad24979baf8dd993dce053e/cenc.mpd"
                 }
             ]
         }
