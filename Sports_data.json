@@ -2,92 +2,9 @@
     "name": "Live and Upcoming Sports Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "03:54:35 AM 26-05-2026",
-    "total_matches": 17,
+    "last_update_time": "07:38:58 AM 26-05-2026",
+    "total_matches": 15,
     "matches": [
-        {
-            "status": "LIVE",
-            "id": "378",
-            "event_name": "Valkyries vs Connecticut Sun",
-            "eventInfo": {
-                "teamA": "Valkyries",
-                "teamB": "Connecticut",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/1041936/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/35547/image",
-                "eventName": "Valkyries vs Connecticut Sun",
-                "startTime": "2026/05/26 02:00:00 +0000",
-                "endTime": "2026/05/26 04:30:00 +0000"
-            },
-            "streams": [
-                {
-                    "Channel_Name": "SportzX WNBA",
-                    "drm_key": "",
-                    "stream_url": "https://chatgpt.hereisman.net/playlist/51202/load-playlist?|Referer=https://gooz.aapmains.net"
-                },
-                {
-                    "Channel_Name": "WNBA LIVE HD",
-                    "drm_key": "",
-                    "stream_url": "https://nh4.hocloud.cfd/live/golden/stream.m3u8"
-                },
-                {
-                    "Channel_Name": "SportzX Live",
-                    "drm_key": "",
-                    "stream_url": "https://mainstreams.pro/hls/ztyarueaghj71.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "id": "398",
-            "event_name": "Athletics",
-            "eventInfo": {
-                "teamA": "Athletics",
-                "teamB": "Mariners",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3645/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3641/image",
-                "eventName": "Athletics vs Seattle Mariners",
-                "startTime": "2026/05/26 01:40:00 +0000",
-                "endTime": "2026/05/26 04:40:00 +0000"
-            },
-            "streams": [
-                {
-                    "Channel_Name": "SportzX MLB",
-                    "drm_key": "",
-                    "stream_url": "https://chatgpt.hereisman.net/playlist/51200/load-playlist?|Referer=https://gooz.aapmains.net"
-                },
-                {
-                    "Channel_Name": "SportzX LIVE",
-                    "drm_key": "",
-                    "stream_url": "https://edge2caster.pro/hls/jzabfazkbf27.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "id": "399",
-            "event_name": "Colorado Rockies",
-            "eventInfo": {
-                "teamA": "Dodgers",
-                "teamB": "Rockies",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3638/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3628/image",
-                "eventName": "Dodgers vs Colorado Rockies",
-                "startTime": "2026/05/26 01:10:00 +0000",
-                "endTime": "2026/05/26 04:10:00 +0000"
-            },
-            "streams": [
-                {
-                    "Channel_Name": "SportzX MLB",
-                    "drm_key": "",
-                    "stream_url": "https://chatgpt.hereisman.net/playlist/51199/load-playlist?|Referer=https://gooz.aapmains.net"
-                },
-                {
-                    "Channel_Name": "SportzX Live",
-                    "drm_key": "",
-                    "stream_url": "https://edge2caster.pro/hls/dzjhkfazbka26.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
-                }
-            ]
-        },
         {
             "status": "UPCOMING",
             "id": "312",
@@ -558,6 +475,131 @@
             ]
         },
         {
+            "status": "UPCOMING",
+            "id": "373",
+            "event_name": "Oklahoma City Thunder",
+            "eventInfo": {
+                "teamA": "Thunder",
+                "teamB": "Spurs",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3418/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3429/image",
+                "eventName": "Thunder vs Spurs",
+                "startTime": "2026/05/27 00:30:00 +0000",
+                "endTime": "2026/05/27 03:30:00 +0000"
+            },
+            "streams": [
+                {
+                    "Channel_Name": "TSN SPORTS",
+                    "drm_key": "c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003",
+                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd"
+                },
+                {
+                    "Channel_Name": "SportzX Live",
+                    "drm_key": "",
+                    "stream_url": "https://mainstreams.pro/hls/mlkijfezag65.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+                },
+                {
+                    "Channel_Name": "HD SERVER",
+                    "drm_key": "",
+                    "stream_url": "https://instreams.pro/US/NBA1/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click"
+                }
+            ]
+        },
+        {
+            "status": "UPCOMING",
+            "id": "386",
+            "event_name": "Colorado Avalanche",
+            "eventInfo": {
+                "teamA": "Golden Knights",
+                "teamB": "Avalanche",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/257523/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3682/image",
+                "eventName": "Golden Knights vs Colorado Avalanche",
+                "startTime": "2026/05/27 01:00:00 +0000",
+                "endTime": "2026/05/27 04:00:00 +0000"
+            },
+            "streams": [
+                {
+                    "Channel_Name": "PREMIER SPORTS",
+                    "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
+                    "stream_url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd"
+                },
+                {
+                    "Channel_Name": "SportzX Live",
+                    "drm_key": "",
+                    "stream_url": "https://edge2caster.pro/hls/uyopzarf50.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+                },
+                {
+                    "Channel_Name": "HD SERVER",
+                    "drm_key": "",
+                    "stream_url": "https://instreams.pro/US/NHL1/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click"
+                }
+            ]
+        },
+        {
+            "status": "UPCOMING",
+            "id": "402",
+            "event_name": "Saint-Étienne vs Nice",
+            "eventInfo": {
+                "teamA": "Saint-Étienne",
+                "teamB": "Nice",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1678/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/1661/image",
+                "eventName": "Saint-Étienne vs Nice",
+                "startTime": "2026/05/26 18:45:00 +0000",
+                "endTime": "2026/05/26 20:45:00 +0000"
+            },
+            "streams": [
+                {
+                    "Channel_Name": "SportzX Live",
+                    "drm_key": "",
+                    "stream_url": "https://video.twimg.com/amplify_video/2059120457732009984/pl/oKoBJNL3BupMM8I0.m3u8?tag=27&variant_version"
+                }
+            ]
+        },
+        {
+            "status": "UPCOMING",
+            "id": "403",
+            "event_name": "Hampshire vs Essex",
+            "eventInfo": {
+                "teamA": "HAM",
+                "teamB": "ESS",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/187821/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/187829/image",
+                "eventName": "Hampshire vs Essex",
+                "startTime": "2026/05/26 18:00:00 +0000",
+                "endTime": "2026/05/26 21:45:00 +0000"
+            },
+            "streams": [
+                {
+                    "Channel_Name": "SportzX Live",
+                    "drm_key": "",
+                    "stream_url": "https://video.twimg.com/amplify_video/2059120457732009984/pl/oKoBJNL3BupMM8I0.m3u8?tag=27&variant_version"
+                }
+            ]
+        },
+        {
+            "status": "UPCOMING",
+            "id": "404",
+            "event_name": "Hampshire W vs Essex W",
+            "eventInfo": {
+                "teamA": "HAM-W",
+                "teamB": "ESS-W",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/470846/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/1081087/image",
+                "eventName": "Hampshire W vs Essex W",
+                "startTime": "2026/05/26 14:00:00 +0000",
+                "endTime": "2026/05/26 17:30:00 +0000"
+            },
+            "streams": [
+                {
+                    "Channel_Name": "SportzX Live",
+                    "drm_key": "",
+                    "stream_url": "https://video.twimg.com/amplify_video/2059120457732009984/pl/oKoBJNL3BupMM8I0.m3u8?tag=27&variant_version"
+                }
+            ]
+        },
+        {
             "status": "ENDED",
             "id": "328",
             "event_name": "WWE Raw",
@@ -595,170 +637,6 @@
                     "Channel_Name": "Tap Sport LQ",
                     "drm_key": "eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f",
                     "stream_url": "https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd"
-                }
-            ]
-        },
-        {
-            "status": "ENDED",
-            "id": "373",
-            "event_name": "Cleveland Cavaliers",
-            "eventInfo": {
-                "teamA": "Cavaliers",
-                "teamB": "Knicks",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3432/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3421/image",
-                "eventName": "Cleveland Cavaliers vs New York Knicks",
-                "startTime": "2026/05/26 00:00:00 +0000",
-                "endTime": "2026/05/26 03:00:00 +0000"
-            },
-            "streams": [
-                {
-                    "Channel_Name": "ESPN SPORTS",
-                    "drm_key": "326058ffe1cd4d3383781b36ca9145d1:99d405d46f114eff96789673e57d0121",
-                    "stream_url": "https://dice-live-oc.akamaized.net/hdntl=exp=1779824932~acl=%2F*~id=e64fa4c1-6eec-4acf-ae50-1554b4a5c362~data=hdntl,aXA9MjAuNTUuMTQuNTMmZXhwPTE3Nzk3Mzg1NjImZWlkPTk2MjYwOCZvaWQ9MTA4JnR5cGU9Vk9EJnVpZD1VNFd6RXV8MzNiNGJhZWQtOTExZi00ZDVjLTkxMWQtNWJlZjAzMTRmYWQ1JmNpZD1kY2Uuc3B1cnMmcHQ9bnVsbA~hmac=fb8db2d327d6c022f85af73f6292aee61bafa7ab307931d2af0cf2f545afc2c9/dash/live/2093723/219038-321034/manifest-d.mpd"
-                },
-                {
-                    "Channel_Name": "TSN SPORTS",
-                    "drm_key": "c4088f5f265f9de50cffd80bf89308b7:2c4d2239d96d532b4ec2050653611003",
-                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1/fde190f369484bc6b6117cc16cd82a9f/cenc.mpd"
-                },
-                {
-                    "Channel_Name": "SportzX NBA",
-                    "drm_key": "",
-                    "stream_url": "https://chatgpt.hereisman.net/playlist/51196/load-playlist?|Referer=https://gooz.aapmains.net"
-                },
-                {
-                    "Channel_Name": "NBA LIVE HD",
-                    "drm_key": "",
-                    "stream_url": "https://nh1.hocloud.cfd/live/espn/stream.m3u8"
-                },
-                {
-                    "Channel_Name": "NBA LIVE ALT",
-                    "drm_key": "",
-                    "stream_url": "https://live.kinescopecdn.net/on-air/cec62dfd-eb59-4e9c-9b27-9033eff90caf/f4cb41bd-6025-4440-9ab9-dc735f724b73/master.m3u8"
-                },
-                {
-                    "Channel_Name": "SportzX Live",
-                    "drm_key": "",
-                    "stream_url": "https://mainstreams.pro/hls/mlkijfezag65.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
-                },
-                {
-                    "Channel_Name": "HD SERVER",
-                    "drm_key": "",
-                    "stream_url": "https://instreams.pro/US/NBA1/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click"
-                }
-            ]
-        },
-        {
-            "status": "ENDED",
-            "id": "377",
-            "event_name": "Liberty vs Portland Fire",
-            "eventInfo": {
-                "teamA": "Liberty",
-                "teamB": "Fire",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3446/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/1166446/image",
-                "eventName": "New York Liberty vs Portland Fire",
-                "startTime": "2026/05/26 00:00:00 +0000",
-                "endTime": "2026/05/26 02:30:00 +0000"
-            },
-            "streams": [
-                {
-                    "Channel_Name": "SportzX WNBA",
-                    "drm_key": "",
-                    "stream_url": "https://chatgpt.hereisman.net/playlist/51195/load-playlist?|Referer=https://gooz.aapmains.net"
-                },
-                {
-                    "Channel_Name": "WNBA LIVE HD",
-                    "drm_key": "",
-                    "stream_url": "https://nh4.hocloud.cfd/live/liberty/stream.m3u8"
-                },
-                {
-                    "Channel_Name": "SportzX Live",
-                    "drm_key": "",
-                    "stream_url": "https://mainstreams.pro/hls/bvnsqdfvgha70.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
-                }
-            ]
-        },
-        {
-            "status": "ENDED",
-            "id": "386",
-            "event_name": "Carolina Hurricanes",
-            "eventInfo": {
-                "teamA": "Canadiens",
-                "teamB": "Hurricanes",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/3690/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/3680/image",
-                "eventName": "Canadiens vs Carolina Hurricanes",
-                "startTime": "2026/05/26 00:00:00 +0000",
-                "endTime": "2026/05/26 03:00:00 +0000"
-            },
-            "streams": [
-                {
-                    "Channel_Name": "SETANTA SPORTS",
-                    "drm_key": "afbe72d4cf6d4bc898205d3525c3f49f:36aa2b4bacc64365bc3ef5b927b3363e",
-                    "stream_url": "https://adjara-live-eu.akamaized.net/hdntl=exp=1779824932~acl=%2f*~id=e64fa4c1-6eec-4acf-ae50-1554b4a5c362~data=hdntl,aXA9MjAuNTUuMTQuNTMmZXhwPTE3Nzk3Mzg1NjImZWlkPTk2MjYwOCZvaWQ9MTA4JnR5cGU9Vk9EJnVpZD1VNFd6RXV8MzNiNGJhZWQtOTExZi00ZDVjLTkxMWQtNWJlZjAzMTRmYWQ1JmNpZD1kY2Uuc3B1cnMmcHQ9bnVsbA~hmac=fb8db2d327d6c022f85af73f6292aee61bafa7ab307931d2af0cf2f545afc2c9/dash/live/2019413/303497-322036/manifest-d.mpd"
-                },
-                {
-                    "Channel_Name": "PREMIER SPORTS",
-                    "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
-                    "stream_url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd"
-                },
-                {
-                    "Channel_Name": "ESPN SPORTS HD",
-                    "drm_key": "a01e1e0d5fb145b8b33190588490a27a:bfd9e3b0866e49cbae1bb7f7116451c9",
-                    "stream_url": "https://dice-live-oc.akamaized.net/hdntl=exp=1779824930~acl=%2F*~id=66f935b1-eba7-4fa3-a949-7e6caef4989b~data=hdntl,aXA9MjAuNTUuMTQuNTMmZXhwPTE3Nzk3Mzg1NjAmZWlkPTk2MjYyNSZvaWQ9MTA4JnR5cGU9Vk9EJnVpZD1VNFd6RXV8MzNiNGJhZWQtOTExZi00ZDVjLTkxMWQtNWJlZjAzMTRmYWQ1JmNpZD1kY2Uuc3B1cnMmcHQ9bnVsbA~hmac=8044e93b8c71921998e0003cd66bebfca60e5200328521893de6c905a7a5f0b1/dash/live/2093724/219039-321035/manifest-d.mpd"
-                },
-                {
-                    "Channel_Name": "SportzX NHL",
-                    "drm_key": "",
-                    "stream_url": "https://chatgpt.hereisman.net/playlist/51193/load-playlist?|Referer=https://gooz.aapmains.net"
-                },
-                {
-                    "Channel_Name": "NHL LIVE HD",
-                    "drm_key": "",
-                    "stream_url": "https://nh5.hocloud.cfd/live/tnt/stream.m3u8"
-                },
-                {
-                    "Channel_Name": "NHL LIVE ALT",
-                    "drm_key": "",
-                    "stream_url": "https://live.kinescopecdn.net/on-air/cec62dfd-eb59-4e9c-9b27-9033eff90caf/f061c422-8d4d-42ec-ab55-d73c4fa49cfc/master.m3u8"
-                },
-                {
-                    "Channel_Name": "SportzX Live",
-                    "drm_key": "",
-                    "stream_url": "https://edge2caster.pro/hls/uyopzarf50.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
-                },
-                {
-                    "Channel_Name": "HD SERVER",
-                    "drm_key": "",
-                    "stream_url": "https://instreams.pro/US/NHL1/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click"
-                }
-            ]
-        },
-        {
-            "status": "ENDED",
-            "id": "405",
-            "event_name": "Coritiba vs Bahia",
-            "eventInfo": {
-                "teamA": "Coritiba",
-                "teamB": "Bahia",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/1982/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/1955/image",
-                "eventName": "Coritiba vs Bahia",
-                "startTime": "2026/05/25 23:00:00 +0000",
-                "endTime": "2026/05/26 01:00:00 +0000"
-            },
-            "streams": [
-                {
-                    "Channel_Name": "PREMIERER BR",
-                    "drm_key": "56b79c1782b30e6b6fc973b0e8fd4104:fa38aaa865a57eda7c77444697ba8ed3",
-                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd"
-                },
-                {
-                    "Channel_Name": "SporTV BR",
-                    "drm_key": "4bbcff3289d457b4dd5dbdd21221de9a:c4906b9a9f8dda3c0725bddb8c497733",
-                    "stream_url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/m7duvnk2bu/out/v1/d1ad69118b5647309b1eb7213affdb3d/cenc.mpd"
                 }
             ]
         }
