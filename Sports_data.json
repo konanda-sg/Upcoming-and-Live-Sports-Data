@@ -2,8 +2,8 @@
     "name": "Live and Upcoming Sports Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "10:56:16 AM 27-05-2026",
-    "total_matches": 13,
+    "last_update_time": "02:24:36 PM 27-05-2026",
+    "total_matches": 32,
     "matches": [
         {
             "status": "LIVE",
@@ -46,10 +46,25 @@
                 },
                 {
                     "Channel_Name": "SKY SPORTS FHD",
-                    "drm_key": "01d02c97d1c949f9877acd230dcaa56d:708410b8bf1f4e998931183e8fab5d1e",
-                    "stream_url": "https://dice-live-oc.akamaized.net/hdntl=exp=1779698206~acl=%2F*~id=dcd4e583-c8ac-4d3f-a73c-589fa0155dba~data=hdntl,aXA9MjAuMTYxLjQ0LjE3OCZleHA9MTc3OTYxMTgzNiZlaWQ9OTYxOTI1Jm9pZD0xMDgmdHlwZT1WT0QmdWlkPW54ZkJBM3w5OWU3MGNlYy0yYmVkLTQyNmQtODdkNi0zNmFhM2E1YTMzYWMmY2lkPWRjZS5zcHVycyZwdD1udWxs~hmac=7f1ef132b1820605a0a6aafaddbbf6cd352b20d30ab0a706335b2d8b77f23dd7/dash/live/2093719/219037-321031/manifest-d.mpd"
+                    "drm_key": "708a98b352bd4418a73a028edd84da8f:b1fa5c2bca4c4b57b924b748564532cb",
+                    "stream_url": "https://dice-live-oc.akamaized.net/hdntl=exp=1779962653~acl=%2F*~id=074b6311-83b3-40e2-807d-a54c83beae51~data=hdntl,aXA9MTcyLjIxMC4xNDkuNTQmZXhwPTE3Nzk4NzYyODMmZWlkPTk2MzQ3MCZvaWQ9MTA4JnR5cGU9Vk9EJnVpZD1jM2dFV018MTYxODVhNTYtODFiZS00NWQ3LTk3YjYtOWI5N2E3ZTE3YjIyJmNpZD1kY2Uuc3B1cnMmcHQ9bnVsbA~hmac=f45dd7d9d58a6b10d845f02083b9b895ae3b2a14aca814558db8f97baabb02af/dash/live/2093715/219027-321028/manifest-d.mpd"
                 }
             ]
+        },
+        {
+            "status": "LIVE",
+            "id": 50025,
+            "event_name": "IPL - 01",
+            "eventInfo": {
+                "teamA": "SRH",
+                "teamB": "RR",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/187844/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/187842/image",
+                "eventName": "Sunrisers Hyderabad vs Rajasthan Royals",
+                "startTime": "2026/05/27 14:00:00 +0000",
+                "endTime": "2026/05/27 18:00:00 +0000"
+            },
+            "streams": []
         },
         {
             "status": "UPCOMING",
@@ -139,62 +154,6 @@
         },
         {
             "status": "UPCOMING",
-            "id": 50003,
-            "event_name": "MotoGP",
-            "eventInfo": {
-                "teamA": "MotoGP",
-                "teamB": "MotoGP",
-                "teamAFlag": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8fGgE14VBFQKRIMiWIvOlIwpL6AEobQtL3OkLLu7AzsBPGzeXGHsz5PL0NED5DHlAyKCFhPHoNaFB4Z1csH_vvpU47Pbtslr1za618knr-wojLCDa1hyW40v59Qw_UjMGWLREzicm9ZDl7yMuylyu7xMdMoQG3-XXKLoZafem7lpKqxfKavQu-33Mbck/s1600/mgp.png",
-                "teamBFlag": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8fGgE14VBFQKRIMiWIvOlIwpL6AEobQtL3OkLLu7AzsBPGzeXGHsz5PL0NED5DHlAyKCFhPHoNaFB4Z1csH_vvpU47Pbtslr1za618knr-wojLCDa1hyW40v59Qw_UjMGWLREzicm9ZDl7yMuylyu7xMdMoQG3-XXKLoZafem7lpKqxfKavQu-33Mbck/s1600/mgp.png",
-                "eventName": "MotoGP - Gran Premio d Italia",
-                "startTime": "2026/05/29 08:45:00 +0000",
-                "endTime": "2026/05/29 14:15:00 +0000"
-            },
-            "streams": [
-                {
-                    "Channel_Name": "MotoGP",
-                    "drm_key": "e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de",
-                    "stream_url": "https://live-emt-pv-ta.amazon.fastly-edge.com/PDX/709b3c4313a9405ab5e8634864c7cc3b/v1/dash/590183725645/imdb_amagi_amzn1_dv_live_csid_5357cf2a-51c8-4fa5-b996-cd307e0b7edc_us-west-2_pdx_dash_h264/startover/clients/dash/manipulated-manifest-pdx-prod/enc/xn1ww1wqze/out/v1/30f3ad9ba2c340739ea2943f29d44b32/2d4c0663-3f53-410f-9c43-2129136c9eb1-cenc.mpd?aws.sessionId=600a1abb-f5f1-44f2-b042-7fad259e4c9b"
-                },
-                {
-                    "Channel_Name": "TNT SPORTS - AQ",
-                    "drm_key": "f288380ca4cef9ad3f27a92a08e9bb8b:9f18d26291d9230833501f7f822f6875",
-                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd"
-                },
-                {
-                    "Channel_Name": "FANCODE FHD",
-                    "drm_key": "065051b99bf5cf8d9a3bde5cbde6aaf9:214bd176832872339ce184338320f9a2",
-                    "stream_url": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd"
-                },
-                {
-                    "Channel_Name": "SPO TV - AQ",
-                    "drm_key": "7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed",
-                    "stream_url": "https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd"
-                },
-                {
-                    "Channel_Name": "ZIGGO SPORT - AQ",
-                    "drm_key": "ef34ae91b4f2415e8439b2ad105e7488:243248d8de1ff8c7c587ee2057317523",
-                    "stream_url": "https://mag03.tvx.prd.tv.odido.nl/wh7f454c46tw75168188_-627298088/PLTV/86/224/3221241590/3221241590.mpd?zoneoffset=0&devkbps=1-7000&servicetype=1&icpid=86&accounttype=1&limitflux=-1&limitdur=-1&tenantId=3103&accountinfo=~~V2.0~qbcsJh_jU5C9BcZc959e_wae44b4867b3417aa76b5db2da20fe46c~KZzTWjB8qD1zdgbJjRPVLJX-tV0qiN9RBHC_iseGrsmTSRjj06oGDtGlpSCRGOwF3626cf085c08d024c7e4aafc18c32440~ExtInfo5Ro3VppWiUusj2ippqUPkQ%3D%3D4a2d2c8ce133f43026d0e31b822b8474%3A20240601012829%3AUTC%2C10001003329222%2C87.212.140.171%2C20240601012829%2C3103_SP1S%2C10001003329222%2C-1%2C0%2C1%2C%2C%2C2%2C3103_Sport1%2C%2C%2C2%2C10000044444303%2C0%2C10000025050255%2CNDEzODg2NTY3MzEwMzI2NzMwNjMwNTY%3D%2C%2C%2C5%2C1%2CEND&GuardEncType=2&RTS=1717205309&from=11&hms_devid=1008&online=1717205309&mag_hms=1008,311,305&_=1717205322621"
-                },
-                {
-                    "Channel_Name": "TNT SPORTS SD",
-                    "drm_key": "",
-                    "stream_url": "https://instreams.pro/bil1/motogpen/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click"
-                },
-                {
-                    "Channel_Name": "DAZN SPORTS",
-                    "drm_key": "",
-                    "stream_url": "https://instreams.pro/bil1/motogpfr/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click"
-                },
-                {
-                    "Channel_Name": "CANAL+ HD",
-                    "drm_key": "",
-                    "stream_url": "https://instreams.pro/EU/HDTV27/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click"
-                }
-            ]
-        },
-        {
-            "status": "UPCOMING",
             "id": 50004,
             "event_name": "UFC",
             "eventInfo": {
@@ -207,37 +166,6 @@
                 "endTime": "2026/05/30 15:00:00 +0000"
             },
             "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "id": 50005,
-            "event_name": "WWE NXT",
-            "eventInfo": {
-                "teamA": "NXT",
-                "teamB": "NXT",
-                "teamAFlag": "https://www.wwe.com/f/styles/wwe_show_logo_sm/public/all/2024/10/NXTonCW--0f06792893241464479338f55596a5bf.png",
-                "teamBFlag": "https://www.wwe.com/f/styles/wwe_show_logo_sm/public/all/2024/10/NXTonCW--0f06792893241464479338f55596a5bf.png",
-                "eventName": "🥊 WWE NXT",
-                "startTime": "2026/06/03 00:00:00 +0000",
-                "endTime": "2026/06/03 02:00:00 +0000"
-            },
-            "streams": [
-                {
-                    "Channel_Name": "HD SERVER",
-                    "drm_key": "",
-                    "stream_url": "https://27lftgqlgzmy.windows-devs.top/AccessLog2/83_FHD/apache.m3u8|Referer=https://27lftgqlgzmy.windows-devs.top/"
-                },
-                {
-                    "Channel_Name": "Backup SD",
-                    "drm_key": "",
-                    "stream_url": "https://29pisfqlcvyi.windows-devs.top/AccessLog2/108085_HD/apache.m3u8|Referer=https://29pisfqlcvyi.windows-devs.top/"
-                },
-                {
-                    "Channel_Name": "Tap Sports",
-                    "drm_key": "eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f",
-                    "stream_url": "https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd"
-                }
-            ]
         },
         {
             "status": "UPCOMING",
@@ -277,6 +205,27 @@
                     "Channel_Name": "BACKUP SD",
                     "drm_key": "",
                     "stream_url": "https://27lftgqlgzmy.windows-devs.top/AccessLog2/108087_HD/apache.m3u8|Referer=https://27lftgqlgzmy.windows-devs.top/"
+                }
+            ]
+        },
+        {
+            "status": "UPCOMING",
+            "id": 50007,
+            "event_name": "Cincinnati Reds",
+            "eventInfo": {
+                "teamA": "Mets",
+                "teamB": "Reds",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3629/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3633/image",
+                "eventName": "Mets vs Cincinnati Reds",
+                "startTime": "2026/05/27 23:10:00 +0000",
+                "endTime": "2026/05/28 02:10:00 +0000"
+            },
+            "streams": [
+                {
+                    "Channel_Name": "SportzX Live",
+                    "drm_key": "",
+                    "stream_url": "https://edge2caster.pro/hls/kjhfzua25.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
                 }
             ]
         },
@@ -390,6 +339,48 @@
         },
         {
             "status": "UPCOMING",
+            "id": 50016,
+            "event_name": "Chicago Sky vs Toronto Tempo",
+            "eventInfo": {
+                "teamA": "Chicago",
+                "teamB": "Tempo",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/35546/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/1166445/image",
+                "eventName": "Chicago Sky vs Toronto Tempo",
+                "startTime": "2026/05/28 00:00:00 +0000",
+                "endTime": "2026/05/28 02:30:00 +0000"
+            },
+            "streams": [
+                {
+                    "Channel_Name": "SportzX Live",
+                    "drm_key": "",
+                    "stream_url": "https://edgestreams.pro/hls/ztyarueaghj71.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
+                }
+            ]
+        },
+        {
+            "status": "UPCOMING",
+            "id": 50017,
+            "event_name": "Lynx vs Atlanta Dream",
+            "eventInfo": {
+                "teamA": "Lynx",
+                "teamB": "Atlanta",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3440/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/35545/image",
+                "eventName": "Lynx vs Atlanta Dream",
+                "startTime": "2026/05/28 01:00:00 +0000",
+                "endTime": "2026/05/28 03:30:00 +0000"
+            },
+            "streams": [
+                {
+                    "Channel_Name": "SportzX Live",
+                    "drm_key": "",
+                    "stream_url": "https://edge2caster.pro/hls/pllmazjkdzajh72.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
+                }
+            ]
+        },
+        {
+            "status": "UPCOMING",
             "id": 50023,
             "event_name": "Palace vs Rayo Vallecano",
             "eventInfo": {
@@ -424,6 +415,11 @@
             },
             "streams": [
                 {
+                    "Channel_Name": "SKY SPORTS FHD",
+                    "drm_key": "e87521b3dfa44ed9ba004012dcb89172:bba9734a9d724531bbab7ef5d64ca1f8",
+                    "stream_url": "https://dice-live-oc.akamaized.net/hdntl=exp=1779962653~acl=%2F*~id=074b6311-83b3-40e2-807d-a54c83beae51~data=hdntl,aXA9MTcyLjIxMC4xNDkuNTQmZXhwPTE3Nzk4NzYyODMmZWlkPTk2MzQ3MCZvaWQ9MTA4JnR5cGU9Vk9EJnVpZD1jM2dFV018MTYxODVhNTYtODFiZS00NWQ3LTk3YjYtOWI5N2E3ZTE3YjIyJmNpZD1kY2Uuc3B1cnMmcHQ9bnVsbA~hmac=f45dd7d9d58a6b10d845f02083b9b895ae3b2a14aca814558db8f97baabb02af/dash/live/2093709/219033-321024/manifest-d.mpd"
+                },
+                {
                     "Channel_Name": "Willow HD",
                     "drm_key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247",
                     "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd"
@@ -432,18 +428,396 @@
         },
         {
             "status": "UPCOMING",
-            "id": 50025,
-            "event_name": "IPL - 01",
+            "id": 50030,
+            "event_name": "Portland Fire vs Connecticut Sun",
             "eventInfo": {
-                "teamA": "SRH",
-                "teamB": "RR",
-                "teamAFlag": "https://img.sofascore.com/api/v1/team/187844/image",
-                "teamBFlag": "https://img.sofascore.com/api/v1/team/187842/image",
-                "eventName": "Sunrisers Hyderabad vs Rajasthan Royals",
-                "startTime": "2026/05/27 14:00:00 +0000",
-                "endTime": "2026/05/27 18:00:00 +0000"
+                "teamA": "Fire",
+                "teamB": "Connecticut",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/1166446/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/35547/image",
+                "eventName": "Portland Fire vs Connecticut Sun",
+                "startTime": "2026/05/28 02:00:00 +0000",
+                "endTime": "2026/05/28 04:30:00 +0000"
             },
-            "streams": []
+            "streams": [
+                {
+                    "Channel_Name": "SportzX Live",
+                    "drm_key": "",
+                    "stream_url": "https://edge2caster.pro/hls/fdgsqdfawa73.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
+                }
+            ]
+        },
+        {
+            "status": "UPCOMING",
+            "id": 50031,
+            "event_name": "Seattle Storm vs Mystics",
+            "eventInfo": {
+                "teamA": "Storm",
+                "teamB": "Mystics",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3448/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3454/image",
+                "eventName": "Seattle Storm vs Mystics",
+                "startTime": "2026/05/28 02:00:00 +0000",
+                "endTime": "2026/05/28 04:30:00 +0000"
+            },
+            "streams": [
+                {
+                    "Channel_Name": "SportzX Live",
+                    "drm_key": "",
+                    "stream_url": "https://edge2caster.pro/hls/yjtzafghvjza74.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
+                }
+            ]
+        },
+        {
+            "status": "UPCOMING",
+            "id": 50032,
+            "event_name": "Minnesota Twins",
+            "eventInfo": {
+                "teamA": "White Sox",
+                "teamB": "Twins",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3644/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3649/image",
+                "eventName": "White Sox vs Minnesota Twins",
+                "startTime": "2026/05/27 23:40:00 +0000",
+                "endTime": "2026/05/28 02:40:00 +0000"
+            },
+            "streams": [
+                {
+                    "Channel_Name": "SportzX LIVE",
+                    "drm_key": "",
+                    "stream_url": "https://edgestreams.pro/hls/dzjhkfazbka26.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
+                }
+            ]
+        },
+        {
+            "status": "UPCOMING",
+            "id": 50033,
+            "event_name": "Texas Rangers",
+            "eventInfo": {
+                "teamA": "Rangers",
+                "teamB": "Astros",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3647/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3655/image",
+                "eventName": "Texas Rangers vs Houston Astros",
+                "startTime": "2026/05/28 00:05:00 +0000",
+                "endTime": "2026/05/28 03:05:00 +0000"
+            },
+            "streams": [
+                {
+                    "Channel_Name": "SportzX Live",
+                    "drm_key": "",
+                    "stream_url": "https://edgestreams.pro/hls/hefbafbakx28.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
+                }
+            ]
+        },
+        {
+            "status": "UPCOMING",
+            "id": 50034,
+            "event_name": "Colorado Rockies",
+            "eventInfo": {
+                "teamA": "Dodgers",
+                "teamB": "Rockies",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3638/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3628/image",
+                "eventName": "Dodgers vs Colorado Rockies",
+                "startTime": "2026/05/28 02:10:00 +0000",
+                "endTime": "2026/05/28 05:10:00 +0000"
+            },
+            "streams": [
+                {
+                    "Channel_Name": "SportzX Live",
+                    "drm_key": "",
+                    "stream_url": "https://edgestreams.pro/hls/hfzljfahzcax29.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
+                }
+            ]
+        },
+        {
+            "status": "UPCOMING",
+            "id": 50036,
+            "event_name": "Kansas City Royals",
+            "eventInfo": {
+                "teamA": "Royals",
+                "teamB": "Yankees",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3651/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3654/image",
+                "eventName": "Kansas City Royals vs Yankees",
+                "startTime": "2026/05/27 23:40:00 +0000",
+                "endTime": "2026/05/28 02:40:00 +0000"
+            },
+            "streams": [
+                {
+                    "Channel_Name": "SportzX Live",
+                    "drm_key": "",
+                    "stream_url": "https://edgestreams.pro/hls/jzabfazkbf27.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
+                }
+            ]
+        },
+        {
+            "status": "UPCOMING",
+            "id": 50038,
+            "event_name": "Carolina Hurricanes",
+            "eventInfo": {
+                "teamA": "Canadiens",
+                "teamB": "Hurricanes",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3690/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3680/image",
+                "eventName": "Canadiens vs Carolina Hurricanes",
+                "startTime": "2026/05/28 00:00:00 +0000",
+                "endTime": "2026/05/28 03:00:00 +0000"
+            },
+            "streams": [
+                {
+                    "Channel_Name": "PREMIER SPORTS",
+                    "drm_key": "1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19",
+                    "stream_url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd"
+                },
+                {
+                    "Channel_Name": "ESPN SPORTS",
+                    "drm_key": "326058ffe1cd4d3383781b36ca9145d1:99d405d46f114eff96789673e57d0121",
+                    "stream_url": "https://dice-live-oc.akamaized.net/hdntl=exp=1779897264~acl=%2F*~id=fe9ca3a7-0756-445a-8ab8-af6f8e8ee337~data=hdntl,aXA9NTIuMjI1LjI1LjU1JmV4cD0xNzc5ODEwODk0JmVpZD05NjMyNDImb2lkPTEwOCZ0eXBlPVZPRCZ1aWQ9dDc5TldpfDFjNTg3MGRlLTdiNzMtNDJiYS1iNzkyLTUwYWNkODMzZTlhZCZjaWQ9ZGNlLnNwdXJzJnB0PW51bGw~hmac=d584e6cbd0e1a708df4a963d9f5d62a02279446e5e240e969b1298a9c05d27fc/dash/live/2093724/219039-321035/manifest-d.mpd"
+                },
+                {
+                    "Channel_Name": "SportzX Live",
+                    "drm_key": "",
+                    "stream_url": "https://edge2caster.pro/hls/uyopzarf50.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online&user-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+                },
+                {
+                    "Channel_Name": "HD SERVER",
+                    "drm_key": "",
+                    "stream_url": "https://instreams.pro/US/NHL1/tracks-v1a1/mono.m3u8|referer=https://instream.click/&origin=https://instream.click"
+                }
+            ]
+        },
+        {
+            "status": "UPCOMING",
+            "id": 50052,
+            "event_name": "Blue Jays vs Miami Marlins",
+            "eventInfo": {
+                "teamA": "Blue Jays",
+                "teamB": "Marlins",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3642/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3639/image",
+                "eventName": "Blue Jays vs Miami Marlins",
+                "startTime": "2026/05/27 17:07:00 +0000",
+                "endTime": "2026/05/27 20:07:00 +0000"
+            },
+            "streams": [
+                {
+                    "Channel_Name": "SportzX Live",
+                    "drm_key": "",
+                    "stream_url": "https://edgestreams.pro/hls/dazhfiach15.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
+                }
+            ]
+        },
+        {
+            "status": "UPCOMING",
+            "id": 50053,
+            "event_name": "Guardians vs Nationals",
+            "eventInfo": {
+                "teamA": "Guardians",
+                "teamB": "Nationals",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3650/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/5930/image",
+                "eventName": "Cleveland Guardians vs Nationals",
+                "startTime": "2026/05/27 17:10:00 +0000",
+                "endTime": "2026/05/27 20:10:00 +0000"
+            },
+            "streams": [
+                {
+                    "Channel_Name": "SportzX Live",
+                    "drm_key": "",
+                    "stream_url": "https://edge2caster.pro/hls/16yuitzaerghbhc16.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
+                }
+            ]
+        },
+        {
+            "status": "UPCOMING",
+            "id": 50054,
+            "event_name": "Brewers vs Cardinals",
+            "eventInfo": {
+                "teamA": "Brewers",
+                "teamB": "Cardinals",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3630/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3632/image",
+                "eventName": "Milwaukee Brewers vs Cardinals",
+                "startTime": "2026/05/27 17:40:00 +0000",
+                "endTime": "2026/05/27 20:40:00 +0000"
+            },
+            "streams": [
+                {
+                    "Channel_Name": "SportzX Live",
+                    "drm_key": "",
+                    "stream_url": "https://edge2caster.pro/hls/ihfazugfyjcazich17.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
+                }
+            ]
+        },
+        {
+            "status": "UPCOMING",
+            "id": 50055,
+            "event_name": "Athletics vs Mariners",
+            "eventInfo": {
+                "teamA": "Athletics",
+                "teamB": "Mariners",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3645/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3641/image",
+                "eventName": "Athletics vs Seattle Mariners",
+                "startTime": "2026/05/27 19:05:00 +0000",
+                "endTime": "2026/05/27 22:05:00 +0000"
+            },
+            "streams": [
+                {
+                    "Channel_Name": "SportzX Live",
+                    "drm_key": "",
+                    "stream_url": "https://edge2caster.pro/hls/Czajafjihafch18.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
+                }
+            ]
+        },
+        {
+            "status": "UPCOMING",
+            "id": 50056,
+            "event_name": "Giants vs Diamondbacks",
+            "eventInfo": {
+                "teamA": "Giants",
+                "teamB": "Diamondbacks",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3634/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3640/image",
+                "eventName": "Giants vs Diamondbacks",
+                "startTime": "2026/05/27 19:45:00 +0000",
+                "endTime": "2026/05/27 22:45:00 +0000"
+            },
+            "streams": [
+                {
+                    "Channel_Name": "SportzX Live",
+                    "drm_key": "",
+                    "stream_url": "https://edge2caster.pro/hls/bzagLHzach19.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
+                }
+            ]
+        },
+        {
+            "status": "UPCOMING",
+            "id": 50057,
+            "event_name": "Padres vs Phillies",
+            "eventInfo": {
+                "teamA": "Padres",
+                "teamB": "Phillies",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3636/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3635/image",
+                "eventName": "Padres vs Philadelphia Phillies",
+                "startTime": "2026/05/27 20:10:00 +0000",
+                "endTime": "2026/05/27 23:10:00 +0000"
+            },
+            "streams": [
+                {
+                    "Channel_Name": "SportzX Live",
+                    "drm_key": "",
+                    "stream_url": "https://edge2caster.pro/hls/jkzahzadach20.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
+                }
+            ]
+        },
+        {
+            "status": "UPCOMING",
+            "id": 50058,
+            "event_name": "Orioles vs Tampa Bay Rays",
+            "eventInfo": {
+                "teamA": "Orioles",
+                "teamB": "Rays",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3652/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3653/image",
+                "eventName": "Orioles vs Tampa Bay Rays",
+                "startTime": "2026/05/27 22:35:00 +0000",
+                "endTime": "2026/05/28 01:35:00 +0000"
+            },
+            "streams": [
+                {
+                    "Channel_Name": "SportzX Live",
+                    "drm_key": "",
+                    "stream_url": "https://edge2caster.pro/hls/ojzkajnach21.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
+                }
+            ]
+        },
+        {
+            "status": "UPCOMING",
+            "id": 50059,
+            "event_name": "Detroit Tigers vs Angels",
+            "eventInfo": {
+                "teamA": "Tigers",
+                "teamB": "Angels",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3648/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/5929/image",
+                "eventName": "Detroit Tigers vs Angels",
+                "startTime": "2026/05/27 22:40:00 +0000",
+                "endTime": "2026/05/28 01:40:00 +0000"
+            },
+            "streams": [
+                {
+                    "Channel_Name": "SportzX Live",
+                    "drm_key": "",
+                    "stream_url": "https://edge2caster.pro/hls/ijfnakfidch22.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
+                }
+            ]
+        },
+        {
+            "status": "UPCOMING",
+            "id": 50060,
+            "event_name": "Pirates vs Chicago Cubs",
+            "eventInfo": {
+                "teamA": "Pirates",
+                "teamB": "Cubs",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3637/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3627/image",
+                "eventName": "Pirates vs Chicago Cubs",
+                "startTime": "2026/05/27 22:40:00 +0000",
+                "endTime": "2026/05/28 01:40:00 +0000"
+            },
+            "streams": [
+                {
+                    "Channel_Name": "SportzX Live",
+                    "drm_key": "",
+                    "stream_url": "https://mainstreams.pro/hls/jnzkdzjfanch23.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
+                }
+            ]
+        },
+        {
+            "status": "UPCOMING",
+            "id": 50061,
+            "event_name": "Red Sox vs Atlanta Braves",
+            "eventInfo": {
+                "teamA": "Red Sox",
+                "teamB": "Braves",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3646/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3656/image",
+                "eventName": "Red Sox vs Atlanta Braves",
+                "startTime": "2026/05/27 22:45:00 +0000",
+                "endTime": "2026/05/28 01:45:00 +0000"
+            },
+            "streams": [
+                {
+                    "Channel_Name": "SportzX Live",
+                    "drm_key": "",
+                    "stream_url": "https://edge2caster.pro/hls/fskjanach24.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
+                }
+            ]
+        },
+        {
+            "status": "UPCOMING",
+            "id": 50062,
+            "event_name": "Liberty vs Phoenix Mercury",
+            "eventInfo": {
+                "teamA": "Liberty",
+                "teamB": "Mercury",
+                "teamAFlag": "https://img.sofascore.com/api/v1/team/3446/image",
+                "teamBFlag": "https://img.sofascore.com/api/v1/team/3444/image",
+                "eventName": "Liberty vs Phoenix Mercury",
+                "startTime": "2026/05/27 23:00:00 +0000",
+                "endTime": "2026/05/28 01:30:00 +0000"
+            },
+            "streams": [
+                {
+                    "Channel_Name": "SportzX Live",
+                    "drm_key": "",
+                    "stream_url": "https://edge2caster.pro/hls/bvnsqdfvgha70.m3u8?|Referer=https://streamscenter.online/&Origin=https://streamscenter.online"
+                }
+            ]
         }
     ]
 }
