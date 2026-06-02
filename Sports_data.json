@@ -2,9 +2,9 @@
     "name": "Live and Upcoming Sports Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "02:50:17 PM 02-06-2026",
+    "last_update_time": "04:59:50 PM 02-06-2026",
     "total_matches": 106,
-    "live_match": 17,
+    "live_match": 19,
     "matches": [
         {
             "status": "LIVE",
@@ -27,22 +27,45 @@
         {
             "status": "LIVE",
             "Category": "Football",
-            "event_name": "China Pr U20 Vs Congo Dr U20 | Tournoi Maurice Revello",
+            "event_name": "Saudi Arabia U21 Vs Colombia U19 | Tournoi Maurice Revello",
             "eventInfo": {
-                "teamA": "China Pr U20",
-                "teamB": "Congo Dr U20",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/17262.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/11024.png",
+                "teamA": "Saudi Arabia U21",
+                "teamB": "Colombia U19",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/23542.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/18981.png",
                 "eventName": "Tournoi Maurice Revello",
                 "startTime": "Live Now"
             },
             "streams": [
                 {
-                    "stream_url 1": "https://livecdn-tc-iptv.rumsport10.live/live_abr/161357/720p/chunks.m3u8?is_vip=false&token=1780498015-Kv4cPTAAP5YTi-1ba488b7f804a9b44b7789a61c41e3626e130f71-88a3e88ed58bfdd43d2bf6940d18f2b1",
+                    "stream_url 1": "https://livecdn-tc-iptv.rumsport10.live/live_abr/274862/720p/chunks.m3u8?is_vip=false&token=1780505221-Kv4cPTAAP5YTi-0bbd4eb54f11342904fb2af3ee854ae35fd7c64e-f2437fa9507a0db5ae1c23bde01310ce",
                     "stream_referer": "https://iframe.rumsport10.live/"
                 },
                 {
-                    "stream_url 2": "https://livecdn-bp-iptv.rumsport7.live/live_abr/161357/720p/chunks.m3u8?is_vip=false&token=1ba488b7f804a9b44b7789a61c41e3626e130f71&x-sign=0c2aa3b618eb2d90c889ad323fa4a165&x-time=1780411560",
+                    "stream_url 2": "https://livecdn-bp-iptv.rumsport7.live/live_abr/274862/720p/chunks.m3u8?is_vip=false&token=0bbd4eb54f11342904fb2af3ee854ae35fd7c64e&x-sign=0e52d429f3dc271608d3dcb7980ad300&x-time=1780418820",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Football",
+            "event_name": "Georgia Vs Romania | Friendlies",
+            "eventInfo": {
+                "teamA": "Georgia",
+                "teamB": "Romania",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1104.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/774.png",
+                "eventName": "Friendlies",
+                "startTime": "11:00 PM 02-06-2026"
+            },
+            "streams": [
+                {
+                    "stream_url 1": "https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1780505227-Kv4cPTAAP5YTi-0bbd4eb54f11342904fb2af3ee854ae35fd7c64e-9459d2ba5bd0008c8064e449801aee72",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "stream_url 2": "https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=0bbd4eb54f11342904fb2af3ee854ae35fd7c64e&x-sign=3f08bf2eb686a0873eefbda9ba169cc5&x-time=1780418820",
                     "stream_referer": "https://iframe.rumsport10.live/"
                 }
             ]
@@ -78,23 +101,6 @@
             "streams": [
                 {
                     "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-i2Q5r8T6y4/master.m3u8"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "event_name": "Ladies' & Gentlemen'S & Doubles - Quarter Finals - World Feed Live",
-            "eventInfo": {
-                "teamA": "Ladies'",
-                "teamB": "Gentlemen'S",
-                "teamAFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780320720540x302.jpg",
-                "teamBFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780320720540x302.jpg",
-                "eventName": "French Open 2026",
-                "startTime": "02-06-2026 03:00 PM"
-            },
-            "streams": [
-                {
-                    "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/PSLE_tapmad2026-Backup/master.m3u8"
                 }
             ]
         },
@@ -146,6 +152,40 @@
             "streams": [
                 {
                     "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/master.m3u8"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "event_name": "Croatia Vs Belgium",
+            "eventInfo": {
+                "teamA": "Croatia",
+                "teamB": "Belgium",
+                "teamAFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780385968540x302.jpg",
+                "teamBFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780385968540x302.jpg",
+                "eventName": "European Qualifiers Fifa World Cup 2026",
+                "startTime": "02-06-2026 10:00 PM"
+            },
+            "streams": [
+                {
+                    "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/tapmadenc-1/master.m3u8?hdnts=exp=1780419906~acl=/hls/*~hmac=80cd54ea17776537d32d64102ae0abae1e048ff7883a8af8faa6dea1d3324f2f"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "event_name": "Georgia Vs Romania",
+            "eventInfo": {
+                "teamA": "Georgia",
+                "teamB": "Romania",
+                "teamAFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780386235540x302.jpg",
+                "teamBFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780386235540x302.jpg",
+                "eventName": "European Qualifiers Fifa World Cup 2026",
+                "startTime": "02-06-2026 11:00 PM"
+            },
+            "streams": [
+                {
+                    "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1780419906~acl=/hls/*~hmac=80cd54ea17776537d32d64102ae0abae1e048ff7883a8af8faa6dea1d3324f2f"
                 }
             ]
         },
@@ -259,6 +299,29 @@
         },
         {
             "status": "LIVE",
+            "Category": "Friendlies",
+            "event_name": "Croatia Vs Belgium | Friendlies",
+            "eventInfo": {
+                "teamA": "Croatia",
+                "teamB": "Belgium",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/3.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1.png",
+                "eventName": "Friendlies",
+                "startTime": "Live Now"
+            },
+            "streams": [
+                {
+                    "stream_url 1": "https://livecdn-tc-livestream.rumsport10.live/stream/8/chunks.m3u8?is_vip=false&token=1780505203-Kv4cPTAAP5YTi-0bbd4eb54f11342904fb2af3ee854ae35fd7c64e-2153576588c449c803a1db94ad61a541",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "stream_url 2": "https://livecdn-bp-livestream.rumsport7.live/stream/8/chunks.m3u8?is_vip=false&token=0bbd4eb54f11342904fb2af3ee854ae35fd7c64e&x-sign=7b180c891e7cc517d25fbcbed2955ddb&x-time=1780418760",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
             "Category": "Darts",
             "event_name": "Players Championship 19 | Players Championship",
             "eventInfo": {
@@ -271,38 +334,15 @@
             },
             "streams": [
                 {
-                    "stream_url 1": "https://livecdn-bp-iptv.rumsport7.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=1ba488b7f804a9b44b7789a61c41e3626e130f71&x-sign=58bb22def74c767f81284d502ec052ef&x-time=1780411560",
+                    "stream_url 1": "https://livecdn-bp-iptv.rumsport7.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=0bbd4eb54f11342904fb2af3ee854ae35fd7c64e&x-sign=4efa11c2851ddd34c1ee0b9d164c6581&x-time=1780418760",
                     "stream_referer": "https://iframe.rumsport10.live/"
                 }
             ]
         },
         {
             "status": "LIVE",
-            "Category": "Cycling",
-            "event_name": "Es2, Giro D'Italia, Stage 4 | Giro D'Italia",
-            "eventInfo": {
-                "teamA": "",
-                "teamB": "",
-                "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
-                "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
-                "eventName": "Giro D'Italia",
-                "startTime": "Live Now"
-            },
-            "streams": [
-                {
-                    "stream_url 1": "https://livecdn-tc-iptv.rumsport10.live/live_abr/1418/720p/chunks.m3u8?is_vip=false&token=1780498007-Kv4cPTAAP5YTi-1ba488b7f804a9b44b7789a61c41e3626e130f71-3bcdfa88a95f904801c8ff9be638ad14",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "stream_url 2": "https://livecdn-bp-iptv.rumsport7.live/live_abr/1418/720p/chunks.m3u8?is_vip=false&token=1ba488b7f804a9b44b7789a61c41e3626e130f71&x-sign=015c3d1cd9ca3df47ee3face972bcf92&x-time=1780411560",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "Category": "Tennis",
-            "event_name": "Rafael Jodar Vs Alexander Zverev - (Men'S Singles) - Qf1 | Roland Garros",
+            "Category": "Roland Garros",
+            "event_name": "Day 10 | Roland Garros",
             "eventInfo": {
                 "teamA": "",
                 "teamB": "",
@@ -313,19 +353,11 @@
             },
             "streams": [
                 {
-                    "stream_url 1": "https://livecdn-tc-iptv.rumsport10.live/live_abr/366/720p/chunks.m3u8?is_vip=false&token=1780498022-Kv4cPTAAP5YTi-1ba488b7f804a9b44b7789a61c41e3626e130f71-6297fa8be9aa3b2d0073f13a21e48419",
+                    "stream_url 1": "https://livecdn-bp-iptv.rumsport7.live/live_abr/366/720p/chunks.m3u8?is_vip=false&token=0bbd4eb54f11342904fb2af3ee854ae35fd7c64e&x-sign=332b419c884af6751f788c97e1cb223e&x-time=1780418760",
                     "stream_referer": "https://iframe.rumsport10.live/"
                 },
                 {
-                    "stream_url 2": "https://livecdn-bp-iptv.rumsport7.live/live_abr/366/720p/chunks.m3u8?is_vip=false&token=1ba488b7f804a9b44b7789a61c41e3626e130f71&x-sign=9332b745efb6e643d72cd32cb830e33d&x-time=1780411620",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "stream_url 3": "https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1780498024-Kv4cPTAAP5YTi-1ba488b7f804a9b44b7789a61c41e3626e130f71-b48f7b2bcf177201bf17e0107fff598f",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "stream_url 4": "https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=1ba488b7f804a9b44b7789a61c41e3626e130f71&x-sign=191076c3cec2edf723415c9cd7b07fb8&x-time=1780411620",
+                    "stream_url 2": "https://livecdn-tc-iptv.rumsport10.live/live_abr/366/720p/chunks.m3u8?is_vip=false&token=1780505216-Kv4cPTAAP5YTi-0bbd4eb54f11342904fb2af3ee854ae35fd7c64e-ba1d5420a60211c18f05fd3dafd9a28e",
                     "stream_referer": "https://iframe.rumsport10.live/"
                 }
             ]
@@ -801,34 +833,6 @@
         {
             "status": "UPCOMING",
             "Category": "Football",
-            "event_name": "Saudi Arabia U21 Vs Colombia U19 | Tournoi Maurice Revello",
-            "eventInfo": {
-                "teamA": "Saudi Arabia U21",
-                "teamB": "Colombia U19",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/23542.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/18981.png",
-                "eventName": "Tournoi Maurice Revello",
-                "startTime": "10:30 PM 02-06-2026"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Football",
-            "event_name": "Georgia Vs Romania | Friendlies",
-            "eventInfo": {
-                "teamA": "Georgia",
-                "teamB": "Romania",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1104.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/774.png",
-                "eventName": "Friendlies",
-                "startTime": "11:00 PM 02-06-2026"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Football",
             "event_name": "Wales Vs Ghana | Friendlies",
             "eventInfo": {
                 "teamA": "Wales",
@@ -885,12 +889,12 @@
         {
             "status": "UPCOMING",
             "Category": "Football",
-            "event_name": "Albania Vs Israel | Friendlies",
+            "event_name": "Congo Dr Vs Denmark | Friendlies",
             "eventInfo": {
-                "teamA": "Albania",
-                "teamB": "Israel",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/778.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1116.png",
+                "teamA": "Congo Dr",
+                "teamB": "Denmark",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1508.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/21.png",
                 "eventName": "Friendlies",
                 "startTime": "12:00 AM 04-06-2026"
             },
@@ -899,12 +903,12 @@
         {
             "status": "UPCOMING",
             "Category": "Football",
-            "event_name": "Congo Dr Vs Denmark | Friendlies",
+            "event_name": "Albania Vs Israel | Friendlies",
             "eventInfo": {
-                "teamA": "Congo Dr",
-                "teamB": "Denmark",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1508.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/21.png",
+                "teamA": "Albania",
+                "teamB": "Israel",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/778.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1116.png",
                 "eventName": "Friendlies",
                 "startTime": "12:00 AM 04-06-2026"
             },
@@ -923,40 +927,6 @@
                 "startTime": "12:45 AM 04-06-2026"
             },
             "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "event_name": "Croatia Vs Belgium",
-            "eventInfo": {
-                "teamA": "Croatia",
-                "teamB": "Belgium",
-                "teamAFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780385968540x302.jpg",
-                "teamBFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780385968540x302.jpg",
-                "eventName": "European Qualifiers Fifa World Cup 2026",
-                "startTime": "02-06-2026 10:00 PM"
-            },
-            "streams": [
-                {
-                    "stream_url": ""
-                }
-            ]
-        },
-        {
-            "status": "UPCOMING",
-            "event_name": "Georgia Vs Romania",
-            "eventInfo": {
-                "teamA": "Georgia",
-                "teamB": "Romania",
-                "teamAFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780386235540x302.jpg",
-                "teamBFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780386235540x302.jpg",
-                "eventName": "European Qualifiers Fifa World Cup 2026",
-                "startTime": "02-06-2026 11:00 PM"
-            },
-            "streams": [
-                {
-                    "stream_url": ""
-                }
-            ]
         },
         {
             "status": "UPCOMING",
@@ -1206,6 +1176,40 @@
                 "teamBFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780395700540x302.jpg",
                 "eventName": "French Open 2026",
                 "startTime": "04-06-2026 12:15 AM"
+            },
+            "streams": [
+                {
+                    "stream_url": ""
+                }
+            ]
+        },
+        {
+            "status": "UPCOMING",
+            "event_name": "Netherlands Vs Algeria",
+            "eventInfo": {
+                "teamA": "Netherlands",
+                "teamB": "Algeria",
+                "teamAFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780402020540x302.jpg",
+                "teamBFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780402020540x302.jpg",
+                "eventName": "European Qualifiers Fifa World Cup 2026",
+                "startTime": "04-06-2026 12:45 AM"
+            },
+            "streams": [
+                {
+                    "stream_url": ""
+                }
+            ]
+        },
+        {
+            "status": "UPCOMING",
+            "event_name": "Poland Vs Nigeria",
+            "eventInfo": {
+                "teamA": "Poland",
+                "teamB": "Nigeria",
+                "teamAFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780402275540x302.jpg",
+                "teamBFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780402275540x302.jpg",
+                "eventName": "European Qualifiers Fifa World Cup 2026",
+                "startTime": "04-06-2026 12:45 AM"
             },
             "streams": [
                 {
@@ -1576,20 +1580,6 @@
         {
             "status": "UPCOMING",
             "Category": "Friendlies",
-            "event_name": "Croatia Vs Belgium | Friendlies",
-            "eventInfo": {
-                "teamA": "Croatia",
-                "teamB": "Belgium",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/3.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1.png",
-                "eventName": "Friendlies",
-                "startTime": "10:00 PM 02-06-2026"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Friendlies",
             "event_name": "Netherlands Vs Algeria | Friendlies",
             "eventInfo": {
                 "teamA": "Netherlands",
@@ -1673,6 +1663,20 @@
         },
         {
             "status": "UPCOMING",
+            "Category": "Friendlies",
+            "event_name": "Usa Vs Germany | Friendlies",
+            "eventInfo": {
+                "teamA": "Usa",
+                "teamB": "Germany",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2384.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/25.png",
+                "eventName": "Friendlies",
+                "startTime": "12:30 AM 07-06-2026"
+            },
+            "streams": []
+        },
+        {
+            "status": "UPCOMING",
             "Category": "Tennis",
             "event_name": "Jakub Mensik Vs Joao Fonseca - (Men'S Singles) - Qf2 | Roland Garros",
             "eventInfo": {
@@ -1730,12 +1734,12 @@
         {
             "status": "UPCOMING",
             "Category": "Baseball",
-            "event_name": "Hanshin Tigers Vs Fukuoka Softbank Hawks | Npb Farm Leagues",
+            "event_name": "Kufu Hayate Vs Yomiuri Giants | Npb Farm Leagues",
             "eventInfo": {
-                "teamA": "Hanshin Tigers",
-                "teamB": "Fukuoka Softbank Hawks",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/teams/5a915504baf84e88cbc763dfcfc934cf.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/teams/711743b3437e10f4fe95736e0035a3b8.png",
+                "teamA": "",
+                "teamB": "",
+                "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
+                "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
                 "eventName": "Npb Farm Leagues",
                 "startTime": "10:00 AM 03-06-2026"
             },
@@ -1744,12 +1748,12 @@
         {
             "status": "UPCOMING",
             "Category": "Baseball",
-            "event_name": "Kufu Hayate Vs Yomiuri Giants | Npb Farm Leagues",
+            "event_name": "Tohoku Rakuten Golden Eagles Vs Chiba Lotte Marines | Npb Farm Leagues",
             "eventInfo": {
-                "teamA": "",
-                "teamB": "",
-                "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
-                "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
+                "teamA": "Tohoku Rakuten Golden Eagles",
+                "teamB": "Chiba Lotte Marines",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/teams/ff94d5b4cc5dabc1ae07e3ff3efdfacf.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/teams/f21f7f743a49b135f1804b1df2d0e5d8.png",
                 "eventName": "Npb Farm Leagues",
                 "startTime": "10:00 AM 03-06-2026"
             },
