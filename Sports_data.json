@@ -2,79 +2,24 @@
     "name": "Live and Upcoming Sports Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "10:17:33 PM 04-06-2026",
-    "total_matches": 87,
-    "live_match": 5,
+    "last_update_time": "11:44:00 PM 04-06-2026",
+    "total_matches": 86,
+    "live_match": 2,
     "matches": [
         {
             "status": "LIVE",
-            "Category": "Golf",
-            "event_name": "Main Feed Day 1",
+            "event_name": "Czechia Vs Guatemala",
             "eventInfo": {
-                "teamA": "Main Feed - Day 1",
-                "teamB": "Muirfield Village Golf Club - Dublin, Ohio",
-                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png",
-                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-                "eventName": "The Memorial Tournament Presented By Workday 2026",
-                "startTime": "04-06-2026 05:15 PM"
+                "teamA": "Czechia",
+                "teamB": "Guatemala",
+                "teamAFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780580846540x302.jpg",
+                "teamBFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780580847540x302.jpg",
+                "eventName": "European Qualifiers Fifa World Cup 2026",
+                "startTime": "05-06-2026 06:00 AM"
             },
             "streams": [
                 {
-                    "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/143106_english_hls_c914a6d6e626017_1ta-di_h264/1080p.m3u8"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "Category": "Golf",
-            "event_name": "Featured Groups Day 1",
-            "eventInfo": {
-                "teamA": "Featured Groups - Day 1",
-                "teamB": "Muirfield Village Golf Club - Dublin, Ohio",
-                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png",
-                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-                "eventName": "The Memorial Tournament Presented By Workday 2026",
-                "startTime": "04-06-2026 05:30 PM"
-            },
-            "streams": [
-                {
-                    "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/143108_english_hls_083eafe92058106_1ta-di_h264/1080p.m3u8"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "Category": "Golf",
-            "event_name": "Marquee Feed Day 1",
-            "eventInfo": {
-                "teamA": "Marquee Feed - Day 1",
-                "teamB": "Muirfield Village Golf Club - Dublin, Ohio",
-                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png",
-                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-                "eventName": "The Memorial Tournament Presented By Workday 2026",
-                "startTime": "04-06-2026 07:45 PM"
-            },
-            "streams": [
-                {
-                    "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/143107_english_hls_ddbf89aed084861_1ta-di_h264/1080p.m3u8"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "Category": "Golf",
-            "event_name": "World Feed Day 1",
-            "eventInfo": {
-                "teamA": "World Feed - Day 1",
-                "teamB": "Muirfield Village Golf Club - Dublin, Ohio",
-                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png",
-                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-                "eventName": "The Memorial Tournament Presented By Workday 2026",
-                "startTime": "04-06-2026 11:30 PM"
-            },
-            "streams": [
-                {
-                    "stream_url": "https://bd-mc-plive.fancode.com/mumbai/143046_english_hls_9280d9755359815_1ta-di_h264/1080p.m3u8?hdntl=Expires=1780696684~_GO=Generated~acl=/mumbai/143046_english_hls_9280d9755359815_1ta-di_h264/*~Signature=AVb4nkzcxli7lf3Ay47ToFx3eP7eKWnL2o-5V4Lq_pH3y0wqL3y5EMRuNYwoaq06zz1XZoyxRvl7q9mdISBFxm55wJEM"
+                    "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1780617310~acl=/hls/*~hmac=b921adcd332c69f8ad744e43465a7c8ead5f850fee6a913c0a9b317f7bf80b90"
                 }
             ]
         },
@@ -92,7 +37,7 @@
             },
             "streams": [
                 {
-                    "stream_url": "https://bd-mc-plive.fancode.com/mumbai/143229_english_hls_535783ff577911_1ta-di_h264/1080p.m3u8?hdntl=Expires=1780696687~_GO=Generated~acl=/mumbai/143229_english_hls_535783ff577911_1ta-di_h264/*~Signature=AVb4nkzkxgQmgLykUucM_F5CkcaGC6BJ_FfRheMp4yWzuSFhvXbAE08C5bRJdFVh4UegP6SqvhkUX4vIdRhEygAStrAK"
+                    "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/143229_english_hls_535783ff577911_1ta-di_h264/1080p.m3u8"
                 }
             ]
         },
@@ -387,6 +332,42 @@
         {
             "status": "UPCOMING",
             "Category": "Cricket",
+            "event_name": "Liege Red Lions Vs Ghent Gladiators",
+            "eventInfo": {
+                "teamA": "Liege Red Lions",
+                "teamB": "Ghent Gladiators",
+                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LRL@2x.png",
+                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GG@2x.png",
+                "eventName": "Eut20 Belgium, 2026",
+                "startTime": "06-06-2026 08:00 PM"
+            },
+            "streams": [
+                {
+                    "stream_url": ""
+                }
+            ]
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Cricket",
+            "event_name": "Canada Vs Usa",
+            "eventInfo": {
+                "teamA": "Canada",
+                "teamB": "Usa",
+                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CAN@2x.png",
+                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-USA@2x.png",
+                "eventName": "Icc Cwc League 2 Canada, 2026",
+                "startTime": "06-06-2026 08:00 PM"
+            },
+            "streams": [
+                {
+                    "stream_url": ""
+                }
+            ]
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Cricket",
             "event_name": "Northern Challengers Vs Up Brij Stars",
             "eventInfo": {
                 "teamA": "",
@@ -629,23 +610,6 @@
                 "startTime": "5:30 AM 06-06-2026"
             },
             "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "event_name": "Czechia Vs Guatemala",
-            "eventInfo": {
-                "teamA": "Czechia",
-                "teamB": "Guatemala",
-                "teamAFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780580846540x302.jpg",
-                "teamBFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780580847540x302.jpg",
-                "eventName": "European Qualifiers Fifa World Cup 2026",
-                "startTime": "05-06-2026 06:00 AM"
-            },
-            "streams": [
-                {
-                    "stream_url": ""
-                }
-            ]
         },
         {
             "status": "UPCOMING",
@@ -1006,15 +970,33 @@
         },
         {
             "status": "UPCOMING",
-            "Category": "Golf",
-            "event_name": "Main Feed Day 1",
+            "Category": "Motorsports",
+            "event_name": "Sprint Race",
             "eventInfo": {
-                "teamA": "",
-                "teamB": "",
-                "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
-                "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
-                "eventName": "The Memorial Tournament Presented By Workday 2026",
-                "startTime": "04-06-2026 05:15 PM"
+                "teamA": "Sprint Race",
+                "teamB": "Monaco",
+                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-FR3@2x.png",
+                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
+                "eventName": "F3 Monaco 2026",
+                "startTime": "06-06-2026 02:15 PM"
+            },
+            "streams": [
+                {
+                    "stream_url": ""
+                }
+            ]
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Tennis",
+            "event_name": "Court Philippe Chatrier",
+            "eventInfo": {
+                "teamA": "Court Philippe-Chatrier",
+                "teamB": "Paris",
+                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-RG@2x.png",
+                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png",
+                "eventName": "Roland Garros 2026",
+                "startTime": "06-06-2026 02:30 PM"
             },
             "streams": [
                 {
@@ -1025,49 +1007,13 @@
         {
             "status": "UPCOMING",
             "Category": "Golf",
-            "event_name": "Featured Groups Day 1",
+            "event_name": "Day 1",
             "eventInfo": {
                 "teamA": "",
                 "teamB": "",
                 "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
                 "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
-                "eventName": "The Memorial Tournament Presented By Workday 2026",
-                "startTime": "04-06-2026 05:30 PM"
-            },
-            "streams": [
-                {
-                    "stream_url": ""
-                }
-            ]
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Golf",
-            "event_name": "Marquee Feed Day 1",
-            "eventInfo": {
-                "teamA": "",
-                "teamB": "",
-                "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
-                "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
-                "eventName": "The Memorial Tournament Presented By Workday 2026",
-                "startTime": "04-06-2026 07:45 PM"
-            },
-            "streams": [
-                {
-                    "stream_url": ""
-                }
-            ]
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Golf",
-            "event_name": "World Feed Day 1",
-            "eventInfo": {
-                "teamA": "",
-                "teamB": "",
-                "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
-                "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
-                "eventName": "The Memorial Tournament Presented By Workday 2026",
+                "eventName": "Us Women'S Open 2026",
                 "startTime": "04-06-2026 11:30 PM"
             },
             "streams": [
@@ -1096,15 +1042,51 @@
         },
         {
             "status": "UPCOMING",
-            "Category": "Golf",
-            "event_name": "Day 1",
+            "Category": "Tennis",
+            "event_name": "Court Philippe Chatrier",
             "eventInfo": {
                 "teamA": "",
                 "teamB": "",
                 "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
                 "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
-                "eventName": "Us Women'S Open 2026",
-                "startTime": "04-06-2026 11:30 PM"
+                "eventName": "Roland Garros 2026",
+                "startTime": "05-06-2026 02:30 PM"
+            },
+            "streams": [
+                {
+                    "stream_url": ""
+                }
+            ]
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Tennis",
+            "event_name": "Court Suzanne Lenglen",
+            "eventInfo": {
+                "teamA": "",
+                "teamB": "",
+                "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
+                "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
+                "eventName": "Roland Garros 2026",
+                "startTime": "05-06-2026 02:30 PM"
+            },
+            "streams": [
+                {
+                    "stream_url": ""
+                }
+            ]
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Tennis",
+            "event_name": "Court Simonne Mathieu",
+            "eventInfo": {
+                "teamA": "",
+                "teamB": "",
+                "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
+                "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
+                "eventName": "Roland Garros 2026",
+                "startTime": "05-06-2026 02:30 PM"
             },
             "streams": [
                 {
