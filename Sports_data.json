@@ -2,24 +2,26 @@
     "name": "Live and Upcoming Sports Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "11:44:00 PM 04-06-2026",
-    "total_matches": 86,
-    "live_match": 2,
+    "last_update_time": "02:50:48 AM 05-06-2026",
+    "total_matches": 87,
+    "live_match": 4,
     "matches": [
         {
             "status": "LIVE",
-            "event_name": "Czechia Vs Guatemala",
+            "Category": "Football",
+            "event_name": "Mexico Vs Serbia | Friendlies",
             "eventInfo": {
-                "teamA": "Czechia",
-                "teamB": "Guatemala",
-                "teamAFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780580846540x302.jpg",
-                "teamBFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780580847540x302.jpg",
-                "eventName": "European Qualifiers Fifa World Cup 2026",
-                "startTime": "05-06-2026 06:00 AM"
+                "teamA": "Mexico",
+                "teamB": "Serbia",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/16.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/14.png",
+                "eventName": "Friendlies",
+                "startTime": "Live Now"
             },
             "streams": [
                 {
-                    "stream_url": "https://premierleageplnew2.akamaized.net/hls/live/2107109/primier2league/master.m3u8?hdnts=exp=1780617310~acl=/hls/*~hmac=b921adcd332c69f8ad744e43465a7c8ead5f850fee6a913c0a9b317f7bf80b90"
+                    "stream_url 1": "https://livecdn-bp-iptv.rumsport7.live/live_abr/274862/720p/chunks.m3u8?is_vip=false&token=acd5bdc39a1e7fa0b99692049a855372dd79b0a9&x-sign=dffb6dc687bff8e4e1b70b5495a46cef&x-time=1780627560",
+                    "stream_referer": "https://iframe.rumsport10.live/"
                 }
             ]
         },
@@ -38,6 +40,52 @@
             "streams": [
                 {
                     "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/143229_english_hls_535783ff577911_1ta-di_h264/1080p.m3u8"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Badminton",
+            "event_name": "Court 1 | Polytron Indonesia Open",
+            "eventInfo": {
+                "teamA": "",
+                "teamB": "",
+                "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
+                "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
+                "eventName": "Polytron Indonesia Open",
+                "startTime": "Live Now"
+            },
+            "streams": [
+                {
+                    "stream_url 1": "https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1780713996-Kv4cPTAAP5YTi-acd5bdc39a1e7fa0b99692049a855372dd79b0a9-b4c1d012ff58a6940bc8aad0b343f8a9",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "stream_url 2": "https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=acd5bdc39a1e7fa0b99692049a855372dd79b0a9&x-sign=c76ae968505ec2fe88dde6fbf769cf22&x-time=1780627560",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Badminton",
+            "event_name": "Court 2 | Polytron Indonesia Open",
+            "eventInfo": {
+                "teamA": "",
+                "teamB": "",
+                "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
+                "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
+                "eventName": "Polytron Indonesia Open",
+                "startTime": "Live Now"
+            },
+            "streams": [
+                {
+                    "stream_url 1": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1780714002-Kv4cPTAAP5YTi-acd5bdc39a1e7fa0b99692049a855372dd79b0a9-9b196952dc96c9e0b5b0f189586d8339",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "stream_url 2": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=acd5bdc39a1e7fa0b99692049a855372dd79b0a9&x-sign=13ec67dc1123afcc615f1ecdc81b7ff5&x-time=1780627560",
+                    "stream_referer": "https://iframe.rumsport10.live/"
                 }
             ]
         },
@@ -404,34 +452,6 @@
         {
             "status": "UPCOMING",
             "Category": "Football",
-            "event_name": "Czech Republic Vs Guatemala | Friendlies",
-            "eventInfo": {
-                "teamA": "Czech Republic",
-                "teamB": "Guatemala",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/770.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/5161.png",
-                "eventName": "Friendlies",
-                "startTime": "6:00 AM 05-06-2026"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Football",
-            "event_name": "Mexico Vs Serbia | Friendlies",
-            "eventInfo": {
-                "teamA": "Mexico",
-                "teamB": "Serbia",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/16.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/14.png",
-                "eventName": "Friendlies",
-                "startTime": "8:00 AM 05-06-2026"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Football",
             "event_name": "Kamatamare Sanuki Vs Parceiro Nagano | J2/J3 League",
             "eventInfo": {
                 "teamA": "Kamatamare Sanuki",
@@ -502,13 +522,13 @@
         {
             "status": "UPCOMING",
             "Category": "Football",
-            "event_name": "Moldova Vs Bulgaria | Friendlies",
+            "event_name": "Liechtenstein W Vs Estonia W | World Cup - Women - Qualification Europe",
             "eventInfo": {
-                "teamA": "Moldova",
-                "teamB": "Bulgaria",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1114.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1103.png",
-                "eventName": "Friendlies",
+                "teamA": "Liechtenstein W",
+                "teamB": "Estonia W",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/16936.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1753.png",
+                "eventName": "World Cup - Women - Qualification Europe",
                 "startTime": "11:00 PM 05-06-2026"
             },
             "streams": []
@@ -530,13 +550,13 @@
         {
             "status": "UPCOMING",
             "Category": "Football",
-            "event_name": "Liechtenstein W Vs Estonia W | World Cup - Women - Qualification Europe",
+            "event_name": "Moldova Vs Bulgaria | Friendlies",
             "eventInfo": {
-                "teamA": "Liechtenstein W",
-                "teamB": "Estonia W",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/16936.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1753.png",
-                "eventName": "World Cup - Women - Qualification Europe",
+                "teamA": "Moldova",
+                "teamB": "Bulgaria",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1114.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1103.png",
+                "eventName": "Friendlies",
                 "startTime": "11:00 PM 05-06-2026"
             },
             "streams": []
@@ -608,6 +628,20 @@
                 "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/776.png",
                 "eventName": "Friendlies",
                 "startTime": "5:30 AM 06-06-2026"
+            },
+            "streams": []
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Football",
+            "event_name": "Haiti Vs Peru | Friendlies",
+            "eventInfo": {
+                "teamA": "Haiti",
+                "teamB": "Peru",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2386.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/30.png",
+                "eventName": "Friendlies",
+                "startTime": "6:00 AM 06-06-2026"
             },
             "streams": []
         },
@@ -1251,12 +1285,12 @@
         {
             "status": "UPCOMING",
             "Category": "Baseball",
-            "event_name": "Hanshin Tigers Vs Orix Buffaloes | Npb Farm Leagues",
+            "event_name": "Saitama Seibu Lions Vs Tohoku Rakuten Golden Eagles | Npb Farm Leagues",
             "eventInfo": {
-                "teamA": "Hanshin Tigers",
-                "teamB": "Orix Buffaloes",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/teams/5a915504baf84e88cbc763dfcfc934cf.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/teams/152af9ee913c91f59154eaf2ae51db2f.png",
+                "teamA": "Saitama Seibu Lions",
+                "teamB": "Tohoku Rakuten Golden Eagles",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/teams/f07b37d09423b49b22242408888547f6.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/teams/ff94d5b4cc5dabc1ae07e3ff3efdfacf.png",
                 "eventName": "Npb Farm Leagues",
                 "startTime": "10:00 AM 05-06-2026"
             },
@@ -1265,12 +1299,12 @@
         {
             "status": "UPCOMING",
             "Category": "Baseball",
-            "event_name": "Saitama Seibu Lions Vs Tohoku Rakuten Golden Eagles | Npb Farm Leagues",
+            "event_name": "Hanshin Tigers Vs Orix Buffaloes | Npb Farm Leagues",
             "eventInfo": {
-                "teamA": "Saitama Seibu Lions",
-                "teamB": "Tohoku Rakuten Golden Eagles",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/teams/f07b37d09423b49b22242408888547f6.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/teams/ff94d5b4cc5dabc1ae07e3ff3efdfacf.png",
+                "teamA": "Hanshin Tigers",
+                "teamB": "Orix Buffaloes",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/teams/5a915504baf84e88cbc763dfcfc934cf.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/teams/152af9ee913c91f59154eaf2ae51db2f.png",
                 "eventName": "Npb Farm Leagues",
                 "startTime": "10:00 AM 05-06-2026"
             },
@@ -1293,20 +1327,6 @@
         {
             "status": "UPCOMING",
             "Category": "Mma",
-            "event_name": "Ufc Bjj 9 - Fowler Vs Johnson | Mma",
-            "eventInfo": {
-                "teamA": "",
-                "teamB": "",
-                "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
-                "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
-                "eventName": "Mma",
-                "startTime": "6:00 AM 05-06-2026"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Mma",
             "event_name": "Eternal Mma 106 | Mma",
             "eventInfo": {
                 "teamA": "",
@@ -1315,6 +1335,34 @@
                 "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
                 "eventName": "Mma",
                 "startTime": "4:00 PM 05-06-2026"
+            },
+            "streams": []
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Mma",
+            "event_name": "Submission Hunter Pro 103 | Mma",
+            "eventInfo": {
+                "teamA": "",
+                "teamB": "",
+                "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
+                "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
+                "eventName": "Mma",
+                "startTime": "7:00 AM 06-06-2026"
+            },
+            "streams": []
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Mma",
+            "event_name": "Tuff-N-Uff 154 | Mma",
+            "eventInfo": {
+                "teamA": "",
+                "teamB": "",
+                "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
+                "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
+                "eventName": "Mma",
+                "startTime": "8:00 AM 06-06-2026"
             },
             "streams": []
         },
@@ -1363,14 +1411,14 @@
         {
             "status": "UPCOMING",
             "Category": "Badminton",
-            "event_name": "Court 3 | Polytron Indonesia Open",
+            "event_name": "Court 1 | Polytron Indonesia Open",
             "eventInfo": {
                 "teamA": "",
                 "teamB": "",
                 "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
                 "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
                 "eventName": "Polytron Indonesia Open",
-                "startTime": "8:00 AM 05-06-2026"
+                "startTime": "8:00 AM 06-06-2026"
             },
             "streams": []
         },
@@ -1384,21 +1432,7 @@
                 "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
                 "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
                 "eventName": "Polytron Indonesia Open",
-                "startTime": "8:00 AM 05-06-2026"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Badminton",
-            "event_name": "Court 1 | Polytron Indonesia Open",
-            "eventInfo": {
-                "teamA": "",
-                "teamB": "",
-                "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
-                "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
-                "eventName": "Polytron Indonesia Open",
-                "startTime": "8:00 AM 05-06-2026"
+                "startTime": "8:00 AM 06-06-2026"
             },
             "streams": []
         }
