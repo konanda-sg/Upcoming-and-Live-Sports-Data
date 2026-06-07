@@ -2,10 +2,28 @@
     "name": "Live and Upcoming Sports Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "09:44:49 AM 07-06-2026",
+    "last_update_time": "11:44:21 AM 07-06-2026",
     "total_matches": 101,
-    "live_match": 17,
+    "live_match": 25,
     "matches": [
+        {
+            "status": "LIVE",
+            "Category": "Cricket",
+            "event_name": "Jb Bruges Vs Ghent Gladiators",
+            "eventInfo": {
+                "teamA": "Jb Bruges",
+                "teamB": "Ghent Gladiators",
+                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JBB@2x.png",
+                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GG@2x.png",
+                "eventName": "Eut20 Belgium, 2026",
+                "startTime": "07-06-2026 04:00 PM"
+            },
+            "streams": [
+                {
+                    "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/143151_english_hls_6b6ef54f7c8233_1ta-di_h264/1080p.m3u8"
+                }
+            ]
+        },
         {
             "status": "LIVE",
             "Category": "Cricket",
@@ -91,7 +109,7 @@
             },
             "streams": [
                 {
-                    "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780826106~acl=/hls/*~hmac=f1e38fe90ad28bad29d21816ce07b13559fc04e13699d15bd5ab99f45d5ea613"
+                    "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T56A87p03/master.m3u8?hdnts=exp=1780833307~acl=/hls/*~hmac=b776ee669a6a437efd2e2c95ef562c41ec8c3e74184b6e4ebb53c5a5ac4f1441"
                 }
             ]
         },
@@ -108,24 +126,24 @@
             },
             "streams": [
                 {
-                    "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780826106~acl=/hls/*~hmac=f1e38fe90ad28bad29d21816ce07b13559fc04e13699d15bd5ab99f45d5ea613"
+                    "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1780833307~acl=/hls/*~hmac=b776ee669a6a437efd2e2c95ef562c41ec8c3e74184b6e4ebb53c5a5ac4f1441"
                 }
             ]
         },
         {
             "status": "LIVE",
-            "event_name": "Ladies' Doubles - Final - Philippe Chatrier Live",
+            "event_name": "Race Day - Erzincan Turkey Live",
             "eventInfo": {
-                "teamA": "Ladies' Doubles - Final - Philippe Chatrier",
+                "teamA": "Race Day - Erzincan Turkey",
                 "teamB": "",
-                "teamAFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780785012540x302.jpg",
-                "teamBFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780785012540x302.jpg",
-                "eventName": "French Open 2026",
-                "startTime": "07-06-2026 03:00 PM"
+                "teamAFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780665844540x302.jpg",
+                "teamBFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780665844540x302.jpg",
+                "eventName": "World Downhill Skateboarding Championship (Wdsc) 2026",
+                "startTime": "07-06-2026 05:00 PM"
             },
             "streams": [
                 {
-                    "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-PaKvZIm/master.m3u8"
+                    "stream_url": "https://premierleagpl23.akamaized.net/hls/live/2107108/Tapmad-P2s6L_EnG-FiN@L/master.m3u8"
                 }
             ]
         },
@@ -143,16 +161,16 @@
             },
             "streams": [
                 {
-                    "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/139950_english_hls_3861e2ceab6114_1ta-di_h264/1080p5.m3u8"
+                    "stream_url": "https://bd-mc-plive.fancode.com/mumbai/139950_english_hls_3861e2ceab6114_1ta-di_h264/index.m3u8"
                 }
             ]
         },
         {
             "status": "LIVE",
             "Category": "Tennis",
-            "event_name": "Women'S Doubles Finals",
+            "event_name": "Court Philippe Chatrier",
             "eventInfo": {
-                "teamA": "Women'S Doubles Finals",
+                "teamA": "Court Philippe-Chatrier",
                 "teamB": "Paris",
                 "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-RG@2x.png",
                 "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png",
@@ -168,9 +186,9 @@
         {
             "status": "LIVE",
             "Category": "Tennis",
-            "event_name": "Women'S Doubles Finals",
+            "event_name": "Court Philippe Chatrier",
             "eventInfo": {
-                "teamA": "Women'S Doubles Finals",
+                "teamA": "Court Philippe-Chatrier",
                 "teamB": "Paris",
                 "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-RG@2x.png",
                 "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png",
@@ -186,9 +204,9 @@
         {
             "status": "LIVE",
             "Category": "Tennis",
-            "event_name": "Women'S Doubles Finals",
+            "event_name": "Court Philippe Chatrier",
             "eventInfo": {
-                "teamA": "Women'S Doubles Finals",
+                "teamA": "Court Philippe-Chatrier",
                 "teamB": "Paris",
                 "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-RG@2x.png",
                 "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png",
@@ -204,9 +222,9 @@
         {
             "status": "LIVE",
             "Category": "Tennis",
-            "event_name": "Women'S Doubles Finals",
+            "event_name": "Court Philippe Chatrier",
             "eventInfo": {
-                "teamA": "Women'S Doubles Finals",
+                "teamA": "Court Philippe-Chatrier",
                 "teamB": "Paris",
                 "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-RG@2x.png",
                 "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png",
@@ -222,9 +240,9 @@
         {
             "status": "LIVE",
             "Category": "Tennis",
-            "event_name": "Women'S Doubles Finals",
+            "event_name": "Court Philippe Chatrier",
             "eventInfo": {
-                "teamA": "Women'S Doubles Finals",
+                "teamA": "Court Philippe-Chatrier",
                 "teamB": "Paris",
                 "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-RG@2x.png",
                 "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png",
@@ -239,24 +257,76 @@
         },
         {
             "status": "LIVE",
-            "Category": "Npb",
-            "event_name": "Yokohama Dena Baystars Vs Fukuoka Softbank Hawks | Npb",
+            "Category": "Golf",
+            "event_name": "Main Feed Day 4",
             "eventInfo": {
-                "teamA": "Yokohama Dena Baystars",
-                "teamB": "Fukuoka Softbank Hawks",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/teams/e3e7ae8a15936419522e36aac0f7faea.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/teams/711743b3437e10f4fe95736e0035a3b8.png",
-                "eventName": "Npb",
-                "startTime": "Live Now"
+                "teamA": "Main Feed - Day 4",
+                "teamB": "Muirfield Village Golf Club - Dublin, Ohio",
+                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png",
+                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
+                "eventName": "The Memorial Tournament Presented By Workday 2026",
+                "startTime": "07-06-2026 05:00 PM"
             },
             "streams": [
                 {
-                    "stream_url 1": "https://livecdn-tc-livestream.rumsport10.live/stream/7/chunks.m3u8?is_vip=false&token=1780911088-Kv4cPTAAP5YTi-76169096c4e0f79c3e758a78007549bd97525a04-38431ec42567d4c8c21763393debf3b9",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                },
+                    "stream_url": "https://bd-mc-flive.fancode.com/mumbai/143115_english_hls_977c97831d36519_1ta-di_h264/index.m3u8"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Formula 1",
+            "event_name": "Race",
+            "eventInfo": {
+                "teamA": "Race",
+                "teamB": "Monaco",
+                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-FR5@2x.png",
+                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png",
+                "eventName": "F1 Louis Vuitton Grand Prix De Monaco 2026",
+                "startTime": "07-06-2026 06:30 PM"
+            },
+            "streams": [
                 {
-                    "stream_url 2": "https://livecdn-bp-livestream.rumsport7.live/stream/7/chunks.m3u8?is_vip=false&token=76169096c4e0f79c3e758a78007549bd97525a04&x-sign=221cfd1708619a64351d547d9e27b6b8&x-time=1780824660",
-                    "stream_referer": "https://iframe.rumsport10.live/"
+                    "stream_url": "https://bd-mc-flive.fancode.com/mumbai/139451_english_dash_39948_1drmta-di_h264/index.mpd",
+                    "drm_key": "a9db195cef3f42cbacb6421ee3057c17:1f75e928657bc034acdc7418ea9c15ff"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Formula 1",
+            "event_name": "Race",
+            "eventInfo": {
+                "teamA": "Race",
+                "teamB": "Monaco",
+                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-FR5@2x.png",
+                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png",
+                "eventName": "F1 Louis Vuitton Grand Prix De Monaco 2026",
+                "startTime": "07-06-2026 06:30 PM"
+            },
+            "streams": [
+                {
+                    "stream_url": "https://bd-mc-flive.fancode.com/mumbai/139451_hindi_dash_53469_1drmta-di_h264/index.mpd",
+                    "drm_key": "580c0651c1064c3e85ba7b569785071d:b045adf73fc5814a124856c2ec581910"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Formula 1",
+            "event_name": "Race",
+            "eventInfo": {
+                "teamA": "Race",
+                "teamB": "Monaco",
+                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-FR5@2x.png",
+                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png",
+                "eventName": "F1 Louis Vuitton Grand Prix De Monaco 2026",
+                "startTime": "07-06-2026 06:30 PM"
+            },
+            "streams": [
+                {
+                    "stream_url": "https://bd-mc-flive.fancode.com/mumbai/139451_tamil_dash_27925_1drmta-di_h264/index.mpd",
+                    "drm_key": "47ec2fb49d4e4c53ad1e3fd0b17207ed:42a284cbe38800a308715a0b6b2ad6fe"
                 }
             ]
         },
@@ -274,34 +344,11 @@
             },
             "streams": [
                 {
-                    "stream_url 1": "https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1780911092-Kv4cPTAAP5YTi-76169096c4e0f79c3e758a78007549bd97525a04-05aac1737fcea01211afbf7c2ba80c75",
+                    "stream_url 1": "https://livecdn-tc-livestream.rumsport10.live/stream/1/chunks.m3u8?is_vip=false&token=1780918288-Kv4cPTAAP5YTi-055d7ee58652850645f5be7d6d96bc4708739980-56ea603ba4327485e9b25e0947d4f8e7",
                     "stream_referer": "https://iframe.rumsport10.live/"
                 },
                 {
-                    "stream_url 2": "https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=76169096c4e0f79c3e758a78007549bd97525a04&x-sign=e7c09faed4216ea0c5fae8e866cbd5cb&x-time=1780824660",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "Category": "Rugby",
-            "event_name": "World Rugby Sevens Series | World Rugby Sevens Series",
-            "eventInfo": {
-                "teamA": "",
-                "teamB": "",
-                "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
-                "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
-                "eventName": "World Rugby Sevens Series",
-                "startTime": "Live Now"
-            },
-            "streams": [
-                {
-                    "stream_url 1": "https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1780911096-Kv4cPTAAP5YTi-76169096c4e0f79c3e758a78007549bd97525a04-8bb493e5eb56fa5b1a3a3f3291ce603b",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "stream_url 2": "https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=76169096c4e0f79c3e758a78007549bd97525a04&x-sign=942c214d3b628ec4fdd38a0a571d2dae&x-time=1780824660",
+                    "stream_url 2": "https://livecdn-bp-livestream.rumsport7.live/stream/1/chunks.m3u8?is_vip=false&token=055d7ee58652850645f5be7d6d96bc4708739980&x-sign=467d9853bd403e3c315ae629c243efe9&x-time=1780831860",
                     "stream_referer": "https://iframe.rumsport10.live/"
                 }
             ]
@@ -320,30 +367,127 @@
             },
             "streams": [
                 {
-                    "stream_url 1": "https://livecdn-tc-iptv.rumsport10.live/live_abr/366/720p/chunks.m3u8?is_vip=false&token=1780911100-Kv4cPTAAP5YTi-76169096c4e0f79c3e758a78007549bd97525a04-fede958b42f573cf21c413bd5f3ac7f2",
+                    "stream_url 1": "https://livecdn-tc-iptv.rumsport10.live/live_abr/366/720p/chunks.m3u8?is_vip=false&token=1780918292-Kv4cPTAAP5YTi-055d7ee58652850645f5be7d6d96bc4708739980-f3761ae8bf648ac01084ff78ee3307ce",
                     "stream_referer": "https://iframe.rumsport10.live/"
                 },
                 {
-                    "stream_url 2": "https://livecdn-bp-iptv.rumsport7.live/live_abr/366/720p/chunks.m3u8?is_vip=false&token=76169096c4e0f79c3e758a78007549bd97525a04&x-sign=9df45231bb869d70806db6a56ad9f033&x-time=1780824660",
+                    "stream_url 2": "https://livecdn-bp-iptv.rumsport7.live/live_abr/366/720p/chunks.m3u8?is_vip=false&token=055d7ee58652850645f5be7d6d96bc4708739980&x-sign=4fb898338f9aca83ea0880b4bbc82b2a&x-time=1780831860",
                     "stream_referer": "https://iframe.rumsport10.live/"
                 }
             ]
         },
         {
-            "status": "UPCOMING",
-            "Category": "Cricket",
-            "event_name": "Jb Bruges Vs Ghent Gladiators",
+            "status": "LIVE",
+            "Category": "Auto Racing",
+            "event_name": "Race Day Part 1: Latvia | Mxgp",
             "eventInfo": {
-                "teamA": "Jb Bruges",
-                "teamB": "Ghent Gladiators",
-                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JBB@2x.png",
-                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GG@2x.png",
-                "eventName": "Eut20 Belgium, 2026",
-                "startTime": "07-06-2026 04:00 PM"
+                "teamA": "",
+                "teamB": "",
+                "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
+                "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
+                "eventName": "Mxgp",
+                "startTime": "Live Now"
             },
             "streams": [
                 {
-                    "stream_url": ""
+                    "stream_url 1": "https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1780918296-Kv4cPTAAP5YTi-055d7ee58652850645f5be7d6d96bc4708739980-ed4beda71f30858ab92f7dae8f8c9222",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "stream_url 2": "https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=055d7ee58652850645f5be7d6d96bc4708739980&x-sign=2b4f3bb99c3d58a23e13be3633f8f81b&x-time=1780831860",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Rugby",
+            "event_name": "World Rugby Sevens Series | World Rugby Sevens Series",
+            "eventInfo": {
+                "teamA": "",
+                "teamB": "",
+                "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
+                "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
+                "eventName": "World Rugby Sevens Series",
+                "startTime": "Live Now"
+            },
+            "streams": [
+                {
+                    "stream_url 1": "https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1780918300-Kv4cPTAAP5YTi-055d7ee58652850645f5be7d6d96bc4708739980-e094fd9a465a0a44249cea1c74ffb1c5",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "stream_url 2": "https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=055d7ee58652850645f5be7d6d96bc4708739980&x-sign=3a5ae05ae2a7908be88c753cde1d9355&x-time=1780831860",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Golf",
+            "event_name": "Liv Golf Andalucia | Liv Golf",
+            "eventInfo": {
+                "teamA": "",
+                "teamB": "",
+                "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
+                "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
+                "eventName": "Liv Golf",
+                "startTime": "Live Now"
+            },
+            "streams": [
+                {
+                    "stream_url 1": "https://livecdn-tc-iptv.rumsport10.live/live_abr/451/720p/chunks.m3u8?is_vip=false&token=1780918304-Kv4cPTAAP5YTi-055d7ee58652850645f5be7d6d96bc4708739980-f153edd2e59cf6addf69aee24120faa8",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "stream_url 2": "https://livecdn-bp-iptv.rumsport7.live/live_abr/451/720p/chunks.m3u8?is_vip=false&token=055d7ee58652850645f5be7d6d96bc4708739980&x-sign=cdc1f73fcd6443ceea93de1b4ffa5865&x-time=1780831860",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Cycling",
+            "event_name": "Es2, Tour Auvergne-Rhône-Alpes, Stage 1 | Uci World Tour",
+            "eventInfo": {
+                "teamA": "",
+                "teamB": "",
+                "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
+                "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
+                "eventName": "Uci World Tour",
+                "startTime": "Live Now"
+            },
+            "streams": [
+                {
+                    "stream_url 1": "https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1780918308-Kv4cPTAAP5YTi-055d7ee58652850645f5be7d6d96bc4708739980-05f79e0066286f93a2bff754c9afd7f8",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "stream_url 2": "https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=055d7ee58652850645f5be7d6d96bc4708739980&x-sign=ee11155ac34263da9bd65e0a5a89ddff&x-time=1780831860",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Auto Racing",
+            "event_name": "Grand Prix Sunday | Monaco Grand Prix",
+            "eventInfo": {
+                "teamA": "",
+                "teamB": "",
+                "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
+                "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
+                "eventName": "Monaco Grand Prix",
+                "startTime": "Live Now"
+            },
+            "streams": [
+                {
+                    "stream_url 1": "https://livecdn-tc-iptv.rumsport10.live/live_abr/239/720p/chunks.m3u8?is_vip=false&token=1780918312-Kv4cPTAAP5YTi-055d7ee58652850645f5be7d6d96bc4708739980-97037c1a79334764f688387e30681dc4",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "stream_url 2": "https://livecdn-bp-iptv.rumsport7.live/live_abr/239/720p/chunks.m3u8?is_vip=false&token=055d7ee58652850645f5be7d6d96bc4708739980&x-sign=bd2571d7639c9f30858c504ae7088e50&x-time=1780831860",
+                    "stream_referer": "https://iframe.rumsport10.live/"
                 }
             ]
         },
@@ -422,14 +566,14 @@
         {
             "status": "UPCOMING",
             "Category": "Cricket",
-            "event_name": "Bundelkhand Bulls Women Vs Chambal Ghariyals Women",
+            "event_name": "Jb Bruges Vs Liege Red Lions",
             "eventInfo": {
-                "teamA": "Bundelkhand Bulls Women",
-                "teamB": "Chambal Ghariyals Women",
-                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BBSM@2x.png",
-                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CGSM@2x.png",
-                "eventName": "Madhya Pradesh League T20 Women'S 2026",
-                "startTime": "08-06-2026 09:30 AM"
+                "teamA": "Jb Bruges",
+                "teamB": "Liege Red Lions",
+                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JBB@2x.png",
+                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LRL@2x.png",
+                "eventName": "Eut20 Belgium, 2026",
+                "startTime": "08-06-2026 04:00 PM"
             },
             "streams": [
                 {
@@ -440,14 +584,14 @@
         {
             "status": "UPCOMING",
             "Category": "Cricket",
-            "event_name": "Jb Bruges Vs Liege Red Lions",
+            "event_name": "Bundelkhand Bulls Women Vs Chambal Ghariyals Women",
             "eventInfo": {
-                "teamA": "Jb Bruges",
-                "teamB": "Liege Red Lions",
-                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JBB@2x.png",
-                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LRL@2x.png",
-                "eventName": "Eut20 Belgium, 2026",
-                "startTime": "08-06-2026 04:00 PM"
+                "teamA": "Bundelkhand Bulls Women",
+                "teamB": "Chambal Ghariyals Women",
+                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BBSM@2x.png",
+                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CGSM@2x.png",
+                "eventName": "Madhya Pradesh League T20 Women'S 2026",
+                "startTime": "08-06-2026 09:30 AM"
             },
             "streams": [
                 {
@@ -476,14 +620,14 @@
         {
             "status": "UPCOMING",
             "Category": "Cricket",
-            "event_name": "Chambal Ghariyals Vs Ujjain Falcons",
+            "event_name": "Southern Spartans Vs Northern Challengers",
             "eventInfo": {
-                "teamA": "Chambal Ghariyals",
-                "teamB": "Ujjain Falcons",
-                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CGSM@2x.png",
-                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FT-UJF@2x.png",
-                "eventName": "Madhya Pradesh League T20, 2026",
-                "startTime": "08-06-2026 03:00 PM"
+                "teamA": "Southern Spartans",
+                "teamB": "Northern Challengers",
+                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SS@2x.png",
+                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NC@2x.png",
+                "eventName": "Big Cricket League Season 2",
+                "startTime": "08-06-2026 07:00 PM"
             },
             "streams": [
                 {
@@ -494,14 +638,14 @@
         {
             "status": "UPCOMING",
             "Category": "Cricket",
-            "event_name": "Southern Spartans Vs Northern Challengers",
+            "event_name": "Chambal Ghariyals Vs Ujjain Falcons",
             "eventInfo": {
-                "teamA": "Southern Spartans",
-                "teamB": "Northern Challengers",
-                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SS@2x.png",
-                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NC@2x.png",
-                "eventName": "Big Cricket League Season 2",
-                "startTime": "08-06-2026 07:00 PM"
+                "teamA": "Chambal Ghariyals",
+                "teamB": "Ujjain Falcons",
+                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CGSM@2x.png",
+                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FT-UJF@2x.png",
+                "eventName": "Madhya Pradesh League T20, 2026",
+                "startTime": "08-06-2026 03:00 PM"
             },
             "streams": [
                 {
@@ -538,6 +682,24 @@
                 "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-USA@2x.png",
                 "eventName": "Icc Cwc League 2 Canada, 2026",
                 "startTime": "08-06-2026 08:00 PM"
+            },
+            "streams": [
+                {
+                    "stream_url": ""
+                }
+            ]
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Cricket",
+            "event_name": "Malwa Stallions Vs Indore Pink Panthers",
+            "eventInfo": {
+                "teamA": "Malwa Stallions",
+                "teamB": "Indore Pink Panthers",
+                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FT-MAL@2x.png",
+                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IPP@2x.png",
+                "eventName": "Madhya Pradesh League T20, 2026",
+                "startTime": "08-06-2026 07:30 PM"
             },
             "streams": [
                 {
@@ -656,24 +818,6 @@
         {
             "status": "UPCOMING",
             "Category": "Cricket",
-            "event_name": "Malwa Stallions Vs Indore Pink Panthers",
-            "eventInfo": {
-                "teamA": "Malwa Stallions",
-                "teamB": "Indore Pink Panthers",
-                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FT-MAL@2x.png",
-                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IPP@2x.png",
-                "eventName": "Madhya Pradesh League T20, 2026",
-                "startTime": "08-06-2026 07:30 PM"
-            },
-            "streams": [
-                {
-                    "stream_url": ""
-                }
-            ]
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Cricket",
             "event_name": "West Indies Vs Sri Lanka",
             "eventInfo": {
                 "teamA": "West Indies",
@@ -728,14 +872,14 @@
         {
             "status": "UPCOMING",
             "Category": "Cricket",
-            "event_name": "Gujarat Diamonds Vs Southern Spartans",
+            "event_name": "Liege Red Lions Vs Akcel United Brussels",
             "eventInfo": {
-                "teamA": "",
-                "teamB": "",
-                "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
-                "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
-                "eventName": "Big Cricket League Season 2",
-                "startTime": "07-06-2026 02:00 PM"
+                "teamA": "Liege Red Lions",
+                "teamB": "Akcel United Brussels",
+                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LRL@2x.png",
+                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AU@2x.png",
+                "eventName": "Eut20 Belgium, 2026",
+                "startTime": "09-06-2026 04:00 PM"
             },
             "streams": [
                 {
@@ -764,14 +908,14 @@
         {
             "status": "UPCOMING",
             "Category": "Cricket",
-            "event_name": "Mp Tigers Vs Up Brij Stars",
+            "event_name": "Gujarat Diamonds Vs Southern Spartans",
             "eventInfo": {
                 "teamA": "",
                 "teamB": "",
                 "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
                 "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
                 "eventName": "Big Cricket League Season 2",
-                "startTime": "07-06-2026 07:00 PM"
+                "startTime": "07-06-2026 02:00 PM"
             },
             "streams": [
                 {
@@ -782,32 +926,14 @@
         {
             "status": "UPCOMING",
             "Category": "Cricket",
-            "event_name": "Antwerp Anchors Vs Akcel United Brussels",
+            "event_name": "Mp Tigers Vs Up Brij Stars",
             "eventInfo": {
                 "teamA": "",
                 "teamB": "",
                 "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
                 "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
-                "eventName": "Eut20 Belgium, 2026",
-                "startTime": "07-06-2026 08:00 PM"
-            },
-            "streams": [
-                {
-                    "stream_url": ""
-                }
-            ]
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Football",
-            "event_name": "Morocco Vs Norway",
-            "eventInfo": {
-                "teamA": "",
-                "teamB": "",
-                "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
-                "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
-                "eventName": "International Friendlies 2026",
-                "startTime": "08-06-2026 12:30 AM"
+                "eventName": "Big Cricket League Season 2",
+                "startTime": "07-06-2026 07:00 PM"
             },
             "streams": [
                 {
@@ -854,20 +980,6 @@
         {
             "status": "UPCOMING",
             "Category": "Football",
-            "event_name": "Congo Dr U20 Vs Colombia U19 | Tournoi Maurice Revello",
-            "eventInfo": {
-                "teamA": "Congo Dr U20",
-                "teamB": "Colombia U19",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/11024.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/18981.png",
-                "eventName": "Tournoi Maurice Revello",
-                "startTime": "7:00 PM 07-06-2026"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Football",
             "event_name": "Liechtenstein Vs Cyprus | Friendlies",
             "eventInfo": {
                 "teamA": "Liechtenstein",
@@ -875,6 +987,20 @@
                 "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1107.png",
                 "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1106.png",
                 "eventName": "Friendlies",
+                "startTime": "7:00 PM 07-06-2026"
+            },
+            "streams": []
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Football",
+            "event_name": "Congo Dr U20 Vs Colombia U19 | Tournoi Maurice Revello",
+            "eventInfo": {
+                "teamA": "Congo Dr U20",
+                "teamB": "Colombia U19",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/11024.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/18981.png",
+                "eventName": "Tournoi Maurice Revello",
                 "startTime": "7:00 PM 07-06-2026"
             },
             "streams": []
@@ -938,20 +1064,6 @@
         {
             "status": "UPCOMING",
             "Category": "Football",
-            "event_name": "Las Palmas Vs Malaga | Segunda División",
-            "eventInfo": {
-                "teamA": "Las Palmas",
-                "teamB": "Malaga",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/534.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/535.png",
-                "eventName": "Segunda División",
-                "startTime": "1:00 AM 08-06-2026"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Football",
             "event_name": "Morocco Vs Norway | Friendlies",
             "eventInfo": {
                 "teamA": "Morocco",
@@ -959,6 +1071,20 @@
                 "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/31.png",
                 "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/teams/8208a99e14d74fed3263d073e2bbf8ae.png",
                 "eventName": "Friendlies",
+                "startTime": "1:00 AM 08-06-2026"
+            },
+            "streams": []
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Football",
+            "event_name": "Las Palmas Vs Malaga | Segunda División",
+            "eventInfo": {
+                "teamA": "Las Palmas",
+                "teamB": "Malaga",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/534.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/535.png",
+                "eventName": "Segunda División",
                 "startTime": "1:00 AM 08-06-2026"
             },
             "streams": []
@@ -1035,23 +1161,6 @@
         },
         {
             "status": "UPCOMING",
-            "event_name": "Race Day - Erzincan Turkey Live",
-            "eventInfo": {
-                "teamA": "Race Day - Erzincan Turkey",
-                "teamB": "",
-                "teamAFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1780665844540x302.jpg",
-                "teamBFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1780665844540x302.jpg",
-                "eventName": "World Downhill Skateboarding Championship (Wdsc) 2026",
-                "startTime": "07-06-2026 05:00 PM"
-            },
-            "streams": [
-                {
-                    "stream_url": ""
-                }
-            ]
-        },
-        {
-            "status": "UPCOMING",
             "event_name": "Gentlemen'S Single - Finals - Philippe Chatrier Live",
             "eventInfo": {
                 "teamA": "Gentlemen'S Single - Finals - Philippe Chatrier",
@@ -1104,42 +1213,6 @@
         {
             "status": "UPCOMING",
             "Category": "Motorsports",
-            "event_name": "Race Monaco",
-            "eventInfo": {
-                "teamA": "Race - Monaco",
-                "teamB": "Monaco",
-                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-POR@2x.png",
-                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
-                "eventName": "Porsche Mobil 1 Supercup 2026",
-                "startTime": "07-06-2026 03:15 PM"
-            },
-            "streams": [
-                {
-                    "stream_url": ""
-                }
-            ]
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Golf",
-            "event_name": "Main Feed Day 4",
-            "eventInfo": {
-                "teamA": "Main Feed - Day 4",
-                "teamB": "Muirfield Village Golf Club - Dublin, Ohio",
-                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png",
-                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-                "eventName": "The Memorial Tournament Presented By Workday 2026",
-                "startTime": "07-06-2026 05:00 PM"
-            },
-            "streams": [
-                {
-                    "stream_url": ""
-                }
-            ]
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Motorsports",
             "event_name": "F1 Kids 2026",
             "eventInfo": {
                 "teamA": "F1 Kids 2026",
@@ -1148,24 +1221,6 @@
                 "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
                 "eventName": "F1 Kids 2026",
                 "startTime": "07-06-2026 06:25 PM"
-            },
-            "streams": [
-                {
-                    "stream_url": ""
-                }
-            ]
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Formula 1",
-            "event_name": "Race",
-            "eventInfo": {
-                "teamA": "Race",
-                "teamB": "Monaco",
-                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-FR5@2x.png",
-                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png",
-                "eventName": "F1 Louis Vuitton Grand Prix De Monaco 2026",
-                "startTime": "07-06-2026 06:30 PM"
             },
             "streams": [
                 {
@@ -1302,7 +1357,7 @@
         {
             "status": "UPCOMING",
             "Category": "Tennis",
-            "event_name": "Women'S Doubles Finals",
+            "event_name": "Court Philippe Chatrier",
             "eventInfo": {
                 "teamA": "",
                 "teamB": "",
@@ -1310,6 +1365,42 @@
                 "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
                 "eventName": "Roland Garros 2026",
                 "startTime": "07-06-2026 02:30 PM"
+            },
+            "streams": [
+                {
+                    "stream_url": ""
+                }
+            ]
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Golf",
+            "event_name": "Main Feed Day 4",
+            "eventInfo": {
+                "teamA": "",
+                "teamB": "",
+                "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
+                "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
+                "eventName": "The Memorial Tournament Presented By Workday 2026",
+                "startTime": "07-06-2026 05:00 PM"
+            },
+            "streams": [
+                {
+                    "stream_url": ""
+                }
+            ]
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Formula 1",
+            "event_name": "Race",
+            "eventInfo": {
+                "teamA": "",
+                "teamB": "",
+                "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
+                "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
+                "eventName": "F1 Louis Vuitton Grand Prix De Monaco 2026",
+                "startTime": "07-06-2026 06:30 PM"
             },
             "streams": [
                 {
@@ -1501,48 +1592,6 @@
         },
         {
             "status": "UPCOMING",
-            "Category": "Golf",
-            "event_name": "Liv Golf Andalucia | Liv Golf",
-            "eventInfo": {
-                "teamA": "",
-                "teamB": "",
-                "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
-                "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
-                "eventName": "Liv Golf",
-                "startTime": "5:00 PM 07-06-2026"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Auto Racing",
-            "event_name": "Race Day Part 1: Latvia | Mxgp",
-            "eventInfo": {
-                "teamA": "",
-                "teamB": "",
-                "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
-                "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
-                "eventName": "Mxgp",
-                "startTime": "4:00 PM 07-06-2026"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Auto Racing",
-            "event_name": "Grand Prix Sunday | Monaco Grand Prix",
-            "eventInfo": {
-                "teamA": "",
-                "teamB": "",
-                "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
-                "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
-                "eventName": "Monaco Grand Prix",
-                "startTime": "5:30 PM 07-06-2026"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
             "Category": "Auto Racing",
             "event_name": "Formula 1 Main Race | Monaco Grand Prix",
             "eventInfo": {
@@ -1557,6 +1606,20 @@
         },
         {
             "status": "UPCOMING",
+            "Category": "Auto Racing",
+            "event_name": "Race Day Part 2: Latvia | Mxgp",
+            "eventInfo": {
+                "teamA": "",
+                "teamB": "",
+                "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
+                "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
+                "eventName": "Mxgp",
+                "startTime": "7:00 PM 07-06-2026"
+            },
+            "streams": []
+        },
+        {
+            "status": "UPCOMING",
             "Category": "Mma",
             "event_name": "Uwc 58 | Mma",
             "eventInfo": {
@@ -1566,20 +1629,6 @@
                 "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
                 "eventName": "Mma",
                 "startTime": "5:00 AM 08-06-2026"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Rugby",
-            "event_name": "World Rugby Sevens Series | World Rugby Sevens Series",
-            "eventInfo": {
-                "teamA": "",
-                "teamB": "",
-                "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
-                "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
-                "eventName": "World Rugby Sevens Series",
-                "startTime": "4:30 PM 07-06-2026"
             },
             "streams": []
         },
@@ -1614,20 +1663,6 @@
         {
             "status": "UPCOMING",
             "Category": "Cycling",
-            "event_name": "Es2, Tour Auvergne-Rhône-Alpes, Stage 1 | Uci World Tour",
-            "eventInfo": {
-                "teamA": "",
-                "teamB": "",
-                "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
-                "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
-                "eventName": "Uci World Tour",
-                "startTime": "5:00 PM 07-06-2026"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Cycling",
             "event_name": "Es1, Tour Auvergne-Rhône-Alpes, Stage 2 | Uci World Tour",
             "eventInfo": {
                 "teamA": "",
@@ -1642,21 +1677,7 @@
         {
             "status": "UPCOMING",
             "Category": "Badminton",
-            "event_name": "Court 1 | Sathio Group Australian Badminton Open",
-            "eventInfo": {
-                "teamA": "",
-                "teamB": "",
-                "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
-                "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
-                "eventName": "Sathio Group Australian Badminton Open",
-                "startTime": "8:00 AM 09-06-2026"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Badminton",
-            "event_name": "Court 2 | Sathio Group Australian Badminton Open",
+            "event_name": "Court 4 | Sathio Group Australian Badminton Open",
             "eventInfo": {
                 "teamA": "",
                 "teamB": "",
@@ -1671,6 +1692,20 @@
             "status": "UPCOMING",
             "Category": "Badminton",
             "event_name": "Court 3 | Sathio Group Australian Badminton Open",
+            "eventInfo": {
+                "teamA": "",
+                "teamB": "",
+                "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
+                "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
+                "eventName": "Sathio Group Australian Badminton Open",
+                "startTime": "8:00 AM 09-06-2026"
+            },
+            "streams": []
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Badminton",
+            "event_name": "Court 2 | Sathio Group Australian Badminton Open",
             "eventInfo": {
                 "teamA": "",
                 "teamB": "",
