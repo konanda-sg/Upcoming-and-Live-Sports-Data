@@ -2,28 +2,10 @@
     "name": "Live and Upcoming Sports Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "11:30:06 PM 12-06-2026",
-    "total_matches": 100,
-    "live_match": 17,
+    "last_update_time": "12:00:03 AM 13-06-2026",
+    "total_matches": 104,
+    "live_match": 19,
     "matches": [
-        {
-            "status": "LIVE",
-            "Category": "Cricket",
-            "event_name": "Canada Vs Usa",
-            "eventInfo": {
-                "teamA": "Canada",
-                "teamB": "Usa",
-                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CAN@2x.png",
-                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-USA@2x.png",
-                "eventName": "Icc Cwc League 2 Canada, 2026",
-                "startTime": "12-06-2026 08:30 PM"
-            },
-            "streams": [
-                {
-                    "stream_url": "https://bd-mc-plive.fancode.com/mumbai/143198_english_hls_4cfc14a5262277_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781362271~_GO=Generated~acl=/mumbai/143198_english_hls_4cfc14a5262277_1ta-di_h264/*~Signature=ATZ0w6c7LC0WsGgVyXylmuVWpHhk-vISJRhNQ9KLPkLiLBKJ-UQ8_OIEzIbVIGpkSZT-vWIhYxagEuukPtY72CKCAWsK"
-                }
-            ]
-        },
         {
             "status": "LIVE",
             "Category": "Cricket",
@@ -39,6 +21,24 @@
             "streams": [
                 {
                     "stream_url": ""
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Cricket",
+            "event_name": "Up Brij Stars Vs Mumbai Marines",
+            "eventInfo": {
+                "teamA": "Up Brij Stars",
+                "teamB": "Mumbai Marines",
+                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UPBS@2x.png",
+                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MM@2x.png",
+                "eventName": "Big Cricket League Season 2",
+                "startTime": "12-06-2026 07:00 PM"
+            },
+            "streams": [
+                {
+                    "stream_url": "https://bd-mc-plive.fancode.com/mumbai/143000_english_hls_ab9d29dedb7333_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781358939~_GO=Generated~acl=/mumbai/143000_english_hls_ab9d29dedb7333_1ta-di_h264/*~Signature=ATZ0w6cwjv2QHuXIXJvT3OAYosq6uInGT_tIUXc9U9KXKJxlnKB9XmUDvWEIm7q-PzjY73l_pf3JPvM_bs0d4Vh49-IM"
                 }
             ]
         },
@@ -63,41 +63,18 @@
         {
             "status": "LIVE",
             "Category": "Cricket",
-            "event_name": "Up Brij Stars Vs Mumbai Marines",
+            "event_name": "Canada Vs Usa",
             "eventInfo": {
-                "teamA": "Up Brij Stars",
-                "teamB": "Mumbai Marines",
-                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-UPBS@2x.png",
-                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MM@2x.png",
-                "eventName": "Big Cricket League Season 2",
-                "startTime": "12-06-2026 07:00 PM"
+                "teamA": "Canada",
+                "teamB": "Usa",
+                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CAN@2x.png",
+                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-USA@2x.png",
+                "eventName": "Icc Cwc League 2 Canada, 2026",
+                "startTime": "12-06-2026 08:30 PM"
             },
             "streams": [
                 {
-                    "stream_url": "https://bd-mc-plive.fancode.com/mumbai/143000_english_hls_ab9d29dedb7333_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781358939~_GO=Generated~acl=/mumbai/143000_english_hls_ab9d29dedb7333_1ta-di_h264/*~Signature=ATZ0w6cwjv2QHuXIXJvT3OAYosq6uInGT_tIUXc9U9KXKJxlnKB9XmUDvWEIm7q-PzjY73l_pf3JPvM_bs0d4Vh49-IM"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "Category": "Division 2 - Södra Götaland",
-            "event_name": "Karlshamn Vs Sölvesborg | Division 2 - Södra Götaland",
-            "eventInfo": {
-                "teamA": "Karlshamn",
-                "teamB": "Sölvesborg",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/12615.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/12660.png",
-                "eventName": "Division 2 - Södra Götaland",
-                "startTime": "Live Now"
-            },
-            "streams": [
-                {
-                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f69299b0/chunks.m3u8?is_vip=false&token=0ed8358d52f9c8b11bac038918f9636e285029b6&x-sign=22d8639f743fd5c2c6b2c5bfd7f147a3&x-time=1781284620",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f69299b0/chunks.m3u8?is_vip=false&token=1781371022-Kv4cPTAAP5YTi-0ed8358d52f9c8b11bac038918f9636e285029b6-9886001c9abf181efb4f69f61f1b0c9d",
-                    "stream_referer": "https://iframe.rumsport10.live/"
+                    "stream_url": "https://bd-mc-plive.fancode.com/mumbai/143198_english_hls_4cfc14a5262277_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781362271~_GO=Generated~acl=/mumbai/143198_english_hls_4cfc14a5262277_1ta-di_h264/*~Signature=ATZ0w6c7LC0WsGgVyXylmuVWpHhk-vISJRhNQ9KLPkLiLBKJ-UQ8_OIEzIbVIGpkSZT-vWIhYxagEuukPtY72CKCAWsK"
                 }
             ]
         },
@@ -211,20 +188,24 @@
         },
         {
             "status": "LIVE",
-            "Category": "Formula 1",
-            "event_name": "Practice 2",
+            "Category": "Cup",
+            "event_name": "Ægir Vs Breidablik | Cup",
             "eventInfo": {
-                "teamA": "Practice 2",
-                "teamB": "Barcelona",
-                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-FR5@2x.png",
-                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png",
-                "eventName": "F1 Msc Cruises Gran Premio De Barcelona-catalunya",
-                "startTime": "12-06-2026 08:30 PM"
+                "teamA": "Ægir",
+                "teamB": "Breidablik",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/4167.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/276.png",
+                "eventName": "Cup",
+                "startTime": "Live Now"
             },
             "streams": [
                 {
-                    "stream_url": "https://bd-mc-flive.fancode.com/mumbai/139453_english_dash_37732_1drmta-di_h264/index.mpd",
-                    "drm_key": "380eea4dc55d414fa39d052fea426d59:75b0587854b18b575b58645ca84b285e"
+                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a100600a4a1fa77f6bcb8c6/chunks.m3u8?is_vip=false&token=eb67b3150c60d563de37aa97daa3db9576a87525&x-sign=dac5289afb250a3b418ac8d396ceba4c&x-time=1781286420",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a100600a4a1fa77f6bcb8c6/chunks.m3u8?is_vip=false&token=1781372837-Kv4cPTAAP5YTi-eb67b3150c60d563de37aa97daa3db9576a87525-bb78f4b16cb7c5f1243c4a2ade42cc83",
+                    "stream_referer": "https://iframe.rumsport10.live/"
                 }
             ]
         },
@@ -242,65 +223,19 @@
             },
             "streams": [
                 {
-                    "stream_url 1": "https://livecdn-tc-iptv.rumsport10.live/live_abr/143070/720p/chunks.m3u8?is_vip=false&token=1781370998-Kv4cPTAAP5YTi-0ed8358d52f9c8b11bac038918f9636e285029b6-247feafdb9637a7e9aac6358dac0cbc4",
+                    "stream_url 1": "https://livecdn-tc-iptv.rumsport10.live/live_abr/143070/720p/chunks.m3u8?is_vip=false&token=1781372796-Kv4cPTAAP5YTi-eb67b3150c60d563de37aa97daa3db9576a87525-223b8e63186c59f4ce7844f97d44c464",
                     "stream_referer": "https://iframe.rumsport10.live/"
                 },
                 {
-                    "stream_url 2": "https://livecdn-bp-iptv.rumsport7.live/live_abr/143070/720p/chunks.m3u8?is_vip=false&token=0ed8358d52f9c8b11bac038918f9636e285029b6&x-sign=36ab4082b40de9bf201e446dcdcf8163&x-time=1781284560",
+                    "stream_url 2": "https://livecdn-bp-iptv.rumsport7.live/live_abr/143070/720p/chunks.m3u8?is_vip=false&token=eb67b3150c60d563de37aa97daa3db9576a87525&x-sign=075c78fc2e9c3804ccb73f8cd440111e&x-time=1781286360",
                     "stream_referer": "https://iframe.rumsport10.live/"
                 },
                 {
-                    "stream_url 3": "https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1781370999-Kv4cPTAAP5YTi-0ed8358d52f9c8b11bac038918f9636e285029b6-dd17fd4d9bb344ddfbffd593b86fe453",
+                    "stream_url 3": "https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1781372797-Kv4cPTAAP5YTi-eb67b3150c60d563de37aa97daa3db9576a87525-8a27faada47d4f1ac56c4882d9d4e61e",
                     "stream_referer": "https://iframe.rumsport10.live/"
                 },
                 {
-                    "stream_url 4": "https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=0ed8358d52f9c8b11bac038918f9636e285029b6&x-sign=53f7ad9c570122aa00814c67ca574a0a&x-time=1781284560",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "Category": "Boss Open",
-            "event_name": "Day 5 | Boss Open",
-            "eventInfo": {
-                "teamA": "",
-                "teamB": "",
-                "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
-                "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
-                "eventName": "Boss Open",
-                "startTime": "Live Now"
-            },
-            "streams": [
-                {
-                    "stream_url 1": "https://livecdn-tc-livestream.rumsport10.live/stream/25/chunks.m3u8?is_vip=false&token=1781371004-Kv4cPTAAP5YTi-0ed8358d52f9c8b11bac038918f9636e285029b6-7aa49b59f751ddbde8d1b88b98cfa568",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "stream_url 2": "https://livecdn-bp-livestream.rumsport7.live/stream/25/chunks.m3u8?is_vip=false&token=0ed8358d52f9c8b11bac038918f9636e285029b6&x-sign=9b758c7610c3fbfb702f78a711727e5f&x-time=1781284560",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "Category": "Auto Racing",
-            "event_name": "Barcelona, Spain | Porsche Mobil 1 Supercup Practice",
-            "eventInfo": {
-                "teamA": "",
-                "teamB": "",
-                "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
-                "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
-                "eventName": "Porsche Mobil 1 Supercup Practice",
-                "startTime": "10:30 PM 12-06-2026"
-            },
-            "streams": [
-                {
-                    "stream_url 1": "https://livecdn-tc-iptv.rumsport10.live/live_abr/239/720p/chunks.m3u8?is_vip=false&token=1781371027-Kv4cPTAAP5YTi-0ed8358d52f9c8b11bac038918f9636e285029b6-8de28b326d801ed58596a53df786bb16",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "stream_url 2": "https://livecdn-bp-iptv.rumsport7.live/live_abr/239/720p/chunks.m3u8?is_vip=false&token=0ed8358d52f9c8b11bac038918f9636e285029b6&x-sign=ecf183c63f98f7e9e5ff95c71bd455f5&x-time=1781284620",
+                    "stream_url 4": "https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=eb67b3150c60d563de37aa97daa3db9576a87525&x-sign=21e0b989732be580df868d881edfea36&x-time=1781286360",
                     "stream_referer": "https://iframe.rumsport10.live/"
                 }
             ]
@@ -319,7 +254,7 @@
             },
             "streams": [
                 {
-                    "stream_url 1": "https://livecdn-bp-iptv.rumsport7.live/live_abr/114415/720p/chunks.m3u8?is_vip=false&token=0ed8358d52f9c8b11bac038918f9636e285029b6&x-sign=98ffd2b9ab7cf1658127c8cda2f30d48&x-time=1781284560",
+                    "stream_url 1": "https://livecdn-bp-iptv.rumsport7.live/live_abr/114415/720p/chunks.m3u8?is_vip=false&token=eb67b3150c60d563de37aa97daa3db9576a87525&x-sign=273368bc6dbd084614e092fbb069a7e9&x-time=1781286360",
                     "stream_referer": "https://iframe.rumsport10.live/"
                 }
             ]
@@ -338,144 +273,147 @@
             },
             "streams": [
                 {
-                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f69299ae/chunks.m3u8?is_vip=false&token=0ed8358d52f9c8b11bac038918f9636e285029b6&x-sign=b4f31f88a50bb99cf7d440db836af3bc&x-time=1781284560",
+                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f69299ae/chunks.m3u8?is_vip=false&token=eb67b3150c60d563de37aa97daa3db9576a87525&x-sign=3bdd8c9581caf21c886db9ae2a9c2047&x-time=1781286360",
                     "stream_referer": "https://iframe.rumsport10.live/"
                 },
                 {
-                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f69299ae/chunks.m3u8?is_vip=false&token=1781371016-Kv4cPTAAP5YTi-0ed8358d52f9c8b11bac038918f9636e285029b6-b7db9a43bec1d51aee6c9318de6d092a",
+                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f69299ae/chunks.m3u8?is_vip=false&token=1781372812-Kv4cPTAAP5YTi-eb67b3150c60d563de37aa97daa3db9576a87525-7d6d9b77a8f1e414ca04368947d778bf",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Division 2 - Södra Götaland",
+            "event_name": "Karlshamn Vs Sölvesborg | Division 2 - Södra Götaland",
+            "eventInfo": {
+                "teamA": "Karlshamn",
+                "teamB": "Sölvesborg",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/12615.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/12660.png",
+                "eventName": "Division 2 - Södra Götaland",
+                "startTime": "Live Now"
+            },
+            "streams": [
+                {
+                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f69299b0/chunks.m3u8?is_vip=false&token=eb67b3150c60d563de37aa97daa3db9576a87525&x-sign=30943f5b81d3c947ea0d0effab510d49&x-time=1781286360",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f69299b0/chunks.m3u8?is_vip=false&token=1781372817-Kv4cPTAAP5YTi-eb67b3150c60d563de37aa97daa3db9576a87525-762f5246444ec2cb6122a75313cb22f0",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Division 2 - Södra Götaland",
+            "event_name": "Lilla Torg W Vs Staffanstorp United | Division 2 - Södra Götaland",
+            "eventInfo": {
+                "teamA": "Lilla Torg W",
+                "teamB": "Staffanstorp United",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/24079.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/26891.png",
+                "eventName": "Division 2 - Södra Götaland",
+                "startTime": "Live Now"
+            },
+            "streams": [
+                {
+                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0c81fec0f5e667e402ad7f/chunks.m3u8?is_vip=false&token=eb67b3150c60d563de37aa97daa3db9576a87525&x-sign=e3d91300d2fef712a1cb42fc2e152af4&x-time=1781286420",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0c81fec0f5e667e402ad7f/chunks.m3u8?is_vip=false&token=1781372822-Kv4cPTAAP5YTi-eb67b3150c60d563de37aa97daa3db9576a87525-535b56e9133822b4a2135ef3db67c76b",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "1. Deild",
+            "event_name": "B71 Vs Víkingur Ii | 1. Deild",
+            "eventInfo": {
+                "teamA": "B71",
+                "teamB": "Víkingur Ii",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/4176.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/4183.png",
+                "eventName": "1. Deild",
+                "startTime": "Live Now"
+            },
+            "streams": [
+                {
+                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a2bedc3021e3dc89f709516/chunks.m3u8?is_vip=false&token=eb67b3150c60d563de37aa97daa3db9576a87525&x-sign=da0feaf2a32ef041459c1756350a0c21&x-time=1781286420",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a2bedc3021e3dc89f709516/chunks.m3u8?is_vip=false&token=1781372827-Kv4cPTAAP5YTi-eb67b3150c60d563de37aa97daa3db9576a87525-c5d16064bcca4770559df74f830364a1",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Division 2 - Norra Götaland",
+            "event_name": "Ifk Skövde Vs Grebbestad | Division 2 - Norra Götaland",
+            "eventInfo": {
+                "teamA": "Ifk Skövde",
+                "teamB": "Grebbestad",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/16605.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/6670.png",
+                "eventName": "Division 2 - Norra Götaland",
+                "startTime": "Live Now"
+            },
+            "streams": [
+                {
+                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0c81fec0f5e667e402ad7d/chunks.m3u8?is_vip=false&token=eb67b3150c60d563de37aa97daa3db9576a87525&x-sign=f6d034228618320ad76f9cf981c08dec&x-time=1781286420",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0c81fec0f5e667e402ad7d/chunks.m3u8?is_vip=false&token=1781372832-Kv4cPTAAP5YTi-eb67b3150c60d563de37aa97daa3db9576a87525-7290f6182bcb01d1014ae9672998a5c3",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Boss Open",
+            "event_name": "Day 5 | Boss Open",
+            "eventInfo": {
+                "teamA": "",
+                "teamB": "",
+                "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
+                "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
+                "eventName": "Boss Open",
+                "startTime": "Live Now"
+            },
+            "streams": [
+                {
+                    "stream_url 1": "https://livecdn-tc-livestream.rumsport10.live/stream/25/chunks.m3u8?is_vip=false&token=1781372803-Kv4cPTAAP5YTi-eb67b3150c60d563de37aa97daa3db9576a87525-d88ee79443c4675b9bdd5b36e3473fcc",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "stream_url 2": "https://livecdn-bp-livestream.rumsport7.live/stream/25/chunks.m3u8?is_vip=false&token=eb67b3150c60d563de37aa97daa3db9576a87525&x-sign=bbc486d29d3d1e0a693cc783e089912e&x-time=1781286360",
                     "stream_referer": "https://iframe.rumsport10.live/"
                 }
             ]
         },
         {
             "status": "UPCOMING",
-            "Category": "Football",
-            "event_name": "Defensores De Cambaceres Vs Berazategui | Primera C",
-            "eventInfo": {
-                "teamA": "Defensores De Cambaceres",
-                "teamB": "Berazategui",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/8392.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/8382.png",
-                "eventName": "Primera C",
-                "startTime": "3:30 AM 13-06-2026"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
             "Category": "Cricket",
-            "event_name": "Usa Vs Canada",
+            "event_name": "Bangladesh Vs Australia",
             "eventInfo": {
-                "teamA": "",
-                "teamB": "",
-                "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
-                "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
-                "eventName": "Icc Cwc League 2 Canada, 2026",
-                "startTime": "12-06-2026 08:30 PM"
+                "teamA": "Bangladesh",
+                "teamB": "Australia",
+                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAN@2x.png",
+                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AUS@2x.png",
+                "eventName": "Australia Tour Of Bangladesh, 2026",
+                "startTime": "14-06-2026 10:30 AM"
             },
             "streams": [
                 {
                     "stream_url": ""
                 }
             ]
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Football",
-            "event_name": "Köpetdag Aşgabat Vs Merw | Ýokary Liga",
-            "eventInfo": {
-                "teamA": "Köpetdag Aşgabat",
-                "teamB": "Merw",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/13157.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/13158.png",
-                "eventName": "Ýokary Liga",
-                "startTime": "9:00 PM 13-06-2026"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Football",
-            "event_name": "Nebitci Vs Ahal | Ýokary Liga",
-            "eventInfo": {
-                "teamA": "Nebitci",
-                "teamB": "Ahal",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/8039.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/8020.png",
-                "eventName": "Ýokary Liga",
-                "startTime": "9:00 PM 13-06-2026"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Football",
-            "event_name": "Şagadam Vs Altyn Asyr | Ýokary Liga",
-            "eventInfo": {
-                "teamA": "Şagadam",
-                "teamB": "Altyn Asyr",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/12903.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/8023.png",
-                "eventName": "Ýokary Liga",
-                "startTime": "9:00 PM 13-06-2026"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Football",
-            "event_name": "Aşgabat Vs Arkadag | Ýokary Liga",
-            "eventInfo": {
-                "teamA": "Aşgabat",
-                "teamB": "Arkadag",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/13159.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/21232.png",
-                "eventName": "Ýokary Liga",
-                "startTime": "9:00 PM 13-06-2026"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Football",
-            "event_name": "Vps Vs Kups | Veikkausliiga",
-            "eventInfo": {
-                "teamA": "Vps",
-                "teamB": "Kups",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/650.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1165.png",
-                "eventName": "Veikkausliiga",
-                "startTime": "8:00 PM 13-06-2026"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Football",
-            "event_name": "Ml Vitebsk Vs Fc Vitebsk | Premier League",
-            "eventInfo": {
-                "teamA": "Ml Vitebsk",
-                "teamB": "Fc Vitebsk",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/7808.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/382.png",
-                "eventName": "Premier League",
-                "startTime": "8:00 PM 13-06-2026"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Football",
-            "event_name": "Tammeka Vs Vaprus | Meistriliiga",
-            "eventInfo": {
-                "teamA": "Tammeka",
-                "teamB": "Vaprus",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/3530.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/3525.png",
-                "eventName": "Meistriliiga",
-                "startTime": "8:00 PM 13-06-2026"
-            },
-            "streams": []
         },
         {
             "status": "UPCOMING",
@@ -498,14 +436,14 @@
         {
             "status": "UPCOMING",
             "Category": "Cricket",
-            "event_name": "Antwerp Anchors Vs Jb Bruges",
+            "event_name": "Chambal Ghariyals Vs Indore Pink Panthers",
             "eventInfo": {
-                "teamA": "",
-                "teamB": "",
-                "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
-                "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
-                "eventName": "Eut20 Belgium, 2026",
-                "startTime": "12-06-2026 08:00 PM"
+                "teamA": "Chambal Ghariyals",
+                "teamB": "Indore Pink Panthers",
+                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CGSM@2x.png",
+                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-IPP@2x.png",
+                "eventName": "Madhya Pradesh League T20, 2026",
+                "startTime": "14-06-2026 09:30 AM"
             },
             "streams": [
                 {
@@ -516,13 +454,55 @@
         {
             "status": "UPCOMING",
             "Category": "Football",
-            "event_name": "Ff Jaro Vs Hjk Helsinki | Veikkausliiga",
+            "event_name": "Shelbourne W Vs Cliftonville W | All-island Cup - Women",
             "eventInfo": {
-                "teamA": "Ff Jaro",
-                "teamB": "Hjk Helsinki",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2075.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/649.png",
+                "teamA": "Shelbourne W",
+                "teamB": "Cliftonville W",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/19837.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/21486.png",
+                "eventName": "All-island Cup - Women",
+                "startTime": "9:00 PM 13-06-2026"
+            },
+            "streams": []
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Football",
+            "event_name": "Ml Vitebsk Vs Fc Vitebsk | Premier League",
+            "eventInfo": {
+                "teamA": "Ml Vitebsk",
+                "teamB": "Fc Vitebsk",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/7808.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/382.png",
+                "eventName": "Premier League",
+                "startTime": "8:00 PM 13-06-2026"
+            },
+            "streams": []
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Football",
+            "event_name": "Vps Vs Kups | Veikkausliiga",
+            "eventInfo": {
+                "teamA": "Vps",
+                "teamB": "Kups",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/650.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1165.png",
                 "eventName": "Veikkausliiga",
+                "startTime": "8:00 PM 13-06-2026"
+            },
+            "streams": []
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Football",
+            "event_name": "Tammeka Vs Vaprus | Meistriliiga",
+            "eventInfo": {
+                "teamA": "Tammeka",
+                "teamB": "Vaprus",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/3530.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/3525.png",
+                "eventName": "Meistriliiga",
                 "startTime": "8:00 PM 13-06-2026"
             },
             "streams": []
@@ -547,17 +527,39 @@
         },
         {
             "status": "UPCOMING",
-            "Category": "Football",
-            "event_name": "Spain Vs Cape Verde Islands | World Cup",
+            "Category": "Cricket",
+            "event_name": "Usa Vs Canada",
             "eventInfo": {
-                "teamA": "Spain",
-                "teamB": "Cape Verde Islands",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/9.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1533.png",
-                "eventName": "World Cup",
-                "startTime": "10:00 PM 15-06-2026"
+                "teamA": "",
+                "teamB": "",
+                "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
+                "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
+                "eventName": "Icc Cwc League 2 Canada, 2026",
+                "startTime": "12-06-2026 08:30 PM"
             },
-            "streams": []
+            "streams": [
+                {
+                    "stream_url": ""
+                }
+            ]
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Cricket",
+            "event_name": "West Indies Vs Sri Lanka",
+            "eventInfo": {
+                "teamA": "",
+                "teamB": "",
+                "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
+                "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
+                "eventName": "Sri Lanka Tour Of West Indies 2026",
+                "startTime": "12-06-2026 06:00 AM"
+            },
+            "streams": [
+                {
+                    "stream_url": ""
+                }
+            ]
         },
         {
             "status": "UPCOMING",
@@ -579,15 +581,29 @@
         },
         {
             "status": "UPCOMING",
+            "Category": "Football",
+            "event_name": "Shamrock Rovers W Vs Peamount United W | All-island Cup - Women",
+            "eventInfo": {
+                "teamA": "Shamrock Rovers W",
+                "teamB": "Peamount United W",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/21492.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/15494.png",
+                "eventName": "All-island Cup - Women",
+                "startTime": "8:00 PM 13-06-2026"
+            },
+            "streams": []
+        },
+        {
+            "status": "UPCOMING",
             "Category": "Cricket",
-            "event_name": "Tbc Vs Tbc",
+            "event_name": "Akcel United Brussels Vs Jb Bruges",
             "eventInfo": {
                 "teamA": "",
                 "teamB": "",
                 "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
                 "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
-                "eventName": "Big Cricket League Season 2",
-                "startTime": "13-06-2026 07:00 PM"
+                "eventName": "Eut20 Belgium, 2026",
+                "startTime": "13-06-2026 08:00 PM"
             },
             "streams": [
                 {
@@ -616,13 +632,13 @@
         {
             "status": "UPCOMING",
             "Category": "Football",
-            "event_name": "Shamrock Rovers W Vs Peamount United W | All-island Cup - Women",
+            "event_name": "Ff Jaro Vs Hjk Helsinki | Veikkausliiga",
             "eventInfo": {
-                "teamA": "Shamrock Rovers W",
-                "teamB": "Peamount United W",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/21492.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/15494.png",
-                "eventName": "All-island Cup - Women",
+                "teamA": "Ff Jaro",
+                "teamB": "Hjk Helsinki",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2075.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/649.png",
+                "eventName": "Veikkausliiga",
                 "startTime": "8:00 PM 13-06-2026"
             },
             "streams": []
@@ -630,14 +646,28 @@
         {
             "status": "UPCOMING",
             "Category": "Football",
-            "event_name": "Rustavi Vs Meshakhte | Erovnuli Liga",
+            "event_name": "Defensores De Cambaceres Vs Berazategui | Primera C",
             "eventInfo": {
-                "teamA": "Rustavi",
-                "teamB": "Meshakhte",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/3501.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/13847.png",
-                "eventName": "Erovnuli Liga",
-                "startTime": "9:00 PM 13-06-2026"
+                "teamA": "Defensores De Cambaceres",
+                "teamB": "Berazategui",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/8392.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/8382.png",
+                "eventName": "Primera C",
+                "startTime": "3:30 AM 13-06-2026"
+            },
+            "streams": []
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Football",
+            "event_name": "Spain Vs Cape Verde Islands | World Cup",
+            "eventInfo": {
+                "teamA": "Spain",
+                "teamB": "Cape Verde Islands",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/9.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1533.png",
+                "eventName": "World Cup",
+                "startTime": "10:00 PM 15-06-2026"
             },
             "streams": []
         },
@@ -658,13 +688,13 @@
         {
             "status": "UPCOMING",
             "Category": "Football",
-            "event_name": "Auda Vs Fs Jelgava | Virsliga",
+            "event_name": "Aşgabat Vs Arkadag | Ýokary Liga",
             "eventInfo": {
-                "teamA": "Auda",
-                "teamB": "Fs Jelgava",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/4135.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/18834.png",
-                "eventName": "Virsliga",
+                "teamA": "Aşgabat",
+                "teamB": "Arkadag",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/13159.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/21232.png",
+                "eventName": "Ýokary Liga",
                 "startTime": "9:00 PM 13-06-2026"
             },
             "streams": []
@@ -672,27 +702,13 @@
         {
             "status": "UPCOMING",
             "Category": "Football",
-            "event_name": "Flora Tallinn Vs Fc Levadia Tallinn | Meistriliiga",
+            "event_name": "Nebitci Vs Ahal | Ýokary Liga",
             "eventInfo": {
-                "teamA": "Flora Tallinn",
-                "teamB": "Fc Levadia Tallinn",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/687.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2273.png",
-                "eventName": "Meistriliiga",
-                "startTime": "10:00 PM 13-06-2026"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Football",
-            "event_name": "Shelbourne W Vs Cliftonville W | All-island Cup - Women",
-            "eventInfo": {
-                "teamA": "Shelbourne W",
-                "teamB": "Cliftonville W",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/19837.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/21486.png",
-                "eventName": "All-island Cup - Women",
+                "teamA": "Nebitci",
+                "teamB": "Ahal",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/8039.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/8020.png",
+                "eventName": "Ýokary Liga",
                 "startTime": "9:00 PM 13-06-2026"
             },
             "streams": []
@@ -700,14 +716,46 @@
         {
             "status": "UPCOMING",
             "Category": "Cricket",
-            "event_name": "Akcel United Brussels Vs Jb Bruges",
+            "event_name": "Tbc Vs Tbc",
             "eventInfo": {
-                "teamA": "Akcel United Brussels",
-                "teamB": "Jb Bruges",
-                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AU@2x.png",
-                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JBB@2x.png",
-                "eventName": "Eut20 Belgium, 2026",
-                "startTime": "13-06-2026 08:00 PM"
+                "teamA": "",
+                "teamB": "",
+                "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
+                "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
+                "eventName": "Big Cricket League Season 2",
+                "startTime": "13-06-2026 07:00 PM"
+            },
+            "streams": [
+                {
+                    "stream_url": ""
+                }
+            ]
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Football",
+            "event_name": "Köpetdag Aşgabat Vs Merw | Ýokary Liga",
+            "eventInfo": {
+                "teamA": "Köpetdag Aşgabat",
+                "teamB": "Merw",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/13157.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/13158.png",
+                "eventName": "Ýokary Liga",
+                "startTime": "9:00 PM 13-06-2026"
+            },
+            "streams": []
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Cricket",
+            "event_name": "Ujjain Falcons Vs Rewa Jaguars",
+            "eventInfo": {
+                "teamA": "Ujjain Falcons",
+                "teamB": "Rewa Jaguars",
+                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FT-UJF@2x.png",
+                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RWM@2x.png",
+                "eventName": "Madhya Pradesh League T20, 2026",
+                "startTime": "13-06-2026 03:00 PM"
             },
             "streams": [
                 {
@@ -760,24 +808,6 @@
         {
             "status": "UPCOMING",
             "Category": "Cricket",
-            "event_name": "Antwerp Anchors Vs Jb Bruges",
-            "eventInfo": {
-                "teamA": "Antwerp Anchors",
-                "teamB": "Jb Bruges",
-                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AA@2x.png",
-                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JBB@2x.png",
-                "eventName": "Eut20 Belgium, 2026",
-                "startTime": "12-06-2026 08:00 PM"
-            },
-            "streams": [
-                {
-                    "stream_url": ""
-                }
-            ]
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Cricket",
             "event_name": "Antwerp Anchors Vs Ghent Gladiators",
             "eventInfo": {
                 "teamA": "Antwerp Anchors",
@@ -814,42 +844,6 @@
         {
             "status": "UPCOMING",
             "Category": "Cricket",
-            "event_name": "Akcel United Brussels Vs Ghent Gladiators",
-            "eventInfo": {
-                "teamA": "Akcel United Brussels",
-                "teamB": "Ghent Gladiators",
-                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AU@2x.png",
-                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GG@2x.png",
-                "eventName": "Eut20 Belgium, 2026",
-                "startTime": "12-06-2026 04:00 PM"
-            },
-            "streams": [
-                {
-                    "stream_url": ""
-                }
-            ]
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Cricket",
-            "event_name": "Malwa Stallions Vs Jabalpur Royal Lions",
-            "eventInfo": {
-                "teamA": "Malwa Stallions",
-                "teamB": "Jabalpur Royal Lions",
-                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FT-MAL@2x.png",
-                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JRL@2x.png",
-                "eventName": "Madhya Pradesh League T20, 2026",
-                "startTime": "13-06-2026 09:30 AM"
-            },
-            "streams": [
-                {
-                    "stream_url": ""
-                }
-            ]
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Cricket",
             "event_name": "Tbc Vs Tbc",
             "eventInfo": {
                 "teamA": "Tbc",
@@ -858,6 +852,42 @@
                 "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/TBC-CR1@2x.png",
                 "eventName": "Big Cricket League Season 2",
                 "startTime": "13-06-2026 07:00 PM"
+            },
+            "streams": [
+                {
+                    "stream_url": ""
+                }
+            ]
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Cricket",
+            "event_name": "Akcel United Brussels Vs Jb Bruges",
+            "eventInfo": {
+                "teamA": "Akcel United Brussels",
+                "teamB": "Jb Bruges",
+                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AU@2x.png",
+                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JBB@2x.png",
+                "eventName": "Eut20 Belgium, 2026",
+                "startTime": "13-06-2026 08:00 PM"
+            },
+            "streams": [
+                {
+                    "stream_url": ""
+                }
+            ]
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Cricket",
+            "event_name": "West Indies Vs Sri Lanka",
+            "eventInfo": {
+                "teamA": "West Indies",
+                "teamB": "Sri Lanka",
+                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png",
+                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRL@2x.png",
+                "eventName": "Sri Lanka Tour Of West Indies 2026",
+                "startTime": "14-06-2026 06:00 AM"
             },
             "streams": [
                 {
@@ -886,14 +916,32 @@
         {
             "status": "UPCOMING",
             "Category": "Cricket",
-            "event_name": "Mp Tigers Vs Northern Challengers",
+            "event_name": "Malwa Stallions Vs Jabalpur Royal Lions",
             "eventInfo": {
-                "teamA": "Mp Tigers",
-                "teamB": "Northern Challengers",
-                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MPT@2x.png",
-                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NC@2x.png",
-                "eventName": "Big Cricket League Season 2",
-                "startTime": "11-06-2026 07:00 PM"
+                "teamA": "Malwa Stallions",
+                "teamB": "Jabalpur Royal Lions",
+                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FT-MAL@2x.png",
+                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JRL@2x.png",
+                "eventName": "Madhya Pradesh League T20, 2026",
+                "startTime": "13-06-2026 09:30 AM"
+            },
+            "streams": [
+                {
+                    "stream_url": ""
+                }
+            ]
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Cricket",
+            "event_name": "Chambal Ghariyals Women Vs Tbc",
+            "eventInfo": {
+                "teamA": "Chambal Ghariyals Women",
+                "teamB": "Tbc",
+                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CGSM@2x.png",
+                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/TBC-CR1@2x.png",
+                "eventName": "Madhya Pradesh League T20 Women's 2026",
+                "startTime": "13-06-2026 07:30 PM"
             },
             "streams": [
                 {
@@ -922,32 +970,14 @@
         {
             "status": "UPCOMING",
             "Category": "Cricket",
-            "event_name": "Ujjain Falcons Vs Rewa Jaguars",
+            "event_name": "Antwerp Anchors Vs Jb Bruges",
             "eventInfo": {
-                "teamA": "Ujjain Falcons",
-                "teamB": "Rewa Jaguars",
-                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FT-UJF@2x.png",
-                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RWM@2x.png",
-                "eventName": "Madhya Pradesh League T20, 2026",
-                "startTime": "13-06-2026 03:00 PM"
-            },
-            "streams": [
-                {
-                    "stream_url": ""
-                }
-            ]
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Cricket",
-            "event_name": "Jb Bruges Vs Ghent Gladiators",
-            "eventInfo": {
-                "teamA": "Jb Bruges",
-                "teamB": "Ghent Gladiators",
-                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JBB@2x.png",
-                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GG@2x.png",
+                "teamA": "Antwerp Anchors",
+                "teamB": "Jb Bruges",
+                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AA@2x.png",
+                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JBB@2x.png",
                 "eventName": "Eut20 Belgium, 2026",
-                "startTime": "11-06-2026 08:00 PM"
+                "startTime": "12-06-2026 08:00 PM"
             },
             "streams": [
                 {
@@ -958,14 +988,74 @@
         {
             "status": "UPCOMING",
             "Category": "Football",
-            "event_name": "Dinamo Minsk Vs Fc Gomel | Premier League",
+            "event_name": "Auda Vs Fs Jelgava | Virsliga",
             "eventInfo": {
-                "teamA": "Dinamo Minsk",
-                "teamB": "Fc Gomel",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/394.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/389.png",
-                "eventName": "Premier League",
+                "teamA": "Auda",
+                "teamB": "Fs Jelgava",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/4135.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/18834.png",
+                "eventName": "Virsliga",
+                "startTime": "9:00 PM 13-06-2026"
+            },
+            "streams": []
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Football",
+            "event_name": "Lahti Vs Sjk | Veikkausliiga",
+            "eventInfo": {
+                "teamA": "Lahti",
+                "teamB": "Sjk",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1166.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/689.png",
+                "eventName": "Veikkausliiga",
                 "startTime": "10:00 PM 13-06-2026"
+            },
+            "streams": []
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Cricket",
+            "event_name": "Akcel United Brussels Vs Ghent Gladiators",
+            "eventInfo": {
+                "teamA": "Akcel United Brussels",
+                "teamB": "Ghent Gladiators",
+                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-AU@2x.png",
+                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GG@2x.png",
+                "eventName": "Eut20 Belgium, 2026",
+                "startTime": "12-06-2026 04:00 PM"
+            },
+            "streams": [
+                {
+                    "stream_url": ""
+                }
+            ]
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Football",
+            "event_name": "Şagadam Vs Altyn Asyr | Ýokary Liga",
+            "eventInfo": {
+                "teamA": "Şagadam",
+                "teamB": "Altyn Asyr",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/12903.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/8023.png",
+                "eventName": "Ýokary Liga",
+                "startTime": "9:00 PM 13-06-2026"
+            },
+            "streams": []
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Football",
+            "event_name": "Rustavi Vs Meshakhte | Erovnuli Liga",
+            "eventInfo": {
+                "teamA": "Rustavi",
+                "teamB": "Meshakhte",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/3501.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/13847.png",
+                "eventName": "Erovnuli Liga",
+                "startTime": "9:00 PM 13-06-2026"
             },
             "streams": []
         },
@@ -985,47 +1075,29 @@
         },
         {
             "status": "UPCOMING",
-            "Category": "Cricket",
-            "event_name": "Chambal Ghariyals Women Vs Tbc",
-            "eventInfo": {
-                "teamA": "Chambal Ghariyals Women",
-                "teamB": "Tbc",
-                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CGSM@2x.png",
-                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/TBC-CR1@2x.png",
-                "eventName": "Madhya Pradesh League T20 Women's 2026",
-                "startTime": "13-06-2026 07:30 PM"
-            },
-            "streams": [
-                {
-                    "stream_url": ""
-                }
-            ]
-        },
-        {
-            "status": "UPCOMING",
             "Category": "Football",
-            "event_name": "Lahti Vs Sjk | Veikkausliiga",
+            "event_name": "Dinamo Minsk Vs Fc Gomel | Premier League",
             "eventInfo": {
-                "teamA": "Lahti",
-                "teamB": "Sjk",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1166.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/689.png",
-                "eventName": "Veikkausliiga",
+                "teamA": "Dinamo Minsk",
+                "teamB": "Fc Gomel",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/394.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/389.png",
+                "eventName": "Premier League",
                 "startTime": "10:00 PM 13-06-2026"
             },
             "streams": []
         },
         {
             "status": "UPCOMING",
-            "Category": "World Cup",
-            "event_name": "Qatar Vs Switzerland | World Cup",
+            "Category": "Football",
+            "event_name": "Flora Tallinn Vs Fc Levadia Tallinn | Meistriliiga",
             "eventInfo": {
-                "teamA": "Qatar",
-                "teamB": "Switzerland",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1569.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/15.png",
-                "eventName": "World Cup",
-                "startTime": "1:00 AM 14-06-2026"
+                "teamA": "Flora Tallinn",
+                "teamB": "Fc Levadia Tallinn",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/687.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2273.png",
+                "eventName": "Meistriliiga",
+                "startTime": "10:00 PM 13-06-2026"
             },
             "streams": []
         },
@@ -1046,14 +1118,14 @@
         {
             "status": "UPCOMING",
             "Category": "World Cup",
-            "event_name": "Brazil Vs Morocco | World Cup",
+            "event_name": "Qatar Vs Switzerland | World Cup",
             "eventInfo": {
-                "teamA": "Brazil",
-                "teamB": "Morocco",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/6.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/31.png",
+                "teamA": "Qatar",
+                "teamB": "Switzerland",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1569.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/15.png",
                 "eventName": "World Cup",
-                "startTime": "4:00 AM 14-06-2026"
+                "startTime": "1:00 AM 14-06-2026"
             },
             "streams": []
         },
@@ -1115,6 +1187,34 @@
         },
         {
             "status": "UPCOMING",
+            "Category": "Auto Racing",
+            "event_name": "Barcelona Grand Prix 2026 - Practice 3 | Formula 1 Practice",
+            "eventInfo": {
+                "teamA": "",
+                "teamB": "",
+                "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
+                "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
+                "eventName": "Formula 1 Practice",
+                "startTime": "4:25 PM 13-06-2026"
+            },
+            "streams": []
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "World Cup",
+            "event_name": "Brazil Vs Morocco | World Cup",
+            "eventInfo": {
+                "teamA": "Brazil",
+                "teamB": "Morocco",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/6.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/31.png",
+                "eventName": "World Cup",
+                "startTime": "4:00 AM 14-06-2026"
+            },
+            "streams": []
+        },
+        {
+            "status": "UPCOMING",
             "event_name": "India Vs Afghanistan",
             "eventInfo": {
                 "teamA": "India",
@@ -1123,24 +1223,6 @@
                 "teamBFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1781250533540x302.jpg",
                 "eventName": "Afghanistan Tour Of India 2026",
                 "startTime": "13-06-2026 02:00 PM"
-            },
-            "streams": [
-                {
-                    "stream_url": ""
-                }
-            ]
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Formula 1",
-            "event_name": "Practice 2",
-            "eventInfo": {
-                "teamA": "",
-                "teamB": "",
-                "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
-                "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
-                "eventName": "F1 Msc Cruises Gran Premio De Barcelona-catalunya",
-                "startTime": "12-06-2026 08:30 PM"
             },
             "streams": [
                 {
@@ -1164,15 +1246,15 @@
         },
         {
             "status": "UPCOMING",
-            "Category": "Tennis",
-            "event_name": "Atp 250 Boss Open 2026",
+            "Category": "Motorsports",
+            "event_name": "Qualifying Session",
             "eventInfo": {
-                "teamA": "Atp 250 - Boss Open 2026",
-                "teamB": "Stuttgart, Germany",
-                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png",
-                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png",
-                "eventName": "Atp 250 - Boss Open 2026",
-                "startTime": "13-06-2026 02:30 PM"
+                "teamA": "Qualifying Session",
+                "teamB": "Circuit De Barcelona-catalunya",
+                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-POR@2x.png",
+                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
+                "eventName": "Porsche Mobil 1 Supercup 2026",
+                "startTime": "13-06-2026 02:50 PM"
             },
             "streams": [
                 {
@@ -1318,24 +1400,6 @@
         },
         {
             "status": "UPCOMING",
-            "Category": "Motorsports",
-            "event_name": "Practice Session",
-            "eventInfo": {
-                "teamA": "Practice Session",
-                "teamB": "Circuit De Barcelona-catalunya",
-                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-POR@2x.png",
-                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
-                "eventName": "Porsche Mobil 1 Supercup 2026",
-                "startTime": "12-06-2026 10:00 PM"
-            },
-            "streams": [
-                {
-                    "stream_url": ""
-                }
-            ]
-        },
-        {
-            "status": "UPCOMING",
             "Category": "Golf",
             "event_name": "Day 2 World Feed",
             "eventInfo": {
@@ -1408,15 +1472,33 @@
         },
         {
             "status": "UPCOMING",
-            "Category": "Motorsports",
-            "event_name": "Qualifying Session",
+            "Category": "Tennis",
+            "event_name": "Atp 250 Boss Open 2026",
             "eventInfo": {
-                "teamA": "Qualifying Session",
-                "teamB": "Circuit De Barcelona-catalunya",
-                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-POR@2x.png",
-                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
-                "eventName": "Porsche Mobil 1 Supercup 2026",
-                "startTime": "13-06-2026 02:50 PM"
+                "teamA": "Atp 250 - Boss Open 2026",
+                "teamB": "Stuttgart, Germany",
+                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png",
+                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png",
+                "eventName": "Atp 250 - Boss Open 2026",
+                "startTime": "13-06-2026 02:30 PM"
+            },
+            "streams": [
+                {
+                    "stream_url": ""
+                }
+            ]
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Formula 1",
+            "event_name": "Practice 3",
+            "eventInfo": {
+                "teamA": "Practice 3",
+                "teamB": "Barcelona",
+                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-FR5@2x.png",
+                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png",
+                "eventName": "F1 Msc Cruises Gran Premio De Barcelona-catalunya",
+                "startTime": "13-06-2026 04:00 PM"
             },
             "streams": [
                 {
@@ -1437,24 +1519,6 @@
                 "startTime": "1:00 AM 13-06-2026"
             },
             "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Formula 1",
-            "event_name": "Practice 3",
-            "eventInfo": {
-                "teamA": "Practice 3",
-                "teamB": "Barcelona",
-                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-FR5@2x.png",
-                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png",
-                "eventName": "F1 Msc Cruises Gran Premio De Barcelona-catalunya",
-                "startTime": "13-06-2026 04:00 PM"
-            },
-            "streams": [
-                {
-                    "stream_url": ""
-                }
-            ]
         },
         {
             "status": "UPCOMING",
@@ -1557,6 +1621,24 @@
                 "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png",
                 "eventName": "F1 Msc Cruises Gran Premio De Barcelona-catalunya",
                 "startTime": "13-06-2026 07:30 PM"
+            },
+            "streams": [
+                {
+                    "stream_url": ""
+                }
+            ]
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Golf",
+            "event_name": "Day 3 World Feed",
+            "eventInfo": {
+                "teamA": "Day 3 - World Feed",
+                "teamB": "Tpc Toronto At Osprey Valley, Caledo, Ontario",
+                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png",
+                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
+                "eventName": "Rbc Canadian Open 2026",
+                "startTime": "13-06-2026 10:30 PM"
             },
             "streams": [
                 {
