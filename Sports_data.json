@@ -2,121 +2,29 @@
     "name": "Live and Upcoming Sports Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "05:00:05 AM 14-06-2026",
-    "total_matches": 52,
-    "live_match": 8,
+    "last_update_time": "05:30:04 AM 14-06-2026",
+    "total_matches": 55,
+    "live_match": 11,
     "matches": [
         {
             "status": "LIVE",
-            "Category": "Mls Next Pro",
-            "event_name": "Real Monarchs Vs Portland Timbers Ii | Mls Next Pro",
+            "Category": "Primera Nacional",
+            "event_name": "Gimnasia Jujuy Vs San Martin S.j. | Primera Nacional",
             "eventInfo": {
-                "teamA": "Real Monarchs",
-                "teamB": "Portland Timbers Ii",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/4012.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/4011.png",
-                "eventName": "Mls Next Pro",
+                "teamA": "Gimnasia Jujuy",
+                "teamB": "San Martin S.j.",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/479.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/461.png",
+                "eventName": "Primera Nacional",
                 "startTime": "Live Now"
             },
             "streams": [
                 {
-                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a25d4cea341342c70a7dcc6/chunks.m3u8?is_vip=false&token=42d87fad4c3f6661221c09ebfa7572daaf6f2ac3&x-sign=ed1d42b7af093c6e91ce7739fa41c876&x-time=1781390760",
+                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0f24fe2e7f84ab1dbf1e74/chunks.m3u8?is_vip=false&token=8355776900274276e5118825191c72feba81b9fa&x-sign=59c9d849bf0a64073ac83e6f31f9536f&x-time=1781392620",
                     "stream_referer": "https://iframe.rumsport10.live/"
                 },
                 {
-                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a25d4cea341342c70a7dcc6/chunks.m3u8?is_vip=false&token=1781477220-Kv4cPTAAP5YTi-42d87fad4c3f6661221c09ebfa7572daaf6f2ac3-b86c7a5d7c398a21801e15f03ae4efa6",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "Category": "Northern Super League",
-            "event_name": "Afc Toronto W Vs Montreal Roses W | Northern Super League",
-            "eventInfo": {
-                "teamA": "Afc Toronto W",
-                "teamB": "Montreal Roses W",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/25896.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/25899.png",
-                "eventName": "Northern Super League",
-                "startTime": "Live Now"
-            },
-            "streams": [
-                {
-                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a2cc0be635c2dd0cbf0fc0e/chunks.m3u8?is_vip=false&token=42d87fad4c3f6661221c09ebfa7572daaf6f2ac3&x-sign=d1514a2ed3bd1134167ac6de6197bf74&x-time=1781390760",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a2cc0be635c2dd0cbf0fc0e/chunks.m3u8?is_vip=false&token=1781477210-Kv4cPTAAP5YTi-42d87fad4c3f6661221c09ebfa7572daaf6f2ac3-df154d1e072895bc74a2f1f5dc1c8e5e",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "Category": "Usl League One",
-            "event_name": "Portland Hearts Of Pine Vs Chattanooga Red Wolves | Usl League One",
-            "eventInfo": {
-                "teamA": "Portland Hearts Of Pine",
-                "teamB": "Chattanooga Red Wolves",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/25486.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/9016.png",
-                "eventName": "Usl League One",
-                "startTime": "Live Now"
-            },
-            "streams": [
-                {
-                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0dd382675d27aca99b0ae2/chunks.m3u8?is_vip=false&token=42d87fad4c3f6661221c09ebfa7572daaf6f2ac3&x-sign=c00e6fe50a8bf14b7e98044acaebb9d2&x-time=1781390820",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0dd382675d27aca99b0ae2/chunks.m3u8?is_vip=false&token=1781477231-Kv4cPTAAP5YTi-42d87fad4c3f6661221c09ebfa7572daaf6f2ac3-74c70f22b1524d9fafd627a374e56702",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "Category": "Usl Championship",
-            "event_name": "Loudoun United Vs Rhode Island | Usl Championship",
-            "eventInfo": {
-                "teamA": "Loudoun United",
-                "teamB": "Rhode Island",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/3999.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/22855.png",
-                "eventName": "Usl Championship",
-                "startTime": "Live Now"
-            },
-            "streams": [
-                {
-                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0dd382675d27aca99b0aeb/chunks.m3u8?is_vip=false&token=42d87fad4c3f6661221c09ebfa7572daaf6f2ac3&x-sign=5a40660291bc02ca3e2353ff2390d4cf&x-time=1781390820",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0dd382675d27aca99b0aeb/chunks.m3u8?is_vip=false&token=1781477225-Kv4cPTAAP5YTi-42d87fad4c3f6661221c09ebfa7572daaf6f2ac3-5c26cd849d6a49347443162a688915f2",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "Category": "Primera División",
-            "event_name": "Colo Colo Vs Cobresal | Primera División",
-            "eventInfo": {
-                "teamA": "Colo Colo",
-                "teamB": "Cobresal",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2315.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2331.png",
-                "eventName": "Primera División",
-                "startTime": "Live Now"
-            },
-            "streams": [
-                {
-                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0dd382675d27aca99b0ae9/chunks.m3u8?is_vip=false&token=42d87fad4c3f6661221c09ebfa7572daaf6f2ac3&x-sign=1f4f7d8ee21f39e8a154bcc9726f6273&x-time=1781390760",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0dd382675d27aca99b0ae9/chunks.m3u8?is_vip=false&token=1781477215-Kv4cPTAAP5YTi-42d87fad4c3f6661221c09ebfa7572daaf6f2ac3-c8bb144d4d113f01e1006d52806bf355",
+                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0f24fe2e7f84ab1dbf1e74/chunks.m3u8?is_vip=false&token=1781479034-Kv4cPTAAP5YTi-8355776900274276e5118825191c72feba81b9fa-e433bd81463bf601ca37a77329439893",
                     "stream_referer": "https://iframe.rumsport10.live/"
                 }
             ]
@@ -141,55 +49,161 @@
         },
         {
             "status": "LIVE",
-            "Category": "World Cup",
-            "event_name": "Brazil Vs Morocco | World Cup",
+            "Category": "Mls Next Pro",
+            "event_name": "Atlanta United Ii Vs Chattanooga | Mls Next Pro",
             "eventInfo": {
-                "teamA": "Brazil",
-                "teamB": "Morocco",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/6.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/31.png",
-                "eventName": "World Cup",
+                "teamA": "Atlanta United Ii",
+                "teamB": "Chattanooga",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/3986.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/9073.png",
+                "eventName": "Mls Next Pro",
                 "startTime": "Live Now"
             },
             "streams": [
                 {
-                    "stream_url 1": "https://livecdn-bp-iptv.rumsport7.live/live_abr/544569/720p/chunks.m3u8?is_vip=false&token=42d87fad4c3f6661221c09ebfa7572daaf6f2ac3&x-sign=e07b2c85061351de0cfd8627dbf83325&x-time=1781390760",
+                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a25d4cea341342c70a7dccb/chunks.m3u8?is_vip=false&token=8355776900274276e5118825191c72feba81b9fa&x-sign=08aa193a1e6a3d34b270ed19952edbb0&x-time=1781392620",
                     "stream_referer": "https://iframe.rumsport10.live/"
                 },
                 {
-                    "stream_url 2": "https://livecdn-tc-iptv.rumsport10.live/live_abr/544569/720p/chunks.m3u8?is_vip=false&token=1781477196-Kv4cPTAAP5YTi-42d87fad4c3f6661221c09ebfa7572daaf6f2ac3-aeadc4e1dac0225ab47e252d7f742b9a",
+                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a25d4cea341342c70a7dccb/chunks.m3u8?is_vip=false&token=1781479050-Kv4cPTAAP5YTi-8355776900274276e5118825191c72feba81b9fa-f78de35ab95050f9dad76db320313fc1",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Usl Championship",
+            "event_name": "Lexington Vs San Antonio | Usl Championship",
+            "eventInfo": {
+                "teamA": "Lexington",
+                "teamB": "San Antonio",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/20808.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/4017.png",
+                "eventName": "Usl Championship",
+                "startTime": "Live Now"
+            },
+            "streams": [
+                {
+                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0dd382675d27aca99b0aee/chunks.m3u8?is_vip=false&token=8355776900274276e5118825191c72feba81b9fa&x-sign=10d2ba26a2b6418a50589780ebe0ddab&x-time=1781392620",
                     "stream_referer": "https://iframe.rumsport10.live/"
                 },
                 {
-                    "stream_url 3": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0dd382675d27aca99b0aea/chunks.m3u8?is_vip=false&token=42d87fad4c3f6661221c09ebfa7572daaf6f2ac3&x-sign=8d5b7ae9053de403aad939ecde4c18aa&x-time=1781390760",
+                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0dd382675d27aca99b0aee/chunks.m3u8?is_vip=false&token=1781479044-Kv4cPTAAP5YTi-8355776900274276e5118825191c72feba81b9fa-19dbb7b020d0850720a803b1466fce04",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Usl Championship",
+            "event_name": "Sporting Jax Vs Detroit City | Usl Championship",
+            "eventInfo": {
+                "teamA": "Sporting Jax",
+                "teamB": "Detroit City",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/25959.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/9043.png",
+                "eventName": "Usl Championship",
+                "startTime": "Live Now"
+            },
+            "streams": [
+                {
+                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0dd382675d27aca99b0aed/chunks.m3u8?is_vip=false&token=8355776900274276e5118825191c72feba81b9fa&x-sign=72e6af568e2318c4fed8f8b32ea386f7&x-time=1781392620",
                     "stream_referer": "https://iframe.rumsport10.live/"
                 },
                 {
-                    "stream_url 4": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0dd382675d27aca99b0aea/chunks.m3u8?is_vip=false&token=1781477196-Kv4cPTAAP5YTi-42d87fad4c3f6661221c09ebfa7572daaf6f2ac3-0f221f0fb62ef25e2adeb2fee806a288",
+                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0dd382675d27aca99b0aed/chunks.m3u8?is_vip=false&token=1781479039-Kv4cPTAAP5YTi-8355776900274276e5118825191c72feba81b9fa-1b0eea34e78495086a92bfbdce36ec5d",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Usl League One",
+            "event_name": "Portland Hearts Of Pine Vs Chattanooga Red Wolves | Usl League One",
+            "eventInfo": {
+                "teamA": "Portland Hearts Of Pine",
+                "teamB": "Chattanooga Red Wolves",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/25486.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/9016.png",
+                "eventName": "Usl League One",
+                "startTime": "Live Now"
+            },
+            "streams": [
+                {
+                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0dd382675d27aca99b0ae2/chunks.m3u8?is_vip=false&token=8355776900274276e5118825191c72feba81b9fa&x-sign=4091da730df2019d923943e2d9ee1a47&x-time=1781392620",
                     "stream_referer": "https://iframe.rumsport10.live/"
                 },
                 {
-                    "stream_url 5": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0dd382675d27aca99b0aea-hd/chunks.m3u8?is_vip=false&token=42d87fad4c3f6661221c09ebfa7572daaf6f2ac3&x-sign=e591e3846fb89011fa400a1b40a4f780&x-time=1781390760",
+                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0dd382675d27aca99b0ae2/chunks.m3u8?is_vip=false&token=1781479028-Kv4cPTAAP5YTi-8355776900274276e5118825191c72feba81b9fa-46576c9fc9f5e359c264e856b0f0e75a",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Usl Championship",
+            "event_name": "Loudoun United Vs Rhode Island | Usl Championship",
+            "eventInfo": {
+                "teamA": "Loudoun United",
+                "teamB": "Rhode Island",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/3999.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/22855.png",
+                "eventName": "Usl Championship",
+                "startTime": "Live Now"
+            },
+            "streams": [
+                {
+                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0dd382675d27aca99b0aeb/chunks.m3u8?is_vip=false&token=8355776900274276e5118825191c72feba81b9fa&x-sign=963b5da515b013c84ced71fa1968f2f5&x-time=1781392620",
                     "stream_referer": "https://iframe.rumsport10.live/"
                 },
                 {
-                    "stream_url 6": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0dd382675d27aca99b0aea-hd/chunks.m3u8?is_vip=false&token=1781477197-Kv4cPTAAP5YTi-42d87fad4c3f6661221c09ebfa7572daaf6f2ac3-4e8cb5663132cce7f8b3750a90292906",
+                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0dd382675d27aca99b0aeb/chunks.m3u8?is_vip=false&token=1781479023-Kv4cPTAAP5YTi-8355776900274276e5118825191c72feba81b9fa-68b3b58683c02dbc111b77a505dd4e9b",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Mls Next Pro",
+            "event_name": "Real Monarchs Vs Portland Timbers Ii | Mls Next Pro",
+            "eventInfo": {
+                "teamA": "Real Monarchs",
+                "teamB": "Portland Timbers Ii",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/4012.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/4011.png",
+                "eventName": "Mls Next Pro",
+                "startTime": "Live Now"
+            },
+            "streams": [
+                {
+                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a25d4cea341342c70a7dcc6/chunks.m3u8?is_vip=false&token=8355776900274276e5118825191c72feba81b9fa&x-sign=21adf16ab3eeebf30b54359df3929074&x-time=1781392560",
                     "stream_referer": "https://iframe.rumsport10.live/"
                 },
                 {
-                    "stream_url 7": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0dd382675d27aca99b0aea-cnhd/chunks.m3u8?is_vip=false&token=42d87fad4c3f6661221c09ebfa7572daaf6f2ac3&x-sign=fdffed112c371b980588fe991239263b&x-time=1781390760",
+                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a25d4cea341342c70a7dcc6/chunks.m3u8?is_vip=false&token=1781479017-Kv4cPTAAP5YTi-8355776900274276e5118825191c72feba81b9fa-39c03e2aac101c60c53497955a9c7d20",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Primera División",
+            "event_name": "Colo Colo Vs Cobresal | Primera División",
+            "eventInfo": {
+                "teamA": "Colo Colo",
+                "teamB": "Cobresal",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2315.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2331.png",
+                "eventName": "Primera División",
+                "startTime": "Live Now"
+            },
+            "streams": [
+                {
+                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0dd382675d27aca99b0ae9/chunks.m3u8?is_vip=false&token=8355776900274276e5118825191c72feba81b9fa&x-sign=1ecb31d23973a0c614c197904ff6548c&x-time=1781392560",
                     "stream_referer": "https://iframe.rumsport10.live/"
                 },
                 {
-                    "stream_url 8": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0dd382675d27aca99b0aea-cnhd/chunks.m3u8?is_vip=false&token=1781477198-Kv4cPTAAP5YTi-42d87fad4c3f6661221c09ebfa7572daaf6f2ac3-db756b07b41451f3a558cf8f319f529b",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "stream_url 9": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0dd382675d27aca99b0aea-cnhd2/chunks.m3u8?is_vip=false&token=42d87fad4c3f6661221c09ebfa7572daaf6f2ac3&x-sign=5790b43ba667f138aa7a768cf7bd0434&x-time=1781390760",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "stream_url 10": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0dd382675d27aca99b0aea-cnhd2/chunks.m3u8?is_vip=false&token=1781477199-Kv4cPTAAP5YTi-42d87fad4c3f6661221c09ebfa7572daaf6f2ac3-20624e8fba5f08cdb3072cfb52ebe326",
+                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0dd382675d27aca99b0ae9/chunks.m3u8?is_vip=false&token=1781479012-Kv4cPTAAP5YTi-8355776900274276e5118825191c72feba81b9fa-db044981e06e12cd39fa7d4e5f9b0f56",
                     "stream_referer": "https://iframe.rumsport10.live/"
                 }
             ]
@@ -208,12 +222,133 @@
             },
             "streams": [
                 {
-                    "stream_url 1": "https://livecdn-tc-iptv.rumsport10.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=1781477204-Kv4cPTAAP5YTi-42d87fad4c3f6661221c09ebfa7572daaf6f2ac3-86ad1e01696ed69913c55c3ae39c9dbf",
+                    "stream_url 1": "https://livecdn-tc-iptv.rumsport10.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=1781479006-Kv4cPTAAP5YTi-8355776900274276e5118825191c72feba81b9fa-e31706e9cadc794fcbe52a57d0780687",
                     "stream_referer": "https://iframe.rumsport10.live/"
                 },
                 {
-                    "stream_url 2": "https://livecdn-bp-iptv.rumsport7.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=42d87fad4c3f6661221c09ebfa7572daaf6f2ac3&x-sign=8411055b566d8aa58d7189090e7a8d91&x-time=1781390760",
+                    "stream_url 2": "https://livecdn-bp-iptv.rumsport7.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=8355776900274276e5118825191c72feba81b9fa&x-sign=ca22a0edc4c27c109bf9a4e26e9c8647&x-time=1781392560",
                     "stream_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "World Cup",
+            "event_name": "Brazil Vs Morocco | World Cup",
+            "eventInfo": {
+                "teamA": "Brazil",
+                "teamB": "Morocco",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/6.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/31.png",
+                "eventName": "World Cup",
+                "startTime": "Live Now"
+            },
+            "streams": [
+                {
+                    "stream_url 1": "https://livecdn-bp-iptv.rumsport7.live/live_abr/544569/720p/chunks.m3u8?is_vip=false&token=8355776900274276e5118825191c72feba81b9fa&x-sign=8c113a5dab75c9b9b693ab8b79fa970f&x-time=1781392560",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "stream_url 2": "https://livecdn-tc-iptv.rumsport10.live/live_abr/544569/720p/chunks.m3u8?is_vip=false&token=1781479000-Kv4cPTAAP5YTi-8355776900274276e5118825191c72feba81b9fa-8c1f97e5b0d920f40c8f3a3defc20759",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "stream_url 3": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0dd382675d27aca99b0aea-hd/chunks.m3u8?is_vip=false&token=8355776900274276e5118825191c72feba81b9fa&x-sign=4979c6613471dba2aaf10039991a14a8&x-time=1781392560",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "stream_url 4": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0dd382675d27aca99b0aea-hd/chunks.m3u8?is_vip=false&token=1781479000-Kv4cPTAAP5YTi-8355776900274276e5118825191c72feba81b9fa-3ce094a76f9512c82c169afc657506fd",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "stream_url 5": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0dd382675d27aca99b0aea-cnhd/chunks.m3u8?is_vip=false&token=8355776900274276e5118825191c72feba81b9fa&x-sign=4d232502203d40ee5bae0b030f681392&x-time=1781392560",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "stream_url 6": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0dd382675d27aca99b0aea-cnhd/chunks.m3u8?is_vip=false&token=1781479001-Kv4cPTAAP5YTi-8355776900274276e5118825191c72feba81b9fa-b21a45b9d973388d976571697830718c",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Cricket",
+            "event_name": "West Indies Vs Sri Lanka",
+            "eventInfo": {
+                "teamA": "",
+                "teamB": "",
+                "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
+                "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
+                "eventName": "Sri Lanka Tour Of West Indies 2026",
+                "startTime": "15-06-2026 06:00 AM"
+            },
+            "streams": [
+                {
+                    "stream_url": ""
+                }
+            ]
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Cricket",
+            "event_name": "Usa Vs Netherlands",
+            "eventInfo": {
+                "teamA": "",
+                "teamB": "",
+                "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
+                "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
+                "eventName": "Icc Cwc League 2 Canada, 2026",
+                "startTime": "14-06-2026 08:30 PM"
+            },
+            "streams": [
+                {
+                    "stream_url": ""
+                }
+            ]
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Football",
+            "event_name": "Sweden Vs Tunisia | World Cup",
+            "eventInfo": {
+                "teamA": "Sweden",
+                "teamB": "Tunisia",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/5.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/28.png",
+                "eventName": "World Cup",
+                "startTime": "8:00 AM 15-06-2026"
+            },
+            "streams": []
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Football",
+            "event_name": "Saudi Arabia Vs Uruguay | World Cup",
+            "eventInfo": {
+                "teamA": "Saudi Arabia",
+                "teamB": "Uruguay",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/23.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/7.png",
+                "eventName": "World Cup",
+                "startTime": "4:00 AM 16-06-2026"
+            },
+            "streams": []
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Cricket",
+            "event_name": "Gujarat Diamonds Vs Up Brij Stars",
+            "eventInfo": {
+                "teamA": "",
+                "teamB": "",
+                "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
+                "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
+                "eventName": "Big Cricket League Season 2",
+                "startTime": "13-06-2026 07:00 PM"
+            },
+            "streams": [
+                {
+                    "stream_url": ""
                 }
             ]
         },
@@ -233,17 +368,39 @@
         },
         {
             "status": "UPCOMING",
-            "Category": "Football",
-            "event_name": "Saudi Arabia Vs Uruguay | World Cup",
+            "Category": "Cricket",
+            "event_name": "Bangladesh Vs Australia",
             "eventInfo": {
-                "teamA": "Saudi Arabia",
-                "teamB": "Uruguay",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/23.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/7.png",
-                "eventName": "World Cup",
-                "startTime": "4:00 AM 16-06-2026"
+                "teamA": "",
+                "teamB": "",
+                "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
+                "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
+                "eventName": "Australia Tour Of Bangladesh, 2026",
+                "startTime": "14-06-2026 10:30 AM"
             },
-            "streams": []
+            "streams": [
+                {
+                    "stream_url": ""
+                }
+            ]
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Cricket",
+            "event_name": "West Indies Vs Sri Lanka",
+            "eventInfo": {
+                "teamA": "",
+                "teamB": "",
+                "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
+                "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
+                "eventName": "Sri Lanka Tour Of West Indies 2026",
+                "startTime": "14-06-2026 06:00 AM"
+            },
+            "streams": [
+                {
+                    "stream_url": ""
+                }
+            ]
         },
         {
             "status": "UPCOMING",
@@ -290,14 +447,14 @@
         {
             "status": "UPCOMING",
             "Category": "Football",
-            "event_name": "Sweden Vs Tunisia | World Cup",
+            "event_name": "Spain Vs Cape Verde Islands | World Cup",
             "eventInfo": {
-                "teamA": "Sweden",
-                "teamB": "Tunisia",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/5.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/28.png",
+                "teamA": "Spain",
+                "teamB": "Cape Verde Islands",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/9.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1533.png",
                 "eventName": "World Cup",
-                "startTime": "8:00 AM 15-06-2026"
+                "startTime": "10:00 PM 15-06-2026"
             },
             "streams": []
         },
@@ -317,119 +474,15 @@
         },
         {
             "status": "UPCOMING",
-            "Category": "Football",
-            "event_name": "Spain Vs Cape Verde Islands | World Cup",
-            "eventInfo": {
-                "teamA": "Spain",
-                "teamB": "Cape Verde Islands",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/9.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1533.png",
-                "eventName": "World Cup",
-                "startTime": "10:00 PM 15-06-2026"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Cricket",
-            "event_name": "West Indies Vs Sri Lanka",
+            "Category": "Mma",
+            "event_name": "Combat Fc 13 | Mma",
             "eventInfo": {
                 "teamA": "",
                 "teamB": "",
                 "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
                 "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
-                "eventName": "Sri Lanka Tour Of West Indies 2026",
-                "startTime": "15-06-2026 06:00 AM"
-            },
-            "streams": [
-                {
-                    "stream_url": ""
-                }
-            ]
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Cricket",
-            "event_name": "Bangladesh Vs Australia",
-            "eventInfo": {
-                "teamA": "",
-                "teamB": "",
-                "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
-                "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
-                "eventName": "Australia Tour Of Bangladesh, 2026",
-                "startTime": "14-06-2026 10:30 AM"
-            },
-            "streams": [
-                {
-                    "stream_url": ""
-                }
-            ]
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Cricket",
-            "event_name": "Usa Vs Netherlands",
-            "eventInfo": {
-                "teamA": "",
-                "teamB": "",
-                "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
-                "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
-                "eventName": "Icc Cwc League 2 Canada, 2026",
-                "startTime": "14-06-2026 08:30 PM"
-            },
-            "streams": [
-                {
-                    "stream_url": ""
-                }
-            ]
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Cricket",
-            "event_name": "Gujarat Diamonds Vs Up Brij Stars",
-            "eventInfo": {
-                "teamA": "",
-                "teamB": "",
-                "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
-                "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
-                "eventName": "Big Cricket League Season 2",
-                "startTime": "13-06-2026 07:00 PM"
-            },
-            "streams": [
-                {
-                    "stream_url": ""
-                }
-            ]
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Cricket",
-            "event_name": "West Indies Vs Sri Lanka",
-            "eventInfo": {
-                "teamA": "",
-                "teamB": "",
-                "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
-                "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
-                "eventName": "Sri Lanka Tour Of West Indies 2026",
-                "startTime": "14-06-2026 06:00 AM"
-            },
-            "streams": [
-                {
-                    "stream_url": ""
-                }
-            ]
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Auto Racing",
-            "event_name": "Appin | Australian Motocross Championship",
-            "eventInfo": {
-                "teamA": "",
-                "teamB": "",
-                "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
-                "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
-                "eventName": "Australian Motocross Championship",
-                "startTime": "9:00 AM 14-06-2026"
+                "eventName": "Mma",
+                "startTime": "7:00 AM 14-06-2026"
             },
             "streams": []
         },
@@ -449,87 +502,34 @@
         },
         {
             "status": "UPCOMING",
-            "Category": "Badminton",
-            "event_name": "Court 1 | Sands China Ltd Macau Open",
+            "Category": "Auto Racing",
+            "event_name": "Appin | Australian Motocross Championship",
             "eventInfo": {
                 "teamA": "",
                 "teamB": "",
                 "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
                 "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
-                "eventName": "Sands China Ltd Macau Open",
-                "startTime": "9:00 AM 16-06-2026"
+                "eventName": "Australian Motocross Championship",
+                "startTime": "9:00 AM 14-06-2026"
             },
             "streams": []
         },
         {
             "status": "UPCOMING",
-            "Category": "Badminton",
-            "event_name": "Court 1 | Sathio Group Australian Badminton Open",
+            "event_name": "West Indies Vs Sri Lanka",
             "eventInfo": {
-                "teamA": "",
-                "teamB": "",
-                "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
-                "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
-                "eventName": "Sathio Group Australian Badminton Open",
-                "startTime": "8:00 AM 14-06-2026"
+                "teamA": "West Indies",
+                "teamB": "Sri Lanka",
+                "teamAFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1781272065540x302.jpg",
+                "teamBFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1781272065540x302.jpg",
+                "eventName": "Sri Lanka Tour Of West Indies 2026",
+                "startTime": "14-06-2026 06:30 AM"
             },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Darts",
-            "event_name": "World Cup Of Darts | World Cup Of Darts",
-            "eventInfo": {
-                "teamA": "",
-                "teamB": "",
-                "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
-                "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
-                "eventName": "World Cup Of Darts",
-                "startTime": "11:00 PM 14-06-2026"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Darts",
-            "event_name": "World Cup Of Darts | World Cup Of Darts",
-            "eventInfo": {
-                "teamA": "",
-                "teamB": "",
-                "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
-                "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
-                "eventName": "World Cup Of Darts",
-                "startTime": "5:00 PM 14-06-2026"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Mma",
-            "event_name": "Combat Fc 13 | Mma",
-            "eventInfo": {
-                "teamA": "",
-                "teamB": "",
-                "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
-                "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
-                "eventName": "Mma",
-                "startTime": "7:00 AM 14-06-2026"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Baseball",
-            "event_name": "Hanshin Tigers Vs Orix Buffaloes | Npb",
-            "eventInfo": {
-                "teamA": "Hanshin Tigers",
-                "teamB": "Orix Buffaloes",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/teams/5a915504baf84e88cbc763dfcfc934cf.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/teams/152af9ee913c91f59154eaf2ae51db2f.png",
-                "eventName": "Npb",
-                "startTime": "10:00 AM 14-06-2026"
-            },
-            "streams": []
+            "streams": [
+                {
+                    "stream_url": ""
+                }
+            ]
         },
         {
             "status": "UPCOMING",
@@ -589,6 +589,20 @@
         },
         {
             "status": "UPCOMING",
+            "Category": "Baseball",
+            "event_name": "Tohoku Rakuten Golden Eagles Vs Hiroshima Toyo Carp | Npb",
+            "eventInfo": {
+                "teamA": "Tohoku Rakuten Golden Eagles",
+                "teamB": "Hiroshima Toyo Carp",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/teams/ff94d5b4cc5dabc1ae07e3ff3efdfacf.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/teams/7b0c05fcc03704ec009066c7790b7fd0.png",
+                "eventName": "Npb",
+                "startTime": "10:00 AM 14-06-2026"
+            },
+            "streams": []
+        },
+        {
+            "status": "UPCOMING",
             "Category": "Cycling",
             "event_name": "Tour Auvergne-rhône-alpes, Stage 8 | Uci World Tour",
             "eventInfo": {
@@ -598,6 +612,62 @@
                 "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
                 "eventName": "Uci World Tour",
                 "startTime": "7:15 PM 14-06-2026"
+            },
+            "streams": []
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Darts",
+            "event_name": "World Cup Of Darts | World Cup Of Darts",
+            "eventInfo": {
+                "teamA": "",
+                "teamB": "",
+                "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
+                "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
+                "eventName": "World Cup Of Darts",
+                "startTime": "5:00 PM 14-06-2026"
+            },
+            "streams": []
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Darts",
+            "event_name": "World Cup Of Darts | World Cup Of Darts",
+            "eventInfo": {
+                "teamA": "",
+                "teamB": "",
+                "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
+                "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
+                "eventName": "World Cup Of Darts",
+                "startTime": "11:00 PM 14-06-2026"
+            },
+            "streams": []
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Badminton",
+            "event_name": "Court 1 | Sathio Group Australian Badminton Open",
+            "eventInfo": {
+                "teamA": "",
+                "teamB": "",
+                "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
+                "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
+                "eventName": "Sathio Group Australian Badminton Open",
+                "startTime": "8:00 AM 14-06-2026"
+            },
+            "streams": []
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Badminton",
+            "event_name": "Court 1 | Sands China Ltd Macau Open",
+            "eventInfo": {
+                "teamA": "",
+                "teamB": "",
+                "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
+                "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
+                "eventName": "Sands China Ltd Macau Open",
+                "startTime": "9:00 AM 16-06-2026"
             },
             "streams": []
         },
@@ -617,20 +687,17 @@
         },
         {
             "status": "UPCOMING",
-            "event_name": "West Indies Vs Sri Lanka",
+            "Category": "World Cup",
+            "event_name": "Ivory Coast Vs Ecuador | World Cup",
             "eventInfo": {
-                "teamA": "West Indies",
-                "teamB": "Sri Lanka",
-                "teamAFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1781272065540x302.jpg",
-                "teamBFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1781272065540x302.jpg",
-                "eventName": "Sri Lanka Tour Of West Indies 2026",
-                "startTime": "14-06-2026 06:30 AM"
+                "teamA": "Ivory Coast",
+                "teamB": "Ecuador",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1501.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2382.png",
+                "eventName": "World Cup",
+                "startTime": "5:00 AM 15-06-2026"
             },
-            "streams": [
-                {
-                    "stream_url": ""
-                }
-            ]
+            "streams": []
         },
         {
             "status": "UPCOMING",
@@ -649,12 +716,12 @@
         {
             "status": "UPCOMING",
             "Category": "Baseball",
-            "event_name": "Tohoku Rakuten Golden Eagles Vs Hiroshima Toyo Carp | Npb",
+            "event_name": "Hanshin Tigers Vs Orix Buffaloes | Npb",
             "eventInfo": {
-                "teamA": "Tohoku Rakuten Golden Eagles",
-                "teamB": "Hiroshima Toyo Carp",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/teams/ff94d5b4cc5dabc1ae07e3ff3efdfacf.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/teams/7b0c05fcc03704ec009066c7790b7fd0.png",
+                "teamA": "Hanshin Tigers",
+                "teamB": "Orix Buffaloes",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/teams/5a915504baf84e88cbc763dfcfc934cf.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/teams/152af9ee913c91f59154eaf2ae51db2f.png",
                 "eventName": "Npb",
                 "startTime": "10:00 AM 14-06-2026"
             },
@@ -677,20 +744,6 @@
         {
             "status": "UPCOMING",
             "Category": "Tennis",
-            "event_name": "Final | Libema Open",
-            "eventInfo": {
-                "teamA": "",
-                "teamB": "",
-                "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
-                "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
-                "eventName": "Libema Open",
-                "startTime": "4:00 PM 14-06-2026"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Tennis",
             "event_name": "Day 7 | Ilkley Open",
             "eventInfo": {
                 "teamA": "",
@@ -698,6 +751,20 @@
                 "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
                 "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
                 "eventName": "Ilkley Open",
+                "startTime": "4:00 PM 14-06-2026"
+            },
+            "streams": []
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Tennis",
+            "event_name": "Final | Libema Open",
+            "eventInfo": {
+                "teamA": "",
+                "teamB": "",
+                "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
+                "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
+                "eventName": "Libema Open",
                 "startTime": "4:00 PM 14-06-2026"
             },
             "streams": []
@@ -718,20 +785,6 @@
                     "stream_url": ""
                 }
             ]
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "World Cup",
-            "event_name": "Ivory Coast Vs Ecuador | World Cup",
-            "eventInfo": {
-                "teamA": "Ivory Coast",
-                "teamB": "Ecuador",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1501.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2382.png",
-                "eventName": "World Cup",
-                "startTime": "5:00 AM 15-06-2026"
-            },
-            "streams": []
         },
         {
             "status": "UPCOMING",
