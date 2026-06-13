@@ -2,9 +2,9 @@
     "name": "Live and Upcoming Sports Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "02:00:05 AM 14-06-2026",
+    "last_update_time": "02:30:03 AM 14-06-2026",
     "total_matches": 60,
-    "live_match": 16,
+    "live_match": 17,
     "matches": [
         {
             "status": "LIVE",
@@ -37,7 +37,7 @@
             },
             "streams": [
                 {
-                    "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/143212_english_hls_0d4606e0e075894_1ta-di_h264/1080p.m3u8"
+                    "stream_url": "https://bd-mc-flive.fancode.com/mumbai/143212_english_hls_0d4606e0e075894_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781465405~_GO=Generated~acl=/mumbai/143212_english_hls_0d4606e0e075894_1ta-di_h264/*~Signature=ATZ0w6doUiGe6NizX6ir62Skv_zZuHs0V4B-Mse1JU8cKwzm1AEqyPcHhXey33tgTbDJppzYltutoWRfTmbxZWOK8DAH"
                 }
             ]
         },
@@ -55,11 +55,11 @@
             },
             "streams": [
                 {
-                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f6929954/chunks.m3u8?is_vip=false&token=58e18b16bf82bc95da96309f794bf12576527bdf&x-sign=cf497314b87a597e886a24324da88b4c&x-time=1781380020",
+                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f6929954/chunks.m3u8?is_vip=false&token=36ab9f16ade533e4718727af0088dfea81c4ff54&x-sign=0b282894bcdc497b5b06b83ca3d70eae&x-time=1781381820",
                     "stream_referer": "https://iframe.rumsport10.live/"
                 },
                 {
-                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f6929954/chunks.m3u8?is_vip=false&token=1781466445-Kv4cPTAAP5YTi-58e18b16bf82bc95da96309f794bf12576527bdf-a5e3988beff81e6eee23c9b5638cf0cd",
+                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f6929954/chunks.m3u8?is_vip=false&token=1781468246-Kv4cPTAAP5YTi-36ab9f16ade533e4718727af0088dfea81c4ff54-721ad0852690f96866373ac8bb7ec81b",
                     "stream_referer": "https://iframe.rumsport10.live/"
                 }
             ]
@@ -78,7 +78,30 @@
             },
             "streams": [
                 {
-                    "stream_url 1": "https://livecdn-bp-iptv.rumsport7.live/live_abr/68892/720p/chunks.m3u8?is_vip=false&token=58e18b16bf82bc95da96309f794bf12576527bdf&x-sign=f3bee12141c942076f58c9893b6c8016&x-time=1781380020",
+                    "stream_url 1": "https://livecdn-bp-iptv.rumsport7.live/live_abr/68892/720p/chunks.m3u8?is_vip=false&token=36ab9f16ade533e4718727af0088dfea81c4ff54&x-sign=fd96d3cacf3c1bac49e474014b3e2142&x-time=1781381820",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Primera B Metropolitana",
+            "event_name": "Sportivo Italiano Vs Excursionistas | Primera B Metropolitana",
+            "eventInfo": {
+                "teamA": "Sportivo Italiano",
+                "teamB": "Excursionistas",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/8388.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/8385.png",
+                "eventName": "Primera B Metropolitana",
+                "startTime": "Live Now"
+            },
+            "streams": [
+                {
+                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a1424ae3915db343546f653/chunks.m3u8?is_vip=false&token=36ab9f16ade533e4718727af0088dfea81c4ff54&x-sign=127cc45b72ec0ce11dd915263138f91d&x-time=1781381820",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a1424ae3915db343546f653/chunks.m3u8?is_vip=false&token=1781468236-Kv4cPTAAP5YTi-36ab9f16ade533e4718727af0088dfea81c4ff54-428846883e18cc68546bb132eb9d682a",
                     "stream_referer": "https://iframe.rumsport10.live/"
                 }
             ]
@@ -97,11 +120,34 @@
             },
             "streams": [
                 {
-                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a1424ae3915db343546f656/chunks.m3u8?is_vip=false&token=58e18b16bf82bc95da96309f794bf12576527bdf&x-sign=4f7dcdbbc24329b6c49b24c0b6b63cb9&x-time=1781380020",
+                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a1424ae3915db343546f656/chunks.m3u8?is_vip=false&token=36ab9f16ade533e4718727af0088dfea81c4ff54&x-sign=e6ad5dffda713e1062e27b9ae81763d8&x-time=1781381820",
                     "stream_referer": "https://iframe.rumsport10.live/"
                 },
                 {
-                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a1424ae3915db343546f656/chunks.m3u8?is_vip=false&token=1781466435-Kv4cPTAAP5YTi-58e18b16bf82bc95da96309f794bf12576527bdf-51fccffd1c4c9fee6604c3fa12520934",
+                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a1424ae3915db343546f656/chunks.m3u8?is_vip=false&token=1781468231-Kv4cPTAAP5YTi-36ab9f16ade533e4718727af0088dfea81c4ff54-aa2fe3056c5a14b0381747a9bd15e7d7",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Primera B Metropolitana",
+            "event_name": "Defensores Unidos Vs Brown De Adrogue | Primera B Metropolitana",
+            "eventInfo": {
+                "teamA": "Defensores Unidos",
+                "teamB": "Brown De Adrogue",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1945.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/468.png",
+                "eventName": "Primera B Metropolitana",
+                "startTime": "Live Now"
+            },
+            "streams": [
+                {
+                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a1424ae3915db343546f658/chunks.m3u8?is_vip=false&token=36ab9f16ade533e4718727af0088dfea81c4ff54&x-sign=0010f7b622dfbad076cb440946706be4&x-time=1781381820",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a1424ae3915db343546f658/chunks.m3u8?is_vip=false&token=1781468226-Kv4cPTAAP5YTi-36ab9f16ade533e4718727af0088dfea81c4ff54-2c1d85ac795d9ac734121a3a38942328",
                     "stream_referer": "https://iframe.rumsport10.live/"
                 }
             ]
@@ -120,11 +166,11 @@
             },
             "streams": [
                 {
-                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a1424ae3915db343546f659/chunks.m3u8?is_vip=false&token=58e18b16bf82bc95da96309f794bf12576527bdf&x-sign=8fd6d8d3eb748c9527bce2bf5a91182e&x-time=1781380020",
+                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a1424ae3915db343546f659/chunks.m3u8?is_vip=false&token=36ab9f16ade533e4718727af0088dfea81c4ff54&x-sign=1a8f1844cfe46f4946ead3a8c85fc3b7&x-time=1781381820",
                     "stream_referer": "https://iframe.rumsport10.live/"
                 },
                 {
-                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a1424ae3915db343546f659/chunks.m3u8?is_vip=false&token=1781466429-Kv4cPTAAP5YTi-58e18b16bf82bc95da96309f794bf12576527bdf-35a9e8c2f92df5da8916ab822db8032c",
+                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a1424ae3915db343546f659/chunks.m3u8?is_vip=false&token=1781468221-Kv4cPTAAP5YTi-36ab9f16ade533e4718727af0088dfea81c4ff54-5576e3400cd2e470c8abc9826514cd1d",
                     "stream_referer": "https://iframe.rumsport10.live/"
                 }
             ]
@@ -143,34 +189,11 @@
             },
             "streams": [
                 {
-                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f6929939/chunks.m3u8?is_vip=false&token=58e18b16bf82bc95da96309f794bf12576527bdf&x-sign=4d8c9c453f1ea73bc95314f78407e4f6&x-time=1781380020",
+                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f6929939/chunks.m3u8?is_vip=false&token=36ab9f16ade533e4718727af0088dfea81c4ff54&x-sign=dcff208a7b06405b185d1b18fad4e14b&x-time=1781381760",
                     "stream_referer": "https://iframe.rumsport10.live/"
                 },
                 {
-                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f6929939/chunks.m3u8?is_vip=false&token=1781466424-Kv4cPTAAP5YTi-58e18b16bf82bc95da96309f794bf12576527bdf-bad08b1c7c70edab29d9c9aaf389e022",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "Category": "Premier League",
-            "event_name": "Dinamo Brest Vs Neman | Premier League",
-            "eventInfo": {
-                "teamA": "Dinamo Brest",
-                "teamB": "Neman",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/386.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/387.png",
-                "eventName": "Premier League",
-                "startTime": "Live Now"
-            },
-            "streams": [
-                {
-                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0c81feb4f78da9a30625e4/chunks.m3u8?is_vip=false&token=58e18b16bf82bc95da96309f794bf12576527bdf&x-sign=048d9d3f1978c360e12c2c0c50562192&x-time=1781379960",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0c81feb4f78da9a30625e4/chunks.m3u8?is_vip=false&token=1781466419-Kv4cPTAAP5YTi-58e18b16bf82bc95da96309f794bf12576527bdf-a57cfa19c474f6e1e161219b859054b0",
+                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f6929939/chunks.m3u8?is_vip=false&token=1781468216-Kv4cPTAAP5YTi-36ab9f16ade533e4718727af0088dfea81c4ff54-863807833a25ee5bc2d428f961bf0bbc",
                     "stream_referer": "https://iframe.rumsport10.live/"
                 }
             ]
@@ -189,7 +212,7 @@
             },
             "streams": [
                 {
-                    "stream_url 1": "https://livecdn-bp-iptv.rumsport7.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=58e18b16bf82bc95da96309f794bf12576527bdf&x-sign=cec58a7c98ae5fba182f14d1d313ff37&x-time=1781379960",
+                    "stream_url 1": "https://livecdn-bp-iptv.rumsport7.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=36ab9f16ade533e4718727af0088dfea81c4ff54&x-sign=0f1192869987d84b8ed3d2cc8aceb838&x-time=1781381760",
                     "stream_referer": "https://iframe.rumsport10.live/"
                 }
             ]
@@ -208,11 +231,11 @@
             },
             "streams": [
                 {
-                    "stream_url 1": "https://livecdn-tc-iptv.rumsport10.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=1781466403-Kv4cPTAAP5YTi-58e18b16bf82bc95da96309f794bf12576527bdf-56464bae93788eade1eaaa3e51677b75",
+                    "stream_url 1": "https://livecdn-tc-iptv.rumsport10.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=1781468201-Kv4cPTAAP5YTi-36ab9f16ade533e4718727af0088dfea81c4ff54-a4cfe6276737727b9ea2a9e29e6fa89f",
                     "stream_referer": "https://iframe.rumsport10.live/"
                 },
                 {
-                    "stream_url 2": "https://livecdn-bp-iptv.rumsport7.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=58e18b16bf82bc95da96309f794bf12576527bdf&x-sign=c5ea92ca7b6a44930105d6ac4f27531d&x-time=1781379960",
+                    "stream_url 2": "https://livecdn-bp-iptv.rumsport7.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=36ab9f16ade533e4718727af0088dfea81c4ff54&x-sign=3ba6cc8d07cc07201d7c7c87f678a162&x-time=1781381760",
                     "stream_referer": "https://iframe.rumsport10.live/"
                 }
             ]
@@ -231,43 +254,43 @@
             },
             "streams": [
                 {
-                    "stream_url 1": "https://livecdn-bp-iptv.rumsport7.live/live_abr/544561/720p/chunks.m3u8?is_vip=false&token=58e18b16bf82bc95da96309f794bf12576527bdf&x-sign=3482c3c38c95f0fc785f89649a3033c1&x-time=1781379960",
+                    "stream_url 1": "https://livecdn-bp-iptv.rumsport7.live/live_abr/544561/720p/chunks.m3u8?is_vip=false&token=36ab9f16ade533e4718727af0088dfea81c4ff54&x-sign=03edafd860ef55d10fd07009596cb299&x-time=1781381760",
                     "stream_referer": "https://iframe.rumsport10.live/"
                 },
                 {
-                    "stream_url 2": "https://livecdn-tc-iptv.rumsport10.live/live_abr/544561/720p/chunks.m3u8?is_vip=false&token=1781466395-Kv4cPTAAP5YTi-58e18b16bf82bc95da96309f794bf12576527bdf-d631751804d43bae2b1e679037eef562",
+                    "stream_url 2": "https://livecdn-tc-iptv.rumsport10.live/live_abr/544561/720p/chunks.m3u8?is_vip=false&token=1781468194-Kv4cPTAAP5YTi-36ab9f16ade533e4718727af0088dfea81c4ff54-1c079c535ccd259aa027a3901c574b8d",
                     "stream_referer": "https://iframe.rumsport10.live/"
                 },
                 {
-                    "stream_url 3": "https://livecdn-bp-iptv.rumsport7.live/live_abr/177/720p/chunks.m3u8?is_vip=false&token=58e18b16bf82bc95da96309f794bf12576527bdf&x-sign=566b6ddeff3f3251977c226caf5fbfd6&x-time=1781379960",
+                    "stream_url 3": "https://livecdn-bp-iptv.rumsport7.live/live_abr/177/720p/chunks.m3u8?is_vip=false&token=36ab9f16ade533e4718727af0088dfea81c4ff54&x-sign=ee38412de89a7570abb13a43f93f2057&x-time=1781381760",
                     "stream_referer": "https://iframe.rumsport10.live/"
                 },
                 {
-                    "stream_url 4": "https://livecdn-tc-iptv.rumsport10.live/live_abr/177/720p/chunks.m3u8?is_vip=false&token=1781466396-Kv4cPTAAP5YTi-58e18b16bf82bc95da96309f794bf12576527bdf-1edf27afe2110f9529e535f5d9161b39",
+                    "stream_url 4": "https://livecdn-tc-iptv.rumsport10.live/live_abr/177/720p/chunks.m3u8?is_vip=false&token=1781468194-Kv4cPTAAP5YTi-36ab9f16ade533e4718727af0088dfea81c4ff54-a0a3a1e7c6f4069e634c6113d6e9c8c7",
                     "stream_referer": "https://iframe.rumsport10.live/"
                 },
                 {
-                    "stream_url 5": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f692993c-hd/chunks.m3u8?is_vip=false&token=58e18b16bf82bc95da96309f794bf12576527bdf&x-sign=149939c1284903d29a7645e9e289276a&x-time=1781379960",
+                    "stream_url 5": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f692993c-hd/chunks.m3u8?is_vip=false&token=36ab9f16ade533e4718727af0088dfea81c4ff54&x-sign=80bb6f624686cf2577a5fd26752418ad&x-time=1781381760",
                     "stream_referer": "https://iframe.rumsport10.live/"
                 },
                 {
-                    "stream_url 6": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f692993c-hd/chunks.m3u8?is_vip=false&token=1781466397-Kv4cPTAAP5YTi-58e18b16bf82bc95da96309f794bf12576527bdf-dcfbaf4a02829ffa7fbb42d9dcb02ed5",
+                    "stream_url 6": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f692993c-hd/chunks.m3u8?is_vip=false&token=1781468195-Kv4cPTAAP5YTi-36ab9f16ade533e4718727af0088dfea81c4ff54-64e2cdd6d07e8f5b08e0664182dca94c",
                     "stream_referer": "https://iframe.rumsport10.live/"
                 },
                 {
-                    "stream_url 7": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f692993c-cnhd/chunks.m3u8?is_vip=false&token=58e18b16bf82bc95da96309f794bf12576527bdf&x-sign=64caba6665e34e56f16608f72cf7e8eb&x-time=1781379960",
+                    "stream_url 7": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f692993c-cnhd/chunks.m3u8?is_vip=false&token=36ab9f16ade533e4718727af0088dfea81c4ff54&x-sign=ed00de1dffc9724b230e04e58bf666e0&x-time=1781381760",
                     "stream_referer": "https://iframe.rumsport10.live/"
                 },
                 {
-                    "stream_url 8": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f692993c-cnhd/chunks.m3u8?is_vip=false&token=1781466398-Kv4cPTAAP5YTi-58e18b16bf82bc95da96309f794bf12576527bdf-c0d13bcde32681dc97c8cb9898231e9d",
+                    "stream_url 8": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f692993c-cnhd/chunks.m3u8?is_vip=false&token=1781468196-Kv4cPTAAP5YTi-36ab9f16ade533e4718727af0088dfea81c4ff54-3803148000ac2ae04d5c04648b849ea5",
                     "stream_referer": "https://iframe.rumsport10.live/"
                 },
                 {
-                    "stream_url 9": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f692993c-cnhd2/chunks.m3u8?is_vip=false&token=58e18b16bf82bc95da96309f794bf12576527bdf&x-sign=baa566aa20f319fb8e7875118c456917&x-time=1781379960",
+                    "stream_url 9": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f692993c-cnhd2/chunks.m3u8?is_vip=false&token=36ab9f16ade533e4718727af0088dfea81c4ff54&x-sign=d97e5824dae5c8709ca0362d5c8a1e62&x-time=1781381760",
                     "stream_referer": "https://iframe.rumsport10.live/"
                 },
                 {
-                    "stream_url 10": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f692993c-cnhd2/chunks.m3u8?is_vip=false&token=1781466398-Kv4cPTAAP5YTi-58e18b16bf82bc95da96309f794bf12576527bdf-bbbe5b827d48719d921455a3410bdad0",
+                    "stream_url 10": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f692993c-cnhd2/chunks.m3u8?is_vip=false&token=1781468196-Kv4cPTAAP5YTi-36ab9f16ade533e4718727af0088dfea81c4ff54-fb86e42f23a681f852efc345d87a804a",
                     "stream_referer": "https://iframe.rumsport10.live/"
                 }
             ]
@@ -286,7 +309,7 @@
             },
             "streams": [
                 {
-                    "stream_url": "https://bd-mc-flive.fancode.com/mumbai/143213_english_hls_a7c01dd75382674_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781450765~_GO=Generated~acl=/mumbai/143213_english_hls_a7c01dd75382674_1ta-di_h264/*~Signature=ATZ0w6eFP2RmWHDTucsSmeBo30fa7KRHUeA2AT80X6Qt4PssbnupmjFOdCacyF9ofggdHsk330H079xUKGtA572Il5MM"
+                    "stream_url": "https://bd-mc-flive.fancode.com/mumbai/143213_english_hls_a7c01dd75382674_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781465406~_GO=Generated~acl=/mumbai/143213_english_hls_a7c01dd75382674_1ta-di_h264/*~Signature=ATZ0w6cRujj9NAYdn5iM4zKp8q1MqaAW_JMJ9fWKRn8qORXMDzPVEhDV6l4BF5vBPOzoo8l4UmounG1CjwhLtXGO0eAG"
                 }
             ]
         },
@@ -311,22 +334,22 @@
         {
             "status": "LIVE",
             "Category": "Primera Nacional",
-            "event_name": "Colegiales Vs San Martin Tucuman | Primera Nacional",
+            "event_name": "Almagro Vs Agropecuario | Primera Nacional",
             "eventInfo": {
-                "teamA": "Colegiales",
-                "teamB": "San Martin Tucuman",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/8377.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/485.png",
+                "teamA": "Almagro",
+                "teamB": "Agropecuario",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/482.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/462.png",
                 "eventName": "Primera Nacional",
                 "startTime": "Live Now"
             },
             "streams": [
                 {
-                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a03477cca40f0e8a07e5fea/chunks.m3u8?is_vip=false&token=58e18b16bf82bc95da96309f794bf12576527bdf&x-sign=bdde6e6f33845f2d9f113180126403f2&x-time=1781379960",
+                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0f24fe2e7f84ab1dbf1e72/chunks.m3u8?is_vip=false&token=36ab9f16ade533e4718727af0088dfea81c4ff54&x-sign=e65605e2fa833caddb8d4375629278ce&x-time=1781381760",
                     "stream_referer": "https://iframe.rumsport10.live/"
                 },
                 {
-                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a03477cca40f0e8a07e5fea/chunks.m3u8?is_vip=false&token=1781466414-Kv4cPTAAP5YTi-58e18b16bf82bc95da96309f794bf12576527bdf-e98c6acb8ce86dcf6223ae15e6b5d4ad",
+                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0f24fe2e7f84ab1dbf1e72/chunks.m3u8?is_vip=false&token=1781468211-Kv4cPTAAP5YTi-36ab9f16ade533e4718727af0088dfea81c4ff54-0c0e7cb579c722c72850882d6ff5a4d2",
                     "stream_referer": "https://iframe.rumsport10.live/"
                 }
             ]
@@ -366,20 +389,6 @@
                     "stream_url": "https://bd-mc-flive.fancode.com/mumbai/143211_english_hls_a5dcdcfec075369_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781455865~_GO=Generated~acl=/mumbai/143211_english_hls_a5dcdcfec075369_1ta-di_h264/*~Signature=ATZ0w6cUVyB9teTg3QRX-A8KRq2HhnCQ7fL6Q2Bd6G3EWRkpJTOWpqR1x0zB0W7zVb3o_1E51pmLvv52w3-UgDkbCYUH"
                 }
             ]
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Football",
-            "event_name": "Netherlands Vs Japan | World Cup",
-            "eventInfo": {
-                "teamA": "Netherlands",
-                "teamB": "Japan",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1118.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/12.png",
-                "eventName": "World Cup",
-                "startTime": "2:00 AM 15-06-2026"
-            },
-            "streams": []
         },
         {
             "status": "UPCOMING",
@@ -461,6 +470,20 @@
         },
         {
             "status": "UPCOMING",
+            "Category": "Football",
+            "event_name": "Spain Vs Cape Verde Islands | World Cup",
+            "eventInfo": {
+                "teamA": "Spain",
+                "teamB": "Cape Verde Islands",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/9.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1533.png",
+                "eventName": "World Cup",
+                "startTime": "10:00 PM 15-06-2026"
+            },
+            "streams": []
+        },
+        {
+            "status": "UPCOMING",
             "Category": "Cricket",
             "event_name": "Bangladesh Vs Australia",
             "eventInfo": {
@@ -494,20 +517,6 @@
                     "stream_url": ""
                 }
             ]
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Football",
-            "event_name": "Spain Vs Cape Verde Islands | World Cup",
-            "eventInfo": {
-                "teamA": "Spain",
-                "teamB": "Cape Verde Islands",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/9.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1533.png",
-                "eventName": "World Cup",
-                "startTime": "10:00 PM 15-06-2026"
-            },
-            "streams": []
         },
         {
             "status": "UPCOMING",
@@ -553,15 +562,15 @@
         },
         {
             "status": "UPCOMING",
-            "Category": "Baseball",
-            "event_name": "Hanshin Tigers Vs Orix Buffaloes | Npb",
+            "Category": "Football",
+            "event_name": "Netherlands Vs Japan | World Cup",
             "eventInfo": {
-                "teamA": "Hanshin Tigers",
-                "teamB": "Orix Buffaloes",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/teams/5a915504baf84e88cbc763dfcfc934cf.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/teams/152af9ee913c91f59154eaf2ae51db2f.png",
-                "eventName": "Npb",
-                "startTime": "10:00 AM 14-06-2026"
+                "teamA": "Netherlands",
+                "teamB": "Japan",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1118.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/12.png",
+                "eventName": "World Cup",
+                "startTime": "2:00 AM 15-06-2026"
             },
             "streams": []
         },
@@ -581,15 +590,29 @@
         },
         {
             "status": "UPCOMING",
+            "Category": "Baseball",
+            "event_name": "Hanshin Tigers Vs Orix Buffaloes | Npb",
+            "eventInfo": {
+                "teamA": "Hanshin Tigers",
+                "teamB": "Orix Buffaloes",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/teams/5a915504baf84e88cbc763dfcfc934cf.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/teams/152af9ee913c91f59154eaf2ae51db2f.png",
+                "eventName": "Npb",
+                "startTime": "10:00 AM 14-06-2026"
+            },
+            "streams": []
+        },
+        {
+            "status": "UPCOMING",
             "Category": "Mma",
-            "event_name": "Ufc Freedom 250: Prelims | Ufc",
+            "event_name": "Combat Fc 13 | Mma",
             "eventInfo": {
                 "teamA": "",
                 "teamB": "",
                 "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
                 "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
-                "eventName": "Ufc",
-                "startTime": "4:00 AM 15-06-2026"
+                "eventName": "Mma",
+                "startTime": "6:00 AM 14-06-2026"
             },
             "streams": []
         },
@@ -618,34 +641,6 @@
                 "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
                 "eventName": "Fia Formula 3 Championship Feature Race",
                 "startTime": "12:35 PM 14-06-2026"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Mma",
-            "event_name": "Combat Fc 13 | Mma",
-            "eventInfo": {
-                "teamA": "",
-                "teamB": "",
-                "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
-                "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
-                "eventName": "Mma",
-                "startTime": "6:00 AM 14-06-2026"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Badminton",
-            "event_name": "Court 1 | Sathio Group Australian Badminton Open",
-            "eventInfo": {
-                "teamA": "",
-                "teamB": "",
-                "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
-                "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
-                "eventName": "Sathio Group Australian Badminton Open",
-                "startTime": "8:00 AM 14-06-2026"
             },
             "streams": []
         },
@@ -693,20 +688,6 @@
         },
         {
             "status": "UPCOMING",
-            "Category": "Baseball",
-            "event_name": "Hokkaido Nippon-ham Fighters Vs Chunichi Dragons | Npb",
-            "eventInfo": {
-                "teamA": "Hokkaido Nippon-ham Fighters",
-                "teamB": "Chunichi Dragons",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/teams/329405cfcfea53d121091a4bee27b860.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/teams/e97b8c766d3fb27f8fb6be3a1c4fc4f8.png",
-                "eventName": "Npb",
-                "startTime": "10:00 AM 14-06-2026"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
             "Category": "Cycling",
             "event_name": "Cross-country Olympic: Leogang | Uci Mountain Bike World Series",
             "eventInfo": {
@@ -735,6 +716,20 @@
         },
         {
             "status": "UPCOMING",
+            "Category": "Baseball",
+            "event_name": "Hokkaido Nippon-ham Fighters Vs Chunichi Dragons | Npb",
+            "eventInfo": {
+                "teamA": "Hokkaido Nippon-ham Fighters",
+                "teamB": "Chunichi Dragons",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/teams/329405cfcfea53d121091a4bee27b860.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/teams/e97b8c766d3fb27f8fb6be3a1c4fc4f8.png",
+                "eventName": "Npb",
+                "startTime": "10:00 AM 14-06-2026"
+            },
+            "streams": []
+        },
+        {
+            "status": "UPCOMING",
             "Category": "Mma",
             "event_name": "Topuria Vs Gaethje | Ufc",
             "eventInfo": {
@@ -744,6 +739,20 @@
                 "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
                 "eventName": "Ufc",
                 "startTime": "6:00 AM 15-06-2026"
+            },
+            "streams": []
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Mma",
+            "event_name": "Ufc Freedom 250: Prelims | Ufc",
+            "eventInfo": {
+                "teamA": "",
+                "teamB": "",
+                "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
+                "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
+                "eventName": "Ufc",
+                "startTime": "4:00 AM 15-06-2026"
             },
             "streams": []
         },
@@ -764,14 +773,14 @@
         {
             "status": "UPCOMING",
             "Category": "World Cup",
-            "event_name": "Australia Vs Türkiye | World Cup",
+            "event_name": "Haiti Vs Scotland | World Cup",
             "eventInfo": {
-                "teamA": "Australia",
-                "teamB": "Türkiye",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/20.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/777.png",
+                "teamA": "Haiti",
+                "teamB": "Scotland",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2386.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1108.png",
                 "eventName": "World Cup",
-                "startTime": "10:00 AM 14-06-2026"
+                "startTime": "7:00 AM 14-06-2026"
             },
             "streams": []
         },
@@ -792,20 +801,6 @@
         {
             "status": "UPCOMING",
             "Category": "Tennis",
-            "event_name": "Final | Libema Open",
-            "eventInfo": {
-                "teamA": "",
-                "teamB": "",
-                "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
-                "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
-                "eventName": "Libema Open",
-                "startTime": "4:00 PM 14-06-2026"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Tennis",
             "event_name": "Day 7 | Ilkley Open",
             "eventInfo": {
                 "teamA": "",
@@ -813,6 +808,20 @@
                 "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
                 "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
                 "eventName": "Ilkley Open",
+                "startTime": "4:00 PM 14-06-2026"
+            },
+            "streams": []
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Tennis",
+            "event_name": "Final | Libema Open",
+            "eventInfo": {
+                "teamA": "",
+                "teamB": "",
+                "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
+                "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
+                "eventName": "Libema Open",
                 "startTime": "4:00 PM 14-06-2026"
             },
             "streams": []
@@ -847,6 +856,20 @@
         },
         {
             "status": "UPCOMING",
+            "Category": "World Cup",
+            "event_name": "Australia Vs Türkiye | World Cup",
+            "eventInfo": {
+                "teamA": "Australia",
+                "teamB": "Türkiye",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/20.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/777.png",
+                "eventName": "World Cup",
+                "startTime": "10:00 AM 14-06-2026"
+            },
+            "streams": []
+        },
+        {
+            "status": "UPCOMING",
             "event_name": "West Indies Vs Sri Lanka",
             "eventInfo": {
                 "teamA": "West Indies",
@@ -865,20 +888,6 @@
         {
             "status": "UPCOMING",
             "Category": "World Cup",
-            "event_name": "Haiti Vs Scotland | World Cup",
-            "eventInfo": {
-                "teamA": "Haiti",
-                "teamB": "Scotland",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2386.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1108.png",
-                "eventName": "World Cup",
-                "startTime": "7:00 AM 14-06-2026"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "World Cup",
             "event_name": "Brazil Vs Morocco | World Cup",
             "eventInfo": {
                 "teamA": "Brazil",
@@ -893,14 +902,14 @@
         {
             "status": "UPCOMING",
             "Category": "Formula 1",
-            "event_name": "Race",
+            "event_name": "Practice 3",
             "eventInfo": {
                 "teamA": "",
                 "teamB": "",
                 "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
                 "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
                 "eventName": "F1 Msc Cruises Gran Premio De Barcelona-catalunya",
-                "startTime": "14-06-2026 06:30 PM"
+                "startTime": "13-06-2026 04:00 PM"
             },
             "streams": [
                 {
@@ -911,14 +920,14 @@
         {
             "status": "UPCOMING",
             "Category": "Formula 1",
-            "event_name": "Practice 3",
+            "event_name": "Race",
             "eventInfo": {
                 "teamA": "",
                 "teamB": "",
                 "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
                 "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
                 "eventName": "F1 Msc Cruises Gran Premio De Barcelona-catalunya",
-                "startTime": "13-06-2026 04:00 PM"
+                "startTime": "14-06-2026 06:30 PM"
             },
             "streams": [
                 {
@@ -1015,14 +1024,14 @@
         {
             "status": "UPCOMING",
             "Category": "Badminton",
-            "event_name": "Court 1 | Sands China Ltd Macau Open",
+            "event_name": "Court 1 | Sathio Group Australian Badminton Open",
             "eventInfo": {
                 "teamA": "",
                 "teamB": "",
                 "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
                 "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
-                "eventName": "Sands China Ltd Macau Open",
-                "startTime": "9:00 AM 16-06-2026"
+                "eventName": "Sathio Group Australian Badminton Open",
+                "startTime": "8:00 AM 14-06-2026"
             },
             "streams": []
         }
