@@ -2,89 +2,30 @@
     "name": "Live and Upcoming Sports Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "09:30:07 PM 13-06-2026",
+    "last_update_time": "10:00:07 PM 13-06-2026",
     "total_matches": 67,
-    "live_match": 28,
+    "live_match": 29,
     "matches": [
         {
             "status": "LIVE",
             "Category": "Football",
-            "event_name": "Guarani Campinas Vs Caxias | Serie C",
+            "event_name": "07 Vestur Vs Vikingur Gota | Meistaradeildin",
             "eventInfo": {
-                "teamA": "Guarani Campinas",
-                "teamB": "Caxias",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/138.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/7770.png",
-                "eventName": "Serie C",
+                "teamA": "07 Vestur",
+                "teamB": "Vikingur Gota",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/4174.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/580.png",
+                "eventName": "Meistaradeildin",
                 "startTime": "Live Now"
             },
             "streams": [
                 {
-                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f6929950/chunks.m3u8?is_vip=false&token=4cc6201ecd2c84e4ead5cb1f3db6788375f970c5&x-sign=36bb0620102ebe9f7a84bd1c36d221e0&x-time=1781363820",
+                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0c81fec0f5e667e402ad9f/chunks.m3u8?is_vip=false&token=8ba12de705c7165138809f24781b803312da9a2f&x-sign=9fdac260ef016389c72e2a6c8a30d2f1&x-time=1781365620",
                     "stream_referer": "https://iframe.rumsport10.live/"
                 },
                 {
-                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f6929950/chunks.m3u8?is_vip=false&token=1781450251-Kv4cPTAAP5YTi-4cc6201ecd2c84e4ead5cb1f3db6788375f970c5-fb54f3a854d8279cdb358d968667fad2",
+                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0c81fec0f5e667e402ad9f/chunks.m3u8?is_vip=false&token=1781452053-Kv4cPTAAP5YTi-8ba12de705c7165138809f24781b803312da9a2f-42e73bf3c0eba239972ee4afadd96b34",
                     "stream_referer": "https://iframe.rumsport10.live/"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "Category": "Football",
-            "event_name": "Völsungur Vs Njardvik | 1. Deild",
-            "eventInfo": {
-                "teamA": "Völsungur",
-                "teamB": "Njardvik",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/4166.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2123.png",
-                "eventName": "1. Deild",
-                "startTime": "Live Now"
-            },
-            "streams": [
-                {
-                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f6929926/chunks.m3u8?is_vip=false&token=4cc6201ecd2c84e4ead5cb1f3db6788375f970c5&x-sign=142ee70764c2a8f57f555a3b31ee4665&x-time=1781363820",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f6929926/chunks.m3u8?is_vip=false&token=1781450246-Kv4cPTAAP5YTi-4cc6201ecd2c84e4ead5cb1f3db6788375f970c5-2b6e118b5050129d3fb78c9a23869dfa",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "Category": "Cricket",
-            "event_name": "Chambal Ghariyals Women Vs Gwalior Shernis",
-            "eventInfo": {
-                "teamA": "",
-                "teamB": "",
-                "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
-                "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
-                "eventName": "Madhya Pradesh League T20 Women's 2026",
-                "startTime": "13-06-2026 07:30 PM"
-            },
-            "streams": [
-                {
-                    "stream_url": "https://bd-mc-flive.fancode.com/mumbai/143029_english_hls_cdf0829ede43143_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781444645~_GO=Generated~acl=/mumbai/143029_english_hls_cdf0829ede43143_1ta-di_h264/*~Signature=ATZ0w6f4lWWWKxC45op3rM3-aiY-ygEZ06FMUi069Qlx9yUolnsdZHObIvWWBXSwUK-aOX_SkvpfF99YFQk5iC24fZML"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "Category": "Cricket",
-            "event_name": "Gujarat Diamonds Vs Up Brij Stars",
-            "eventInfo": {
-                "teamA": "",
-                "teamB": "",
-                "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
-                "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
-                "eventName": "Big Cricket League Season 2",
-                "startTime": "13-06-2026 07:00 PM"
-            },
-            "streams": [
-                {
-                    "stream_url": "https://bd-mc-flive.fancode.com/mumbai/143001_hindi_hls_5eb1f7bc0d16358_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781443146~_GO=Generated~acl=/mumbai/143001_hindi_hls_5eb1f7bc0d16358_1ta-di_h264/*~Signature=ATZ0w6f94XYpeytmS2Ri0eSCKoyKsaGHMYCzb2i1W7jw4Cco3CPvhxEut340lF0-_iSzjgWevB3HB0Mu_1aMiTb8OakB"
                 }
             ]
         },
@@ -109,6 +50,88 @@
         {
             "status": "LIVE",
             "Category": "Cricket",
+            "event_name": "Chambal Ghariyals Women Vs Gwalior Shernis",
+            "eventInfo": {
+                "teamA": "",
+                "teamB": "",
+                "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
+                "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
+                "eventName": "Madhya Pradesh League T20 Women's 2026",
+                "startTime": "13-06-2026 07:30 PM"
+            },
+            "streams": [
+                {
+                    "stream_url": "https://bd-mc-flive.fancode.com/mumbai/143029_english_hls_cdf0829ede43143_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781444645~_GO=Generated~acl=/mumbai/143029_english_hls_cdf0829ede43143_1ta-di_h264/*~Signature=ATZ0w6f4lWWWKxC45op3rM3-aiY-ygEZ06FMUi069Qlx9yUolnsdZHObIvWWBXSwUK-aOX_SkvpfF99YFQk5iC24fZML"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Football",
+            "event_name": "Völsungur Vs Njardvik | 1. Deild",
+            "eventInfo": {
+                "teamA": "Völsungur",
+                "teamB": "Njardvik",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/4166.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2123.png",
+                "eventName": "1. Deild",
+                "startTime": "Live Now"
+            },
+            "streams": [
+                {
+                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f6929926/chunks.m3u8?is_vip=false&token=8ba12de705c7165138809f24781b803312da9a2f&x-sign=0dd0262d1e7a2cea6e9ffb373ff6026c&x-time=1781365620",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f6929926/chunks.m3u8?is_vip=false&token=1781452042-Kv4cPTAAP5YTi-8ba12de705c7165138809f24781b803312da9a2f-90a5bff49b0f0bdf63c8116079e7c71c",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Football",
+            "event_name": "Guarani Campinas Vs Caxias | Serie C",
+            "eventInfo": {
+                "teamA": "Guarani Campinas",
+                "teamB": "Caxias",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/138.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/7770.png",
+                "eventName": "Serie C",
+                "startTime": "Live Now"
+            },
+            "streams": [
+                {
+                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f6929950/chunks.m3u8?is_vip=false&token=8ba12de705c7165138809f24781b803312da9a2f&x-sign=f38d57e2c4ffddf6f763401048ead418&x-time=1781365620",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f6929950/chunks.m3u8?is_vip=false&token=1781452048-Kv4cPTAAP5YTi-8ba12de705c7165138809f24781b803312da9a2f-cd9698786b75ea255aa832d81cf793e0",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Cricket",
+            "event_name": "Gujarat Diamonds Vs Up Brij Stars",
+            "eventInfo": {
+                "teamA": "",
+                "teamB": "",
+                "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
+                "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
+                "eventName": "Big Cricket League Season 2",
+                "startTime": "13-06-2026 07:00 PM"
+            },
+            "streams": [
+                {
+                    "stream_url": "https://bd-mc-flive.fancode.com/mumbai/143001_hindi_hls_5eb1f7bc0d16358_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781443146~_GO=Generated~acl=/mumbai/143001_hindi_hls_5eb1f7bc0d16358_1ta-di_h264/*~Signature=ATZ0w6f94XYpeytmS2Ri0eSCKoyKsaGHMYCzb2i1W7jw4Cco3CPvhxEut340lF0-_iSzjgWevB3HB0Mu_1aMiTb8OakB"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Cricket",
             "event_name": "Akcel United Brussels Vs Jb Bruges",
             "eventInfo": {
                 "teamA": "",
@@ -121,29 +144,6 @@
             "streams": [
                 {
                     "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/143165_english_hls_dd8ec33c8244577_1ta-di_h264/1080p.m3u8"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "Category": "Football",
-            "event_name": "07 Vestur Vs Vikingur Gota | Meistaradeildin",
-            "eventInfo": {
-                "teamA": "07 Vestur",
-                "teamB": "Vikingur Gota",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/4174.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/580.png",
-                "eventName": "Meistaradeildin",
-                "startTime": "Live Now"
-            },
-            "streams": [
-                {
-                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0c81fec0f5e667e402ad9f/chunks.m3u8?is_vip=false&token=4cc6201ecd2c84e4ead5cb1f3db6788375f970c5&x-sign=a86dea91fb7b86d29aad644c1d55e06b&x-time=1781363820",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0c81fec0f5e667e402ad9f/chunks.m3u8?is_vip=false&token=1781450257-Kv4cPTAAP5YTi-4cc6201ecd2c84e4ead5cb1f3db6788375f970c5-11f15d42965e1f7ce309e6009cc9c1b4",
-                    "stream_referer": "https://iframe.rumsport10.live/"
                 }
             ]
         },
@@ -166,6 +166,29 @@
         },
         {
             "status": "LIVE",
+            "Category": "Ettan - Norra",
+            "event_name": "Järfälla Vs Arlanda | Ettan - Norra",
+            "eventInfo": {
+                "teamA": "Järfälla",
+                "teamB": "Arlanda",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/16598.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/16597.png",
+                "eventName": "Ettan - Norra",
+                "startTime": "Live Now"
+            },
+            "streams": [
+                {
+                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f69299d4/chunks.m3u8?is_vip=false&token=8ba12de705c7165138809f24781b803312da9a2f&x-sign=12a319ef3f497121076769f9172fbdac&x-time=1781365620",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f69299d4/chunks.m3u8?is_vip=false&token=1781452058-Kv4cPTAAP5YTi-8ba12de705c7165138809f24781b803312da9a2f-784f112337955be495c927b8da02e107",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
             "Category": "3. Division - Girone 1",
             "event_name": "Frigg Vs Heming | 3. Division - Girone 1",
             "eventInfo": {
@@ -178,255 +201,11 @@
             },
             "streams": [
                 {
-                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0c81fec0f5e667e402ad8a/chunks.m3u8?is_vip=false&token=4cc6201ecd2c84e4ead5cb1f3db6788375f970c5&x-sign=c3d4f085eba776fc6547d5018a2ef024&x-time=1781363820",
+                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0c81fec0f5e667e402ad8a/chunks.m3u8?is_vip=false&token=8ba12de705c7165138809f24781b803312da9a2f&x-sign=8440a69daac66507a4902a08a465f0df&x-time=1781365620",
                     "stream_referer": "https://iframe.rumsport10.live/"
                 },
                 {
-                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0c81fec0f5e667e402ad8a/chunks.m3u8?is_vip=false&token=1781450262-Kv4cPTAAP5YTi-4cc6201ecd2c84e4ead5cb1f3db6788375f970c5-abec3134a9482ddafd49a13949d2705a",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "Category": "Cycling",
-            "event_name": "Copenaghen Sprint Women | Uci Women's World Tour",
-            "eventInfo": {
-                "teamA": "",
-                "teamB": "",
-                "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
-                "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
-                "eventName": "Uci Women's World Tour",
-                "startTime": "Live Now"
-            },
-            "streams": [
-                {
-                    "stream_url 1": "https://livecdn-tc-iptv.rumsport10.live/live_abr/1418/720p/chunks.m3u8?is_vip=false&token=1781450267-Kv4cPTAAP5YTi-4cc6201ecd2c84e4ead5cb1f3db6788375f970c5-6877d1f300075bfbf59cc38a6d9ba4a4",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "stream_url 2": "https://livecdn-bp-iptv.rumsport7.live/live_abr/1418/720p/chunks.m3u8?is_vip=false&token=4cc6201ecd2c84e4ead5cb1f3db6788375f970c5&x-sign=87cceca51debfc0d485a39c5a59486de&x-time=1781363820",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "Category": "Golf",
-            "event_name": "Day 3 Featured Holes",
-            "eventInfo": {
-                "teamA": "",
-                "teamB": "",
-                "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
-                "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
-                "eventName": "Rbc Canadian Open 2026",
-                "startTime": "13-06-2026 05:45 PM"
-            },
-            "streams": [
-                {
-                    "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/143214_english_hls_b98294f93a8901_1ta-di_h264/1080p.m3u8"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "Category": "1. Deild",
-            "event_name": "Leiknir R. Vs Vestri | 1. Deild",
-            "eventInfo": {
-                "teamA": "Leiknir R.",
-                "teamB": "Vestri",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2114.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/4165.png",
-                "eventName": "1. Deild",
-                "startTime": "Live Now"
-            },
-            "streams": [
-                {
-                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0c81fec0f5e667e402adb3/chunks.m3u8?is_vip=false&token=4cc6201ecd2c84e4ead5cb1f3db6788375f970c5&x-sign=9d73a19493df032b5c10dc65da66de66&x-time=1781363820",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0c81fec0f5e667e402adb3/chunks.m3u8?is_vip=false&token=1781450240-Kv4cPTAAP5YTi-4cc6201ecd2c84e4ead5cb1f3db6788375f970c5-7ba94e3eaa77278c735ab2a9c1f8678f",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "Category": "Veikkausliiga",
-            "event_name": "Ff Jaro Vs Hjk Helsinki | Veikkausliiga",
-            "eventInfo": {
-                "teamA": "Ff Jaro",
-                "teamB": "Hjk Helsinki",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2075.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/649.png",
-                "eventName": "Veikkausliiga",
-                "startTime": "Live Now"
-            },
-            "streams": [
-                {
-                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0c81fec0f5e667e402ad9c/chunks.m3u8?is_vip=false&token=4cc6201ecd2c84e4ead5cb1f3db6788375f970c5&x-sign=4067924959b2259449ee22e760954815&x-time=1781363820",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0c81fec0f5e667e402ad9c/chunks.m3u8?is_vip=false&token=1781450235-Kv4cPTAAP5YTi-4cc6201ecd2c84e4ead5cb1f3db6788375f970c5-ff085b7bc6776f593fd086f67cfabaa9",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "Category": "Veikkausliiga",
-            "event_name": "Vps Vs Kups | Veikkausliiga",
-            "eventInfo": {
-                "teamA": "Vps",
-                "teamB": "Kups",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/650.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1165.png",
-                "eventName": "Veikkausliiga",
-                "startTime": "Live Now"
-            },
-            "streams": [
-                {
-                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0c81fec0f5e667e402ad9b/chunks.m3u8?is_vip=false&token=4cc6201ecd2c84e4ead5cb1f3db6788375f970c5&x-sign=154e51a244b0e70b418d65d2e29b4db1&x-time=1781363820",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0c81fec0f5e667e402ad9b/chunks.m3u8?is_vip=false&token=1781450229-Kv4cPTAAP5YTi-4cc6201ecd2c84e4ead5cb1f3db6788375f970c5-ca8d1625930f21bca731b11cba9eda08",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "Category": "Volleyball",
-            "event_name": "Brazil Vs Serbia | Nations League",
-            "eventInfo": {
-                "teamA": "Brazil",
-                "teamB": "Serbia",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/6.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/14.png",
-                "eventName": "Nations League",
-                "startTime": "Live Now"
-            },
-            "streams": [
-                {
-                    "stream_url 1": "https://livecdn-tc-iptv.rumsport10.live/live_abr/68905/720p/chunks.m3u8?is_vip=false&token=1781450223-Kv4cPTAAP5YTi-4cc6201ecd2c84e4ead5cb1f3db6788375f970c5-3be3c93cf1e39988af8d665f576f399c",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "stream_url 2": "https://livecdn-bp-iptv.rumsport7.live/live_abr/68905/720p/chunks.m3u8?is_vip=false&token=4cc6201ecd2c84e4ead5cb1f3db6788375f970c5&x-sign=22f494bfcb985d54563ef33beb1aeb47&x-time=1781363820",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "Category": "Torneo Promocional Amateur",
-            "event_name": "Control Orientado Vs Belgrano Zarate | Torneo Promocional Amateur",
-            "eventInfo": {
-                "teamA": "Control Orientado",
-                "teamB": "Belgrano Zarate",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/27787.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/23096.png",
-                "eventName": "Torneo Promocional Amateur",
-                "startTime": "Live Now"
-            },
-            "streams": [
-                {
-                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a2d502642e30dd23d4319c3/chunks.m3u8?is_vip=false&token=4cc6201ecd2c84e4ead5cb1f3db6788375f970c5&x-sign=5bf93836c90dd4d1ac4b1707f72e49a2&x-time=1781363760",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a2d502642e30dd23d4319c3/chunks.m3u8?is_vip=false&token=1781450218-Kv4cPTAAP5YTi-4cc6201ecd2c84e4ead5cb1f3db6788375f970c5-bf4477aeb5a654ae0cc173092bf5de16",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "Category": "Auto Racing",
-            "event_name": "Valencia - Race 1 | Copa Clio",
-            "eventInfo": {
-                "teamA": "",
-                "teamB": "",
-                "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
-                "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
-                "eventName": "Copa Clio",
-                "startTime": "Live Now"
-            },
-            "streams": [
-                {
-                    "stream_url 1": "https://livecdn-tc-livestream.rumsport10.live/stream/5/chunks.m3u8?is_vip=false&token=1781450274-Kv4cPTAAP5YTi-4cc6201ecd2c84e4ead5cb1f3db6788375f970c5-f9005cdbdcb1f35e614005469dc0fd91",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "stream_url 2": "https://livecdn-bp-livestream.rumsport7.live/stream/5/chunks.m3u8?is_vip=false&token=4cc6201ecd2c84e4ead5cb1f3db6788375f970c5&x-sign=33f3c5665bc5e048ae9930db1c79651a&x-time=1781363820",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "Category": "Auto Racing",
-            "event_name": "Fia Wec, Le Mans 24hours, Race, Part 1 | Fia World Endurance Championship",
-            "eventInfo": {
-                "teamA": "",
-                "teamB": "",
-                "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
-                "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
-                "eventName": "Fia World Endurance Championship",
-                "startTime": "Live Now"
-            },
-            "streams": [
-                {
-                    "stream_url 1": "https://livecdn-tc-iptv.rumsport10.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=1781450212-Kv4cPTAAP5YTi-4cc6201ecd2c84e4ead5cb1f3db6788375f970c5-7e01a064780141521e585bf77d1ee592",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "stream_url 2": "https://livecdn-bp-iptv.rumsport7.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=4cc6201ecd2c84e4ead5cb1f3db6788375f970c5&x-sign=783c4aabc288d07a3662d9c0de794c69&x-time=1781363760",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "Category": "Tennis",
-            "event_name": "London: Day 6 | Wta 500",
-            "eventInfo": {
-                "teamA": "",
-                "teamB": "",
-                "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
-                "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
-                "eventName": "Wta 500",
-                "startTime": "Live Now"
-            },
-            "streams": [
-                {
-                    "stream_url 1": "https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1781450206-Kv4cPTAAP5YTi-4cc6201ecd2c84e4ead5cb1f3db6788375f970c5-ac5ec63be6d54e2e2c3982ecb2382310",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "stream_url 2": "https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=4cc6201ecd2c84e4ead5cb1f3db6788375f970c5&x-sign=6180ad25e381070c4a78b92402bcb0ae&x-time=1781363760",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "Category": "Darts",
-            "event_name": "World Cup Of Darts | World Cup Of Darts",
-            "eventInfo": {
-                "teamA": "",
-                "teamB": "",
-                "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
-                "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
-                "eventName": "World Cup Of Darts",
-                "startTime": "Live Now"
-            },
-            "streams": [
-                {
-                    "stream_url 1": "https://livecdn-bp-iptv.rumsport7.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=4cc6201ecd2c84e4ead5cb1f3db6788375f970c5&x-sign=53ec77ce82e4574aba78d17100bb8f19&x-time=1781363760",
+                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0c81fec0f5e667e402ad8a/chunks.m3u8?is_vip=false&token=1781452064-Kv4cPTAAP5YTi-8ba12de705c7165138809f24781b803312da9a2f-0b5be4f9863cee018cf21e50375a35dc",
                     "stream_referer": "https://iframe.rumsport10.live/"
                 }
             ]
@@ -445,11 +224,241 @@
             },
             "streams": [
                 {
-                    "stream_url 1": "https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1781450196-Kv4cPTAAP5YTi-4cc6201ecd2c84e4ead5cb1f3db6788375f970c5-86066c7c4cefa628ac2d57d7b31fc9ab",
+                    "stream_url 1": "https://livecdn-tc-livestream.rumsport10.live/stream/4/chunks.m3u8?is_vip=false&token=1781451997-Kv4cPTAAP5YTi-8ba12de705c7165138809f24781b803312da9a2f-309fe9141cf765fee6c40eab83d93e64",
                     "stream_referer": "https://iframe.rumsport10.live/"
                 },
                 {
-                    "stream_url 2": "https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=4cc6201ecd2c84e4ead5cb1f3db6788375f970c5&x-sign=51ef9ed83f687a6fe33f48afd81eb66a&x-time=1781363760",
+                    "stream_url 2": "https://livecdn-bp-livestream.rumsport7.live/stream/4/chunks.m3u8?is_vip=false&token=8ba12de705c7165138809f24781b803312da9a2f&x-sign=01be7a91fc11979f71b825f012c4f4f4&x-time=1781365560",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Auto Racing",
+            "event_name": "Valencia - Race 1 | Copa Clio",
+            "eventInfo": {
+                "teamA": "",
+                "teamB": "",
+                "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
+                "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
+                "eventName": "Copa Clio",
+                "startTime": "Live Now"
+            },
+            "streams": [
+                {
+                    "stream_url 1": "https://livecdn-tc-livestream.rumsport10.live/stream/5/chunks.m3u8?is_vip=false&token=1781452069-Kv4cPTAAP5YTi-8ba12de705c7165138809f24781b803312da9a2f-6ccd1c0fdf07779337f66bf47b93feac",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "stream_url 2": "https://livecdn-bp-livestream.rumsport7.live/stream/5/chunks.m3u8?is_vip=false&token=8ba12de705c7165138809f24781b803312da9a2f&x-sign=148758b1ca1f83f13420ae7d9f4a3913&x-time=1781365620",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Premier League",
+            "event_name": "Bars Vs Kara-balta | Premier League",
+            "eventInfo": {
+                "teamA": "Bars",
+                "teamB": "Kara-balta",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/25765.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/12238.png",
+                "eventName": "Premier League",
+                "startTime": "Live Now"
+            },
+            "streams": [
+                {
+                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a2bd1a263380e303ae65cdb/chunks.m3u8?is_vip=false&token=8ba12de705c7165138809f24781b803312da9a2f&x-sign=b63723fffa420a2ba612190e3bb5deb4&x-time=1781365620",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a2bd1a263380e303ae65cdb/chunks.m3u8?is_vip=false&token=1781452075-Kv4cPTAAP5YTi-8ba12de705c7165138809f24781b803312da9a2f-371d666068cb3288dfd06fa75b7f3127",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "1. Deild",
+            "event_name": "Leiknir R. Vs Vestri | 1. Deild",
+            "eventInfo": {
+                "teamA": "Leiknir R.",
+                "teamB": "Vestri",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2114.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/4165.png",
+                "eventName": "1. Deild",
+                "startTime": "Live Now"
+            },
+            "streams": [
+                {
+                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0c81fec0f5e667e402adb3/chunks.m3u8?is_vip=false&token=8ba12de705c7165138809f24781b803312da9a2f&x-sign=bc35c0d0948607d2175a8e8e9074001a&x-time=1781365620",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0c81fec0f5e667e402adb3/chunks.m3u8?is_vip=false&token=1781452036-Kv4cPTAAP5YTi-8ba12de705c7165138809f24781b803312da9a2f-2921fd320f2b8911ebd16b7a72fc55d4",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Veikkausliiga",
+            "event_name": "Ff Jaro Vs Hjk Helsinki | Veikkausliiga",
+            "eventInfo": {
+                "teamA": "Ff Jaro",
+                "teamB": "Hjk Helsinki",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2075.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/649.png",
+                "eventName": "Veikkausliiga",
+                "startTime": "Live Now"
+            },
+            "streams": [
+                {
+                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0c81fec0f5e667e402ad9c/chunks.m3u8?is_vip=false&token=8ba12de705c7165138809f24781b803312da9a2f&x-sign=8024d90e6e2ce855d477986fd956c1df&x-time=1781365620",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0c81fec0f5e667e402ad9c/chunks.m3u8?is_vip=false&token=1781452031-Kv4cPTAAP5YTi-8ba12de705c7165138809f24781b803312da9a2f-cbc6aa4bb27383e680e0f96b5235b036",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Veikkausliiga",
+            "event_name": "Vps Vs Kups | Veikkausliiga",
+            "eventInfo": {
+                "teamA": "Vps",
+                "teamB": "Kups",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/650.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1165.png",
+                "eventName": "Veikkausliiga",
+                "startTime": "Live Now"
+            },
+            "streams": [
+                {
+                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0c81fec0f5e667e402ad9b/chunks.m3u8?is_vip=false&token=8ba12de705c7165138809f24781b803312da9a2f&x-sign=ba952bffdd4fa282b2645396951d382b&x-time=1781365620",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0c81fec0f5e667e402ad9b/chunks.m3u8?is_vip=false&token=1781452025-Kv4cPTAAP5YTi-8ba12de705c7165138809f24781b803312da9a2f-cacb851f7945a29dc5dca13ba2c37846",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Handball",
+            "event_name": "Aalborg Vs Barcelona | Ehf Champions League",
+            "eventInfo": {
+                "teamA": "Aalborg",
+                "teamB": "Barcelona",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/402.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/529.png",
+                "eventName": "Ehf Champions League",
+                "startTime": "10:00 PM 13-06-2026"
+            },
+            "streams": [
+                {
+                    "stream_url 1": "https://livecdn-tc-livestream.rumsport10.live/stream/6/chunks.m3u8?is_vip=false&token=1781452079-Kv4cPTAAP5YTi-8ba12de705c7165138809f24781b803312da9a2f-43cfa9dd77675a611c2e01585ed4057c",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "stream_url 2": "https://livecdn-bp-livestream.rumsport7.live/stream/6/chunks.m3u8?is_vip=false&token=8ba12de705c7165138809f24781b803312da9a2f&x-sign=02b75164a871464a473dbdee44e61faf&x-time=1781365680",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Volleyball",
+            "event_name": "Brazil Vs Serbia | Nations League",
+            "eventInfo": {
+                "teamA": "Brazil",
+                "teamB": "Serbia",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/6.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/14.png",
+                "eventName": "Nations League",
+                "startTime": "Live Now"
+            },
+            "streams": [
+                {
+                    "stream_url 1": "https://livecdn-tc-iptv.rumsport10.live/live_abr/68905/720p/chunks.m3u8?is_vip=false&token=1781452019-Kv4cPTAAP5YTi-8ba12de705c7165138809f24781b803312da9a2f-f429012a79fd0c2e29a6ff56fabbe372",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "stream_url 2": "https://livecdn-bp-iptv.rumsport7.live/live_abr/68905/720p/chunks.m3u8?is_vip=false&token=8ba12de705c7165138809f24781b803312da9a2f&x-sign=9953f7cdd14bb25c64dd582e23d035ae&x-time=1781365620",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Torneo Promocional Amateur",
+            "event_name": "Control Orientado Vs Belgrano Zarate | Torneo Promocional Amateur",
+            "eventInfo": {
+                "teamA": "Control Orientado",
+                "teamB": "Belgrano Zarate",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/27787.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/23096.png",
+                "eventName": "Torneo Promocional Amateur",
+                "startTime": "Live Now"
+            },
+            "streams": [
+                {
+                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a2d502642e30dd23d4319c3/chunks.m3u8?is_vip=false&token=8ba12de705c7165138809f24781b803312da9a2f&x-sign=d98b53c42030c946f6d019666097d421&x-time=1781365560",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a2d502642e30dd23d4319c3/chunks.m3u8?is_vip=false&token=1781452014-Kv4cPTAAP5YTi-8ba12de705c7165138809f24781b803312da9a2f-be2591b80b3ddac6d42ec276cd50ed7f",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Auto Racing",
+            "event_name": "Fia Wec, Le Mans 24hours, Race, Part 1 | Fia World Endurance Championship",
+            "eventInfo": {
+                "teamA": "",
+                "teamB": "",
+                "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
+                "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
+                "eventName": "Fia World Endurance Championship",
+                "startTime": "Live Now"
+            },
+            "streams": [
+                {
+                    "stream_url 1": "https://livecdn-tc-iptv.rumsport10.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=1781452008-Kv4cPTAAP5YTi-8ba12de705c7165138809f24781b803312da9a2f-06b083d9c16a25b91b31d6be18078aae",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "stream_url 2": "https://livecdn-bp-iptv.rumsport7.live/live_abr/1419/720p/chunks.m3u8?is_vip=false&token=8ba12de705c7165138809f24781b803312da9a2f&x-sign=19fc8c8e9df17081eef084a33484dbea&x-time=1781365560",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Tennis",
+            "event_name": "London: Day 6 | Wta 500",
+            "eventInfo": {
+                "teamA": "",
+                "teamB": "",
+                "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
+                "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
+                "eventName": "Wta 500",
+                "startTime": "Live Now"
+            },
+            "streams": [
+                {
+                    "stream_url 1": "https://livecdn-tc-livestream.rumsport10.live/stream/27/chunks.m3u8?is_vip=false&token=1781452002-Kv4cPTAAP5YTi-8ba12de705c7165138809f24781b803312da9a2f-3054baca6037953769df15e20146e045",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "stream_url 2": "https://livecdn-bp-livestream.rumsport7.live/stream/27/chunks.m3u8?is_vip=false&token=8ba12de705c7165138809f24781b803312da9a2f&x-sign=03e43c7386182bd055a7322beff5a7c9&x-time=1781365560",
                     "stream_referer": "https://iframe.rumsport10.live/"
                 }
             ]
@@ -474,7 +483,7 @@
         {
             "status": "LIVE",
             "Category": "Golf",
-            "event_name": "Day 3 Featured Groups",
+            "event_name": "Day 3 Featured Holes",
             "eventInfo": {
                 "teamA": "",
                 "teamB": "",
@@ -485,7 +494,7 @@
             },
             "streams": [
                 {
-                    "stream_url": "https://bd-mc-flive.fancode.com/mumbai/143215_english_hls_8321a85b5037369_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781438705~_GO=Generated~acl=/mumbai/143215_english_hls_8321a85b5037369_1ta-di_h264/*~Signature=ATZ0w6ekQHmcB5pDaCD_n7fe033uochcPIgkkbERtsteDvOtbVTDcGDXSQLw0HFL8mZiJ7g-rBnJKPNxgwAQajXRnHEE"
+                    "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/143214_english_hls_b98294f93a8901_1ta-di_h264/1080p.m3u8"
                 }
             ]
         },
@@ -505,6 +514,24 @@
                 {
                     "stream_url": "https://bd-mc-flive.fancode.com/mumbai/139455_english_dash_7650_1drmta-di_h264/index.mpd",
                     "drm_key": "684ddaa83d8a41b9839ecd4d9c7e1b1a:83d08bdd4f9d6a4e3de79ce5d3cb4d29"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Golf",
+            "event_name": "Day 3 Marquee Group",
+            "eventInfo": {
+                "teamA": "",
+                "teamB": "",
+                "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
+                "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
+                "eventName": "Rbc Canadian Open 2026",
+                "startTime": "13-06-2026 05:00 PM"
+            },
+            "streams": [
+                {
+                    "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/143213_english_hls_a7c01dd75382674_1ta-di_h264/1080p.m3u8"
                 }
             ]
         },
@@ -565,18 +592,18 @@
         {
             "status": "LIVE",
             "Category": "Golf",
-            "event_name": "Day 3 Marquee Group",
+            "event_name": "Day 3 Featured Groups",
             "eventInfo": {
                 "teamA": "",
                 "teamB": "",
                 "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
                 "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
                 "eventName": "Rbc Canadian Open 2026",
-                "startTime": "13-06-2026 05:00 PM"
+                "startTime": "13-06-2026 05:45 PM"
             },
             "streams": [
                 {
-                    "stream_url": "https://bd-mc-fblive.fancode.com/mumbai/143213_english_hls_a7c01dd75382674_1ta-di_h264/1080p.m3u8"
+                    "stream_url": "https://bd-mc-flive.fancode.com/mumbai/143215_english_hls_8321a85b5037369_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781438705~_GO=Generated~acl=/mumbai/143215_english_hls_8321a85b5037369_1ta-di_h264/*~Signature=ATZ0w6ekQHmcB5pDaCD_n7fe033uochcPIgkkbERtsteDvOtbVTDcGDXSQLw0HFL8mZiJ7g-rBnJKPNxgwAQajXRnHEE"
                 }
             ]
         },
@@ -697,20 +724,6 @@
         {
             "status": "UPCOMING",
             "Category": "Auto Racing",
-            "event_name": "Fia Wec, Le Mans 24hours, Race, Part 2 | Fia World Endurance Championship",
-            "eventInfo": {
-                "teamA": "",
-                "teamB": "",
-                "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
-                "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
-                "eventName": "Fia World Endurance Championship",
-                "startTime": "7:00 AM 14-06-2026"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Auto Racing",
             "event_name": "Appin | Australian Motocross Championship",
             "eventInfo": {
                 "teamA": "",
@@ -719,20 +732,6 @@
                 "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
                 "eventName": "Australian Motocross Championship",
                 "startTime": "9:00 AM 14-06-2026"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Mma",
-            "event_name": "Combat Fc 13 | Mma",
-            "eventInfo": {
-                "teamA": "",
-                "teamB": "",
-                "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
-                "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
-                "eventName": "Mma",
-                "startTime": "6:00 AM 14-06-2026"
             },
             "streams": []
         },
@@ -752,20 +751,6 @@
         },
         {
             "status": "UPCOMING",
-            "Category": "Volleyball",
-            "event_name": "Bulgaria Vs Argentina | Nations League",
-            "eventInfo": {
-                "teamA": "Bulgaria",
-                "teamB": "Argentina",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1103.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/26.png",
-                "eventName": "Nations League",
-                "startTime": "12:30 AM 14-06-2026"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
             "Category": "Mma",
             "event_name": "Ufc Freedom 250: Prelims | Ufc",
             "eventInfo": {
@@ -777,6 +762,37 @@
                 "startTime": "4:00 AM 15-06-2026"
             },
             "streams": []
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Mma",
+            "event_name": "Combat Fc 13 | Mma",
+            "eventInfo": {
+                "teamA": "",
+                "teamB": "",
+                "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
+                "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
+                "eventName": "Mma",
+                "startTime": "6:00 AM 14-06-2026"
+            },
+            "streams": []
+        },
+        {
+            "status": "UPCOMING",
+            "event_name": "Adeshina Vs Campos Live",
+            "eventInfo": {
+                "teamA": "Adeshina",
+                "teamB": "Campos",
+                "teamAFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1781250102540x302.jpg",
+                "teamBFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1781250102540x302.jpg",
+                "eventName": "Pfl 2026",
+                "startTime": "13-06-2026 11:00 PM"
+            },
+            "streams": [
+                {
+                    "stream_url": ""
+                }
+            ]
         },
         {
             "status": "UPCOMING",
@@ -822,29 +838,29 @@
         },
         {
             "status": "UPCOMING",
-            "Category": "Baseball",
-            "event_name": "Tohoku Rakuten Golden Eagles Vs Hiroshima Toyo Carp | Npb",
+            "Category": "Volleyball",
+            "event_name": "Bulgaria Vs Argentina | Nations League",
             "eventInfo": {
-                "teamA": "Tohoku Rakuten Golden Eagles",
-                "teamB": "Hiroshima Toyo Carp",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/teams/ff94d5b4cc5dabc1ae07e3ff3efdfacf.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/teams/7b0c05fcc03704ec009066c7790b7fd0.png",
-                "eventName": "Npb",
-                "startTime": "10:00 AM 14-06-2026"
+                "teamA": "Bulgaria",
+                "teamB": "Argentina",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1103.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/26.png",
+                "eventName": "Nations League",
+                "startTime": "12:30 AM 14-06-2026"
             },
             "streams": []
         },
         {
             "status": "UPCOMING",
-            "Category": "Handball",
-            "event_name": "Aalborg Vs Barcelona | Ehf Champions League",
+            "Category": "Baseball",
+            "event_name": "Hanshin Tigers Vs Orix Buffaloes | Npb",
             "eventInfo": {
-                "teamA": "Aalborg",
-                "teamB": "Barcelona",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/402.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/529.png",
-                "eventName": "Ehf Champions League",
-                "startTime": "10:00 PM 13-06-2026"
+                "teamA": "Hanshin Tigers",
+                "teamB": "Orix Buffaloes",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/teams/5a915504baf84e88cbc763dfcfc934cf.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/teams/152af9ee913c91f59154eaf2ae51db2f.png",
+                "eventName": "Npb",
+                "startTime": "10:00 AM 14-06-2026"
             },
             "streams": []
         },
@@ -892,15 +908,15 @@
         },
         {
             "status": "UPCOMING",
-            "Category": "Baseball",
-            "event_name": "Hanshin Tigers Vs Orix Buffaloes | Npb",
+            "Category": "Auto Racing",
+            "event_name": "Fia Wec, Le Mans 24hours, Race, Part 2 | Fia World Endurance Championship",
             "eventInfo": {
-                "teamA": "Hanshin Tigers",
-                "teamB": "Orix Buffaloes",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/teams/5a915504baf84e88cbc763dfcfc934cf.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/teams/152af9ee913c91f59154eaf2ae51db2f.png",
-                "eventName": "Npb",
-                "startTime": "10:00 AM 14-06-2026"
+                "teamA": "",
+                "teamB": "",
+                "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
+                "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
+                "eventName": "Fia World Endurance Championship",
+                "startTime": "7:00 AM 14-06-2026"
             },
             "streams": []
         },
@@ -915,6 +931,20 @@
                 "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2382.png",
                 "eventName": "World Cup",
                 "startTime": "5:00 AM 15-06-2026"
+            },
+            "streams": []
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Baseball",
+            "event_name": "Tohoku Rakuten Golden Eagles Vs Hiroshima Toyo Carp | Npb",
+            "eventInfo": {
+                "teamA": "Tohoku Rakuten Golden Eagles",
+                "teamB": "Hiroshima Toyo Carp",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/teams/ff94d5b4cc5dabc1ae07e3ff3efdfacf.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/teams/7b0c05fcc03704ec009066c7790b7fd0.png",
+                "eventName": "Npb",
+                "startTime": "10:00 AM 14-06-2026"
             },
             "streams": []
         },
@@ -1043,23 +1073,6 @@
                 "startTime": "1:00 AM 14-06-2026"
             },
             "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "event_name": "Adeshina Vs Campos Live",
-            "eventInfo": {
-                "teamA": "Adeshina",
-                "teamB": "Campos",
-                "teamAFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1781250102540x302.jpg",
-                "teamBFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1781250102540x302.jpg",
-                "eventName": "Pfl 2026",
-                "startTime": "13-06-2026 11:00 PM"
-            },
-            "streams": [
-                {
-                    "stream_url": ""
-                }
-            ]
         },
         {
             "status": "UPCOMING",
