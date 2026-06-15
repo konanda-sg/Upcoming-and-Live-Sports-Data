@@ -2,7 +2,7 @@
     "name": "Live and Upcoming Sports Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "03:00:06 AM 16-06-2026",
+    "last_update_time": "03:30:05 AM 16-06-2026",
     "total_matches": 105,
     "live_match": 6,
     "matches": [
@@ -24,53 +24,6 @@
                     "drm_key": "72d631a66e635c60829a0fe7705516c1:ce7ab3022e753307997f58afe001bac4",
                     "stream_url 1": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd",
                     "drm_key 1": "829799ed534d11fcadeb4b192467e050:549ab7cd35a64bb6bb479ecead04d69d"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "Category": "Football",
-            "event_name": "Belgium Vs Egypt | World Cup",
-            "eventInfo": {
-                "teamA": "Belgium",
-                "teamB": "Egypt",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/32.png",
-                "eventName": "World Cup",
-                "startTime": "Live Now"
-            },
-            "streams": [
-                {
-                    "stream_url 1": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1781642811-Kv4cPTAAP5YTi-4af580afe494e6c4490811f2b7fca108e942368a-cd3fc53a77d5072b8098bcbe159e136b",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "stream_url 2": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=4af580afe494e6c4490811f2b7fca108e942368a&x-sign=9c80f91c1299dab517b816d3e6c82778&x-time=1781556360",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "stream_url 3": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a1076808183ca0a9f1dc7bb/chunks.m3u8?is_vip=false&token=4af580afe494e6c4490811f2b7fca108e942368a&x-sign=a4333c9e5a551459dfcd314c27b54597&x-time=1781556360",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "stream_url 4": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a1076808183ca0a9f1dc7bb/chunks.m3u8?is_vip=false&token=1781642812-Kv4cPTAAP5YTi-4af580afe494e6c4490811f2b7fca108e942368a-f92133558481cf2ac3960f660533d6e1",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "stream_url 5": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a1076808183ca0a9f1dc7bb-hd/chunks.m3u8?is_vip=false&token=4af580afe494e6c4490811f2b7fca108e942368a&x-sign=89719130e0e226bfda2f55b238262666&x-time=1781556360",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "stream_url 6": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a1076808183ca0a9f1dc7bb-hd/chunks.m3u8?is_vip=false&token=1781642812-Kv4cPTAAP5YTi-4af580afe494e6c4490811f2b7fca108e942368a-9e2a4f45cf6e258c0aece92540f44d88",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "stream_url 7": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a1076808183ca0a9f1dc7bb-cnhd/chunks.m3u8?is_vip=false&token=4af580afe494e6c4490811f2b7fca108e942368a&x-sign=933880a86607ff4a2beb630efd8809cd&x-time=1781556360",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "stream_url 8": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a1076808183ca0a9f1dc7bb-cnhd/chunks.m3u8?is_vip=false&token=1781642813-Kv4cPTAAP5YTi-4af580afe494e6c4490811f2b7fca108e942368a-948110fe547fb174b68da9cc28f1961d",
-                    "stream_referer": "https://iframe.rumsport10.live/"
                 }
             ]
         },
@@ -118,6 +71,29 @@
         },
         {
             "status": "LIVE",
+            "Category": "Torneo Federal A",
+            "event_name": "Sportivo Belgrano Vs Defensores De Belgrano Vr | Torneo Federal A",
+            "eventInfo": {
+                "teamA": "Sportivo Belgrano",
+                "teamB": "Defensores De Belgrano Vr",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1966.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2426.png",
+                "eventName": "Torneo Federal A",
+                "startTime": "Live Now"
+            },
+            "streams": [
+                {
+                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a27264cfbf7a5b25072dadc/chunks.m3u8?is_vip=false&token=d05fe58399354a8f1be7f7ab31a853f2df92e58c&x-sign=2b5737c013d616105185453c74908d22&x-time=1781558160",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a27264cfbf7a5b25072dadc/chunks.m3u8?is_vip=false&token=1781644602-Kv4cPTAAP5YTi-d05fe58399354a8f1be7f7ab31a853f2df92e58c-4a58e77921bd520d75c7d397c48f0a0b",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
             "Category": "Copa De La Liga",
             "event_name": "Estudiantil Cni Vs Union Comercio | Copa De La Liga",
             "eventInfo": {
@@ -130,11 +106,11 @@
             },
             "streams": [
                 {
-                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a27345bb335aefd82d7099d/chunks.m3u8?is_vip=false&token=4af580afe494e6c4490811f2b7fca108e942368a&x-sign=0c014de8abde4150180125e6e9139683&x-time=1781556360",
+                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a27345bb335aefd82d7099d/chunks.m3u8?is_vip=false&token=d05fe58399354a8f1be7f7ab31a853f2df92e58c&x-sign=2ba48592ad0a2de3f4396188522fc405&x-time=1781558160",
                     "stream_referer": "https://iframe.rumsport10.live/"
                 },
                 {
-                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a27345bb335aefd82d7099d/chunks.m3u8?is_vip=false&token=1781642819-Kv4cPTAAP5YTi-4af580afe494e6c4490811f2b7fca108e942368a-01cfae51bdd8adc2f6be9b95406dae7b",
+                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a27345bb335aefd82d7099d/chunks.m3u8?is_vip=false&token=1781644597-Kv4cPTAAP5YTi-d05fe58399354a8f1be7f7ab31a853f2df92e58c-25bd7fee241768a664ab9057dde9dc0e",
                     "stream_referer": "https://iframe.rumsport10.live/"
                 }
             ]
