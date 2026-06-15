@@ -2,9 +2,9 @@
     "name": "Live and Upcoming Sports Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "09:30:06 PM 15-06-2026",
-    "total_matches": 107,
-    "live_match": 12,
+    "last_update_time": "10:00:07 PM 15-06-2026",
+    "total_matches": 108,
+    "live_match": 15,
     "matches": [
         {
             "status": "LIVE",
@@ -28,28 +28,61 @@
         {
             "status": "LIVE",
             "Category": "Football",
-            "event_name": "Belgium Vs Egypt",
+            "event_name": "Spain Vs Cape Verde Islands | World Cup",
             "eventInfo": {
-                "teamA": "Belgium",
-                "teamB": "Egypt",
-                "teamAFlag": "https://flagcdn.com/64x48/be.png",
-                "teamBFlag": "https://flagcdn.com/64x48/eg.png",
-                "eventName": "Fifa World Cup 2026",
-                "startTime": "15-06-2026 07:00 PM"
+                "teamA": "Spain",
+                "teamB": "Cape Verde Islands",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/9.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1533.png",
+                "eventName": "World Cup",
+                "startTime": "10:00 PM 15-06-2026"
             },
-            "streams": []
+            "streams": [
+                {
+                    "stream_url 1": "https://livecdn-tc-iptv.rumsport10.live/live_abr/11088/720p/chunks.m3u8?is_vip=false&token=1781624824-Kv4cPTAAP5YTi-a13973a0b17adfbaee0f7726712cbb807215f8f5-a5aae90585789ff67d7c358190f33a12",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "stream_url 2": "https://livecdn-bp-iptv.rumsport7.live/live_abr/11088/720p/chunks.m3u8?is_vip=false&token=a13973a0b17adfbaee0f7726712cbb807215f8f5&x-sign=2dc76f656c2bfaccbb246ffa151d253c&x-time=1781538420",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "stream_url 3": "https://livecdn-tc-iptv.rumsport10.live/live_abr/177/720p/chunks.m3u8?is_vip=false&token=1781624825-Kv4cPTAAP5YTi-a13973a0b17adfbaee0f7726712cbb807215f8f5-c0d699e610837655a0381b924a78f5d0",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "stream_url 4": "https://livecdn-bp-iptv.rumsport7.live/live_abr/177/720p/chunks.m3u8?is_vip=false&token=a13973a0b17adfbaee0f7726712cbb807215f8f5&x-sign=8f2b97a05aaeabc27b21801cb819228d&x-time=1781538420",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "stream_url 5": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1781624825-Kv4cPTAAP5YTi-a13973a0b17adfbaee0f7726712cbb807215f8f5-1c98529d8817cdfe9b2974162e3328f6",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "stream_url 6": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=a13973a0b17adfbaee0f7726712cbb807215f8f5&x-sign=14fc4bbbe7b20f871c23de53a37f876f&x-time=1781538420",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "stream_url 7": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a1076808183ca0a9f1dc7b6-hd/chunks.m3u8?is_vip=false&token=a13973a0b17adfbaee0f7726712cbb807215f8f5&x-sign=56384d5702be6fdfda6d537e912c7463&x-time=1781538420",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "stream_url 8": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a1076808183ca0a9f1dc7b6-hd/chunks.m3u8?is_vip=false&token=1781624827-Kv4cPTAAP5YTi-a13973a0b17adfbaee0f7726712cbb807215f8f5-2341bd017d6cae47af2c7b4e1720d45e",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
         },
         {
             "status": "LIVE",
             "Category": "Football",
-            "event_name": "Spain Vs Cabo Verde",
+            "event_name": "Saudi Arabia Vs Uruguay",
             "eventInfo": {
-                "teamA": "Spain",
-                "teamB": "Cabo Verde",
-                "teamAFlag": "https://flagcdn.com/64x48/es.png",
-                "teamBFlag": "https://sta.vnres.co/file/common/20260610/b5b560b3a280831c8202e06182df369c.png",
+                "teamA": "Saudi Arabia",
+                "teamB": "Uruguay",
+                "teamAFlag": "https://flagcdn.com/64x48/sa.png",
+                "teamBFlag": "https://flagcdn.com/64x48/uy.png",
                 "eventName": "Fifa World Cup 2026",
-                "startTime": "15-06-2026 04:00 PM"
+                "startTime": "15-06-2026 10:00 PM"
             },
             "streams": []
         },
@@ -109,6 +142,34 @@
         },
         {
             "status": "LIVE",
+            "Category": "Football",
+            "event_name": "Belgium Vs Egypt",
+            "eventInfo": {
+                "teamA": "Belgium",
+                "teamB": "Egypt",
+                "teamAFlag": "https://flagcdn.com/64x48/be.png",
+                "teamBFlag": "https://flagcdn.com/64x48/eg.png",
+                "eventName": "Fifa World Cup 2026",
+                "startTime": "15-06-2026 07:00 PM"
+            },
+            "streams": []
+        },
+        {
+            "status": "LIVE",
+            "Category": "Football",
+            "event_name": "Spain Vs Cabo Verde",
+            "eventInfo": {
+                "teamA": "Spain",
+                "teamB": "Cabo Verde",
+                "teamAFlag": "https://flagcdn.com/64x48/es.png",
+                "teamBFlag": "https://sta.vnres.co/file/common/20260610/b5b560b3a280831c8202e06182df369c.png",
+                "eventName": "Fifa World Cup 2026",
+                "startTime": "15-06-2026 04:00 PM"
+            },
+            "streams": []
+        },
+        {
+            "status": "LIVE",
             "event_name": "Gothenburg Phoenix Vs Vasteras United",
             "eventInfo": {
                 "teamA": "Gothenburg Phoenix",
@@ -120,7 +181,26 @@
             },
             "streams": [
                 {
-                    "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1781537707~acl=/hls/*~hmac=bfe9caf1c7935190afac4bdfc663f7db694e20a30b6acb71ecff3476df83afd3"
+                    "stream_url": "https://saseries.akamaized.net/hls/live/2110097/ICCt20-tapmad/master.m3u8?hdnts=exp=1781539506~acl=/hls/*~hmac=df3a998cf012a5befcb244d437bed01d38a7cb078b2a120d3750357c82b76049"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Terra Wortmann Open",
+            "event_name": "Day 3: Halle Germany | Terra Wortmann Open",
+            "eventInfo": {
+                "teamA": "",
+                "teamB": "",
+                "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
+                "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
+                "eventName": "Terra Wortmann Open",
+                "startTime": "Live Now"
+            },
+            "streams": [
+                {
+                    "stream_url 1": "https://livecdn-bp-iptv.rumsport7.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=a13973a0b17adfbaee0f7726712cbb807215f8f5&x-sign=87af957a60403b1b1cc0888eda88c3e3&x-time=1781538360",
+                    "stream_referer": "https://iframe.rumsport10.live/"
                 }
             ]
         },
@@ -144,19 +224,23 @@
         },
         {
             "status": "LIVE",
-            "Category": "Terra Wortmann Open",
-            "event_name": "Day 3: Halle Germany | Terra Wortmann Open",
+            "Category": "Tennis",
+            "event_name": "Day 1: Berlin Open | Berlin Open",
             "eventInfo": {
                 "teamA": "",
                 "teamB": "",
                 "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
                 "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
-                "eventName": "Terra Wortmann Open",
+                "eventName": "Berlin Open",
                 "startTime": "Live Now"
             },
             "streams": [
                 {
-                    "stream_url 1": "https://livecdn-bp-iptv.rumsport7.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=eb67b3150c60d563de37aa97daa3db9576a87525&x-sign=0e2f85997c684a147789a2c24cbe0e04&x-time=1781536560",
+                    "stream_url 1": "https://livecdn-tc-iptv.rumsport10.live/live_abr/143070/720p/chunks.m3u8?is_vip=false&token=1781624812-Kv4cPTAAP5YTi-a13973a0b17adfbaee0f7726712cbb807215f8f5-533d7916e40e922962f90899b0a8d2d8",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "stream_url 2": "https://livecdn-bp-iptv.rumsport7.live/live_abr/143070/720p/chunks.m3u8?is_vip=false&token=a13973a0b17adfbaee0f7726712cbb807215f8f5&x-sign=9d34c7e68d5cc0d619e0c6a97bcb4968&x-time=1781538360",
                     "stream_referer": "https://iframe.rumsport10.live/"
                 }
             ]
@@ -199,23 +283,23 @@
         },
         {
             "status": "LIVE",
-            "Category": "Tennis",
-            "event_name": "Day 1: Berlin Open | Berlin Open",
+            "Category": "Ykkösliiga",
+            "event_name": "Sjk Akatemia Vs Haka | Ykkösliiga",
             "eventInfo": {
-                "teamA": "",
-                "teamB": "",
-                "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
-                "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
-                "eventName": "Berlin Open",
+                "teamA": "Sjk Akatemia",
+                "teamB": "Haka",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/9198.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2080.png",
+                "eventName": "Ykkösliiga",
                 "startTime": "Live Now"
             },
             "streams": [
                 {
-                    "stream_url 1": "https://livecdn-tc-iptv.rumsport10.live/live_abr/143070/720p/chunks.m3u8?is_vip=false&token=1781623012-Kv4cPTAAP5YTi-eb67b3150c60d563de37aa97daa3db9576a87525-651fc7a70b9e99c445562a84f1c856ad",
+                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0f24fe2e7f84ab1dbf1e83/chunks.m3u8?is_vip=false&token=a13973a0b17adfbaee0f7726712cbb807215f8f5&x-sign=88e1fca5e4963c398baca5ff9018e160&x-time=1781538360",
                     "stream_referer": "https://iframe.rumsport10.live/"
                 },
                 {
-                    "stream_url 2": "https://livecdn-bp-iptv.rumsport7.live/live_abr/143070/720p/chunks.m3u8?is_vip=false&token=eb67b3150c60d563de37aa97daa3db9576a87525&x-sign=d83d038b154ee6adad3f26749598ff81&x-time=1781536560",
+                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0f24fe2e7f84ab1dbf1e83/chunks.m3u8?is_vip=false&token=1781624818-Kv4cPTAAP5YTi-a13973a0b17adfbaee0f7726712cbb807215f8f5-3bcddefab1c42cd45fe7b5d3fb19385a",
                     "stream_referer": "https://iframe.rumsport10.live/"
                 }
             ]
@@ -285,27 +369,6 @@
         },
         {
             "status": "UPCOMING",
-            "Category": "Cricket",
-            "event_name": "India Vs Afghanistan",
-            "eventInfo": {
-                "teamA": "India",
-                "teamB": "Afghanistan",
-                "teamAFlag": "https://flagcdn.com/64x48/in.png",
-                "teamBFlag": "https://flagcdn.com/64x48/af.png",
-                "eventName": "1st Odi",
-                "startTime": "17-06-2026 08:00 AM"
-            },
-            "streams": [
-                {
-                    "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ksfl0gxlwo/out/v1/b899e33185bf4917be233d3c0da7a30c/cenc.mpd",
-                    "drm_key": "bdc614e076190e536c7aca7f66ae3f88:7e43190efc077a8e34d29efe88667f0d",
-                    "stream_url 1": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vaplpo3app/out/v1/49b4d538ec854efa90d45084866cf7f9/cenc.mpd",
-                    "drm_key 1": "60838a3176127fed0eaf038a5575de11:d14658a0ede94debcb4013b2056ba6d1"
-                }
-            ]
-        },
-        {
-            "status": "UPCOMING",
             "Category": "Football",
             "event_name": "Iraq Vs Norway",
             "eventInfo": {
@@ -321,14 +384,14 @@
         {
             "status": "UPCOMING",
             "Category": "Football",
-            "event_name": "Uzbekistan Vs Colombia | World Cup",
+            "event_name": "Ghana Vs Panama | World Cup",
             "eventInfo": {
-                "teamA": "Uzbekistan",
-                "teamB": "Colombia",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1568.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/8.png",
+                "teamA": "Ghana",
+                "teamB": "Panama",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1504.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/11.png",
                 "eventName": "World Cup",
-                "startTime": "8:00 AM 18-06-2026"
+                "startTime": "5:00 AM 18-06-2026"
             },
             "streams": []
         },
@@ -368,42 +431,28 @@
         {
             "status": "UPCOMING",
             "Category": "Football",
-            "event_name": "Saudi Arabia Vs Uruguay",
+            "event_name": "Uzbekistan Vs Colombia | World Cup",
             "eventInfo": {
-                "teamA": "Saudi Arabia",
-                "teamB": "Uruguay",
-                "teamAFlag": "https://flagcdn.com/64x48/sa.png",
-                "teamBFlag": "https://flagcdn.com/64x48/uy.png",
-                "eventName": "Fifa World Cup 2026",
-                "startTime": "15-06-2026 10:00 PM"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Football",
-            "event_name": "Portugal Vs Dr Congo",
-            "eventInfo": {
-                "teamA": "Portugal",
-                "teamB": "Dr Congo",
-                "teamAFlag": "https://flagcdn.com/64x48/pt.png",
-                "teamBFlag": "https://flagcdn.com/64x48/cd.png",
-                "eventName": "Fifa World Cup 2026",
-                "startTime": "17-06-2026 05:00 PM"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Football",
-            "event_name": "Ghana Vs Panama | World Cup",
-            "eventInfo": {
-                "teamA": "Ghana",
-                "teamB": "Panama",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1504.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/11.png",
+                "teamA": "Uzbekistan",
+                "teamB": "Colombia",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1568.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/8.png",
                 "eventName": "World Cup",
-                "startTime": "5:00 AM 18-06-2026"
+                "startTime": "8:00 AM 18-06-2026"
+            },
+            "streams": []
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Cricket",
+            "event_name": "England Vs New Zealand",
+            "eventInfo": {
+                "teamA": "England",
+                "teamB": "New Zealand",
+                "teamAFlag": "https://cricketvectors.akamaized.net/Teams/S.png",
+                "teamBFlag": "https://cricketvectors.akamaized.net/Teams/R.png",
+                "eventName": "1st Test Nz Vs Eng",
+                "startTime": "17-06-2026 10:00 AM"
             },
             "streams": []
         },
@@ -437,31 +486,24 @@
         },
         {
             "status": "UPCOMING",
-            "Category": "Football",
-            "event_name": "Austria Vs Jordan | World Cup",
-            "eventInfo": {
-                "teamA": "Austria",
-                "teamB": "Jordan",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/775.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1548.png",
-                "eventName": "World Cup",
-                "startTime": "10:00 AM 17-06-2026"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
             "Category": "Cricket",
-            "event_name": "England Vs New Zealand",
+            "event_name": "India Vs Afghanistan",
             "eventInfo": {
-                "teamA": "England",
-                "teamB": "New Zealand",
-                "teamAFlag": "https://cricketvectors.akamaized.net/Teams/S.png",
-                "teamBFlag": "https://cricketvectors.akamaized.net/Teams/R.png",
-                "eventName": "1st Test Nz Vs Eng",
-                "startTime": "17-06-2026 10:00 AM"
+                "teamA": "India",
+                "teamB": "Afghanistan",
+                "teamAFlag": "https://flagcdn.com/64x48/in.png",
+                "teamBFlag": "https://flagcdn.com/64x48/af.png",
+                "eventName": "1st Odi",
+                "startTime": "17-06-2026 08:00 AM"
             },
-            "streams": []
+            "streams": [
+                {
+                    "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/ksfl0gxlwo/out/v1/b899e33185bf4917be233d3c0da7a30c/cenc.mpd",
+                    "drm_key": "bdc614e076190e536c7aca7f66ae3f88:7e43190efc077a8e34d29efe88667f0d",
+                    "stream_url 1": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vaplpo3app/out/v1/49b4d538ec854efa90d45084866cf7f9/cenc.mpd",
+                    "drm_key 1": "60838a3176127fed0eaf038a5575de11:d14658a0ede94debcb4013b2056ba6d1"
+                }
+            ]
         },
         {
             "status": "UPCOMING",
@@ -480,14 +522,14 @@
         {
             "status": "UPCOMING",
             "Category": "Football",
-            "event_name": "England Vs Croatia",
+            "event_name": "Portugal Vs Dr Congo",
             "eventInfo": {
-                "teamA": "England",
-                "teamB": "Croatia",
-                "teamAFlag": "https://flagcdn.com/64x48/gb-eng.png",
-                "teamBFlag": "https://flagcdn.com/64x48/hr.png",
+                "teamA": "Portugal",
+                "teamB": "Dr Congo",
+                "teamAFlag": "https://flagcdn.com/64x48/pt.png",
+                "teamBFlag": "https://flagcdn.com/64x48/cd.png",
                 "eventName": "Fifa World Cup 2026",
-                "startTime": "17-06-2026 08:00 PM"
+                "startTime": "17-06-2026 05:00 PM"
             },
             "streams": []
         },
@@ -633,24 +675,17 @@
         },
         {
             "status": "UPCOMING",
-            "Category": "Cricket",
-            "event_name": "West Indies Vs Sri Lanka",
+            "Category": "Football",
+            "event_name": "England Vs Croatia",
             "eventInfo": {
-                "teamA": "West Indies",
-                "teamB": "Sri Lanka",
-                "teamAFlag": "https://cricketvectors.akamaized.net/Teams/V.png",
-                "teamBFlag": "https://cricketvectors.akamaized.net/Teams/T.png",
-                "eventName": "3rd T20",
-                "startTime": "25-06-2026 02:00 PM"
+                "teamA": "England",
+                "teamB": "Croatia",
+                "teamAFlag": "https://flagcdn.com/64x48/gb-eng.png",
+                "teamBFlag": "https://flagcdn.com/64x48/hr.png",
+                "eventName": "Fifa World Cup 2026",
+                "startTime": "17-06-2026 08:00 PM"
             },
-            "streams": [
-                {
-                    "stream_url": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
-                    "drm_key": "1b8a17598129a3618535c8fb05f103fe:7e9239c1982d984a002df3ed049d0756",
-                    "stream_url 1": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
-                    "drm_key 1": "1b8a17598129a3618535c8fb05f103fe:7e9239c1982d984a002df3ed049d0756"
-                }
-            ]
+            "streams": []
         },
         {
             "status": "UPCOMING",
@@ -753,20 +788,6 @@
         {
             "status": "UPCOMING",
             "Category": "Football",
-            "event_name": "France Vs Senegal | World Cup",
-            "eventInfo": {
-                "teamA": "France",
-                "teamB": "Senegal",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/13.png",
-                "eventName": "World Cup",
-                "startTime": "1:00 AM 17-06-2026"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Football",
             "event_name": "Iraq Vs Norway | World Cup",
             "eventInfo": {
                 "teamA": "Iraq",
@@ -775,6 +796,41 @@
                 "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/teams/8208a99e14d74fed3263d073e2bbf8ae.png",
                 "eventName": "World Cup",
                 "startTime": "4:00 AM 17-06-2026"
+            },
+            "streams": []
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Cricket",
+            "event_name": "West Indies Vs Sri Lanka",
+            "eventInfo": {
+                "teamA": "West Indies",
+                "teamB": "Sri Lanka",
+                "teamAFlag": "https://cricketvectors.akamaized.net/Teams/V.png",
+                "teamBFlag": "https://cricketvectors.akamaized.net/Teams/T.png",
+                "eventName": "3rd T20",
+                "startTime": "25-06-2026 02:00 PM"
+            },
+            "streams": [
+                {
+                    "stream_url": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+                    "drm_key": "1b8a17598129a3618535c8fb05f103fe:7e9239c1982d984a002df3ed049d0756",
+                    "stream_url 1": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/fdb3pubmek/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd",
+                    "drm_key 1": "1b8a17598129a3618535c8fb05f103fe:7e9239c1982d984a002df3ed049d0756"
+                }
+            ]
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Football",
+            "event_name": "Austria Vs Jordan | World Cup",
+            "eventInfo": {
+                "teamA": "Austria",
+                "teamB": "Jordan",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/775.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1548.png",
+                "eventName": "World Cup",
+                "startTime": "10:00 AM 17-06-2026"
             },
             "streams": []
         },
@@ -795,14 +851,14 @@
         {
             "status": "UPCOMING",
             "Category": "Football",
-            "event_name": "Iran Vs New Zealand | World Cup",
+            "event_name": "France Vs Senegal | World Cup",
             "eventInfo": {
-                "teamA": "Iran",
-                "teamB": "New Zealand",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/22.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/4673.png",
+                "teamA": "France",
+                "teamB": "Senegal",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/13.png",
                 "eventName": "World Cup",
-                "startTime": "7:00 AM 16-06-2026"
+                "startTime": "1:00 AM 17-06-2026"
             },
             "streams": []
         },
@@ -1075,14 +1131,14 @@
         {
             "status": "UPCOMING",
             "Category": "Football",
-            "event_name": "Saudi Arabia Vs Uruguay | World Cup",
+            "event_name": "Iran Vs New Zealand | World Cup",
             "eventInfo": {
-                "teamA": "Saudi Arabia",
-                "teamB": "Uruguay",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/23.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/7.png",
+                "teamA": "Iran",
+                "teamB": "New Zealand",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/22.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/4673.png",
                 "eventName": "World Cup",
-                "startTime": "4:00 AM 16-06-2026"
+                "startTime": "7:00 AM 16-06-2026"
             },
             "streams": []
         },
@@ -1131,6 +1187,20 @@
         {
             "status": "UPCOMING",
             "Category": "Football",
+            "event_name": "Saudi Arabia Vs Uruguay | World Cup",
+            "eventInfo": {
+                "teamA": "Saudi Arabia",
+                "teamB": "Uruguay",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/23.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/7.png",
+                "eventName": "World Cup",
+                "startTime": "4:00 AM 16-06-2026"
+            },
+            "streams": []
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Football",
             "event_name": "Belgium Vs Egypt | World Cup",
             "eventInfo": {
                 "teamA": "Belgium",
@@ -1139,20 +1209,6 @@
                 "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/32.png",
                 "eventName": "World Cup",
                 "startTime": "1:00 AM 16-06-2026"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Football",
-            "event_name": "Spain Vs Cape Verde Islands | World Cup",
-            "eventInfo": {
-                "teamA": "Spain",
-                "teamB": "Cape Verde Islands",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/9.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1533.png",
-                "eventName": "World Cup",
-                "startTime": "10:00 PM 15-06-2026"
             },
             "streams": []
         },
