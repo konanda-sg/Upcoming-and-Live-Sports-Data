@@ -2,37 +2,81 @@
     "name": "Live and Upcoming Sports Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "01:30:06 AM 18-06-2026",
+    "last_update_time": "02:00:07 AM 18-06-2026",
     "total_matches": 103,
-    "live_match": 13,
+    "live_match": 14,
     "matches": [
         {
             "status": "LIVE",
-            "Category": "Football",
-            "event_name": "England Vs Croatia",
+            "Category": "Cricket",
+            "event_name": "South Africa Vs. Pakistan",
             "eventInfo": {
-                "teamA": "England",
-                "teamB": "Croatia",
-                "teamAFlag": "https://flagcdn.com/64x48/gb-eng.png",
-                "teamBFlag": "https://flagcdn.com/64x48/hr.png",
+                "teamA": "South Africa Vs. Pakistan",
+                "teamB": "",
+                "teamAFlag": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5094bd98-2d1a-4655-8eb4-c185d9358228/3/BOXART-16X9/en-US._UR1920,1080_.jpg",
+                "teamBFlag": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5094bd98-2d1a-4655-8eb4-c185d9358228/3/BOXART-16X9/en-US._UR1920,1080_.jpg",
+                "eventName": "Watch South Africa Take On Pakistan In The Icc Women's T20 World Cup - 2026 England & Wales",
+                "startTime": "11:30 PM BDT"
+            },
+            "streams": [
+                {
+                    "stream_url": "https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/niwgdo1k8c/out/v1/9ad6b47e0d03436f95d24f8dc04e5c32/cenc.mpd",
+                    "drm_key": "e3ccac291380a79f116310bb6f16a503:40408c987032f3f5b50675429c770818"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Football",
+            "event_name": "Iraq Vs Norway",
+            "eventInfo": {
+                "teamA": "Iraq",
+                "teamB": "Norway",
+                "teamAFlag": "https://flagcdn.com/64x48/iq.png",
+                "teamBFlag": "https://flagcdn.com/64x48/no.png",
                 "eventName": "Fifa World Cup 2026",
-                "startTime": "17-06-2026 08:00 PM"
+                "startTime": "16-06-2026 10:00 PM"
             },
             "streams": []
         },
         {
             "status": "LIVE",
             "Category": "Football",
-            "event_name": "France Vs Senegal",
+            "event_name": "England Vs Croatia | World Cup",
             "eventInfo": {
-                "teamA": "France",
-                "teamB": "Senegal",
-                "teamAFlag": "https://flagcdn.com/64x48/fr.png",
-                "teamBFlag": "https://flagcdn.com/64x48/sn.png",
-                "eventName": "Fifa World Cup 2026",
-                "startTime": "16-06-2026 07:00 PM"
+                "teamA": "England",
+                "teamB": "Croatia",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/10.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/3.png",
+                "eventName": "World Cup",
+                "startTime": "2:00 AM 18-06-2026"
             },
-            "streams": []
+            "streams": [
+                {
+                    "stream_url 1": "https://livecdn-tc-iptv.rumsport10.live/live_abr/544564/720p/chunks.m3u8?is_vip=false&token=1781812008-Kv4cPTAAP5YTi-da521bd8b2fda97b46d879e358f83ebcd859b813-3535ef2ce8d7c35c3810d8c23c4febb4",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "stream_url 2": "https://livecdn-bp-iptv.rumsport7.live/live_abr/544564/720p/chunks.m3u8?is_vip=false&token=da521bd8b2fda97b46d879e358f83ebcd859b813&x-sign=4a163d235ba252a9997eb933e3bc8c33&x-time=1781725560",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "stream_url 3": "https://livecdn-bp-iptv.rumsport7.live/live_abr/177/720p/chunks.m3u8?is_vip=false&token=da521bd8b2fda97b46d879e358f83ebcd859b813&x-sign=47b9f4a5fbb968157869ca97ff99563b&x-time=1781725560",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "stream_url 4": "https://livecdn-tc-iptv.rumsport10.live/live_abr/177/720p/chunks.m3u8?is_vip=false&token=1781812009-Kv4cPTAAP5YTi-da521bd8b2fda97b46d879e358f83ebcd859b813-c460df8d45ea7209461997b305f9fd6a",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "stream_url 5": "https://livecdn-tc-livestream.rumsport10.live/stream/3/chunks.m3u8?is_vip=false&token=1781812010-Kv4cPTAAP5YTi-da521bd8b2fda97b46d879e358f83ebcd859b813-1e7214728986bfb2006a31c601ede3cf",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "stream_url 6": "https://livecdn-bp-livestream.rumsport7.live/stream/3/chunks.m3u8?is_vip=false&token=da521bd8b2fda97b46d879e358f83ebcd859b813&x-sign=31cc75199c302fec4f0f895f6312c054&x-time=1781725560",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
         },
         {
             "status": "LIVE",
@@ -154,14 +198,28 @@
         {
             "status": "LIVE",
             "Category": "Football",
-            "event_name": "Iraq Vs Norway",
+            "event_name": "France Vs Senegal",
             "eventInfo": {
-                "teamA": "Iraq",
-                "teamB": "Norway",
-                "teamAFlag": "https://flagcdn.com/64x48/iq.png",
-                "teamBFlag": "https://flagcdn.com/64x48/no.png",
+                "teamA": "France",
+                "teamB": "Senegal",
+                "teamAFlag": "https://flagcdn.com/64x48/fr.png",
+                "teamBFlag": "https://flagcdn.com/64x48/sn.png",
                 "eventName": "Fifa World Cup 2026",
-                "startTime": "16-06-2026 10:00 PM"
+                "startTime": "16-06-2026 07:00 PM"
+            },
+            "streams": []
+        },
+        {
+            "status": "LIVE",
+            "Category": "Football",
+            "event_name": "England Vs Croatia",
+            "eventInfo": {
+                "teamA": "England",
+                "teamB": "Croatia",
+                "teamAFlag": "https://flagcdn.com/64x48/gb-eng.png",
+                "teamBFlag": "https://flagcdn.com/64x48/hr.png",
+                "eventName": "Fifa World Cup 2026",
+                "startTime": "17-06-2026 08:00 PM"
             },
             "streams": []
         },
@@ -181,25 +239,6 @@
                 {
                     "stream_url": "https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
                     "drm_key": "b748836c71e6a4ca68ef5b5652db6247:290e09c837da78d5cd961978d390515c"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "Category": "Cricket",
-            "event_name": "South Africa Vs. Pakistan",
-            "eventInfo": {
-                "teamA": "South Africa Vs. Pakistan",
-                "teamB": "",
-                "teamAFlag": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5094bd98-2d1a-4655-8eb4-c185d9358228/3/BOXART-16X9/en-US._UR1920,1080_.jpg",
-                "teamBFlag": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.5094bd98-2d1a-4655-8eb4-c185d9358228/3/BOXART-16X9/en-US._UR1920,1080_.jpg",
-                "eventName": "Watch South Africa Take On Pakistan In The Icc Women's T20 World Cup - 2026 England & Wales",
-                "startTime": "11:30 PM BDT"
-            },
-            "streams": [
-                {
-                    "stream_url": "https://abkyrm4aaaaaaaamfyfksth3wr44v.ta.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/niwgdo1k8c/out/v1/9ad6b47e0d03436f95d24f8dc04e5c32/cenc.mpd",
-                    "drm_key": "e3ccac291380a79f116310bb6f16a503:40408c987032f3f5b50675429c770818"
                 }
             ]
         },
@@ -371,14 +410,14 @@
         {
             "status": "UPCOMING",
             "Category": "Cricket",
-            "event_name": "Nordic Smash T20 Cup 2026 - 15th Match - Gothenburg Phoenix Vs Malmo Mavericks",
+            "event_name": "New Zealand Vs. Ireland",
             "eventInfo": {
-                "teamA": "Gothenburg Phoenix",
-                "teamB": "Malmo Mavericks",
-                "teamAFlag": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4ddd3d99-66ac-426d-8153-3161c0b423b2/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-                "teamBFlag": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4ddd3d99-66ac-426d-8153-3161c0b423b2/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-                "eventName": "Nordic Smash T20 Cup 2026 - 15th Match - Gothenburg Phoenix Vs Malmo Mavericks",
-                "startTime": "Tomorrow 8 PM BDT"
+                "teamA": "New Zealand Vs. Ireland",
+                "teamB": "",
+                "teamAFlag": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8660a648-2b55-43b6-b278-2da37ffbdc85/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+                "teamBFlag": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8660a648-2b55-43b6-b278-2da37ffbdc85/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+                "eventName": "Watch New Zealand Take On Ireland In The Icc Women's T20 World Cup - 2026 England & Wales",
+                "startTime": "Tomorrow 11:30 PM BDT"
             },
             "streams": []
         },
@@ -469,14 +508,28 @@
         {
             "status": "UPCOMING",
             "Category": "Cricket",
-            "event_name": "New Zealand Vs. Ireland",
+            "event_name": "Nordic Smash T20 Cup 2026 - 15th Match - Gothenburg Phoenix Vs Malmo Mavericks",
             "eventInfo": {
-                "teamA": "New Zealand Vs. Ireland",
-                "teamB": "",
-                "teamAFlag": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8660a648-2b55-43b6-b278-2da37ffbdc85/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-                "teamBFlag": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.8660a648-2b55-43b6-b278-2da37ffbdc85/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-                "eventName": "Watch New Zealand Take On Ireland In The Icc Women's T20 World Cup - 2026 England & Wales",
-                "startTime": "Tomorrow 11:30 PM BDT"
+                "teamA": "Gothenburg Phoenix",
+                "teamB": "Malmo Mavericks",
+                "teamAFlag": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4ddd3d99-66ac-426d-8153-3161c0b423b2/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+                "teamBFlag": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4ddd3d99-66ac-426d-8153-3161c0b423b2/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+                "eventName": "Nordic Smash T20 Cup 2026 - 15th Match - Gothenburg Phoenix Vs Malmo Mavericks",
+                "startTime": "Tomorrow 8 PM BDT"
+            },
+            "streams": []
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Cricket",
+            "event_name": "Nordic Smash T20 Cup 2026 - 11th Match - Uppsala Tigers Vs Vasteras United",
+            "eventInfo": {
+                "teamA": "Uppsala Tigers",
+                "teamB": "Vasteras United",
+                "teamAFlag": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e3da9e08-edf7-4bd0-82e2-49242b7f644f/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+                "teamBFlag": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e3da9e08-edf7-4bd0-82e2-49242b7f644f/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+                "eventName": "Nordic Smash T20 Cup 2026 - 11th Match - Uppsala Tigers Vs Vasteras United",
+                "startTime": "Live At 4:30 Pm Bdt"
             },
             "streams": []
         },
@@ -491,20 +544,6 @@
                 "teamBFlag": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.fb81fa6e-32e1-41ed-8729-2c7807407fd4/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
                 "eventName": "Nordic Smash T20 Cup 2026 - 14th Match - Stockholm City Vs Uppsala Tigers",
                 "startTime": "Tomorrow 4:30 PM BDT"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Football",
-            "event_name": "England Vs Croatia | World Cup",
-            "eventInfo": {
-                "teamA": "England",
-                "teamB": "Croatia",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/10.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/3.png",
-                "eventName": "World Cup",
-                "startTime": "2:00 AM 18-06-2026"
             },
             "streams": []
         },
@@ -589,20 +628,6 @@
                 "teamBFlag": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.32c4c179-6504-42fa-80fe-80cc5004a363/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
                 "eventName": "Nordic Smash T20 Cup 2026 - 12th Match - Stockholm United Vs Malmo Mavericks",
                 "startTime": "Live At 8 Pm Bdt"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Cricket",
-            "event_name": "Nordic Smash T20 Cup 2026 - 11th Match - Uppsala Tigers Vs Vasteras United",
-            "eventInfo": {
-                "teamA": "Uppsala Tigers",
-                "teamB": "Vasteras United",
-                "teamAFlag": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e3da9e08-edf7-4bd0-82e2-49242b7f644f/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-                "teamBFlag": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e3da9e08-edf7-4bd0-82e2-49242b7f644f/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-                "eventName": "Nordic Smash T20 Cup 2026 - 11th Match - Uppsala Tigers Vs Vasteras United",
-                "startTime": "Live At 4:30 Pm Bdt"
             },
             "streams": []
         },
