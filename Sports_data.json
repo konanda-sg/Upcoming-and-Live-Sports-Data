@@ -2,23 +2,59 @@
     "name": "Live and Upcoming Sports Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "06:30:04 AM 17-06-2026",
+    "last_update_time": "07:00:05 AM 17-06-2026",
     "total_matches": 105,
-    "live_match": 6,
+    "live_match": 7,
     "matches": [
         {
             "status": "LIVE",
+            "Category": "Cricket",
+            "event_name": "Sri Lanka_w Vs New Zealand_w",
+            "eventInfo": {
+                "teamA": "Sri Lanka_w",
+                "teamB": "New Zealand_w",
+                "teamAFlag": "https://flagcdn.com/64x48/lk.png",
+                "teamBFlag": "https://flagcdn.com/64x48/nz.png",
+                "eventName": "T20 Wt20 World Cup 2026",
+                "startTime": "16-06-2026 01:30 PM"
+            },
+            "streams": [
+                {
+                    "stream_url": "https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+                    "drm_key": "b748836c71e6a4ca68ef5b5652db6247:290e09c837da78d5cd961978d390515c"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
             "Category": "Football",
-            "event_name": "Argentina Vs Algeria",
+            "event_name": "Argentina Vs Algeria | World Cup",
             "eventInfo": {
                 "teamA": "Argentina",
                 "teamB": "Algeria",
-                "teamAFlag": "https://flagcdn.com/64x48/ar.png",
-                "teamBFlag": "https://flagcdn.com/64x48/dz.png",
-                "eventName": "Fifa World Cup 2026",
-                "startTime": "17-06-2026 01:00 AM"
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/26.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1532.png",
+                "eventName": "World Cup",
+                "startTime": "7:00 AM 17-06-2026"
             },
-            "streams": []
+            "streams": [
+                {
+                    "stream_url 1": "https://livecdn-bp-iptv.rumsport7.live/live_abr/177/720p/chunks.m3u8?is_vip=false&token=a8d95232a75df53c459fe6468ac9178c298574a9&x-sign=dad000d4d10dbf415d93f146a70ca574&x-time=1781657160",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "stream_url 2": "https://livecdn-tc-iptv.rumsport10.live/live_abr/177/720p/chunks.m3u8?is_vip=false&token=1781743598-Kv4cPTAAP5YTi-a8d95232a75df53c459fe6468ac9178c298574a9-73afd3b9b7de653ed7b9163e4e3eafd8",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "stream_url 3": "https://livecdn-tc-livestream.rumsport10.live/stream/20/chunks.m3u8?is_vip=false&token=1781743599-Kv4cPTAAP5YTi-a8d95232a75df53c459fe6468ac9178c298574a9-5b8f8e3586e6ca3d238814bd854fa7c5",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "stream_url 4": "https://livecdn-bp-livestream.rumsport7.live/stream/20/chunks.m3u8?is_vip=false&token=a8d95232a75df53c459fe6468ac9178c298574a9&x-sign=068226885184ecd7cc8d8210ccabded0&x-time=1781657160",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
         },
         {
             "status": "LIVE",
@@ -31,6 +67,20 @@
                 "teamBFlag": "https://flagcdn.com/64x48/jo.png",
                 "eventName": "Fifa World Cup 2026",
                 "startTime": "17-06-2026 04:00 AM"
+            },
+            "streams": []
+        },
+        {
+            "status": "LIVE",
+            "Category": "Football",
+            "event_name": "Argentina Vs Algeria",
+            "eventInfo": {
+                "teamA": "Argentina",
+                "teamB": "Algeria",
+                "teamAFlag": "https://flagcdn.com/64x48/ar.png",
+                "teamBFlag": "https://flagcdn.com/64x48/dz.png",
+                "eventName": "Fifa World Cup 2026",
+                "startTime": "17-06-2026 01:00 AM"
             },
             "streams": []
         },
@@ -64,25 +114,6 @@
         },
         {
             "status": "LIVE",
-            "Category": "Cricket",
-            "event_name": "Sri Lanka_w Vs New Zealand_w",
-            "eventInfo": {
-                "teamA": "Sri Lanka_w",
-                "teamB": "New Zealand_w",
-                "teamAFlag": "https://flagcdn.com/64x48/lk.png",
-                "teamBFlag": "https://flagcdn.com/64x48/nz.png",
-                "eventName": "T20 Wt20 World Cup 2026",
-                "startTime": "16-06-2026 01:30 PM"
-            },
-            "streams": [
-                {
-                    "stream_url": "https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-                    "drm_key": "b748836c71e6a4ca68ef5b5652db6247:290e09c837da78d5cd961978d390515c"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
             "Category": "Serie B",
             "event_name": "Fortaleza Ec Vs America Mineiro | Serie B",
             "eventInfo": {
@@ -95,28 +126,14 @@
             },
             "streams": [
                 {
-                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f6929944/chunks.m3u8?is_vip=false&token=2f0aab0d8d3c6b21c250de5d3b8f34e8f2d3d283&x-sign=c32e9d92bd5f168beaac110adb101743&x-time=1781655360",
+                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f6929944/chunks.m3u8?is_vip=false&token=a8d95232a75df53c459fe6468ac9178c298574a9&x-sign=88d3cb47e07137192b3fd7d440103613&x-time=1781657160",
                     "stream_referer": "https://iframe.rumsport10.live/"
                 },
                 {
-                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f6929944/chunks.m3u8?is_vip=false&token=1781741805-Kv4cPTAAP5YTi-2f0aab0d8d3c6b21c250de5d3b8f34e8f2d3d283-9896c431492efb56b8d5c6f566f69fe2",
+                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a0dd382a4a1fa77f6929944/chunks.m3u8?is_vip=false&token=1781743594-Kv4cPTAAP5YTi-a8d95232a75df53c459fe6468ac9178c298574a9-3fbf8a0b6e9d3166a572c3f91f6437e4",
                     "stream_referer": "https://iframe.rumsport10.live/"
                 }
             ]
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Football",
-            "event_name": "Mexico Vs South Korea | World Cup",
-            "eventInfo": {
-                "teamA": "Mexico",
-                "teamB": "South Korea",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/16.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/17.png",
-                "eventName": "World Cup",
-                "startTime": "7:00 AM 19-06-2026"
-            },
-            "streams": []
         },
         {
             "status": "UPCOMING",
@@ -185,6 +202,20 @@
                 "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1569.png",
                 "eventName": "World Cup",
                 "startTime": "4:00 AM 19-06-2026"
+            },
+            "streams": []
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Football",
+            "event_name": "Mexico Vs South Korea | World Cup",
+            "eventInfo": {
+                "teamA": "Mexico",
+                "teamB": "South Korea",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/16.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/17.png",
+                "eventName": "World Cup",
+                "startTime": "7:00 AM 19-06-2026"
             },
             "streams": []
         },
@@ -297,20 +328,6 @@
                 "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1548.png",
                 "eventName": "World Cup",
                 "startTime": "10:00 AM 17-06-2026"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Football",
-            "event_name": "Argentina Vs Algeria | World Cup",
-            "eventInfo": {
-                "teamA": "Argentina",
-                "teamB": "Algeria",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/26.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1532.png",
-                "eventName": "World Cup",
-                "startTime": "7:00 AM 17-06-2026"
             },
             "streams": []
         },
