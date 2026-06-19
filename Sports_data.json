@@ -2,9 +2,9 @@
     "name": "Live and Upcoming Sports Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "12:30:04 AM 20-06-2026",
+    "last_update_time": "01:00:05 AM 20-06-2026",
     "total_matches": 111,
-    "live_match": 22,
+    "live_match": 23,
     "matches": [
         {
             "status": "LIVE",
@@ -27,43 +27,17 @@
         },
         {
             "status": "LIVE",
-            "Category": "Cricket",
-            "event_name": "Bangladesh Vs Australia",
+            "Category": "Football",
+            "event_name": "Austria Vs Jordan",
             "eventInfo": {
-                "teamA": "Bangladesh",
-                "teamB": "Australia",
-                "teamAFlag": "https://flagcdn.com/64x48/bd.png",
-                "teamBFlag": "https://flagcdn.com/64x48/au.png",
-                "eventName": "1st T20",
-                "startTime": "17-06-2026 08:00 AM"
+                "teamA": "Austria",
+                "teamB": "Jordan",
+                "teamAFlag": "https://flagcdn.com/64x48/at.png",
+                "teamBFlag": "https://flagcdn.com/64x48/jo.png",
+                "eventName": "Fifa World Cup 2026",
+                "startTime": "17-06-2026 04:00 AM"
             },
-            "streams": [
-                {
-                    "stream_url": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
-                    "drm_key": "214bd176832872339ce184338320f9a2:065051b99bf5cf8d9a3bde5cbde6aaf9",
-                    "stream_url 1": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/chuh09adm3/out/v1/4a3cef726289450fbc48e7dc0147fa0e/cenc.mpd",
-                    "drm_key 1": "4d559001220025d97bad51b564f5a25b:1c2072eebd0c39d2c984486dce6db1c6"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "Category": "Cricket",
-            "event_name": "Nordic Smash T20 Cup 2026 - 15th Match - Gothenburg Phoenix Vs Malmo Mavericks",
-            "eventInfo": {
-                "teamA": "Gothenburg Phoenix",
-                "teamB": "Malmo Mavericks",
-                "teamAFlag": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4ddd3d99-66ac-426d-8153-3161c0b423b2/3/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-                "teamBFlag": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4ddd3d99-66ac-426d-8153-3161c0b423b2/3/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-                "eventName": "Nordic Smash T20 Cup 2026 - 15th Match - Gothenburg Phoenix Vs Malmo Mavericks",
-                "startTime": "7:30 PM BDT"
-            },
-            "streams": [
-                {
-                    "stream_url": "https://a57live-pv-ta-amazon.akamaized.net/iad-nitro/live/clients/dash/enc/gs3kkguncl/out/v1/d178869749c14aeeaefd91c7175b4385/cenc.mpd",
-                    "drm_key": "aa43e88f53edd54a00e835c12c9ecd0b:d6a12735093c86a35d17ae7a5441d0b5"
-                }
-            ]
+            "streams": []
         },
         {
             "status": "LIVE",
@@ -149,17 +123,24 @@
         },
         {
             "status": "LIVE",
-            "Category": "Football",
-            "event_name": "Austria Vs Jordan",
+            "Category": "Cricket",
+            "event_name": "Bangladesh Vs Australia",
             "eventInfo": {
-                "teamA": "Austria",
-                "teamB": "Jordan",
-                "teamAFlag": "https://flagcdn.com/64x48/at.png",
-                "teamBFlag": "https://flagcdn.com/64x48/jo.png",
-                "eventName": "Fifa World Cup 2026",
-                "startTime": "17-06-2026 04:00 AM"
+                "teamA": "Bangladesh",
+                "teamB": "Australia",
+                "teamAFlag": "https://flagcdn.com/64x48/bd.png",
+                "teamBFlag": "https://flagcdn.com/64x48/au.png",
+                "eventName": "1st T20",
+                "startTime": "17-06-2026 08:00 AM"
             },
-            "streams": []
+            "streams": [
+                {
+                    "stream_url": "https://abfjk4haaaaaaaampv6ofhkihi4r6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/inpyms8ezu/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd",
+                    "drm_key": "214bd176832872339ce184338320f9a2:065051b99bf5cf8d9a3bde5cbde6aaf9",
+                    "stream_url 1": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/chuh09adm3/out/v1/4a3cef726289450fbc48e7dc0147fa0e/cenc.mpd",
+                    "drm_key 1": "4d559001220025d97bad51b564f5a25b:1c2072eebd0c39d2c984486dce6db1c6"
+                }
+            ]
         },
         {
             "status": "LIVE",
@@ -174,24 +155,6 @@
                 "startTime": "17-06-2026 01:00 AM"
             },
             "streams": []
-        },
-        {
-            "status": "LIVE",
-            "Category": "Cricket",
-            "event_name": "Royal Nimar Eagles Vs Bundelkhand Bulls",
-            "eventInfo": {
-                "teamA": "Royal Nimar Eagles",
-                "teamB": "Bundelkhand Bulls",
-                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FT-RNE@2x.png",
-                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BBSM@2x.png",
-                "eventName": "Madhya Pradesh League T20, 2026",
-                "startTime": "19-06-2026 07:30 PM"
-            },
-            "streams": [
-                {
-                    "stream_url": "https://bd-mc-flive.fancode.com/mumbai/143094_english_hls_cfff7e26d143619_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781977869~_GO=Generated~acl=/mumbai/143094_english_hls_cfff7e26d143619_1ta-di_h264/*~Signature=Afto3p3nljO42CDkSU3ETopT0yjppObEbF8emrYrNPpq8QxuYj_Gh2gSc4_fx7aakNgbNBvRPGhwpehj_Po7mjIG7ZkK"
-                }
-            ]
         },
         {
             "status": "LIVE",
@@ -224,6 +187,24 @@
         {
             "status": "LIVE",
             "Category": "Cricket",
+            "event_name": "Royal Nimar Eagles Vs Bundelkhand Bulls",
+            "eventInfo": {
+                "teamA": "Royal Nimar Eagles",
+                "teamB": "Bundelkhand Bulls",
+                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FT-RNE@2x.png",
+                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BBSM@2x.png",
+                "eventName": "Madhya Pradesh League T20, 2026",
+                "startTime": "19-06-2026 07:30 PM"
+            },
+            "streams": [
+                {
+                    "stream_url": "https://bd-mc-flive.fancode.com/mumbai/143094_english_hls_cfff7e26d143619_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781977869~_GO=Generated~acl=/mumbai/143094_english_hls_cfff7e26d143619_1ta-di_h264/*~Signature=Afto3p3nljO42CDkSU3ETopT0yjppObEbF8emrYrNPpq8QxuYj_Gh2gSc4_fx7aakNgbNBvRPGhwpehj_Po7mjIG7ZkK"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Cricket",
             "event_name": "Sri Lanka_w Vs New Zealand_w",
             "eventInfo": {
                 "teamA": "Sri Lanka_w",
@@ -242,19 +223,77 @@
         },
         {
             "status": "LIVE",
-            "Category": "Terra Wortmann Open",
-            "event_name": "Day 7: Halle Germany | Terra Wortmann Open",
+            "Category": "Football",
+            "event_name": "Usa Vs Australia | World Cup",
+            "eventInfo": {
+                "teamA": "Usa",
+                "teamB": "Australia",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2384.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/20.png",
+                "eventName": "World Cup",
+                "startTime": "1:00 AM 20-06-2026"
+            },
+            "streams": [
+                {
+                    "stream_url 1": "https://livecdn-tc-livestream.rumsport10.live/stream/2/chunks.m3u8?is_vip=false&token=1781981206-Kv4cPTAAP5YTi-097922b0bbefa476e560e7728c6caae386df3875-3d6ba04f81e3da4c40ac4b7e2ede1cd9",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "stream_url 2": "https://livecdn-bp-livestream.rumsport7.live/stream/2/chunks.m3u8?is_vip=false&token=097922b0bbefa476e560e7728c6caae386df3875&x-sign=9cbe009283c1a3c30c274a10f500b9d4&x-time=1781894760",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "stream_url 3": "https://livecdn-bp-iptv.rumsport7.live/live_abr/240885/720p/chunks.m3u8?is_vip=false&token=097922b0bbefa476e560e7728c6caae386df3875&x-sign=02a11dfbc2f7cf98f66375f0a0059f95&x-time=1781894760",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "stream_url 4": "https://livecdn-tc-iptv.rumsport10.live/live_abr/240885/720p/chunks.m3u8?is_vip=false&token=1781981207-Kv4cPTAAP5YTi-097922b0bbefa476e560e7728c6caae386df3875-53bb95462210f805850eaae9763fc9d9",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Tennis",
+            "event_name": "Andy Murray Arena | Hsbc Championships",
             "eventInfo": {
                 "teamA": "",
                 "teamB": "",
                 "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
                 "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
-                "eventName": "Terra Wortmann Open",
+                "eventName": "Hsbc Championships",
                 "startTime": "Live Now"
             },
             "streams": [
                 {
-                    "stream_url 1": "https://livecdn-bp-iptv.rumsport7.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=ab8c862b49218dc1e2b5d1f2b75024f262e6b74f&x-sign=1cd06e66b852e3273cd1a73874e830bf&x-time=1781892960",
+                    "stream_url 1": "https://livecdn-tc-livestream.rumsport10.live/stream/17/chunks.m3u8?is_vip=false&token=1781981197-Kv4cPTAAP5YTi-097922b0bbefa476e560e7728c6caae386df3875-05cd90a8331efbcf24dd145a93e46300",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "stream_url 2": "https://livecdn-bp-livestream.rumsport7.live/stream/17/chunks.m3u8?is_vip=false&token=097922b0bbefa476e560e7728c6caae386df3875&x-sign=79972afcafd6010b321bde0e78ad6537&x-time=1781894760",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Mma",
+            "event_name": "Cage Warriors 206: Unplugged | Mma",
+            "eventInfo": {
+                "teamA": "",
+                "teamB": "",
+                "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
+                "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
+                "eventName": "Mma",
+                "startTime": "1:00 AM 20-06-2026"
+            },
+            "streams": [
+                {
+                    "stream_url 1": "https://livecdn-tc-iptv.rumsport10.live/live_abr/498587/720p/chunks.m3u8?is_vip=false&token=1781981211-Kv4cPTAAP5YTi-097922b0bbefa476e560e7728c6caae386df3875-ce94ebee71778bf7ee56c439f631bcdf",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "stream_url 2": "https://livecdn-bp-iptv.rumsport7.live/live_abr/498587/720p/chunks.m3u8?is_vip=false&token=097922b0bbefa476e560e7728c6caae386df3875&x-sign=dfa76a3293c87533c618353a576d1743&x-time=1781894760",
                     "stream_referer": "https://iframe.rumsport10.live/"
                 }
             ]
@@ -273,11 +312,11 @@
             },
             "streams": [
                 {
-                    "stream_url 1": "https://livecdn-tc-iptv.rumsport10.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=1781979406-Kv4cPTAAP5YTi-ab8c862b49218dc1e2b5d1f2b75024f262e6b74f-f806d54c7268318a900eb1ac9a1c0f07",
+                    "stream_url 1": "https://livecdn-tc-iptv.rumsport10.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=1781981201-Kv4cPTAAP5YTi-097922b0bbefa476e560e7728c6caae386df3875-e057f5546d777e26c5aa0f85f43cfec9",
                     "stream_referer": "https://iframe.rumsport10.live/"
                 },
                 {
-                    "stream_url 2": "https://livecdn-bp-iptv.rumsport7.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=ab8c862b49218dc1e2b5d1f2b75024f262e6b74f&x-sign=89dc53f243dc2019d7e78fe2b08d6cc9&x-time=1781892960",
+                    "stream_url 2": "https://livecdn-bp-iptv.rumsport7.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=097922b0bbefa476e560e7728c6caae386df3875&x-sign=7b6c3342c3f7101be06411409cf23517&x-time=1781894760",
                     "stream_referer": "https://iframe.rumsport10.live/"
                 }
             ]
@@ -301,24 +340,38 @@
         },
         {
             "status": "LIVE",
-            "Category": "Tennis",
-            "event_name": "Andy Murray Arena | Hsbc Championships",
+            "Category": "Terra Wortmann Open",
+            "event_name": "Day 7: Halle Germany | Terra Wortmann Open",
             "eventInfo": {
                 "teamA": "",
                 "teamB": "",
                 "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
                 "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
-                "eventName": "Hsbc Championships",
+                "eventName": "Terra Wortmann Open",
                 "startTime": "Live Now"
             },
             "streams": [
                 {
-                    "stream_url 1": "https://livecdn-tc-livestream.rumsport10.live/stream/17/chunks.m3u8?is_vip=false&token=1781979401-Kv4cPTAAP5YTi-ab8c862b49218dc1e2b5d1f2b75024f262e6b74f-1e71460b96d4b2d9acf3e989af14e751",
+                    "stream_url 1": "https://livecdn-bp-iptv.rumsport7.live/live_abr/147445/720p/chunks.m3u8?is_vip=false&token=097922b0bbefa476e560e7728c6caae386df3875&x-sign=01bd12a32e34a44a0efc93f084b8c513&x-time=1781894760",
                     "stream_referer": "https://iframe.rumsport10.live/"
-                },
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Golf",
+            "event_name": "Day 2",
+            "eventInfo": {
+                "teamA": "Day 2",
+                "teamB": "Shinnecock Hills Golf Club, Ny",
+                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png",
+                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
+                "eventName": "Us Open 2026",
+                "startTime": "19-06-2026 09:30 PM"
+            },
+            "streams": [
                 {
-                    "stream_url 2": "https://livecdn-bp-livestream.rumsport7.live/stream/17/chunks.m3u8?is_vip=false&token=ab8c862b49218dc1e2b5d1f2b75024f262e6b74f&x-sign=606ae154f4e2afef1faff385d22f5ef0&x-time=1781892960",
-                    "stream_referer": "https://iframe.rumsport10.live/"
+                    "stream_url": "https://bd-mc-flive.fancode.com/mumbai/143294_english_hls_dbd78c6e7c67358_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781970247~_GO=Generated~acl=/mumbai/143294_english_hls_dbd78c6e7c67358_1ta-di_h264/*~Signature=Afto3p1WCHMM2KdXy38NDGeADd87R7zl1Jdmf4hxjilwXz0zPx5_wfsIEqteqhR8o9HFmxnNLWciNRkM1YA7xRee7rgO"
                 }
             ]
         },
@@ -346,24 +399,6 @@
             "event_name": "Day 5 World Feed",
             "eventInfo": {
                 "teamA": "Day 5 - World Feed",
-                "teamB": "London, Great Britain",
-                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png",
-                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png",
-                "eventName": "Atp 500 - Hsbc Championship 2026",
-                "startTime": "19-06-2026 04:00 PM"
-            },
-            "streams": [
-                {
-                    "stream_url": "https://bd-mc-flive.fancode.com/mumbai/143247_english_hls_b3680fa20c67778_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781965569~_GO=Generated~acl=/mumbai/143247_english_hls_b3680fa20c67778_1ta-di_h264/*~Signature=Afto3p0Hug1kaWRbNI0yk93p3WcUk4hxr-moYdS_MO9GfBrEF50Tw11fMumodLE2sUYXWPxlKZdKPIkbmRPFCCjcJZIE"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "Category": "Tennis",
-            "event_name": "Day 5 World Feed",
-            "eventInfo": {
-                "teamA": "Day 5 - World Feed",
                 "teamB": "Halle, Germany",
                 "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png",
                 "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png",
@@ -378,21 +413,35 @@
         },
         {
             "status": "LIVE",
-            "Category": "Golf",
-            "event_name": "Day 2",
+            "Category": "Tennis",
+            "event_name": "Day 5 World Feed",
             "eventInfo": {
-                "teamA": "Day 2",
-                "teamB": "Shinnecock Hills Golf Club, Ny",
-                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-PGA@2x.png",
-                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png",
-                "eventName": "Us Open 2026",
-                "startTime": "19-06-2026 09:30 PM"
+                "teamA": "Day 5 - World Feed",
+                "teamB": "London, Great Britain",
+                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png",
+                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-LOC@2x.png",
+                "eventName": "Atp 500 - Hsbc Championship 2026",
+                "startTime": "19-06-2026 04:00 PM"
             },
             "streams": [
                 {
-                    "stream_url": "https://bd-mc-flive.fancode.com/mumbai/143294_english_hls_dbd78c6e7c67358_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781970247~_GO=Generated~acl=/mumbai/143294_english_hls_dbd78c6e7c67358_1ta-di_h264/*~Signature=Afto3p1WCHMM2KdXy38NDGeADd87R7zl1Jdmf4hxjilwXz0zPx5_wfsIEqteqhR8o9HFmxnNLWciNRkM1YA7xRee7rgO"
+                    "stream_url": "https://bd-mc-flive.fancode.com/mumbai/143247_english_hls_b3680fa20c67778_1ta-di_h264/1080p.m3u8?hdntl=Expires=1781965569~_GO=Generated~acl=/mumbai/143247_english_hls_b3680fa20c67778_1ta-di_h264/*~Signature=Afto3p0Hug1kaWRbNI0yk93p3WcUk4hxr-moYdS_MO9GfBrEF50Tw11fMumodLE2sUYXWPxlKZdKPIkbmRPFCCjcJZIE"
                 }
             ]
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Cricket",
+            "event_name": "Icc Womens T20 World Cup 2026 - 21st Match - Australia Women Vs Pakistan Women",
+            "eventInfo": {
+                "teamA": "Australia Women",
+                "teamB": "Pakistan Women",
+                "teamAFlag": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0c0a0860-708c-47a3-a9a3-cc70a838dca7/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+                "teamBFlag": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0c0a0860-708c-47a3-a9a3-cc70a838dca7/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+                "eventName": "Icc Womens T20 World Cup 2026 - 21st Match - Australia Women Vs Pakistan Women",
+                "startTime": "Tue, Jun 23 11:30 PM BDT"
+            },
+            "streams": []
         },
         {
             "status": "UPCOMING",
@@ -405,20 +454,6 @@
                 "teamBFlag": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a51e9286-71b2-408d-a09a-a0eee4c4b64c/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
                 "eventName": "Icc Womens T20 World Cup 2026 - 20th Match - Sri Lanka Women Vs Ireland Women",
                 "startTime": "Tue, Jun 23 7:30 PM BDT"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Football",
-            "event_name": "Usa Vs Australia | World Cup",
-            "eventInfo": {
-                "teamA": "Usa",
-                "teamB": "Australia",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2384.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/20.png",
-                "eventName": "World Cup",
-                "startTime": "1:00 AM 20-06-2026"
             },
             "streams": []
         },
@@ -509,20 +544,6 @@
         {
             "status": "UPCOMING",
             "Category": "Cricket",
-            "event_name": "Major League Cricket 2026 - 6th Match - Seattle Orcas Vs Los Angeles Knight Riders",
-            "eventInfo": {
-                "teamA": "Seattle Orcas",
-                "teamB": "Los Angeles Knight Riders",
-                "teamAFlag": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e83de133-80f9-4711-951b-068ffa91abfb/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-                "teamBFlag": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e83de133-80f9-4711-951b-068ffa91abfb/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-                "eventName": "Major League Cricket 2026 - 6th Match - Seattle Orcas Vs Los Angeles Knight Riders",
-                "startTime": "Mon, Jun 22 2:30 AM BDT"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Cricket",
             "event_name": "Pakistan Vs. Bangladesh",
             "eventInfo": {
                 "teamA": "Pakistan Vs. Bangladesh",
@@ -545,6 +566,20 @@
                 "teamBFlag": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4b8bfe31-07d8-4dca-ad99-f23f261af7ca/2/BOXART-16X9/en-US._UR1920,1080_.jpg",
                 "eventName": "Watch Australia Take On Netherlands In The Icc Women's T20 World Cup - 2026 England & Wales",
                 "startTime": "Live At 3:30 Pm Bdt"
+            },
+            "streams": []
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Cricket",
+            "event_name": "Major League Cricket 2026 - 6th Match - Seattle Orcas Vs Los Angeles Knight Riders",
+            "eventInfo": {
+                "teamA": "Seattle Orcas",
+                "teamB": "Los Angeles Knight Riders",
+                "teamAFlag": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e83de133-80f9-4711-951b-068ffa91abfb/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+                "teamBFlag": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e83de133-80f9-4711-951b-068ffa91abfb/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+                "eventName": "Major League Cricket 2026 - 6th Match - Seattle Orcas Vs Los Angeles Knight Riders",
+                "startTime": "Mon, Jun 22 2:30 AM BDT"
             },
             "streams": []
         },
@@ -593,6 +628,20 @@
         {
             "status": "UPCOMING",
             "Category": "Cricket",
+            "event_name": "Tri Nation A Series In Sri Lanka 2026 - Final - India A Vs Sri Lanka A",
+            "eventInfo": {
+                "teamA": "India A",
+                "teamB": "Sri Lanka A",
+                "teamAFlag": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.45d403aa-4756-4ef7-963c-850ec87a1316/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+                "teamBFlag": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.45d403aa-4756-4ef7-963c-850ec87a1316/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+                "eventName": "Tri Nation A Series In Sri Lanka 2026 - Final - India A Vs Sri Lanka A",
+                "startTime": "Tomorrow 10:30 AM BDT"
+            },
+            "streams": []
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Cricket",
             "event_name": "West Indies Vs Sri Lanka",
             "eventInfo": {
                 "teamA": "West Indies",
@@ -610,20 +659,6 @@
                     "drm_key 1": "1b8a17598129a3618535c8fb05f103fe:7e9239c1982d984a002df3ed049d0756"
                 }
             ]
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Cricket",
-            "event_name": "Tri Nation A Series In Sri Lanka 2026 - Final - India A Vs Sri Lanka A",
-            "eventInfo": {
-                "teamA": "India A",
-                "teamB": "Sri Lanka A",
-                "teamAFlag": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.45d403aa-4756-4ef7-963c-850ec87a1316/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-                "teamBFlag": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.45d403aa-4756-4ef7-963c-850ec87a1316/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-                "eventName": "Tri Nation A Series In Sri Lanka 2026 - Final - India A Vs Sri Lanka A",
-                "startTime": "Tomorrow 10:30 AM BDT"
-            },
-            "streams": []
         },
         {
             "status": "UPCOMING",
@@ -656,6 +691,20 @@
         {
             "status": "UPCOMING",
             "Category": "Cricket",
+            "event_name": "Major League Cricket 2026 - 2nd Match - Los Angeles Knight Riders Vs San Francisco Unicorns",
+            "eventInfo": {
+                "teamA": "Los Angeles Knight Riders",
+                "teamB": "San Francisco Unicorns",
+                "teamAFlag": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b2f06a90-7bfa-4e41-8ca1-af1e1bd241cf/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+                "teamBFlag": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b2f06a90-7bfa-4e41-8ca1-af1e1bd241cf/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+                "eventName": "Major League Cricket 2026 - 2nd Match - Los Angeles Knight Riders Vs San Francisco Unicorns",
+                "startTime": "Live At 2:30 Am Bdt"
+            },
+            "streams": []
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Cricket",
             "event_name": "England Vs. Scotland",
             "eventInfo": {
                 "teamA": "England Vs. Scotland",
@@ -664,20 +713,6 @@
                 "teamBFlag": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.04a0b6a2-0164-4c5e-a78f-118c1b2a7587/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
                 "eventName": "Watch England Take On Scotland In The Icc Women's T20 World Cup - 2026 England & Wales",
                 "startTime": "Live At 11:30 Pm Bdt"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Cricket",
-            "event_name": "Major League Cricket 2026 - 3rd Match - Seattle Orcas Vs Washington Freedom",
-            "eventInfo": {
-                "teamA": "Seattle Orcas",
-                "teamB": "Washington Freedom",
-                "teamAFlag": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.28d5740f-c76f-4a30-aa30-d44d05a59f91/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-                "teamBFlag": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.28d5740f-c76f-4a30-aa30-d44d05a59f91/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-                "eventName": "Major League Cricket 2026 - 3rd Match - Seattle Orcas Vs Washington Freedom",
-                "startTime": "Live At 6:30 Am Bdt"
             },
             "streams": []
         },
@@ -698,14 +733,14 @@
         {
             "status": "UPCOMING",
             "Category": "Cricket",
-            "event_name": "Major League Cricket 2026 - 2nd Match - Los Angeles Knight Riders Vs San Francisco Unicorns",
+            "event_name": "Major League Cricket 2026 - 3rd Match - Seattle Orcas Vs Washington Freedom",
             "eventInfo": {
-                "teamA": "Los Angeles Knight Riders",
-                "teamB": "San Francisco Unicorns",
-                "teamAFlag": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b2f06a90-7bfa-4e41-8ca1-af1e1bd241cf/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-                "teamBFlag": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.b2f06a90-7bfa-4e41-8ca1-af1e1bd241cf/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-                "eventName": "Major League Cricket 2026 - 2nd Match - Los Angeles Knight Riders Vs San Francisco Unicorns",
-                "startTime": "Live At 2:30 Am Bdt"
+                "teamA": "Seattle Orcas",
+                "teamB": "Washington Freedom",
+                "teamAFlag": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.28d5740f-c76f-4a30-aa30-d44d05a59f91/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+                "teamBFlag": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.28d5740f-c76f-4a30-aa30-d44d05a59f91/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+                "eventName": "Major League Cricket 2026 - 3rd Match - Seattle Orcas Vs Washington Freedom",
+                "startTime": "Live At 6:30 Am Bdt"
             },
             "streams": []
         },
@@ -726,14 +761,14 @@
         {
             "status": "UPCOMING",
             "Category": "Cricket",
-            "event_name": "Icc Womens T20 World Cup 2026 - 21st Match - Australia Women Vs Pakistan Women",
+            "event_name": "England Vs. West Indies",
             "eventInfo": {
-                "teamA": "Australia Women",
-                "teamB": "Pakistan Women",
-                "teamAFlag": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0c0a0860-708c-47a3-a9a3-cc70a838dca7/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-                "teamBFlag": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.0c0a0860-708c-47a3-a9a3-cc70a838dca7/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-                "eventName": "Icc Womens T20 World Cup 2026 - 21st Match - Australia Women Vs Pakistan Women",
-                "startTime": "Tue, Jun 23 11:30 PM BDT"
+                "teamA": "England Vs. West Indies",
+                "teamB": "",
+                "teamAFlag": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.94dffbd9-2bde-49be-86f6-72c3e74f9ea3/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+                "teamBFlag": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.94dffbd9-2bde-49be-86f6-72c3e74f9ea3/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+                "eventName": "Watch England Take On West Indies In The Icc Women's T20 World Cup - 2026 England & Wales",
+                "startTime": "Wed, Jun 24 11:30 PM BDT"
             },
             "streams": []
         },
@@ -880,34 +915,6 @@
         {
             "status": "UPCOMING",
             "Category": "Cricket",
-            "event_name": "Kalyani Bengaluru Blasters Vs Gulbarga Mystics",
-            "eventInfo": {
-                "teamA": "Kalyani Bengaluru Blasters",
-                "teamB": "Gulbarga Mystics",
-                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KBB@2x.png",
-                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GM@2x.png",
-                "eventName": "Maharaja T20 Trophy, 2026",
-                "startTime": "20-06-2026 02:00 PM"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Cricket",
-            "event_name": "Kalyani Bengaluru Blasters Vs Shivamogga Yodhas",
-            "eventInfo": {
-                "teamA": "Kalyani Bengaluru Blasters",
-                "teamB": "Shivamogga Yodhas",
-                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KBB@2x.png",
-                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SY@2x.png",
-                "eventName": "Maharaja T20 Trophy, 2026",
-                "startTime": "21-06-2026 07:00 PM"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Cricket",
             "event_name": "Nigeria Vs Hong Kong, China",
             "eventInfo": {
                 "teamA": "Nigeria",
@@ -916,20 +923,6 @@
                 "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HK@2x.png",
                 "eventName": "Men's T20i Tri Series In Namibia 2026",
                 "startTime": "21-06-2026 05:30 PM"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Cricket",
-            "event_name": "Jabalpur Royal Lions Vs Gwalior Cheetahs",
-            "eventInfo": {
-                "teamA": "Jabalpur Royal Lions",
-                "teamB": "Gwalior Cheetahs",
-                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JRL@2x.png",
-                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GC@2x.png",
-                "eventName": "Madhya Pradesh League T20, 2026",
-                "startTime": "21-06-2026 03:00 PM"
             },
             "streams": []
         },
@@ -950,6 +943,34 @@
         {
             "status": "UPCOMING",
             "Category": "Cricket",
+            "event_name": "Kalyani Bengaluru Blasters Vs Gulbarga Mystics",
+            "eventInfo": {
+                "teamA": "Kalyani Bengaluru Blasters",
+                "teamB": "Gulbarga Mystics",
+                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KBB@2x.png",
+                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GM@2x.png",
+                "eventName": "Maharaja T20 Trophy, 2026",
+                "startTime": "20-06-2026 02:00 PM"
+            },
+            "streams": []
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Cricket",
+            "event_name": "Jabalpur Royal Lions Vs Gwalior Cheetahs",
+            "eventInfo": {
+                "teamA": "Jabalpur Royal Lions",
+                "teamB": "Gwalior Cheetahs",
+                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JRL@2x.png",
+                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GC@2x.png",
+                "eventName": "Madhya Pradesh League T20, 2026",
+                "startTime": "21-06-2026 03:00 PM"
+            },
+            "streams": []
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Cricket",
             "event_name": "Tbc Vs Tbc",
             "eventInfo": {
                 "teamA": "Tbc",
@@ -963,34 +984,34 @@
         },
         {
             "status": "UPCOMING",
-            "event_name": "England Vs New Zealand",
+            "Category": "Cricket",
+            "event_name": "Kalyani Bengaluru Blasters Vs Shivamogga Yodhas",
             "eventInfo": {
-                "teamA": "England",
-                "teamB": "New Zealand",
-                "teamAFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1781602082540x302.jpg",
-                "teamBFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1781602083540x302.jpg",
-                "eventName": "New Zealand Tour Of England 2026",
-                "startTime": "25-06-2026 04:00 PM"
+                "teamA": "Kalyani Bengaluru Blasters",
+                "teamB": "Shivamogga Yodhas",
+                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KBB@2x.png",
+                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SY@2x.png",
+                "eventName": "Maharaja T20 Trophy, 2026",
+                "startTime": "21-06-2026 07:00 PM"
+            },
+            "streams": []
+        },
+        {
+            "status": "UPCOMING",
+            "event_name": "Bangladesh Vs Australia",
+            "eventInfo": {
+                "teamA": "Bangladesh",
+                "teamB": "Australia",
+                "teamAFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1781686198540x302.jpg",
+                "teamBFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1781686198540x302.jpg",
+                "eventName": "Australia Tour Of Bangladesh 2026",
+                "startTime": "21-06-2026 02:00 PM"
             },
             "streams": [
                 {
                     "stream_url": ""
                 }
             ]
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Motorsports",
-            "event_name": "Day 2 Race 1 Dekra Lausitzring",
-            "eventInfo": {
-                "teamA": "Day 2 Race 1 - Dekra Lausitzring",
-                "teamB": "Schipkau, Germany",
-                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-DTM@2x.png",
-                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
-                "eventName": "Dtm 2026",
-                "startTime": "20-06-2026 04:45 PM"
-            },
-            "streams": []
         },
         {
             "status": "UPCOMING",
@@ -1070,6 +1091,20 @@
         },
         {
             "status": "UPCOMING",
+            "Category": "Motorsports",
+            "event_name": "Day 2 Race 1 Dekra Lausitzring",
+            "eventInfo": {
+                "teamA": "Day 2 Race 1 - Dekra Lausitzring",
+                "teamB": "Schipkau, Germany",
+                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-DTM@2x.png",
+                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
+                "eventName": "Dtm 2026",
+                "startTime": "20-06-2026 04:45 PM"
+            },
+            "streams": []
+        },
+        {
+            "status": "UPCOMING",
             "Category": "Tennis",
             "event_name": "Atp 500 Terra Wortmann Open 2026",
             "eventInfo": {
@@ -1081,23 +1116,6 @@
                 "startTime": "20-06-2026 02:30 PM"
             },
             "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "event_name": "Bangladesh Vs Australia",
-            "eventInfo": {
-                "teamA": "Bangladesh",
-                "teamB": "Australia",
-                "teamAFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1781686198540x302.jpg",
-                "teamBFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1781686198540x302.jpg",
-                "eventName": "Australia Tour Of Bangladesh 2026",
-                "startTime": "21-06-2026 02:00 PM"
-            },
-            "streams": [
-                {
-                    "stream_url": ""
-                }
-            ]
         },
         {
             "status": "UPCOMING",
@@ -1140,6 +1158,23 @@
                 "startTime": "20-06-2026 02:30 PM"
             },
             "streams": []
+        },
+        {
+            "status": "UPCOMING",
+            "event_name": "England Vs New Zealand",
+            "eventInfo": {
+                "teamA": "England",
+                "teamB": "New Zealand",
+                "teamAFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1781602082540x302.jpg",
+                "teamBFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1781602083540x302.jpg",
+                "eventName": "New Zealand Tour Of England 2026",
+                "startTime": "25-06-2026 04:00 PM"
+            },
+            "streams": [
+                {
+                    "stream_url": ""
+                }
+            ]
         },
         {
             "status": "UPCOMING",
@@ -1227,15 +1262,15 @@
         },
         {
             "status": "UPCOMING",
-            "Category": "Baseball",
-            "event_name": "Yomiuri Giants Vs Chunichi Dragons | Npb",
+            "Category": "Auto Racing",
+            "event_name": "Free Practice 2: Sanya | Formula E",
             "eventInfo": {
-                "teamA": "Yomiuri Giants",
-                "teamB": "Chunichi Dragons",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/teams/9f2a207ed77e5f3e2f438e501a13c005.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/teams/e97b8c766d3fb27f8fb6be3a1c4fc4f8.png",
-                "eventName": "Npb",
-                "startTime": "11:00 AM 20-06-2026"
+                "teamA": "",
+                "teamB": "",
+                "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
+                "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
+                "eventName": "Formula E",
+                "startTime": "7:30 AM 20-06-2026"
             },
             "streams": []
         },
@@ -1255,20 +1290,6 @@
         },
         {
             "status": "UPCOMING",
-            "Category": "Motogp",
-            "event_name": "Czechia Gp",
-            "eventInfo": {
-                "teamA": "Race Day",
-                "teamB": "Brno",
-                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/motogp-flags/FC-MG@2x.png",
-                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/motogp-flags/FC-LOT@2x.png",
-                "eventName": "Grand Prix Of Czechia 2026",
-                "startTime": "21-06-2026 02:30 PM"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
             "Category": "World Cup",
             "event_name": "Brazil Vs Haiti | World Cup",
             "eventInfo": {
@@ -1278,6 +1299,20 @@
                 "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2386.png",
                 "eventName": "World Cup",
                 "startTime": "6:30 AM 20-06-2026"
+            },
+            "streams": []
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Motogp",
+            "event_name": "Czechia Gp",
+            "eventInfo": {
+                "teamA": "Race Day",
+                "teamB": "Brno",
+                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/motogp-flags/FC-MG@2x.png",
+                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/motogp-flags/FC-LOT@2x.png",
+                "eventName": "Grand Prix Of Czechia 2026",
+                "startTime": "21-06-2026 02:30 PM"
             },
             "streams": []
         },
@@ -1339,20 +1374,6 @@
                     "stream_url": ""
                 }
             ]
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Motorsports",
-            "event_name": "Day 3 Qualifying 2 Dekra Lausitzring",
-            "eventInfo": {
-                "teamA": "Day 3 Qualifying 2 - Dekra Lausitzring",
-                "teamB": "Schipkau, Germany",
-                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-DTM@2x.png",
-                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
-                "eventName": "Dtm 2026",
-                "startTime": "21-06-2026 12:30 PM"
-            },
-            "streams": []
         },
         {
             "status": "UPCOMING",
@@ -1426,15 +1447,29 @@
         },
         {
             "status": "UPCOMING",
+            "Category": "Baseball",
+            "event_name": "Yomiuri Giants Vs Chunichi Dragons | Npb",
+            "eventInfo": {
+                "teamA": "Yomiuri Giants",
+                "teamB": "Chunichi Dragons",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/teams/9f2a207ed77e5f3e2f438e501a13c005.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/teams/e97b8c766d3fb27f8fb6be3a1c4fc4f8.png",
+                "eventName": "Npb",
+                "startTime": "11:00 AM 20-06-2026"
+            },
+            "streams": []
+        },
+        {
+            "status": "UPCOMING",
             "Category": "Auto Racing",
-            "event_name": "Free Practice 2: Sanya | Formula E",
+            "event_name": "Qualifying: Sanya | Formula E",
             "eventInfo": {
                 "teamA": "",
                 "teamB": "",
                 "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
                 "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
                 "eventName": "Formula E",
-                "startTime": "7:30 AM 20-06-2026"
+                "startTime": "9:30 AM 20-06-2026"
             },
             "streams": []
         },
@@ -1455,20 +1490,6 @@
         {
             "status": "UPCOMING",
             "Category": "Auto Racing",
-            "event_name": "Qualifying: Sanya | Formula E",
-            "eventInfo": {
-                "teamA": "",
-                "teamB": "",
-                "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
-                "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
-                "eventName": "Formula E",
-                "startTime": "9:30 AM 20-06-2026"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Auto Racing",
             "event_name": "Race: Sanya | Formula E",
             "eventInfo": {
                 "teamA": "",
@@ -1482,15 +1503,15 @@
         },
         {
             "status": "UPCOMING",
-            "Category": "Mma",
-            "event_name": "Cage Warriors 206: Unplugged | Mma",
+            "Category": "Motorsports",
+            "event_name": "Day 3 Qualifying 2 Dekra Lausitzring",
             "eventInfo": {
-                "teamA": "",
-                "teamB": "",
-                "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
-                "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
-                "eventName": "Mma",
-                "startTime": "1:00 AM 20-06-2026"
+                "teamA": "Day 3 Qualifying 2 - Dekra Lausitzring",
+                "teamB": "Schipkau, Germany",
+                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-DTM@2x.png",
+                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
+                "eventName": "Dtm 2026",
+                "startTime": "21-06-2026 12:30 PM"
             },
             "streams": []
         },
