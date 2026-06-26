@@ -2,10 +2,38 @@
     "name": "Live and Upcoming Sports Data",
     "owner": "Monirul Islam",
     "telegram": "https://t.me/monirul_Islam_SM",
-    "last_update_time": "12:00:04 AM 27-06-2026",
+    "last_update_time": "12:30:07 AM 27-06-2026",
     "total_matches": 135,
-    "live_match": 74,
+    "live_match": 75,
     "matches": [
+        {
+            "status": "LIVE",
+            "Category": "Football",
+            "event_name": "Senegal Vs Iraq",
+            "eventInfo": {
+                "teamA": "Senegal",
+                "teamB": "Iraq",
+                "teamAFlag": "https://flagcdn.com/64x48/sn.png",
+                "teamBFlag": "https://flagcdn.com/64x48/iq.png",
+                "eventName": "Fifa World Cup 2026",
+                "startTime": "27-06-2026 12:30 AM"
+            },
+            "streams": []
+        },
+        {
+            "status": "LIVE",
+            "Category": "Football",
+            "event_name": "Colombia Vs Portugal",
+            "eventInfo": {
+                "teamA": "Colombia",
+                "teamB": "Portugal",
+                "teamAFlag": "https://flagcdn.com/64x48/co.png",
+                "teamBFlag": "https://flagcdn.com/64x48/pt.png",
+                "eventName": "Fifa World Cup 2026",
+                "startTime": "27-06-2026 12:30 AM"
+            },
+            "streams": []
+        },
         {
             "status": "LIVE",
             "Category": "Football",
@@ -20,54 +48,12 @@
             },
             "streams": [
                 {
-                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a383bd430392eaef42e52ef/chunks.m3u8?is_vip=false&token=da4deb22beaf87fb5ed04bcbc2c9ff03d1b58b41&x-sign=7deec74ea700ca7f1bdda8e718a4812b&x-time=1782496020",
+                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a383bd430392eaef42e52ef/chunks.m3u8?is_vip=false&token=43cbd8ae895c16a52dd4f9ea96510fd3d36856e3&x-sign=373d8652ef99732dbf077e27cea865cf&x-time=1782497940",
                     "stream_referer": "https://iframe.rumsport10.live/"
                 },
                 {
-                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a383bd430392eaef42e52ef/chunks.m3u8?is_vip=false&token=1782582422-Kv4cPTAAP5YTi-da4deb22beaf87fb5ed04bcbc2c9ff03d1b58b41-127dae0cc07393b3b5454e75414dfba4",
+                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a383bd430392eaef42e52ef/chunks.m3u8?is_vip=false&token=1782584358-Kv4cPTAAP5YTi-43cbd8ae895c16a52dd4f9ea96510fd3d36856e3-08e6d067b98229c2b605fc36d6273806",
                     "stream_referer": "https://iframe.rumsport10.live/"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "Category": "Football",
-            "event_name": "Skedsmo Vs Skjetten | 3. Division - Girone 5",
-            "eventInfo": {
-                "teamA": "Skedsmo",
-                "teamB": "Skjetten",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/19711.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/7025.png",
-                "eventName": "3. Division - Girone 5",
-                "startTime": "Live Now"
-            },
-            "streams": [
-                {
-                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a1ef6fc1b157de5f59a5449/chunks.m3u8?is_vip=false&token=da4deb22beaf87fb5ed04bcbc2c9ff03d1b58b41&x-sign=3efc1507b81844e3e30fb4b8fc2b867f&x-time=1782496140",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a1ef6fc1b157de5f59a5449/chunks.m3u8?is_vip=false&token=1782582594-Kv4cPTAAP5YTi-da4deb22beaf87fb5ed04bcbc2c9ff03d1b58b41-c9fafd65c98255d3c7d92ecd3c1f85cc",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "Category": "Cricket",
-            "event_name": "India Vs Ireland",
-            "eventInfo": {
-                "teamA": "India",
-                "teamB": "Ireland",
-                "teamAFlag": "https://flagcdn.com/64x48/in.png",
-                "teamBFlag": "https://flagcdn.com/64x48/ie.png",
-                "eventName": "1st T20i",
-                "startTime": "27-06-2026 12:00 AM"
-            },
-            "streams": [
-                {
-                    "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vaplpo3app/out/v1/49b4d538ec854efa90d45084866cf7f9/cenc.mpd",
-                    "drm_key": "60838a3176127fed0eaf038a5575de11:d14658a0ede94debcb4013b2056ba6d1"
                 }
             ]
         },
@@ -85,279 +71,50 @@
             },
             "streams": [
                 {
-                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a383bd430392eaef42e52ee/chunks.m3u8?is_vip=false&token=da4deb22beaf87fb5ed04bcbc2c9ff03d1b58b41&x-sign=2e394c207d56f8f9da0458ecc56bde02&x-time=1782495960",
+                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a383bd430392eaef42e52ee/chunks.m3u8?is_vip=false&token=43cbd8ae895c16a52dd4f9ea96510fd3d36856e3&x-sign=a6aed041bb39c4dcae5140ab52216941&x-time=1782497940",
                     "stream_referer": "https://iframe.rumsport10.live/"
                 },
                 {
-                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a383bd430392eaef42e52ee/chunks.m3u8?is_vip=false&token=1782582411-Kv4cPTAAP5YTi-da4deb22beaf87fb5ed04bcbc2c9ff03d1b58b41-62ace7ec0d58e5483656408a28b1f94e",
+                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a383bd430392eaef42e52ee/chunks.m3u8?is_vip=false&token=1782584353-Kv4cPTAAP5YTi-43cbd8ae895c16a52dd4f9ea96510fd3d36856e3-2c95bf92813d469a18aa93a1277ce796",
                     "stream_referer": "https://iframe.rumsport10.live/"
                 }
             ]
         },
         {
             "status": "LIVE",
-            "Category": "Football",
-            "event_name": "Krasnodar U19 Vs Dinamo Moskva U19 | Youth Championship",
+            "Category": "Cricket",
+            "event_name": "Netherlands Vs South Africa",
             "eventInfo": {
-                "teamA": "Krasnodar U19",
-                "teamB": "Dinamo Moskva U19",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/7985.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/16594.png",
-                "eventName": "Youth Championship",
-                "startTime": "Live Now"
+                "teamA": "Ned-w",
+                "teamB": "Sa-w",
+                "teamAFlag": "https://flagcdn.com/64x48/nl.png",
+                "teamBFlag": "https://flagcdn.com/64x48/za.png",
+                "eventName": "Women's T20 World Cup",
+                "startTime": "27-06-2026 12:30 AM"
             },
             "streams": [
                 {
-                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a1da57bd7e482cd74be5e36/chunks.m3u8?is_vip=false&token=da4deb22beaf87fb5ed04bcbc2c9ff03d1b58b41&x-sign=a25c36b68e0c922b0bc5d05e901c3f13&x-time=1782496080",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a1da57bd7e482cd74be5e36/chunks.m3u8?is_vip=false&token=1782582536-Kv4cPTAAP5YTi-da4deb22beaf87fb5ed04bcbc2c9ff03d1b58b41-78bbeb8758ac0311108fc5807e77e6a7",
-                    "stream_referer": "https://iframe.rumsport10.live/"
+                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+                    "drm_key": "b748836c71e6a4ca68ef5b5652db6247:290e09c837da78d5cd961978d390515c"
                 }
             ]
         },
         {
             "status": "LIVE",
-            "Category": "Football",
-            "event_name": "Eidsvold Vs Tromsdalen Uil | 2. Division - Group 2",
+            "Category": "Cricket",
+            "event_name": "India Vs Ireland",
             "eventInfo": {
-                "teamA": "Eidsvold",
-                "teamB": "Tromsdalen Uil",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/6978.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2158.png",
-                "eventName": "2. Division - Group 2",
-                "startTime": "Live Now"
+                "teamA": "India",
+                "teamB": "Ireland",
+                "teamAFlag": "https://flagcdn.com/64x48/in.png",
+                "teamBFlag": "https://flagcdn.com/64x48/ie.png",
+                "eventName": "1st T20i",
+                "startTime": "27-06-2026 12:30 AM"
             },
             "streams": [
                 {
-                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a1ef6fc1b157de5f59a5429/chunks.m3u8?is_vip=false&token=da4deb22beaf87fb5ed04bcbc2c9ff03d1b58b41&x-sign=399aef05dd4bf197ba1ce54e3349cda5&x-time=1782496200",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a1ef6fc1b157de5f59a5429/chunks.m3u8?is_vip=false&token=1782582615-Kv4cPTAAP5YTi-da4deb22beaf87fb5ed04bcbc2c9ff03d1b58b41-a05d01464fe722a9663a487c9a1c89e8",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "Category": "Football",
-            "event_name": "Vålerenga Ii Vs Union Carl Berner | 3. Division - Girone 1",
-            "eventInfo": {
-                "teamA": "Vålerenga Ii",
-                "teamB": "Union Carl Berner",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/10114.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/23423.png",
-                "eventName": "3. Division - Girone 1",
-                "startTime": "Live Now"
-            },
-            "streams": [
-                {
-                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a1ef6fce00a454ca8461a31/chunks.m3u8?is_vip=false&token=da4deb22beaf87fb5ed04bcbc2c9ff03d1b58b41&x-sign=42e14af48bbf82d9d3f0309d65d895bc&x-time=1782496200",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a1ef6fce00a454ca8461a31/chunks.m3u8?is_vip=false&token=1782582610-Kv4cPTAAP5YTi-da4deb22beaf87fb5ed04bcbc2c9ff03d1b58b41-deca6bba1d5e71941e6882a5bf7c6bed",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "Category": "Football",
-            "event_name": "Flekkerøy Vs Åkra | 3. Division - Girone 4",
-            "eventInfo": {
-                "teamA": "Flekkerøy",
-                "teamB": "Åkra",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/6982.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/7049.png",
-                "eventName": "3. Division - Girone 4",
-                "startTime": "Live Now"
-            },
-            "streams": [
-                {
-                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a1ef6fc1b157de5f59a5453/chunks.m3u8?is_vip=false&token=da4deb22beaf87fb5ed04bcbc2c9ff03d1b58b41&x-sign=9433e3d875d12d8df8e8f7ad27c4e031&x-time=1782496200",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a1ef6fc1b157de5f59a5453/chunks.m3u8?is_vip=false&token=1782582605-Kv4cPTAAP5YTi-da4deb22beaf87fb5ed04bcbc2c9ff03d1b58b41-33a785e426bab410e42cbeca2b313d5b",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "Category": "Football",
-            "event_name": "Klubi-04 Vs Sjk Akatemia | Ykkösliiga",
-            "eventInfo": {
-                "teamA": "Klubi-04",
-                "teamB": "Sjk Akatemia",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2085.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/9198.png",
-                "eventName": "Ykkösliiga",
-                "startTime": "Live Now"
-            },
-            "streams": [
-                {
-                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a1ef6fc1b157de5f59a5390/chunks.m3u8?is_vip=false&token=da4deb22beaf87fb5ed04bcbc2c9ff03d1b58b41&x-sign=00f59589fdcf5928d6c5e84937b1216c&x-time=1782496140",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a1ef6fc1b157de5f59a5390/chunks.m3u8?is_vip=false&token=1782582588-Kv4cPTAAP5YTi-da4deb22beaf87fb5ed04bcbc2c9ff03d1b58b41-c39e1beb7299cafea14e4b4a84209bd1",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "Category": "Football",
-            "event_name": "Senegal Vs Iraq",
-            "eventInfo": {
-                "teamA": "Senegal",
-                "teamB": "Iraq",
-                "teamAFlag": "https://flagcdn.com/64x48/sn.png",
-                "teamBFlag": "https://flagcdn.com/64x48/iq.png",
-                "eventName": "Fifa World Cup 2026",
-                "startTime": "27-06-2026 12:00 AM"
-            },
-            "streams": []
-        },
-        {
-            "status": "LIVE",
-            "Category": "Football",
-            "event_name": "Pk-35 Vs Mp | Ykkösliiga",
-            "eventInfo": {
-                "teamA": "Pk-35",
-                "teamB": "Mp",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/10669.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/9175.png",
-                "eventName": "Ykkösliiga",
-                "startTime": "Live Now"
-            },
-            "streams": [
-                {
-                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a1ef6fc1b157de5f59a538f/chunks.m3u8?is_vip=false&token=da4deb22beaf87fb5ed04bcbc2c9ff03d1b58b41&x-sign=dcd198f4f077ab7eabaeff7469e50a4a&x-time=1782496140",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a1ef6fc1b157de5f59a538f/chunks.m3u8?is_vip=false&token=1782582583-Kv4cPTAAP5YTi-da4deb22beaf87fb5ed04bcbc2c9ff03d1b58b41-f57662041257cf45e4fa6e8015c6eae9",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "Category": "Football",
-            "event_name": "Ludogorets Vs Etar Veliko Tarnovo | Friendlies Clubs",
-            "eventInfo": {
-                "teamA": "Ludogorets",
-                "teamB": "Etar Veliko Tarnovo",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/566.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/855.png",
-                "eventName": "Friendlies Clubs",
-                "startTime": "Live Now"
-            },
-            "streams": [
-                {
-                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a3c4c5ed06bfc50948e8ff4/chunks.m3u8?is_vip=false&token=da4deb22beaf87fb5ed04bcbc2c9ff03d1b58b41&x-sign=41d72c18b96f4fdc14a00216e3cf0a57&x-time=1782496140",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a3c4c5ed06bfc50948e8ff4/chunks.m3u8?is_vip=false&token=1782582578-Kv4cPTAAP5YTi-da4deb22beaf87fb5ed04bcbc2c9ff03d1b58b41-642e1955daacb5a2e0bdec0fb1f80b5a",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "Category": "Football",
-            "event_name": "Fk Liepaja Vs Rīgas Fs | Virsliga",
-            "eventInfo": {
-                "teamA": "Fk Liepaja",
-                "teamB": "Rīgas Fs",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/661.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/4160.png",
-                "eventName": "Virsliga",
-                "startTime": "Live Now"
-            },
-            "streams": [
-                {
-                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a1ef6fc1b157de5f59a5391/chunks.m3u8?is_vip=false&token=da4deb22beaf87fb5ed04bcbc2c9ff03d1b58b41&x-sign=53e4c57ed3bd2146f845402a6904d41b&x-time=1782496140",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a1ef6fc1b157de5f59a5391/chunks.m3u8?is_vip=false&token=1782582573-Kv4cPTAAP5YTi-da4deb22beaf87fb5ed04bcbc2c9ff03d1b58b41-daa5f7b6d55deaa4389073c20dd62c35",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "Category": "Football",
-            "event_name": "Parndorf Vs Austria Vienna | Friendlies Clubs",
-            "eventInfo": {
-                "teamA": "Parndorf",
-                "teamB": "Austria Vienna",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/4955.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/601.png",
-                "eventName": "Friendlies Clubs",
-                "startTime": "Live Now"
-            },
-            "streams": [
-                {
-                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a3c061dfd12df158c733856/chunks.m3u8?is_vip=false&token=da4deb22beaf87fb5ed04bcbc2c9ff03d1b58b41&x-sign=097880f61abfffee96b6fc814566ace6&x-time=1782496140",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a3c061dfd12df158c733856/chunks.m3u8?is_vip=false&token=1782582567-Kv4cPTAAP5YTi-da4deb22beaf87fb5ed04bcbc2c9ff03d1b58b41-e40b62dc6aab8159a1041423c3e883b9",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "Category": "Football",
-            "event_name": "Seekirchen Vs Red Bull Salzburg | Friendlies Clubs",
-            "eventInfo": {
-                "teamA": "Seekirchen",
-                "teamB": "Red Bull Salzburg",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/4958.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/571.png",
-                "eventName": "Friendlies Clubs",
-                "startTime": "Live Now"
-            },
-            "streams": [
-                {
-                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a383bd430392eaef42e52ed/chunks.m3u8?is_vip=false&token=da4deb22beaf87fb5ed04bcbc2c9ff03d1b58b41&x-sign=677d4654c8dd0419da05f6bd89dcd28a&x-time=1782496140",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a383bd430392eaef42e52ed/chunks.m3u8?is_vip=false&token=1782582562-Kv4cPTAAP5YTi-da4deb22beaf87fb5ed04bcbc2c9ff03d1b58b41-a13e9ba57cf6bfaf126e9dcda68dd135",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "Category": "Football",
-            "event_name": "Rapperswil Vs Fc Basel 1893 | Friendlies Clubs",
-            "eventInfo": {
-                "teamA": "Rapperswil",
-                "teamB": "Fc Basel 1893",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2185.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/551.png",
-                "eventName": "Friendlies Clubs",
-                "startTime": "Live Now"
-            },
-            "streams": [
-                {
-                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a383bd430392eaef42e52ea/chunks.m3u8?is_vip=false&token=da4deb22beaf87fb5ed04bcbc2c9ff03d1b58b41&x-sign=dcc375649c60934b4a7f6661bf69d768&x-time=1782496140",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a383bd430392eaef42e52ea/chunks.m3u8?is_vip=false&token=1782582557-Kv4cPTAAP5YTi-da4deb22beaf87fb5ed04bcbc2c9ff03d1b58b41-8056228f26aa5e9101b23385b667468c",
-                    "stream_referer": "https://iframe.rumsport10.live/"
+                    "stream_url": "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vaplpo3app/out/v1/49b4d538ec854efa90d45084866cf7f9/cenc.mpd",
+                    "drm_key": "60838a3176127fed0eaf038a5575de11:d14658a0ede94debcb4013b2056ba6d1"
                 }
             ]
         },
@@ -371,28 +128,9 @@
                 "teamAFlag": "https://flagcdn.com/64x48/no.png",
                 "teamBFlag": "https://flagcdn.com/64x48/fr.png",
                 "eventName": "Fifa World Cup 2026",
-                "startTime": "27-06-2026 12:00 AM"
+                "startTime": "27-06-2026 12:30 AM"
             },
             "streams": []
-        },
-        {
-            "status": "LIVE",
-            "Category": "Cricket",
-            "event_name": "Netherlands Vs South Africa",
-            "eventInfo": {
-                "teamA": "Ned-w",
-                "teamB": "Sa-w",
-                "teamAFlag": "https://flagcdn.com/64x48/nl.png",
-                "teamBFlag": "https://flagcdn.com/64x48/za.png",
-                "eventName": "Women's T20 World Cup",
-                "startTime": "27-06-2026 12:00 AM"
-            },
-            "streams": [
-                {
-                    "stream_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-                    "drm_key": "b748836c71e6a4ca68ef5b5652db6247:290e09c837da78d5cd961978d390515c"
-                }
-            ]
         },
         {
             "status": "LIVE",
@@ -404,7 +142,7 @@
                 "teamAFlag": "https://ui-avatars.com/api/?name=Cabo%20Verde&size=64&background=1a6b3c&color=fff&bold=true&length=3",
                 "teamBFlag": "https://flagcdn.com/64x48/sa.png",
                 "eventName": "Fifa World Cup 2026",
-                "startTime": "27-06-2026 12:00 AM"
+                "startTime": "27-06-2026 12:30 AM"
             },
             "streams": []
         },
@@ -418,9 +156,112 @@
                 "teamAFlag": "https://flagcdn.com/64x48/uy.png",
                 "teamBFlag": "https://flagcdn.com/64x48/es.png",
                 "eventName": "Fifa World Cup 2026",
-                "startTime": "27-06-2026 12:00 AM"
+                "startTime": "27-06-2026 12:30 AM"
             },
             "streams": []
+        },
+        {
+            "status": "LIVE",
+            "Category": "Football",
+            "event_name": "New Zealand Vs Belgium",
+            "eventInfo": {
+                "teamA": "New Zealand",
+                "teamB": "Belgium",
+                "teamAFlag": "https://flagcdn.com/64x48/nz.png",
+                "teamBFlag": "https://flagcdn.com/64x48/be.png",
+                "eventName": "Fifa World Cup 2026",
+                "startTime": "27-06-2026 12:30 AM"
+            },
+            "streams": []
+        },
+        {
+            "status": "LIVE",
+            "Category": "Football",
+            "event_name": "Egypt Vs Iran",
+            "eventInfo": {
+                "teamA": "Egypt",
+                "teamB": "Iran",
+                "teamAFlag": "https://flagcdn.com/64x48/eg.png",
+                "teamBFlag": "https://flagcdn.com/64x48/ir.png",
+                "eventName": "Fifa World Cup 2026",
+                "startTime": "27-06-2026 12:30 AM"
+            },
+            "streams": []
+        },
+        {
+            "status": "LIVE",
+            "Category": "Football",
+            "event_name": "Croatia Vs Ghana",
+            "eventInfo": {
+                "teamA": "Croatia",
+                "teamB": "Ghana",
+                "teamAFlag": "https://flagcdn.com/64x48/hr.png",
+                "teamBFlag": "https://flagcdn.com/64x48/gh.png",
+                "eventName": "Fifa World Cup 2026",
+                "startTime": "27-06-2026 12:30 AM"
+            },
+            "streams": []
+        },
+        {
+            "status": "LIVE",
+            "Category": "Football",
+            "event_name": "Panama Vs England",
+            "eventInfo": {
+                "teamA": "Panama",
+                "teamB": "England",
+                "teamAFlag": "https://flagcdn.com/64x48/pa.png",
+                "teamBFlag": "https://flagcdn.com/64x48/gb-eng.png",
+                "eventName": "Fifa World Cup 2026",
+                "startTime": "27-06-2026 12:30 AM"
+            },
+            "streams": []
+        },
+        {
+            "status": "LIVE",
+            "Category": "Football",
+            "event_name": "Dr Congo Vs Uzbekistan",
+            "eventInfo": {
+                "teamA": "Dr Congo",
+                "teamB": "Uzbekistan",
+                "teamAFlag": "https://flagcdn.com/64x48/cd.png",
+                "teamBFlag": "https://flagcdn.com/64x48/uz.png",
+                "eventName": "Fifa World Cup 2026",
+                "startTime": "27-06-2026 12:30 AM"
+            },
+            "streams": []
+        },
+        {
+            "status": "LIVE",
+            "Category": "Football",
+            "event_name": "Jordan Vs Argentina",
+            "eventInfo": {
+                "teamA": "Jordan",
+                "teamB": "Argentina",
+                "teamAFlag": "https://flagcdn.com/64x48/jo.png",
+                "teamBFlag": "https://flagcdn.com/64x48/ar.png",
+                "eventName": "Fifa World Cup 2026",
+                "startTime": "27-06-2026 12:30 AM"
+            },
+            "streams": []
+        },
+        {
+            "status": "LIVE",
+            "Category": "Cricket",
+            "event_name": "T20 Blast 2026 - Kent Vs Nottinghamshire",
+            "eventInfo": {
+                "teamA": "Kent",
+                "teamB": "Nottinghamshire",
+                "teamAFlag": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.bab3cc8b-51e9-456f-a3c9-2967b7d3dbed/3/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+                "teamBFlag": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.bab3cc8b-51e9-456f-a3c9-2967b7d3dbed/3/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+                "eventName": "T20 Blast 2026 - Kent Vs Nottinghamshire",
+                "startTime": "11:30 PM BDT"
+            },
+            "streams": [
+                {
+                    "stream_url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/nfiuspvxu2/out/v1/3537dbcd2a854e91aa9a02c00da7c9a6/cenc.mpd",
+                    "drm_key": "c6754e804c707c6df87c1352704766a6:3c33f7faf1a0ebb20f2fdf744d15ebe1"
+                }
+            ]
         },
         {
             "status": "LIVE",
@@ -459,20 +300,6 @@
                     "drm_key": "3a30b4c29151709f4878395d7246a150:825bd600ed2fa677195974879847a11e"
                 }
             ]
-        },
-        {
-            "status": "LIVE",
-            "Category": "Football",
-            "event_name": "Brazil Vs Japan",
-            "eventInfo": {
-                "teamA": "Brazil",
-                "teamB": "Japan",
-                "teamAFlag": "https://flagcdn.com/64x48/br.png",
-                "teamBFlag": "https://flagcdn.com/64x48/jp.png",
-                "eventName": "Fifa World Cup 2026",
-                "startTime": "27-06-2026 12:00 AM"
-            },
-            "streams": []
         },
         {
             "status": "LIVE",
@@ -531,6 +358,20 @@
         {
             "status": "LIVE",
             "Category": "Football",
+            "event_name": "Brazil Vs Japan",
+            "eventInfo": {
+                "teamA": "Brazil",
+                "teamB": "Japan",
+                "teamAFlag": "https://flagcdn.com/64x48/br.png",
+                "teamBFlag": "https://flagcdn.com/64x48/jp.png",
+                "eventName": "Fifa World Cup 2026",
+                "startTime": "27-06-2026 12:30 AM"
+            },
+            "streams": []
+        },
+        {
+            "status": "LIVE",
+            "Category": "Football",
             "event_name": "South Africa Vs Canada",
             "eventInfo": {
                 "teamA": "South Africa",
@@ -538,7 +379,7 @@
                 "teamAFlag": "https://flagcdn.com/64x48/za.png",
                 "teamBFlag": "https://flagcdn.com/64x48/ca.png",
                 "eventName": "Fifa World Cup 2026",
-                "startTime": "27-06-2026 12:00 AM"
+                "startTime": "27-06-2026 12:30 AM"
             },
             "streams": []
         },
@@ -552,107 +393,32 @@
                 "teamAFlag": "https://flagcdn.com/64x48/dz.png",
                 "teamBFlag": "https://flagcdn.com/64x48/at.png",
                 "eventName": "Fifa World Cup 2026",
-                "startTime": "27-06-2026 12:00 AM"
+                "startTime": "27-06-2026 12:30 AM"
             },
             "streams": []
         },
         {
             "status": "LIVE",
-            "Category": "Football",
-            "event_name": "Jordan Vs Argentina",
+            "Category": "Utr Pro Budapest",
+            "event_name": "Kornel Halmos Vs Aron Janos Major | Utr Pro Budapest",
             "eventInfo": {
-                "teamA": "Jordan",
-                "teamB": "Argentina",
-                "teamAFlag": "https://flagcdn.com/64x48/jo.png",
-                "teamBFlag": "https://flagcdn.com/64x48/ar.png",
-                "eventName": "Fifa World Cup 2026",
-                "startTime": "27-06-2026 12:00 AM"
+                "teamA": "Kornel Halmos",
+                "teamB": "Aron Janos Major",
+                "teamAFlag": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
+                "teamBFlag": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
+                "eventName": "Utr Pro Budapest",
+                "startTime": "Live Now"
             },
-            "streams": []
-        },
-        {
-            "status": "LIVE",
-            "Category": "Football",
-            "event_name": "Dr Congo Vs Uzbekistan",
-            "eventInfo": {
-                "teamA": "Dr Congo",
-                "teamB": "Uzbekistan",
-                "teamAFlag": "https://flagcdn.com/64x48/cd.png",
-                "teamBFlag": "https://flagcdn.com/64x48/uz.png",
-                "eventName": "Fifa World Cup 2026",
-                "startTime": "27-06-2026 12:00 AM"
-            },
-            "streams": []
-        },
-        {
-            "status": "LIVE",
-            "Category": "Football",
-            "event_name": "Colombia Vs Portugal",
-            "eventInfo": {
-                "teamA": "Colombia",
-                "teamB": "Portugal",
-                "teamAFlag": "https://flagcdn.com/64x48/co.png",
-                "teamBFlag": "https://flagcdn.com/64x48/pt.png",
-                "eventName": "Fifa World Cup 2026",
-                "startTime": "27-06-2026 12:00 AM"
-            },
-            "streams": []
-        },
-        {
-            "status": "LIVE",
-            "Category": "Football",
-            "event_name": "Croatia Vs Ghana",
-            "eventInfo": {
-                "teamA": "Croatia",
-                "teamB": "Ghana",
-                "teamAFlag": "https://flagcdn.com/64x48/hr.png",
-                "teamBFlag": "https://flagcdn.com/64x48/gh.png",
-                "eventName": "Fifa World Cup 2026",
-                "startTime": "27-06-2026 12:00 AM"
-            },
-            "streams": []
-        },
-        {
-            "status": "LIVE",
-            "Category": "Football",
-            "event_name": "Panama Vs England",
-            "eventInfo": {
-                "teamA": "Panama",
-                "teamB": "England",
-                "teamAFlag": "https://flagcdn.com/64x48/pa.png",
-                "teamBFlag": "https://flagcdn.com/64x48/gb-eng.png",
-                "eventName": "Fifa World Cup 2026",
-                "startTime": "27-06-2026 12:00 AM"
-            },
-            "streams": []
-        },
-        {
-            "status": "LIVE",
-            "Category": "Football",
-            "event_name": "Egypt Vs Iran",
-            "eventInfo": {
-                "teamA": "Egypt",
-                "teamB": "Iran",
-                "teamAFlag": "https://flagcdn.com/64x48/eg.png",
-                "teamBFlag": "https://flagcdn.com/64x48/ir.png",
-                "eventName": "Fifa World Cup 2026",
-                "startTime": "27-06-2026 12:00 AM"
-            },
-            "streams": []
-        },
-        {
-            "status": "LIVE",
-            "Category": "Football",
-            "event_name": "New Zealand Vs Belgium",
-            "eventInfo": {
-                "teamA": "New Zealand",
-                "teamB": "Belgium",
-                "teamAFlag": "https://flagcdn.com/64x48/nz.png",
-                "teamBFlag": "https://flagcdn.com/64x48/be.png",
-                "eventName": "Fifa World Cup 2026",
-                "startTime": "27-06-2026 12:00 AM"
-            },
-            "streams": []
+            "streams": [
+                {
+                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3e94734b4d858b859940f5/chunks.m3u8?is_vip=false&token=43cbd8ae895c16a52dd4f9ea96510fd3d36856e3&x-sign=25e44dc24e29f5b5800da267c2b634b2&x-time=1782497880",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3e94734b4d858b859940f5/chunks.m3u8?is_vip=false&token=1782584325-Kv4cPTAAP5YTi-43cbd8ae895c16a52dd4f9ea96510fd3d36856e3-753a5a9448c228e8ec78b4184a7a2f48",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
         },
         {
             "status": "LIVE",
@@ -673,212 +439,11 @@
         },
         {
             "status": "LIVE",
-            "Category": "Utr Pro Budapest Women",
-            "event_name": "Panna Bartha Vs Kitti Molnar | Utr Pro Budapest Women",
-            "eventInfo": {
-                "teamA": "Panna Bartha",
-                "teamB": "Kitti Molnar",
-                "teamAFlag": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
-                "teamBFlag": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
-                "eventName": "Utr Pro Budapest Women",
-                "startTime": "Live Now"
-            },
-            "streams": [
-                {
-                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3e947357b14e876d435a43/chunks.m3u8?is_vip=false&token=da4deb22beaf87fb5ed04bcbc2c9ff03d1b58b41&x-sign=f368bf45d576ba2ed481bab252dd8f5f&x-time=1782496080",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3e947357b14e876d435a43/chunks.m3u8?is_vip=false&token=1782582526-Kv4cPTAAP5YTi-da4deb22beaf87fb5ed04bcbc2c9ff03d1b58b41-de0e0314cee4b53bcd6e22403e50b200",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "Category": "M15 Wuning Md",
-            "event_name": "Purcell/zhao Vs Casey Alcantara/hsieh | M15 Wuning Md",
-            "eventInfo": {
-                "teamA": "Purcell/zhao",
-                "teamB": "Casey Alcantara/hsieh",
-                "teamAFlag": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
-                "teamBFlag": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
-                "eventName": "M15 Wuning Md",
-                "startTime": "Live Now"
-            },
-            "streams": [
-                {
-                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3e866d9a1d202ef6406a57/chunks.m3u8?is_vip=false&token=da4deb22beaf87fb5ed04bcbc2c9ff03d1b58b41&x-sign=a82ac766a13c7baf68e9ef245c06dfb7&x-time=1782496140",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3e866d9a1d202ef6406a57/chunks.m3u8?is_vip=false&token=1782582541-Kv4cPTAAP5YTi-da4deb22beaf87fb5ed04bcbc2c9ff03d1b58b41-ff32ebd0157d2ebaf85c3288b6a5eb95",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "Category": "Premier Padel Valladolid Women",
-            "event_name": "Brea/triay Vs Ustero/sanchez | Premier Padel Valladolid Women",
-            "eventInfo": {
-                "teamA": "Brea/triay",
-                "teamB": "Ustero/sanchez",
-                "teamAFlag": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
-                "teamBFlag": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
-                "eventName": "Premier Padel Valladolid Women",
-                "startTime": "Live Now"
-            },
-            "streams": [
-                {
-                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3e94733c9c35419b83f58d/chunks.m3u8?is_vip=false&token=da4deb22beaf87fb5ed04bcbc2c9ff03d1b58b41&x-sign=bdf22846f1ba607a89f37230ad0a928c&x-time=1782496080",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3e94733c9c35419b83f58d/chunks.m3u8?is_vip=false&token=1782582521-Kv4cPTAAP5YTi-da4deb22beaf87fb5ed04bcbc2c9ff03d1b58b41-d61759b157c8dd7010f92e98ee90acde",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "Category": "Utr Pro Knoxville Women",
-            "event_name": "Ellie Myers Vs Ellison Reynoldson | Utr Pro Knoxville Women",
-            "eventInfo": {
-                "teamA": "Ellie Myers",
-                "teamB": "Ellison Reynoldson",
-                "teamAFlag": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
-                "teamBFlag": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
-                "eventName": "Utr Pro Knoxville Women",
-                "startTime": "Live Now"
-            },
-            "streams": [
-                {
-                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3ea2a1fd12df158c8f8154/chunks.m3u8?is_vip=false&token=da4deb22beaf87fb5ed04bcbc2c9ff03d1b58b41&x-sign=ff9a64475188b914a8618d2b907ba289&x-time=1782496080",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3ea2a1fd12df158c8f8154/chunks.m3u8?is_vip=false&token=1782582516-Kv4cPTAAP5YTi-da4deb22beaf87fb5ed04bcbc2c9ff03d1b58b41-072af2dc7dec4ee5dc30def00429ea65",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "Category": "Utr Pro Knoxville",
-            "event_name": "Jose Garcia Vs Mitchell Sheldon | Utr Pro Knoxville",
-            "eventInfo": {
-                "teamA": "Jose Garcia",
-                "teamB": "Mitchell Sheldon",
-                "teamAFlag": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
-                "teamBFlag": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
-                "eventName": "Utr Pro Knoxville",
-                "startTime": "Live Now"
-            },
-            "streams": [
-                {
-                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3ea2a17133406e4c142996/chunks.m3u8?is_vip=false&token=da4deb22beaf87fb5ed04bcbc2c9ff03d1b58b41&x-sign=37017f981cdedb63a2a96d1d7f39831f&x-time=1782496080",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3ea2a17133406e4c142996/chunks.m3u8?is_vip=false&token=1782582510-Kv4cPTAAP5YTi-da4deb22beaf87fb5ed04bcbc2c9ff03d1b58b41-8079dc15525768cfe03fc0a165f1a654",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "Category": "Utr Pro Knoxville",
-            "event_name": "Roberto Ferrer Guimaraes Vs Alejandro Moreno | Utr Pro Knoxville",
-            "eventInfo": {
-                "teamA": "Roberto Ferrer Guimaraes",
-                "teamB": "Alejandro Moreno",
-                "teamAFlag": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
-                "teamBFlag": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
-                "eventName": "Utr Pro Knoxville",
-                "startTime": "Live Now"
-            },
-            "streams": [
-                {
-                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3ea2a1f65afa224ebf6092/chunks.m3u8?is_vip=false&token=da4deb22beaf87fb5ed04bcbc2c9ff03d1b58b41&x-sign=d1869b50703aa63eddd1789be04ca739&x-time=1782496080",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3ea2a1f65afa224ebf6092/chunks.m3u8?is_vip=false&token=1782582505-Kv4cPTAAP5YTi-da4deb22beaf87fb5ed04bcbc2c9ff03d1b58b41-a730eee5f37d574bcb1e7ec6cc96efde",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "Category": "Utr Pro Knoxville Women",
-            "event_name": "Gabrielle Guenther Vs Natalie Oliver | Utr Pro Knoxville Women",
-            "eventInfo": {
-                "teamA": "Gabrielle Guenther",
-                "teamB": "Natalie Oliver",
-                "teamAFlag": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
-                "teamBFlag": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
-                "eventName": "Utr Pro Knoxville Women",
-                "startTime": "Live Now"
-            },
-            "streams": [
-                {
-                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3ea2a1074b83da013e6ec2/chunks.m3u8?is_vip=false&token=da4deb22beaf87fb5ed04bcbc2c9ff03d1b58b41&x-sign=7b633fc8b94ce53b5aba082dc992ae4d&x-time=1782496080",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3ea2a1074b83da013e6ec2/chunks.m3u8?is_vip=false&token=1782582500-Kv4cPTAAP5YTi-da4deb22beaf87fb5ed04bcbc2c9ff03d1b58b41-a36d02e662a333bed8a3fa0e200f1c44",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "event_name": "West Indies Vs Sri Lanka",
-            "eventInfo": {
-                "teamA": "West Indies",
-                "teamB": "Sri Lanka",
-                "teamAFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1782112155540x302.jpg",
-                "teamBFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1782112155540x302.jpg",
-                "eventName": "Sri Lanka Tour Of West Indies 2026",
-                "startTime": "25-06-2026 08:00 PM"
-            },
-            "streams": [
-                {
-                    "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T@p305t@P!23@25!95/master.m3u8?hdnts=exp=1782497118~acl=/hls/*~hmac=3afb7dd6903a99fef1c8cf9e9cb05b0dc5285de44a18cf2b06c471ad4dd485dd"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "Category": "W15 Maanshan Wd",
-            "event_name": "Li/luo Vs Guo/zhu | W15 Maanshan Wd",
-            "eventInfo": {
-                "teamA": "Li/luo",
-                "teamB": "Guo/zhu",
-                "teamAFlag": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
-                "teamBFlag": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
-                "eventName": "W15 Maanshan Wd",
-                "startTime": "Live Now"
-            },
-            "streams": [
-                {
-                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3e94738cf75300573de7fa/chunks.m3u8?is_vip=false&token=da4deb22beaf87fb5ed04bcbc2c9ff03d1b58b41&x-sign=d733ba3b1746ae9adb796b5c9bee5c38&x-time=1782496200",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3e94738cf75300573de7fa/chunks.m3u8?is_vip=false&token=1782582631-Kv4cPTAAP5YTi-da4deb22beaf87fb5ed04bcbc2c9ff03d1b58b41-d786b2e217f3c1f1e9b968fb8c1a9003",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
             "Category": "Utr Pro Budapest",
-            "event_name": "Aron Janos Major Vs Marcell Bartakovics | Utr Pro Budapest",
+            "event_name": "Charlie Swaine Vs Peter Sallay | Utr Pro Budapest",
             "eventInfo": {
-                "teamA": "Aron Janos Major",
-                "teamB": "Marcell Bartakovics",
+                "teamA": "Charlie Swaine",
+                "teamB": "Peter Sallay",
                 "teamAFlag": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
                 "teamBFlag": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
                 "eventName": "Utr Pro Budapest",
@@ -886,126 +451,11 @@
             },
             "streams": [
                 {
-                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3e866dd06bfc5094a95deb/chunks.m3u8?is_vip=false&token=da4deb22beaf87fb5ed04bcbc2c9ff03d1b58b41&x-sign=81a50271f094906efe511050c1acaeb0&x-time=1782496140",
+                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3e947332c497f673350940/chunks.m3u8?is_vip=false&token=43cbd8ae895c16a52dd4f9ea96510fd3d36856e3&x-sign=b494f26313284e77801c78bb9a6d088d&x-time=1782497880",
                     "stream_referer": "https://iframe.rumsport10.live/"
                 },
                 {
-                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3e866dd06bfc5094a95deb/chunks.m3u8?is_vip=false&token=1782582546-Kv4cPTAAP5YTi-da4deb22beaf87fb5ed04bcbc2c9ff03d1b58b41-900bb514513e33991352c771d50f5ea8",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "Category": "Utr Pro Budapest",
-            "event_name": "Mate Valkusz Vs Matei Florin Breazu | Utr Pro Budapest",
-            "eventInfo": {
-                "teamA": "Mate Valkusz",
-                "teamB": "Matei Florin Breazu",
-                "teamAFlag": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
-                "teamBFlag": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
-                "eventName": "Utr Pro Budapest",
-                "startTime": "Live Now"
-            },
-            "streams": [
-                {
-                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3e866dfd12df158c8ed0d9/chunks.m3u8?is_vip=false&token=da4deb22beaf87fb5ed04bcbc2c9ff03d1b58b41&x-sign=66f538e0bacd5a07b8b8401fb6f2ce74&x-time=1782496140",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3e866dfd12df158c8ed0d9/chunks.m3u8?is_vip=false&token=1782582551-Kv4cPTAAP5YTi-da4deb22beaf87fb5ed04bcbc2c9ff03d1b58b41-616a2ba399c06cecd8dfc7280e9735a1",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "Category": "Utr Pro Match Series",
-            "event_name": "Maxwell Castle Vs Riccardo Campagnola | Utr Pro Match Series",
-            "eventInfo": {
-                "teamA": "Maxwell Castle",
-                "teamB": "Riccardo Campagnola",
-                "teamAFlag": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
-                "teamBFlag": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
-                "eventName": "Utr Pro Match Series",
-                "startTime": "Live Now"
-            },
-            "streams": [
-                {
-                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3e9473774cbee6e56b4f44/chunks.m3u8?is_vip=false&token=da4deb22beaf87fb5ed04bcbc2c9ff03d1b58b41&x-sign=3f0341227e8c4ba1549461c24b3cb82b&x-time=1782496140",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3e9473774cbee6e56b4f44/chunks.m3u8?is_vip=false&token=1782582599-Kv4cPTAAP5YTi-da4deb22beaf87fb5ed04bcbc2c9ff03d1b58b41-ebaa9f3ea860c265fe1823e2c8aaaba9",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "Category": "W15 Maanshan",
-            "event_name": "Jiaqi Wang Vs Meiqi Guo | W15 Maanshan",
-            "eventInfo": {
-                "teamA": "Jiaqi Wang",
-                "teamB": "Meiqi Guo",
-                "teamAFlag": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
-                "teamBFlag": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
-                "eventName": "W15 Maanshan",
-                "startTime": "Live Now"
-            },
-            "streams": [
-                {
-                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3e94736618c8c6840cbd0e/chunks.m3u8?is_vip=false&token=da4deb22beaf87fb5ed04bcbc2c9ff03d1b58b41&x-sign=122afff274b2366dc8d533e13be8d9fe&x-time=1782496200",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3e94736618c8c6840cbd0e/chunks.m3u8?is_vip=false&token=1782582620-Kv4cPTAAP5YTi-da4deb22beaf87fb5ed04bcbc2c9ff03d1b58b41-6a38d20c025ad5d3835bdc93e9dd248b",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "Category": "W15 Maanshan",
-            "event_name": "Evialina Laskevich Vs Eva Marie Desvignes | W15 Maanshan",
-            "eventInfo": {
-                "teamA": "Evialina Laskevich",
-                "teamB": "Eva Marie Desvignes",
-                "teamAFlag": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
-                "teamBFlag": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
-                "eventName": "W15 Maanshan",
-                "startTime": "Live Now"
-            },
-            "streams": [
-                {
-                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3e9473bb875b4ddf15b4a6/chunks.m3u8?is_vip=false&token=da4deb22beaf87fb5ed04bcbc2c9ff03d1b58b41&x-sign=38946f72f829813977b915173a79e908&x-time=1782496200",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3e9473bb875b4ddf15b4a6/chunks.m3u8?is_vip=false&token=1782582626-Kv4cPTAAP5YTi-da4deb22beaf87fb5ed04bcbc2c9ff03d1b58b41-448dda0d6f4aeed7de0618812cfe27f6",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "Category": "Utr Pro Budapest",
-            "event_name": "Trisztan Gubi Vs Botond Kisantal | Utr Pro Budapest",
-            "eventInfo": {
-                "teamA": "Trisztan Gubi",
-                "teamB": "Botond Kisantal",
-                "teamAFlag": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
-                "teamBFlag": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
-                "eventName": "Utr Pro Budapest",
-                "startTime": "Live Now"
-            },
-            "streams": [
-                {
-                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3ea2a1d06bfc5094aa0877/chunks.m3u8?is_vip=false&token=da4deb22beaf87fb5ed04bcbc2c9ff03d1b58b41&x-sign=60660e41bbf6339273a1544414ec9c93&x-time=1782496080",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3ea2a1d06bfc5094aa0877/chunks.m3u8?is_vip=false&token=1782582490-Kv4cPTAAP5YTi-da4deb22beaf87fb5ed04bcbc2c9ff03d1b58b41-107f71aa2615dee178d3a154ea07e954",
+                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3e947332c497f673350940/chunks.m3u8?is_vip=false&token=1782584320-Kv4cPTAAP5YTi-43cbd8ae895c16a52dd4f9ea96510fd3d36856e3-beee2f1cff276d6f60ef5f682d1d6fb4",
                     "stream_referer": "https://iframe.rumsport10.live/"
                 }
             ]
@@ -1024,57 +474,231 @@
             },
             "streams": [
                 {
-                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3e94738cb9e8c43bef0b51/chunks.m3u8?is_vip=false&token=da4deb22beaf87fb5ed04bcbc2c9ff03d1b58b41&x-sign=d8186cce01a26901fffde6b6ea0185fd&x-time=1782496200",
+                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3e94738cb9e8c43bef0b51/chunks.m3u8?is_vip=false&token=43cbd8ae895c16a52dd4f9ea96510fd3d36856e3&x-sign=86dc9c7e410add4af11fde29dcdb1030&x-time=1782497880",
                     "stream_referer": "https://iframe.rumsport10.live/"
                 },
                 {
-                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3e94738cb9e8c43bef0b51/chunks.m3u8?is_vip=false&token=1782582636-Kv4cPTAAP5YTi-da4deb22beaf87fb5ed04bcbc2c9ff03d1b58b41-4b24ecb2a5c1e3d8cd2f0d750951b81e",
+                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3e94738cb9e8c43bef0b51/chunks.m3u8?is_vip=false&token=1782584315-Kv4cPTAAP5YTi-43cbd8ae895c16a52dd4f9ea96510fd3d36856e3-8cf6a4963de7b5ef97d2d6df0ee571d2",
                     "stream_referer": "https://iframe.rumsport10.live/"
                 }
             ]
         },
         {
             "status": "LIVE",
-            "Category": "Utr Pro Budapest",
-            "event_name": "Charlie Swaine Vs Peter Sallay | Utr Pro Budapest",
+            "Category": "W15 Maanshan Wd",
+            "event_name": "Li/luo Vs Guo/zhu | W15 Maanshan Wd",
             "eventInfo": {
-                "teamA": "Charlie Swaine",
-                "teamB": "Peter Sallay",
+                "teamA": "Li/luo",
+                "teamB": "Guo/zhu",
                 "teamAFlag": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
                 "teamBFlag": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
-                "eventName": "Utr Pro Budapest",
+                "eventName": "W15 Maanshan Wd",
                 "startTime": "Live Now"
             },
             "streams": [
                 {
-                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3e947332c497f673350940/chunks.m3u8?is_vip=false&token=da4deb22beaf87fb5ed04bcbc2c9ff03d1b58b41&x-sign=7cbbac275bf8f8369d93e29ec5dca6cd&x-time=1782496200",
+                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3e94738cf75300573de7fa/chunks.m3u8?is_vip=false&token=43cbd8ae895c16a52dd4f9ea96510fd3d36856e3&x-sign=dc40c4b33afd46e5eb330d1dfd889dac&x-time=1782497880",
                     "stream_referer": "https://iframe.rumsport10.live/"
                 },
                 {
-                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3e947332c497f673350940/chunks.m3u8?is_vip=false&token=1782582641-Kv4cPTAAP5YTi-da4deb22beaf87fb5ed04bcbc2c9ff03d1b58b41-7ef9b815dc7644f95dbb39c2413782d0",
+                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3e94738cf75300573de7fa/chunks.m3u8?is_vip=false&token=1782584310-Kv4cPTAAP5YTi-43cbd8ae895c16a52dd4f9ea96510fd3d36856e3-6a93e1c93f7660a3c9af19f3f1059fa3",
                     "stream_referer": "https://iframe.rumsport10.live/"
                 }
             ]
         },
         {
             "status": "LIVE",
-            "Category": "Utr Pro Budapest",
-            "event_name": "Kornel Halmos Vs Aron Janos Major | Utr Pro Budapest",
+            "Category": "Auto Racing",
+            "event_name": "Spielberg, Austria | Porsche Mobil 1 Supercup Practice",
             "eventInfo": {
-                "teamA": "Kornel Halmos",
-                "teamB": "Aron Janos Major",
-                "teamAFlag": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
-                "teamBFlag": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
-                "eventName": "Utr Pro Budapest",
+                "teamA": "",
+                "teamB": "",
+                "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
+                "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
+                "eventName": "Porsche Mobil 1 Supercup Practice",
                 "startTime": "Live Now"
             },
             "streams": [
                 {
-                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3e94734b4d858b859940f5/chunks.m3u8?is_vip=false&token=da4deb22beaf87fb5ed04bcbc2c9ff03d1b58b41&x-sign=a3859b3579a113c1180652d9388a81c1&x-time=1782496200",
+                    "stream_url 1": "https://livecdn-tc-iptv.rumsport10.live/live_abr/239/720p/chunks.m3u8?is_vip=false&token=1782584305-Kv4cPTAAP5YTi-43cbd8ae895c16a52dd4f9ea96510fd3d36856e3-deb45a83fbce1743da496b08f25e91f7",
                     "stream_referer": "https://iframe.rumsport10.live/"
                 },
                 {
-                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3e94734b4d858b859940f5/chunks.m3u8?is_vip=false&token=1782582646-Kv4cPTAAP5YTi-da4deb22beaf87fb5ed04bcbc2c9ff03d1b58b41-3b420f3b10e7b82059b5ccc822f843bc",
+                    "stream_url 2": "https://livecdn-bp-iptv.rumsport7.live/live_abr/239/720p/chunks.m3u8?is_vip=false&token=43cbd8ae895c16a52dd4f9ea96510fd3d36856e3&x-sign=d8eb147f9f01feff9ab57a1601f194a4&x-time=1782497880",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "event_name": "West Indies Vs Sri Lanka",
+            "eventInfo": {
+                "teamA": "West Indies",
+                "teamB": "Sri Lanka",
+                "teamAFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1782112155540x302.jpg",
+                "teamBFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1782112155540x302.jpg",
+                "eventName": "Sri Lanka Tour Of West Indies 2026",
+                "startTime": "25-06-2026 08:00 PM"
+            },
+            "streams": [
+                {
+                    "stream_url": "https://saseries.akamaized.net/hls/live/2110097/T@p305t@P!23@25!95/master.m3u8?hdnts=exp=1782498907~acl=/hls/*~hmac=cf6cfa0f1b066f232f919c6115d6ec20d0b3ad6b90de603b4b752841e6408545"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Division 2 - Norra Svealand",
+            "event_name": "Kungsängen Vs Skiljebo | Division 2 - Norra Svealand",
+            "eventInfo": {
+                "teamA": "Kungsängen",
+                "teamB": "Skiljebo",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/12582.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/12584.png",
+                "eventName": "Division 2 - Norra Svealand",
+                "startTime": "Live Now"
+            },
+            "streams": []
+        },
+        {
+            "status": "LIVE",
+            "Category": "David Kipiani Cup",
+            "event_name": "Dinamo Sokhumi Vs Gonio | David Kipiani Cup",
+            "eventInfo": {
+                "teamA": "Dinamo Sokhumi",
+                "teamB": "Gonio",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/27794.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/18973.png",
+                "eventName": "David Kipiani Cup",
+                "startTime": "Live Now"
+            },
+            "streams": []
+        },
+        {
+            "status": "LIVE",
+            "Category": "Utr Pro Knoxville Women",
+            "event_name": "Georgia Kulevich Vs Lillie Murphy | Utr Pro Knoxville Women",
+            "eventInfo": {
+                "teamA": "Georgia Kulevich",
+                "teamB": "Lillie Murphy",
+                "teamAFlag": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
+                "teamBFlag": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
+                "eventName": "Utr Pro Knoxville Women",
+                "startTime": "Live Now"
+            },
+            "streams": [
+                {
+                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3eb086a53630615976c344/chunks.m3u8?is_vip=false&token=43cbd8ae895c16a52dd4f9ea96510fd3d36856e3&x-sign=bba2b119e4426033df555a23fbc305d6&x-time=1782497880",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3eb086a53630615976c344/chunks.m3u8?is_vip=false&token=1782584291-Kv4cPTAAP5YTi-43cbd8ae895c16a52dd4f9ea96510fd3d36856e3-43d41e3cab7636ba89dee2f07a798595",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Copa De La Liga",
+            "event_name": "Utc Cajamarca Vs Fc Cajamarca | Copa De La Liga",
+            "eventInfo": {
+                "teamA": "Utc Cajamarca",
+                "teamB": "Fc Cajamarca",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2539.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/22543.png",
+                "eventName": "Copa De La Liga",
+                "startTime": "Live Now"
+            },
+            "streams": [
+                {
+                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a268b9f921695c544c5ae71/chunks.m3u8?is_vip=false&token=43cbd8ae895c16a52dd4f9ea96510fd3d36856e3&x-sign=ce7e931c9a5e76e29327eaacafd65eb9&x-time=1782497880",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a268b9f921695c544c5ae71/chunks.m3u8?is_vip=false&token=1782584286-Kv4cPTAAP5YTi-43cbd8ae895c16a52dd4f9ea96510fd3d36856e3-18073d0049b2d6d4cea067295061a132",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Usl League Two",
+            "event_name": "Brevard Vs Weston | Usl League Two",
+            "eventInfo": {
+                "teamA": "Brevard",
+                "teamB": "Weston",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/21281.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/4101.png",
+                "eventName": "Usl League Two",
+                "startTime": "Live Now"
+            },
+            "streams": [
+                {
+                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a383bd430392eaef42e52f3/chunks.m3u8?is_vip=false&token=43cbd8ae895c16a52dd4f9ea96510fd3d36856e3&x-sign=c881289ebe5f351f768db9c3c019e941&x-time=1782497880",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a383bd430392eaef42e52f3/chunks.m3u8?is_vip=false&token=1782584281-Kv4cPTAAP5YTi-43cbd8ae895c16a52dd4f9ea96510fd3d36856e3-9ca6398f5e9c207ea5e60b7a6446ff9f",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Friendlies Clubs",
+            "event_name": "Belfast Celtic Vs Glentoran | Friendlies Clubs",
+            "eventInfo": {
+                "teamA": "Belfast Celtic",
+                "teamB": "Glentoran",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/17138.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/5352.png",
+                "eventName": "Friendlies Clubs",
+                "startTime": "Live Now"
+            },
+            "streams": [
+                {
+                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a383bd430392eaef42e52f3/chunks.m3u8?is_vip=false&token=43cbd8ae895c16a52dd4f9ea96510fd3d36856e3&x-sign=fdb57f494842b58ac6f949c257511138&x-time=1782497820",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a383bd430392eaef42e52f3/chunks.m3u8?is_vip=false&token=1782584276-Kv4cPTAAP5YTi-43cbd8ae895c16a52dd4f9ea96510fd3d36856e3-79ac90682e50107446daf542a29339b0",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Division 2 - Norra Götaland",
+            "event_name": "Skara Vs Herrestads | Division 2 - Norra Götaland",
+            "eventInfo": {
+                "teamA": "Skara",
+                "teamB": "Herrestads",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/25569.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/18422.png",
+                "eventName": "Division 2 - Norra Götaland",
+                "startTime": "Live Now"
+            },
+            "streams": []
+        },
+        {
+            "status": "LIVE",
+            "Category": "Utr Pro Match Series",
+            "event_name": "Maxwell Castle Vs Riccardo Campagnola | Utr Pro Match Series",
+            "eventInfo": {
+                "teamA": "Maxwell Castle",
+                "teamB": "Riccardo Campagnola",
+                "teamAFlag": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
+                "teamBFlag": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
+                "eventName": "Utr Pro Match Series",
+                "startTime": "Live Now"
+            },
+            "streams": [
+                {
+                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3e9473774cbee6e56b4f44/chunks.m3u8?is_vip=false&token=43cbd8ae895c16a52dd4f9ea96510fd3d36856e3&x-sign=128870db8c2343d295c7320b03ee978f&x-time=1782497880",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3e9473774cbee6e56b4f44/chunks.m3u8?is_vip=false&token=1782584334-Kv4cPTAAP5YTi-43cbd8ae895c16a52dd4f9ea96510fd3d36856e3-19c48f0920c1abec5f6d9fe6afc6d27b",
                     "stream_referer": "https://iframe.rumsport10.live/"
                 }
             ]
@@ -1093,80 +717,34 @@
             },
             "streams": [
                 {
-                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3e94734e6abdac61e4afbb/chunks.m3u8?is_vip=false&token=da4deb22beaf87fb5ed04bcbc2c9ff03d1b58b41&x-sign=23c6856e00d2c17138a227d48f6a7070&x-time=1782496200",
+                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3e94734e6abdac61e4afbb/chunks.m3u8?is_vip=false&token=43cbd8ae895c16a52dd4f9ea96510fd3d36856e3&x-sign=a6187d4fbec068daa02b8d971ba69ecc&x-time=1782497880",
                     "stream_referer": "https://iframe.rumsport10.live/"
                 },
                 {
-                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3e94734e6abdac61e4afbb/chunks.m3u8?is_vip=false&token=1782582651-Kv4cPTAAP5YTi-da4deb22beaf87fb5ed04bcbc2c9ff03d1b58b41-1691b15ebb8102f256aae5af31d12529",
+                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3e94734e6abdac61e4afbb/chunks.m3u8?is_vip=false&token=1782584329-Kv4cPTAAP5YTi-43cbd8ae895c16a52dd4f9ea96510fd3d36856e3-4dec8a539aa8b2eb93adca46bf13bbff",
                     "stream_referer": "https://iframe.rumsport10.live/"
                 }
             ]
         },
         {
             "status": "LIVE",
-            "Category": "Friendlies Clubs",
-            "event_name": "Chevremont Vs Roda | Friendlies Clubs",
+            "Category": "Premier League",
+            "event_name": "Arsenal Vs Fc Gomel | Premier League",
             "eventInfo": {
-                "teamA": "Chevremont",
-                "teamB": "Roda",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/3916.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/414.png",
-                "eventName": "Friendlies Clubs",
+                "teamA": "Arsenal",
+                "teamB": "Fc Gomel",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/teams/150e40dffbd7e46bbeeb9e12d2aabf00.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/389.png",
+                "eventName": "Premier League",
                 "startTime": "Live Now"
             },
             "streams": [
                 {
-                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a383bd430392eaef42e52f2/chunks.m3u8?is_vip=false&token=da4deb22beaf87fb5ed04bcbc2c9ff03d1b58b41&x-sign=55d90d13049d5dbdc0f85d545aa4fe9d&x-time=1782496200",
+                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a1ef6fce00a454ca8461a41/chunks.m3u8?is_vip=false&token=43cbd8ae895c16a52dd4f9ea96510fd3d36856e3&x-sign=c01c487d882f854e5275621a5bc180af&x-time=1782497940",
                     "stream_referer": "https://iframe.rumsport10.live/"
                 },
                 {
-                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a383bd430392eaef42e52f2/chunks.m3u8?is_vip=false&token=1782582656-Kv4cPTAAP5YTi-da4deb22beaf87fb5ed04bcbc2c9ff03d1b58b41-5d27542220a7717040090a13bd268ecb",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "Category": "Utr Pro Budapest Women",
-            "event_name": "Diana Smolinskaya Vs Cara Korhonen | Utr Pro Budapest Women",
-            "eventInfo": {
-                "teamA": "Diana Smolinskaya",
-                "teamB": "Cara Korhonen",
-                "teamAFlag": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
-                "teamBFlag": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
-                "eventName": "Utr Pro Budapest Women",
-                "startTime": "Live Now"
-            },
-            "streams": [
-                {
-                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3ea2a1ebc5c3ef2c66794c/chunks.m3u8?is_vip=false&token=da4deb22beaf87fb5ed04bcbc2c9ff03d1b58b41&x-sign=4a2dabc5a64fb06d550ef4319352b84f&x-time=1782496080",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3ea2a1ebc5c3ef2c66794c/chunks.m3u8?is_vip=false&token=1782582495-Kv4cPTAAP5YTi-da4deb22beaf87fb5ed04bcbc2c9ff03d1b58b41-764c4c20dee8cf3d9218a0a2c90a2376",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "Category": "W35 Tarvisio Wd",
-            "event_name": "Kucmova/laboutkova Vs Sakellaridi/zelnickova | W35 Tarvisio Wd",
-            "eventInfo": {
-                "teamA": "Kucmova/laboutkova",
-                "teamB": "Sakellaridi/zelnickova",
-                "teamAFlag": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
-                "teamBFlag": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
-                "eventName": "W35 Tarvisio Wd",
-                "startTime": "Live Now"
-            },
-            "streams": [
-                {
-                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3e8edd30bace3974ec6005/chunks.m3u8?is_vip=false&token=da4deb22beaf87fb5ed04bcbc2c9ff03d1b58b41&x-sign=9dcad2dc867db43685b2d0f79f531d0b&x-time=1782496080",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3e8edd30bace3974ec6005/chunks.m3u8?is_vip=false&token=1782582531-Kv4cPTAAP5YTi-da4deb22beaf87fb5ed04bcbc2c9ff03d1b58b41-186ef61dbd06db83d99ca0699c334cb2",
+                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a1ef6fce00a454ca8461a41/chunks.m3u8?is_vip=false&token=1782584394-Kv4cPTAAP5YTi-43cbd8ae895c16a52dd4f9ea96510fd3d36856e3-8fd4ddad112aed4e75f83831488b457d",
                     "stream_referer": "https://iframe.rumsport10.live/"
                 }
             ]
@@ -1174,10 +752,10 @@
         {
             "status": "LIVE",
             "Category": "Utr Pro Budapest Women",
-            "event_name": "Anna Zyryanova Vs Asuncion Jadue | Utr Pro Budapest Women",
+            "event_name": "Panna Bartha Vs Kitti Molnar | Utr Pro Budapest Women",
             "eventInfo": {
-                "teamA": "Anna Zyryanova",
-                "teamB": "Asuncion Jadue",
+                "teamA": "Panna Bartha",
+                "teamB": "Kitti Molnar",
                 "teamAFlag": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
                 "teamBFlag": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
                 "eventName": "Utr Pro Budapest Women",
@@ -1185,11 +763,113 @@
             },
             "streams": [
                 {
-                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3ea2a11ceff89491747247/chunks.m3u8?is_vip=false&token=da4deb22beaf87fb5ed04bcbc2c9ff03d1b58b41&x-sign=1848eb38669aef68fdc22e77a04b929f&x-time=1782496080",
+                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3e947357b14e876d435a43/chunks.m3u8?is_vip=false&token=43cbd8ae895c16a52dd4f9ea96510fd3d36856e3&x-sign=f8ceba0d339338d4ba6174b32af8e0ba&x-time=1782497880",
                     "stream_referer": "https://iframe.rumsport10.live/"
                 },
                 {
-                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3ea2a11ceff89491747247/chunks.m3u8?is_vip=false&token=1782582485-Kv4cPTAAP5YTi-da4deb22beaf87fb5ed04bcbc2c9ff03d1b58b41-c9d5ab0a7848d0aa134b8de4e7c9fe6c",
+                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3e947357b14e876d435a43/chunks.m3u8?is_vip=false&token=1782584339-Kv4cPTAAP5YTi-43cbd8ae895c16a52dd4f9ea96510fd3d36856e3-7536661fe3eb7c0aba718522a97d4a57",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Premier Padel Valladolid Women",
+            "event_name": "Rodriguez/dal Pozzo Vs Gonzalez/josemaria | Premier Padel Valladolid Women",
+            "eventInfo": {
+                "teamA": "Rodriguez/dal Pozzo",
+                "teamB": "Gonzalez/josemaria",
+                "teamAFlag": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
+                "teamBFlag": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
+                "eventName": "Premier Padel Valladolid Women",
+                "startTime": "Live Now"
+            },
+            "streams": [
+                {
+                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3e9473bb875b4ddf15b4a7/chunks.m3u8?is_vip=false&token=43cbd8ae895c16a52dd4f9ea96510fd3d36856e3&x-sign=6f94509621da1629685cc330ab99dcd1&x-time=1782497940",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3e9473bb875b4ddf15b4a7/chunks.m3u8?is_vip=false&token=1782584343-Kv4cPTAAP5YTi-43cbd8ae895c16a52dd4f9ea96510fd3d36856e3-25ed125a594140ba664b43788820fa71",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Premier Padel Valladolid Women",
+            "event_name": "Brea/triay Vs Ustero/sanchez | Premier Padel Valladolid Women",
+            "eventInfo": {
+                "teamA": "Brea/triay",
+                "teamB": "Ustero/sanchez",
+                "teamAFlag": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
+                "teamBFlag": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
+                "eventName": "Premier Padel Valladolid Women",
+                "startTime": "Live Now"
+            },
+            "streams": [
+                {
+                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3e94733c9c35419b83f58d/chunks.m3u8?is_vip=false&token=43cbd8ae895c16a52dd4f9ea96510fd3d36856e3&x-sign=eeb7e8da1711dc93275b2dc07ae2d650&x-time=1782497940",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3e94733c9c35419b83f58d/chunks.m3u8?is_vip=false&token=1782584348-Kv4cPTAAP5YTi-43cbd8ae895c16a52dd4f9ea96510fd3d36856e3-f368f528b023fab3f8a017f7ca51251a",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Segunda División",
+            "event_name": "Santiago City Vs Provincial Ovalle | Segunda División",
+            "eventInfo": {
+                "teamA": "Santiago City",
+                "teamB": "Provincial Ovalle",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/21117.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/18776.png",
+                "eventName": "Segunda División",
+                "startTime": "Live Now"
+            },
+            "streams": []
+        },
+        {
+            "status": "LIVE",
+            "Category": "1 Lyga",
+            "event_name": "Garliava Vs Minija | 1 Lyga",
+            "eventInfo": {
+                "teamA": "Garliava",
+                "teamB": "Minija",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/16674.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/3864.png",
+                "eventName": "1 Lyga",
+                "startTime": "Live Now"
+            },
+            "streams": [
+                {
+                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a1ef6fc1b157de5f59a5392/chunks.m3u8?is_vip=false&token=43cbd8ae895c16a52dd4f9ea96510fd3d36856e3&x-sign=6b7fa6c479acff2a8e8a7f1da63c797c&x-time=1782497940",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a1ef6fc1b157de5f59a5392/chunks.m3u8?is_vip=false&token=1782584365-Kv4cPTAAP5YTi-43cbd8ae895c16a52dd4f9ea96510fd3d36856e3-3346801b1fdfe7dbf02aa3befe3af299",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Darts",
+            "event_name": "Us Darts Masters | Us Darts Masters",
+            "eventInfo": {
+                "teamA": "",
+                "teamB": "",
+                "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
+                "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
+                "eventName": "Us Darts Masters",
+                "startTime": "Live Now"
+            },
+            "streams": [
+                {
+                    "stream_url 1": "https://livecdn-bp-iptv.rumsport7.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=43cbd8ae895c16a52dd4f9ea96510fd3d36856e3&x-sign=2358b078a57d76364e3f88b1b9382d3d&x-time=1782497940",
                     "stream_referer": "https://iframe.rumsport10.live/"
                 }
             ]
@@ -1208,11 +888,273 @@
             },
             "streams": [
                 {
-                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a383bd430392eaef42e52f0/chunks.m3u8?is_vip=false&token=da4deb22beaf87fb5ed04bcbc2c9ff03d1b58b41&x-sign=a3d3510035a7c4d9b98c1afe5e38cd9c&x-time=1782496020",
+                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a383bd430392eaef42e52f0/chunks.m3u8?is_vip=false&token=43cbd8ae895c16a52dd4f9ea96510fd3d36856e3&x-sign=465d33fd1f62678fe82048acde1c7a2d&x-time=1782497940",
                     "stream_referer": "https://iframe.rumsport10.live/"
                 },
                 {
-                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a383bd430392eaef42e52f0/chunks.m3u8?is_vip=false&token=1782582437-Kv4cPTAAP5YTi-da4deb22beaf87fb5ed04bcbc2c9ff03d1b58b41-56562c3b2e54720ee8bfb38c991bed6c",
+                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a383bd430392eaef42e52f0/chunks.m3u8?is_vip=false&token=1782584374-Kv4cPTAAP5YTi-43cbd8ae895c16a52dd4f9ea96510fd3d36856e3-eda36b9d05027e5a2173eafb79e32c58",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Friendlies Clubs",
+            "event_name": "Sturm Graz Vs Mura | Friendlies Clubs",
+            "eventInfo": {
+                "teamA": "Sturm Graz",
+                "teamB": "Mura",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/637.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/4197.png",
+                "eventName": "Friendlies Clubs",
+                "startTime": "Live Now"
+            },
+            "streams": [
+                {
+                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a383bd430392eaef42e52f1/chunks.m3u8?is_vip=false&token=43cbd8ae895c16a52dd4f9ea96510fd3d36856e3&x-sign=5fff490efc273eef4dfdb1f768302c78&x-time=1782497940",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a383bd430392eaef42e52f1/chunks.m3u8?is_vip=false&token=1782584379-Kv4cPTAAP5YTi-43cbd8ae895c16a52dd4f9ea96510fd3d36856e3-0b122fdfe69f39d223f7f14ced5db7e8",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Superettan",
+            "event_name": "Ik Brage Vs Falkenbergs Ff | Superettan",
+            "eventInfo": {
+                "teamA": "Ik Brage",
+                "teamB": "Falkenbergs Ff",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2175.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/812.png",
+                "eventName": "Superettan",
+                "startTime": "Live Now"
+            },
+            "streams": [
+                {
+                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a20487bb5bb08292dbe106c/chunks.m3u8?is_vip=false&token=43cbd8ae895c16a52dd4f9ea96510fd3d36856e3&x-sign=3e69abd3b5683ff4e8291d6b0752d66e&x-time=1782497940",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a20487bb5bb08292dbe106c/chunks.m3u8?is_vip=false&token=1782584384-Kv4cPTAAP5YTi-43cbd8ae895c16a52dd4f9ea96510fd3d36856e3-4dca0cd675cafb222e4ff2b7c0011047",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "stream_url 3": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a20487bb5bb08292dbe106c-fhd/chunks.m3u8?is_vip=false&token=43cbd8ae895c16a52dd4f9ea96510fd3d36856e3&x-sign=3b16440654a824645f6be023016ea938&x-time=1782497940",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "stream_url 4": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a20487bb5bb08292dbe106c-fhd/chunks.m3u8?is_vip=false&token=1782584384-Kv4cPTAAP5YTi-43cbd8ae895c16a52dd4f9ea96510fd3d36856e3-80adbb1fde6a5748b44226dbc4126fe4",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Meistriliiga",
+            "event_name": "Vaprus Vs Kuressaare | Meistriliiga",
+            "eventInfo": {
+                "teamA": "Vaprus",
+                "teamB": "Kuressaare",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/3525.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/3526.png",
+                "eventName": "Meistriliiga",
+                "startTime": "Live Now"
+            },
+            "streams": [
+                {
+                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a1ef6fc1b157de5f59a5394/chunks.m3u8?is_vip=false&token=43cbd8ae895c16a52dd4f9ea96510fd3d36856e3&x-sign=63922010bb456cca9befbcb961d16352&x-time=1782497940",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a1ef6fc1b157de5f59a5394/chunks.m3u8?is_vip=false&token=1782584389-Kv4cPTAAP5YTi-43cbd8ae895c16a52dd4f9ea96510fd3d36856e3-98245a56370397900e4d4c9042975681",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Division 2 - Södra Götaland",
+            "event_name": "Berga Vs Växjö Norra | Division 2 - Södra Götaland",
+            "eventInfo": {
+                "teamA": "Berga",
+                "teamB": "Växjö Norra",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/12612.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/25573.png",
+                "eventName": "Division 2 - Södra Götaland",
+                "startTime": "Live Now"
+            },
+            "streams": []
+        },
+        {
+            "status": "LIVE",
+            "Category": "Ettan - Norra",
+            "event_name": "Sollentuna Vs Afc Eskilstuna | Ettan - Norra",
+            "eventInfo": {
+                "teamA": "Sollentuna",
+                "teamB": "Afc Eskilstuna",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/6699.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/765.png",
+                "eventName": "Ettan - Norra",
+                "startTime": "Live Now"
+            },
+            "streams": [
+                {
+                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a20487bb5bb08292dbe10a0/chunks.m3u8?is_vip=false&token=43cbd8ae895c16a52dd4f9ea96510fd3d36856e3&x-sign=22106093fae9138f75b0d5d137ef39e9&x-time=1782497940",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a20487bb5bb08292dbe10a0/chunks.m3u8?is_vip=false&token=1782584398-Kv4cPTAAP5YTi-43cbd8ae895c16a52dd4f9ea96510fd3d36856e3-31af4a0ad929b0f01a89112a3f699855",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Ettan - Norra",
+            "event_name": "Fbk Karlstad Vs Hammarby Talang | Ettan - Norra",
+            "eventInfo": {
+                "teamA": "Fbk Karlstad",
+                "teamB": "Hammarby Talang",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/12622.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/16596.png",
+                "eventName": "Ettan - Norra",
+                "startTime": "Live Now"
+            },
+            "streams": [
+                {
+                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a20487bb5bb08292dbe10a3/chunks.m3u8?is_vip=false&token=43cbd8ae895c16a52dd4f9ea96510fd3d36856e3&x-sign=1453c683a433cec6da6f9ccd3213d693&x-time=1782498000",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a20487bb5bb08292dbe10a3/chunks.m3u8?is_vip=false&token=1782584403-Kv4cPTAAP5YTi-43cbd8ae895c16a52dd4f9ea96510fd3d36856e3-07c7a936f87a8b6a26892eaba8841fd6",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Ettan - Södra",
+            "event_name": "Kristianstad Vs Trelleborg | Ettan - Södra",
+            "eventInfo": {
+                "teamA": "Kristianstad",
+                "teamB": "Trelleborg",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/11675.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/369.png",
+                "eventName": "Ettan - Södra",
+                "startTime": "Live Now"
+            },
+            "streams": [
+                {
+                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd52123/chunks.m3u8?is_vip=false&token=43cbd8ae895c16a52dd4f9ea96510fd3d36856e3&x-sign=74ab42c135893f176f343f32c4235bae&x-time=1782498000",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd52123/chunks.m3u8?is_vip=false&token=1782584408-Kv4cPTAAP5YTi-43cbd8ae895c16a52dd4f9ea96510fd3d36856e3-bff6e444cc9c1baa52ed6301c99f5731",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Utr Pro Knoxville Women",
+            "event_name": "Sydney Jara Vs Reese Frank | Utr Pro Knoxville Women",
+            "eventInfo": {
+                "teamA": "Sydney Jara",
+                "teamB": "Reese Frank",
+                "teamAFlag": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
+                "teamBFlag": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
+                "eventName": "Utr Pro Knoxville Women",
+                "startTime": "Live Now"
+            },
+            "streams": [
+                {
+                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3eb08632c497f673359ff9/chunks.m3u8?is_vip=false&token=43cbd8ae895c16a52dd4f9ea96510fd3d36856e3&x-sign=afa8697008aa2d8e066f452c422825a2&x-time=1782498000",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3eb08632c497f673359ff9/chunks.m3u8?is_vip=false&token=1782584413-Kv4cPTAAP5YTi-43cbd8ae895c16a52dd4f9ea96510fd3d36856e3-4086f6d15aecb9eab1ac3541541ea170",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Division 2 - Västra Götaland",
+            "event_name": "Dalstorps Vs Lindome | Division 2 - Västra Götaland",
+            "eventInfo": {
+                "teamA": "Dalstorps",
+                "teamB": "Lindome",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/12613.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/6686.png",
+                "eventName": "Division 2 - Västra Götaland",
+                "startTime": "Live Now"
+            },
+            "streams": []
+        },
+        {
+            "status": "LIVE",
+            "Category": "W15 Maanshan",
+            "event_name": "Evialina Laskevich Vs Eva Marie Desvignes | W15 Maanshan",
+            "eventInfo": {
+                "teamA": "Evialina Laskevich",
+                "teamB": "Eva Marie Desvignes",
+                "teamAFlag": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
+                "teamBFlag": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
+                "eventName": "W15 Maanshan",
+                "startTime": "Live Now"
+            },
+            "streams": [
+                {
+                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3e9473bb875b4ddf15b4a6/chunks.m3u8?is_vip=false&token=43cbd8ae895c16a52dd4f9ea96510fd3d36856e3&x-sign=81c86f4deb98ab2dd1da0b9040705f36&x-time=1782497880",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3e9473bb875b4ddf15b4a6/chunks.m3u8?is_vip=false&token=1782584301-Kv4cPTAAP5YTi-43cbd8ae895c16a52dd4f9ea96510fd3d36856e3-b4df2bda4775f6875230437ab8bcb3ac",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "1st Test",
+            "event_name": "West Indies Vs Sri Lanka | 1st Test",
+            "eventInfo": {
+                "teamA": "West Indies",
+                "teamB": "Sri Lanka",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/teams/a519bbeadaec88d0aeafcc113d4723cc.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/5166.png",
+                "eventName": "1st Test",
+                "startTime": "Live Now"
+            },
+            "streams": [
+                {
+                    "stream_url 1": "https://livecdn-bp-livestream.rumsport7.live/stream/20/chunks.m3u8?is_vip=false&token=43cbd8ae895c16a52dd4f9ea96510fd3d36856e3&x-sign=00a99a528e76cf4b49320ea4b9943cd3&x-time=1782497820",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Utr Pro Budapest Women",
+            "event_name": "Diana Smolinskaya Vs Cara Korhonen | Utr Pro Budapest Women",
+            "eventInfo": {
+                "teamA": "Diana Smolinskaya",
+                "teamB": "Cara Korhonen",
+                "teamAFlag": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
+                "teamBFlag": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
+                "eventName": "Utr Pro Budapest Women",
+                "startTime": "Live Now"
+            },
+            "streams": [
+                {
+                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3ea2a1ebc5c3ef2c66794c/chunks.m3u8?is_vip=false&token=43cbd8ae895c16a52dd4f9ea96510fd3d36856e3&x-sign=4e96cd953f53c9b21839b777e3671b6c&x-time=1782497760",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3ea2a1ebc5c3ef2c66794c/chunks.m3u8?is_vip=false&token=1782584219-Kv4cPTAAP5YTi-43cbd8ae895c16a52dd4f9ea96510fd3d36856e3-357731b94b7b5364d83e41df6232cace",
                     "stream_referer": "https://iframe.rumsport10.live/"
                 }
             ]
@@ -1237,6 +1179,117 @@
         },
         {
             "status": "LIVE",
+            "Category": "Icc Women's T20 World Cup",
+            "event_name": "Sri Lanka Vs Scotland | Icc Women's T20 World Cup",
+            "eventInfo": {
+                "teamA": "Sri Lanka",
+                "teamB": "Scotland",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/5166.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1108.png",
+                "eventName": "Icc Women's T20 World Cup",
+                "startTime": "Live Now"
+            },
+            "streams": [
+                {
+                    "stream_url 1": "https://livecdn-bp-iptv.rumsport7.live/live_abr/423/720p/chunks.m3u8?is_vip=false&token=43cbd8ae895c16a52dd4f9ea96510fd3d36856e3&x-sign=48abd2fdf412a7ad56131e5097aa7fa6&x-time=1782497820",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "W15 Maanshan",
+            "event_name": "Jiaqi Wang Vs Meiqi Guo | W15 Maanshan",
+            "eventInfo": {
+                "teamA": "Jiaqi Wang",
+                "teamB": "Meiqi Guo",
+                "teamAFlag": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
+                "teamBFlag": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
+                "eventName": "W15 Maanshan",
+                "startTime": "Live Now"
+            },
+            "streams": [
+                {
+                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3e94736618c8c6840cbd0e/chunks.m3u8?is_vip=false&token=43cbd8ae895c16a52dd4f9ea96510fd3d36856e3&x-sign=0ed5d9bd9857271b75ca70c5a70864ff&x-time=1782497760",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3e94736618c8c6840cbd0e/chunks.m3u8?is_vip=false&token=1782584195-Kv4cPTAAP5YTi-43cbd8ae895c16a52dd4f9ea96510fd3d36856e3-cd0fd9449f89da0b39adfc15a0dbf11b",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Friendlies Clubs",
+            "event_name": "Chevremont Vs Roda | Friendlies Clubs",
+            "eventInfo": {
+                "teamA": "Chevremont",
+                "teamB": "Roda",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/3916.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/414.png",
+                "eventName": "Friendlies Clubs",
+                "startTime": "Live Now"
+            },
+            "streams": [
+                {
+                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a383bd430392eaef42e52f2/chunks.m3u8?is_vip=false&token=43cbd8ae895c16a52dd4f9ea96510fd3d36856e3&x-sign=4a53178a18c7aa40f95aa4347b62a39e&x-time=1782497760",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a383bd430392eaef42e52f2/chunks.m3u8?is_vip=false&token=1782584200-Kv4cPTAAP5YTi-43cbd8ae895c16a52dd4f9ea96510fd3d36856e3-b269922f9a58ea5de535a0e59ffad341",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Utr Pro Budapest Women",
+            "event_name": "Anna Zyryanova Vs Asuncion Jadue | Utr Pro Budapest Women",
+            "eventInfo": {
+                "teamA": "Anna Zyryanova",
+                "teamB": "Asuncion Jadue",
+                "teamAFlag": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
+                "teamBFlag": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
+                "eventName": "Utr Pro Budapest Women",
+                "startTime": "Live Now"
+            },
+            "streams": [
+                {
+                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3ea2a11ceff89491747247/chunks.m3u8?is_vip=false&token=43cbd8ae895c16a52dd4f9ea96510fd3d36856e3&x-sign=15781521690481e51b5b7592a99379dc&x-time=1782497760",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3ea2a11ceff89491747247/chunks.m3u8?is_vip=false&token=1782584209-Kv4cPTAAP5YTi-43cbd8ae895c16a52dd4f9ea96510fd3d36856e3-9775fe1f68c9595246c9e784e3d9b2d0",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
+            "Category": "Utr Pro Budapest",
+            "event_name": "Trisztan Gubi Vs Botond Kisantal | Utr Pro Budapest",
+            "eventInfo": {
+                "teamA": "Trisztan Gubi",
+                "teamB": "Botond Kisantal",
+                "teamAFlag": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
+                "teamBFlag": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
+                "eventName": "Utr Pro Budapest",
+                "startTime": "Live Now"
+            },
+            "streams": [
+                {
+                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3ea2a1d06bfc5094aa0877/chunks.m3u8?is_vip=false&token=43cbd8ae895c16a52dd4f9ea96510fd3d36856e3&x-sign=92061e7e5b998be80b354f85287ff2c8&x-time=1782497760",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3ea2a1d06bfc5094aa0877/chunks.m3u8?is_vip=false&token=1782584214-Kv4cPTAAP5YTi-43cbd8ae895c16a52dd4f9ea96510fd3d36856e3-f582d153dd26357e880f686248fcd226",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                }
+            ]
+        },
+        {
+            "status": "LIVE",
             "Category": "Utr Pro Budapest Women",
             "event_name": "Elizabeth Ivanov Vs Lilly Cvanciger | Utr Pro Budapest Women",
             "eventInfo": {
@@ -1249,145 +1302,154 @@
             },
             "streams": [
                 {
-                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3ea2a1f65afa224ebf6091/chunks.m3u8?is_vip=false&token=da4deb22beaf87fb5ed04bcbc2c9ff03d1b58b41&x-sign=d5a653557162cc1db05e35a15c051cd6&x-time=1782496020",
+                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3ea2a1f65afa224ebf6091/chunks.m3u8?is_vip=false&token=43cbd8ae895c16a52dd4f9ea96510fd3d36856e3&x-sign=4cf86ecb359c599a50127faf100111db&x-time=1782497760",
                     "stream_referer": "https://iframe.rumsport10.live/"
                 },
                 {
-                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3ea2a1f65afa224ebf6091/chunks.m3u8?is_vip=false&token=1782582480-Kv4cPTAAP5YTi-da4deb22beaf87fb5ed04bcbc2c9ff03d1b58b41-4a92d80cfbc133d137d6a5f5c5d1fc50",
+                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3ea2a1f65afa224ebf6091/chunks.m3u8?is_vip=false&token=1782584205-Kv4cPTAAP5YTi-43cbd8ae895c16a52dd4f9ea96510fd3d36856e3-9c1d621b9bdd401e45adca2819b76aeb",
                     "stream_referer": "https://iframe.rumsport10.live/"
                 }
             ]
         },
         {
             "status": "LIVE",
-            "Category": "M25 Porto Md",
-            "event_name": "Ostapenkov/pereira Vs Hands/summers | M25 Porto Md",
+            "Category": "Utr Pro Knoxville Women",
+            "event_name": "Gabrielle Guenther Vs Natalie Oliver | Utr Pro Knoxville Women",
             "eventInfo": {
-                "teamA": "Ostapenkov/pereira",
-                "teamB": "Hands/summers",
+                "teamA": "Gabrielle Guenther",
+                "teamB": "Natalie Oliver",
                 "teamAFlag": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
                 "teamBFlag": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
-                "eventName": "M25 Porto Md",
+                "eventName": "Utr Pro Knoxville Women",
                 "startTime": "Live Now"
             },
             "streams": [
                 {
-                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3e866d074b83da013d7c4f/chunks.m3u8?is_vip=false&token=da4deb22beaf87fb5ed04bcbc2c9ff03d1b58b41&x-sign=514ff76f929e3124b8df4663e0f3728c&x-time=1782495960",
+                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3ea2a1074b83da013e6ec2/chunks.m3u8?is_vip=false&token=43cbd8ae895c16a52dd4f9ea96510fd3d36856e3&x-sign=3362100added1da6c42029cf66785719&x-time=1782497820",
                     "stream_referer": "https://iframe.rumsport10.live/"
                 },
                 {
-                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3e866d074b83da013d7c4f/chunks.m3u8?is_vip=false&token=1782582401-Kv4cPTAAP5YTi-da4deb22beaf87fb5ed04bcbc2c9ff03d1b58b41-d0ee874441d0fd244b2e49696b664739",
+                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3ea2a1074b83da013e6ec2/chunks.m3u8?is_vip=false&token=1782584224-Kv4cPTAAP5YTi-43cbd8ae895c16a52dd4f9ea96510fd3d36856e3-044433697f97224fc15ef2314f1682ac",
                     "stream_referer": "https://iframe.rumsport10.live/"
                 }
             ]
         },
         {
             "status": "LIVE",
-            "Category": "Auto Racing",
-            "event_name": "Spielberg, Austria | Porsche Mobil 1 Supercup Practice",
+            "Category": "Utr Pro Knoxville",
+            "event_name": "Jose Garcia Vs Mitchell Sheldon | Utr Pro Knoxville",
             "eventInfo": {
-                "teamA": "",
-                "teamB": "",
-                "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
-                "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
-                "eventName": "Porsche Mobil 1 Supercup Practice",
+                "teamA": "Jose Garcia",
+                "teamB": "Mitchell Sheldon",
+                "teamAFlag": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
+                "teamBFlag": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
+                "eventName": "Utr Pro Knoxville",
                 "startTime": "Live Now"
             },
             "streams": [
                 {
-                    "stream_url 1": "https://livecdn-tc-iptv.rumsport10.live/live_abr/239/720p/chunks.m3u8?is_vip=false&token=1782582416-Kv4cPTAAP5YTi-da4deb22beaf87fb5ed04bcbc2c9ff03d1b58b41-70204493e1ed3dc12bff7b74cc5e6141",
+                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3ea2a17133406e4c142996/chunks.m3u8?is_vip=false&token=43cbd8ae895c16a52dd4f9ea96510fd3d36856e3&x-sign=ae3d5a40da59fbbed39a0cdb6022d2ef&x-time=1782497820",
                     "stream_referer": "https://iframe.rumsport10.live/"
                 },
                 {
-                    "stream_url 2": "https://livecdn-bp-iptv.rumsport7.live/live_abr/239/720p/chunks.m3u8?is_vip=false&token=da4deb22beaf87fb5ed04bcbc2c9ff03d1b58b41&x-sign=57fb3c4b8a117062f2582131e6a970ce&x-time=1782495960",
+                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3ea2a17133406e4c142996/chunks.m3u8?is_vip=false&token=1782584234-Kv4cPTAAP5YTi-43cbd8ae895c16a52dd4f9ea96510fd3d36856e3-ed8be81f239cbcac6553ab3b3ef6caa2",
                     "stream_referer": "https://iframe.rumsport10.live/"
                 }
             ]
         },
         {
             "status": "LIVE",
-            "Category": "1 Lyga",
-            "event_name": "Garliava Vs Minija | 1 Lyga",
+            "Category": "Utr Pro Knoxville Women",
+            "event_name": "Ellie Myers Vs Ellison Reynoldson | Utr Pro Knoxville Women",
             "eventInfo": {
-                "teamA": "Garliava",
-                "teamB": "Minija",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/16674.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/3864.png",
-                "eventName": "1 Lyga",
+                "teamA": "Ellie Myers",
+                "teamB": "Ellison Reynoldson",
+                "teamAFlag": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
+                "teamBFlag": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
+                "eventName": "Utr Pro Knoxville Women",
                 "startTime": "Live Now"
             },
             "streams": [
                 {
-                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a1ef6fc1b157de5f59a5392/chunks.m3u8?is_vip=false&token=da4deb22beaf87fb5ed04bcbc2c9ff03d1b58b41&x-sign=d488a9c858db57638799f083248b627c&x-time=1782496020",
+                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3ea2a1fd12df158c8f8154/chunks.m3u8?is_vip=false&token=43cbd8ae895c16a52dd4f9ea96510fd3d36856e3&x-sign=5829338b41433cc66dd4949e20447d0d&x-time=1782497820",
                     "stream_referer": "https://iframe.rumsport10.live/"
                 },
                 {
-                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a1ef6fc1b157de5f59a5392/chunks.m3u8?is_vip=false&token=1782582427-Kv4cPTAAP5YTi-da4deb22beaf87fb5ed04bcbc2c9ff03d1b58b41-c20622de2c730cd62dcdb71ab61c83b4",
+                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3ea2a1fd12df158c8f8154/chunks.m3u8?is_vip=false&token=1782584239-Kv4cPTAAP5YTi-43cbd8ae895c16a52dd4f9ea96510fd3d36856e3-70e807f21202f02d1e60fadfb82ce947",
                     "stream_referer": "https://iframe.rumsport10.live/"
                 }
             ]
         },
         {
             "status": "LIVE",
-            "Category": "Darts",
-            "event_name": "Us Darts Masters | Us Darts Masters",
+            "Category": "Division 2 - Norra Götaland",
+            "event_name": "Vänersborgs If Vs Stenungsund | Division 2 - Norra Götaland",
             "eventInfo": {
-                "teamA": "",
-                "teamB": "",
-                "teamAFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
-                "teamBFlag": "https://i.postimg.cc/sx7BW3LB/1000109770.png",
-                "eventName": "Us Darts Masters",
+                "teamA": "Vänersborgs If",
+                "teamB": "Stenungsund",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/6713.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/12575.png",
+                "eventName": "Division 2 - Norra Götaland",
+                "startTime": "Live Now"
+            },
+            "streams": []
+        },
+        {
+            "status": "LIVE",
+            "Category": "Ettan - Norra",
+            "event_name": "Assyriska Ff Vs Vasalund | Ettan - Norra",
+            "eventInfo": {
+                "teamA": "Assyriska Ff",
+                "teamB": "Vasalund",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2169.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/6708.png",
+                "eventName": "Ettan - Norra",
                 "startTime": "Live Now"
             },
             "streams": [
                 {
-                    "stream_url 1": "https://livecdn-bp-iptv.rumsport7.live/live_abr/114414/720p/chunks.m3u8?is_vip=false&token=da4deb22beaf87fb5ed04bcbc2c9ff03d1b58b41&x-sign=ab713c634e9c7390d8d0fa609b762798&x-time=1782496020",
+                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a20487bb5bb08292dbe10a4/chunks.m3u8?is_vip=false&token=43cbd8ae895c16a52dd4f9ea96510fd3d36856e3&x-sign=b981384fb2178edfeba73e8dccbd6562&x-time=1782497820",
+                    "stream_referer": "https://iframe.rumsport10.live/"
+                },
+                {
+                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a20487bb5bb08292dbe10a4/chunks.m3u8?is_vip=false&token=1782584247-Kv4cPTAAP5YTi-43cbd8ae895c16a52dd4f9ea96510fd3d36856e3-08190ad5902de936debaac3e85ddd145",
                     "stream_referer": "https://iframe.rumsport10.live/"
                 }
             ]
         },
         {
             "status": "LIVE",
-            "Category": "Premier League",
-            "event_name": "Arsenal Vs Fc Gomel | Premier League",
+            "Category": "Division 2 - Västra Götaland",
+            "event_name": "Onsala Vs Landvetter Is | Division 2 - Västra Götaland",
             "eventInfo": {
-                "teamA": "Arsenal",
-                "teamB": "Fc Gomel",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/teams/150e40dffbd7e46bbeeb9e12d2aabf00.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/389.png",
-                "eventName": "Premier League",
+                "teamA": "Onsala",
+                "teamB": "Landvetter Is",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/12606.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/18424.png",
+                "eventName": "Division 2 - Västra Götaland",
                 "startTime": "Live Now"
             },
-            "streams": [
-                {
-                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a1ef6fce00a454ca8461a41/chunks.m3u8?is_vip=false&token=da4deb22beaf87fb5ed04bcbc2c9ff03d1b58b41&x-sign=b265775e7236867fc0a444a1d724ffe0&x-time=1782495960",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a1ef6fce00a454ca8461a41/chunks.m3u8?is_vip=false&token=1782582406-Kv4cPTAAP5YTi-da4deb22beaf87fb5ed04bcbc2c9ff03d1b58b41-aca4d8173ee2d73939e964c9f778c10a",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                }
-            ]
+            "streams": []
         },
         {
             "status": "LIVE",
-            "Category": "Friendlies Clubs",
-            "event_name": "Sturm Graz Vs Mura | Friendlies Clubs",
+            "Category": "Utr Pro Knoxville",
+            "event_name": "Roberto Ferrer Guimaraes Vs Alejandro Moreno | Utr Pro Knoxville",
             "eventInfo": {
-                "teamA": "Sturm Graz",
-                "teamB": "Mura",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/637.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/4197.png",
-                "eventName": "Friendlies Clubs",
+                "teamA": "Roberto Ferrer Guimaraes",
+                "teamB": "Alejandro Moreno",
+                "teamAFlag": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
+                "teamBFlag": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
+                "eventName": "Utr Pro Knoxville",
                 "startTime": "Live Now"
             },
             "streams": [
                 {
-                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a383bd430392eaef42e52f1/chunks.m3u8?is_vip=false&token=da4deb22beaf87fb5ed04bcbc2c9ff03d1b58b41&x-sign=66515fb99af3492261ef8ec16dba4d55&x-time=1782496020",
+                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3ea2a1f65afa224ebf6092/chunks.m3u8?is_vip=false&token=43cbd8ae895c16a52dd4f9ea96510fd3d36856e3&x-sign=f9ed8a32d6cb8037c6ddd2436fd6309a&x-time=1782497820",
                     "stream_referer": "https://iframe.rumsport10.live/"
                 },
                 {
-                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a383bd430392eaef42e52f1/chunks.m3u8?is_vip=false&token=1782582442-Kv4cPTAAP5YTi-da4deb22beaf87fb5ed04bcbc2c9ff03d1b58b41-c6a14a63a3f622fd20dc94966cebe901",
+                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3ea2a1f65afa224ebf6092/chunks.m3u8?is_vip=false&token=1782584229-Kv4cPTAAP5YTi-43cbd8ae895c16a52dd4f9ea96510fd3d36856e3-7e846469ec6ef22d54539adeb1bb88c5",
                     "stream_referer": "https://iframe.rumsport10.live/"
                 }
             ]
@@ -1395,148 +1457,39 @@
         {
             "status": "LIVE",
             "Category": "Ettan - Södra",
-            "event_name": "Kristianstad Vs Trelleborg | Ettan - Södra",
+            "event_name": "Hässleholms If Vs Tvååker | Ettan - Södra",
             "eventInfo": {
-                "teamA": "Kristianstad",
-                "teamB": "Trelleborg",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/11675.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/369.png",
+                "teamA": "Hässleholms If",
+                "teamB": "Tvååker",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/6676.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/6703.png",
                 "eventName": "Ettan - Södra",
                 "startTime": "Live Now"
             },
             "streams": [
                 {
-                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd52123/chunks.m3u8?is_vip=false&token=da4deb22beaf87fb5ed04bcbc2c9ff03d1b58b41&x-sign=28f92d59bac8ed87fe20502a9b096c57&x-time=1782496020",
+                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd52124/chunks.m3u8?is_vip=false&token=43cbd8ae895c16a52dd4f9ea96510fd3d36856e3&x-sign=c8fc24a89639813390b4ce6a3d8da1d8&x-time=1782497820",
                     "stream_referer": "https://iframe.rumsport10.live/"
                 },
                 {
-                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd52123/chunks.m3u8?is_vip=false&token=1782582475-Kv4cPTAAP5YTi-da4deb22beaf87fb5ed04bcbc2c9ff03d1b58b41-0c534c2ede6ea3c54e22f50e05ae8474",
+                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a20487baa2edf994dd52124/chunks.m3u8?is_vip=false&token=1782584254-Kv4cPTAAP5YTi-43cbd8ae895c16a52dd4f9ea96510fd3d36856e3-5218a5dca66cad1f8601f8c36eccac76",
                     "stream_referer": "https://iframe.rumsport10.live/"
                 }
             ]
         },
         {
-            "status": "LIVE",
-            "Category": "Meistriliiga",
-            "event_name": "Vaprus Vs Kuressaare | Meistriliiga",
+            "status": "UPCOMING",
+            "Category": "Cricket",
+            "event_name": "Royal Nimar Eagles Vs Chambal Ghariyals",
             "eventInfo": {
-                "teamA": "Vaprus",
-                "teamB": "Kuressaare",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/3525.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/3526.png",
-                "eventName": "Meistriliiga",
-                "startTime": "Live Now"
+                "teamA": "Royal Nimar Eagles",
+                "teamB": "Chambal Ghariyals",
+                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FT-RNE@2x.png",
+                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CGSM@2x.png",
+                "eventName": "Madhya Pradesh League T20, 2026",
+                "startTime": "26-06-2026 07:30 PM"
             },
-            "streams": [
-                {
-                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a1ef6fc1b157de5f59a5394/chunks.m3u8?is_vip=false&token=da4deb22beaf87fb5ed04bcbc2c9ff03d1b58b41&x-sign=99e9f9dcaa12c43ed82fa80c21921fec&x-time=1782496020",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a1ef6fc1b157de5f59a5394/chunks.m3u8?is_vip=false&token=1782582454-Kv4cPTAAP5YTi-da4deb22beaf87fb5ed04bcbc2c9ff03d1b58b41-5bb5639051b61a10b71ced81d19723bf",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "Category": "Ettan - Norra",
-            "event_name": "Sollentuna Vs Afc Eskilstuna | Ettan - Norra",
-            "eventInfo": {
-                "teamA": "Sollentuna",
-                "teamB": "Afc Eskilstuna",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/6699.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/765.png",
-                "eventName": "Ettan - Norra",
-                "startTime": "Live Now"
-            },
-            "streams": [
-                {
-                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a20487bb5bb08292dbe10a0/chunks.m3u8?is_vip=false&token=da4deb22beaf87fb5ed04bcbc2c9ff03d1b58b41&x-sign=3222008bc8d659fb9e9ed359daa4ac8b&x-time=1782496020",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a20487bb5bb08292dbe10a0/chunks.m3u8?is_vip=false&token=1782582459-Kv4cPTAAP5YTi-da4deb22beaf87fb5ed04bcbc2c9ff03d1b58b41-bf51f3735630f717152deb91c5e48cfb",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "Category": "Premier Padel Valladolid Women",
-            "event_name": "Rodriguez/dal Pozzo Vs Gonzalez/josemaria | Premier Padel Valladolid Women",
-            "eventInfo": {
-                "teamA": "Rodriguez/dal Pozzo",
-                "teamB": "Gonzalez/josemaria",
-                "teamAFlag": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
-                "teamBFlag": "https://img.bingstream.info/static/common/thumbs/soccer/team_placeholder_45x45.png",
-                "eventName": "Premier Padel Valladolid Women",
-                "startTime": "Live Now"
-            },
-            "streams": [
-                {
-                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/13-6a3e9473bb875b4ddf15b4a7/chunks.m3u8?is_vip=false&token=da4deb22beaf87fb5ed04bcbc2c9ff03d1b58b41&x-sign=e85d10d70974106a5a6b206150f3da31&x-time=1782496020",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/13-6a3e9473bb875b4ddf15b4a7/chunks.m3u8?is_vip=false&token=1782582464-Kv4cPTAAP5YTi-da4deb22beaf87fb5ed04bcbc2c9ff03d1b58b41-b41b2e956c836b31c27a34c2f62ff340",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "Category": "Ettan - Norra",
-            "event_name": "Fbk Karlstad Vs Hammarby Talang | Ettan - Norra",
-            "eventInfo": {
-                "teamA": "Fbk Karlstad",
-                "teamB": "Hammarby Talang",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/12622.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/16596.png",
-                "eventName": "Ettan - Norra",
-                "startTime": "Live Now"
-            },
-            "streams": [
-                {
-                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a20487bb5bb08292dbe10a3/chunks.m3u8?is_vip=false&token=da4deb22beaf87fb5ed04bcbc2c9ff03d1b58b41&x-sign=fddbdb4e8d8ea5f43fdf3282efc4e3ec&x-time=1782496020",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a20487bb5bb08292dbe10a3/chunks.m3u8?is_vip=false&token=1782582469-Kv4cPTAAP5YTi-da4deb22beaf87fb5ed04bcbc2c9ff03d1b58b41-bfcbbe81df1a8b277ad43d018dc31e79",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                }
-            ]
-        },
-        {
-            "status": "LIVE",
-            "Category": "Superettan",
-            "event_name": "Ik Brage Vs Falkenbergs Ff | Superettan",
-            "eventInfo": {
-                "teamA": "Ik Brage",
-                "teamB": "Falkenbergs Ff",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2175.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/812.png",
-                "eventName": "Superettan",
-                "startTime": "Live Now"
-            },
-            "streams": [
-                {
-                    "stream_url 1": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a20487bb5bb08292dbe106c/chunks.m3u8?is_vip=false&token=da4deb22beaf87fb5ed04bcbc2c9ff03d1b58b41&x-sign=22905f543749a6c8c648353fb5f65a9e&x-time=1782496020",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "stream_url 2": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a20487bb5bb08292dbe106c/chunks.m3u8?is_vip=false&token=1782582448-Kv4cPTAAP5YTi-da4deb22beaf87fb5ed04bcbc2c9ff03d1b58b41-9282b7b297f4d59593d21831b06f4ff1",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "stream_url 3": "https://livecdn-bp-livestream.rumsport10.live/sla/1-6a20487bb5bb08292dbe106c-fhd/chunks.m3u8?is_vip=false&token=da4deb22beaf87fb5ed04bcbc2c9ff03d1b58b41&x-sign=5584b0b1da3d5ae9f903867b196cda18&x-time=1782496020",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                },
-                {
-                    "stream_url 4": "https://livecdn-tc-livestream.rumsport10.live/sla/1-6a20487bb5bb08292dbe106c-fhd/chunks.m3u8?is_vip=false&token=1782582448-Kv4cPTAAP5YTi-da4deb22beaf87fb5ed04bcbc2c9ff03d1b58b41-8caf6cec100b7025594c18ea6ea14c4d",
-                    "stream_referer": "https://iframe.rumsport10.live/"
-                }
-            ]
+            "streams": []
         },
         {
             "status": "UPCOMING",
@@ -1548,21 +1501,7 @@
                 "teamAFlag": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.379524f1-9429-4dc4-8582-70f3585812f4/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
                 "teamBFlag": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.379524f1-9429-4dc4-8582-70f3585812f4/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
                 "eventName": "Major League Cricket 2026 - 10th Match - Mi New York Vs Texas Super Kings",
-                "startTime": "Tomorrow 3:30 AM BDT"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Cricket",
-            "event_name": "T20 Blast 2026 - Kent Vs Nottinghamshire",
-            "eventInfo": {
-                "teamA": "Kent",
-                "teamB": "Nottinghamshire",
-                "teamAFlag": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.bab3cc8b-51e9-456f-a3c9-2967b7d3dbed/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-                "teamBFlag": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.bab3cc8b-51e9-456f-a3c9-2967b7d3dbed/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-                "eventName": "T20 Blast 2026 - Kent Vs Nottinghamshire",
-                "startTime": "Tomorrow 12:00 AM BDT"
+                "startTime": "Live At 3:30 Am Bdt"
             },
             "streams": []
         },
@@ -1583,28 +1522,14 @@
         {
             "status": "UPCOMING",
             "Category": "Cricket",
-            "event_name": "Itahari Super Kings Vs Rml Sports",
+            "event_name": "Namibia Vs Nigeria",
             "eventInfo": {
-                "teamA": "Itahari Super Kings",
-                "teamB": "Rml Sports",
-                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ISK@2x.png",
-                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RMLSA@2x.png",
-                "eventName": "Kpl Indo Nepal T20 2026",
-                "startTime": "27-06-2026 12:45 PM"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Cricket",
-            "event_name": "Royal Nimar Eagles Vs Chambal Ghariyals",
-            "eventInfo": {
-                "teamA": "Royal Nimar Eagles",
-                "teamB": "Chambal Ghariyals",
-                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FT-RNE@2x.png",
-                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CGSM@2x.png",
-                "eventName": "Madhya Pradesh League T20, 2026",
-                "startTime": "26-06-2026 07:30 PM"
+                "teamA": "Namibia",
+                "teamB": "Nigeria",
+                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NAB@2x.png",
+                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NIGI@2x.png",
+                "eventName": "Nigeria Tour Of Namibia 2026",
+                "startTime": "27-06-2026 01:00 PM"
             },
             "streams": []
         },
@@ -1639,14 +1564,14 @@
         {
             "status": "UPCOMING",
             "Category": "Cricket",
-            "event_name": "Namibia Vs Nigeria",
+            "event_name": "Itahari Super Kings Vs Rml Sports",
             "eventInfo": {
-                "teamA": "Namibia",
-                "teamB": "Nigeria",
-                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NAB@2x.png",
-                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NIGI@2x.png",
-                "eventName": "Nigeria Tour Of Namibia 2026",
-                "startTime": "27-06-2026 01:00 PM"
+                "teamA": "Itahari Super Kings",
+                "teamB": "Rml Sports",
+                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ISK@2x.png",
+                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-RMLSA@2x.png",
+                "eventName": "Kpl Indo Nepal T20 2026",
+                "startTime": "27-06-2026 12:45 PM"
             },
             "streams": []
         },
@@ -1660,7 +1585,7 @@
                 "teamAFlag": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.7fc4f405-736f-4e8d-a8c6-7158734d92a8/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
                 "teamBFlag": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.7fc4f405-736f-4e8d-a8c6-7158734d92a8/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
                 "eventName": "Icc Womens T20 World Cup 2026 - 26th Match - Pakistan Women Vs Netherlands Women",
-                "startTime": "Tomorrow 3:30 PM BDT"
+                "startTime": "Live At 3:30 Pm Bdt"
             },
             "streams": []
         },
@@ -1674,119 +1599,7 @@
                 "teamAFlag": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e8e7e5d0-3cc3-4f1e-a02f-ff799c6bbef8/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
                 "teamBFlag": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e8e7e5d0-3cc3-4f1e-a02f-ff799c6bbef8/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
                 "eventName": "Major League Cricket 2026 - 11th Match - San Francisco Unicorns Vs Seattle Orcas",
-                "startTime": "Tomorrow 7:30 AM BDT"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Cricket",
-            "event_name": "Australia Vs. India",
-            "eventInfo": {
-                "teamA": "Australia Vs. India",
-                "teamB": "",
-                "teamAFlag": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.bc554821-c9e0-40aa-894a-997ff6d0f0ed/2/BOXART-16X9/en-US._UR1920,1080_.jpg",
-                "teamBFlag": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.bc554821-c9e0-40aa-894a-997ff6d0f0ed/2/BOXART-16X9/en-US._UR1920,1080_.jpg",
-                "eventName": "Watch Australia Take On India In The Icc Women's T20 World Cup - 2026 England & Wales",
-                "startTime": "Sun, Jun 28 7:30 PM BDT"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Cricket",
-            "event_name": "West Indies Vs. Ireland",
-            "eventInfo": {
-                "teamA": "West Indies Vs. Ireland",
-                "teamB": "",
-                "teamAFlag": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e55196ed-f457-4751-9271-753a8690347d/2/BOXART-16X9/en-US._UR1920,1080_.jpg",
-                "teamBFlag": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e55196ed-f457-4751-9271-753a8690347d/2/BOXART-16X9/en-US._UR1920,1080_.jpg",
-                "eventName": "Watch West Indies Take On Ireland In The Icc Women's T20 World Cup - 2026 England & Wales",
-                "startTime": "Tomorrow 7:30 PM BDT"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Cricket",
-            "event_name": "England Vs. New Zealand",
-            "eventInfo": {
-                "teamA": "England Vs. New Zealand",
-                "teamB": "",
-                "teamAFlag": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.cfc3402c-ce62-4ea8-8c65-82b091d9b714/2/BOXART-16X9/en-US._UR1920,1080_.jpg",
-                "teamBFlag": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.cfc3402c-ce62-4ea8-8c65-82b091d9b714/2/BOXART-16X9/en-US._UR1920,1080_.jpg",
-                "eventName": "Watch England Take On New Zealand In The Icc Women's T20 World Cup - 2026 England & Wales",
-                "startTime": "Tomorrow 11:30 PM BDT"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Cricket",
-            "event_name": "Major League Cricket 2026 - 12th Match - Mi New York Vs Los Angeles Knight Riders",
-            "eventInfo": {
-                "teamA": "Mi New York",
-                "teamB": "Los Angeles Knight Riders",
-                "teamAFlag": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4c692b4d-7873-49f6-8356-0ae0e2b7986e/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-                "teamBFlag": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4c692b4d-7873-49f6-8356-0ae0e2b7986e/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-                "eventName": "Major League Cricket 2026 - 12th Match - Mi New York Vs Los Angeles Knight Riders",
-                "startTime": "Sun, Jun 28 3:30 AM BDT"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Cricket",
-            "event_name": "Major League Cricket 2026 - 13th Match - Washington Freedom Vs Texas Super Kings",
-            "eventInfo": {
-                "teamA": "Washington Freedom",
-                "teamB": "Texas Super Kings",
-                "teamAFlag": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a6a16afd-45c7-4600-9435-731601a160ee/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-                "teamBFlag": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a6a16afd-45c7-4600-9435-731601a160ee/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-                "eventName": "Major League Cricket 2026 - 13th Match - Washington Freedom Vs Texas Super Kings",
-                "startTime": "Sun, Jun 28 7:30 AM BDT"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Cricket",
-            "event_name": "Icc Womens T20 World Cup 2026 - 29th Match - South Africa Women Vs Bangladesh Women",
-            "eventInfo": {
-                "teamA": "South Africa Women",
-                "teamB": "Bangladesh Women",
-                "teamAFlag": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.311e325e-237e-4be0-a1f2-034c82dbd3aa/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-                "teamBFlag": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.311e325e-237e-4be0-a1f2-034c82dbd3aa/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-                "eventName": "Icc Womens T20 World Cup 2026 - 29th Match - South Africa Women Vs Bangladesh Women",
-                "startTime": "Sun, Jun 28 3:30 PM BDT"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Cricket",
-            "event_name": "India Tour Of Ireland 2026 - 2nd T20i - Ireland Vs India",
-            "eventInfo": {
-                "teamA": "Ireland",
-                "teamB": "India",
-                "teamAFlag": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e1361b59-5b92-40ae-8739-dfaacbb8f54b/3/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-                "teamBFlag": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e1361b59-5b92-40ae-8739-dfaacbb8f54b/3/BOXART-16X9/en-US._UR1920,1080_.jpeg",
-                "eventName": "India Tour Of Ireland 2026 - 2nd T20i - Ireland Vs India",
-                "startTime": "Sun, Jun 28 6:30 PM BDT"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Cricket",
-            "event_name": "Karim Capital Chargers Vs Jayqo Panthers Faridabad",
-            "eventInfo": {
-                "teamA": "Karim Capital Chargers",
-                "teamB": "Jayqo Panthers Faridabad",
-                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KC@2x.png",
-                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JPF@2x.png",
-                "eventName": "Future Star U-15 Championship 2026",
-                "startTime": "27-06-2026 03:00 PM"
+                "startTime": "Live At 7:30 Am Bdt"
             },
             "streams": []
         },
@@ -1801,6 +1614,118 @@
                 "teamBFlag": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.f0572814-f281-4f59-8421-0fcd00c99c7a/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
                 "eventName": "Major League Cricket 2026 - 14th Match - Los Angeles Knight Riders Vs Seattle Orcas",
                 "startTime": "Mon, Jun 29 3:30 AM BDT"
+            },
+            "streams": []
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Cricket",
+            "event_name": "West Indies Vs. Ireland",
+            "eventInfo": {
+                "teamA": "West Indies Vs. Ireland",
+                "teamB": "",
+                "teamAFlag": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e55196ed-f457-4751-9271-753a8690347d/2/BOXART-16X9/en-US._UR1920,1080_.jpg",
+                "teamBFlag": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e55196ed-f457-4751-9271-753a8690347d/2/BOXART-16X9/en-US._UR1920,1080_.jpg",
+                "eventName": "Watch West Indies Take On Ireland In The Icc Women's T20 World Cup - 2026 England & Wales",
+                "startTime": "Live At 7:30 Pm Bdt"
+            },
+            "streams": []
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Cricket",
+            "event_name": "England Vs. New Zealand",
+            "eventInfo": {
+                "teamA": "England Vs. New Zealand",
+                "teamB": "",
+                "teamAFlag": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.cfc3402c-ce62-4ea8-8c65-82b091d9b714/2/BOXART-16X9/en-US._UR1920,1080_.jpg",
+                "teamBFlag": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.cfc3402c-ce62-4ea8-8c65-82b091d9b714/2/BOXART-16X9/en-US._UR1920,1080_.jpg",
+                "eventName": "Watch England Take On New Zealand In The Icc Women's T20 World Cup - 2026 England & Wales",
+                "startTime": "Live At 11:30 Pm Bdt"
+            },
+            "streams": []
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Cricket",
+            "event_name": "Major League Cricket 2026 - 12th Match - Mi New York Vs Los Angeles Knight Riders",
+            "eventInfo": {
+                "teamA": "Mi New York",
+                "teamB": "Los Angeles Knight Riders",
+                "teamAFlag": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4c692b4d-7873-49f6-8356-0ae0e2b7986e/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+                "teamBFlag": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.4c692b4d-7873-49f6-8356-0ae0e2b7986e/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+                "eventName": "Major League Cricket 2026 - 12th Match - Mi New York Vs Los Angeles Knight Riders",
+                "startTime": "Tomorrow 3:30 AM BDT"
+            },
+            "streams": []
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Cricket",
+            "event_name": "Major League Cricket 2026 - 13th Match - Washington Freedom Vs Texas Super Kings",
+            "eventInfo": {
+                "teamA": "Washington Freedom",
+                "teamB": "Texas Super Kings",
+                "teamAFlag": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a6a16afd-45c7-4600-9435-731601a160ee/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+                "teamBFlag": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.a6a16afd-45c7-4600-9435-731601a160ee/2/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+                "eventName": "Major League Cricket 2026 - 13th Match - Washington Freedom Vs Texas Super Kings",
+                "startTime": "Tomorrow 7:30 AM BDT"
+            },
+            "streams": []
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Cricket",
+            "event_name": "Icc Womens T20 World Cup 2026 - 29th Match - South Africa Women Vs Bangladesh Women",
+            "eventInfo": {
+                "teamA": "South Africa Women",
+                "teamB": "Bangladesh Women",
+                "teamAFlag": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.311e325e-237e-4be0-a1f2-034c82dbd3aa/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+                "teamBFlag": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.311e325e-237e-4be0-a1f2-034c82dbd3aa/1/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+                "eventName": "Icc Womens T20 World Cup 2026 - 29th Match - South Africa Women Vs Bangladesh Women",
+                "startTime": "Tomorrow 3:30 PM BDT"
+            },
+            "streams": []
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Cricket",
+            "event_name": "India Tour Of Ireland 2026 - 2nd T20i - Ireland Vs India",
+            "eventInfo": {
+                "teamA": "Ireland",
+                "teamB": "India",
+                "teamAFlag": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e1361b59-5b92-40ae-8739-dfaacbb8f54b/3/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+                "teamBFlag": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e1361b59-5b92-40ae-8739-dfaacbb8f54b/3/BOXART-16X9/en-US._UR1920,1080_.jpeg",
+                "eventName": "India Tour Of Ireland 2026 - 2nd T20i - Ireland Vs India",
+                "startTime": "Tomorrow 6:30 PM BDT"
+            },
+            "streams": []
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Cricket",
+            "event_name": "Australia Vs. India",
+            "eventInfo": {
+                "teamA": "Australia Vs. India",
+                "teamB": "",
+                "teamAFlag": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.bc554821-c9e0-40aa-894a-997ff6d0f0ed/2/BOXART-16X9/en-US._UR1920,1080_.jpg",
+                "teamBFlag": "https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.bc554821-c9e0-40aa-894a-997ff6d0f0ed/2/BOXART-16X9/en-US._UR1920,1080_.jpg",
+                "eventName": "Watch Australia Take On India In The Icc Women's T20 World Cup - 2026 England & Wales",
+                "startTime": "Tomorrow 7:30 PM BDT"
+            },
+            "streams": []
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Cricket",
+            "event_name": "Karim Capital Chargers Vs Jayqo Panthers Faridabad",
+            "eventInfo": {
+                "teamA": "Karim Capital Chargers",
+                "teamB": "Jayqo Panthers Faridabad",
+                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KC@2x.png",
+                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JPF@2x.png",
+                "eventName": "Future Star U-15 Championship 2026",
+                "startTime": "27-06-2026 03:00 PM"
             },
             "streams": []
         },
@@ -1891,13 +1816,13 @@
         {
             "status": "UPCOMING",
             "Category": "Cricket",
-            "event_name": "Bahamas Vs Belize",
+            "event_name": "Mysore Warriors Vs Gulbarga Mystics",
             "eventInfo": {
-                "teamA": "Bahamas",
-                "teamB": "Belize",
-                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BH@2x.png",
-                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BLE@2x.png",
-                "eventName": "Icc Men's T20 Wc Americas Sub-regional Qualifier A",
+                "teamA": "Mysore Warriors",
+                "teamB": "Gulbarga Mystics",
+                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MW@2x.png",
+                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GM@2x.png",
+                "eventName": "Maharaja T20 Trophy, 2026",
                 "startTime": "27-06-2026 07:00 PM"
             },
             "streams": []
@@ -1933,14 +1858,14 @@
         {
             "status": "UPCOMING",
             "Category": "Cricket",
-            "event_name": "Bahadurgarh Royals Vs Ddh Meerut Spartans",
+            "event_name": "Bahamas Vs Belize",
             "eventInfo": {
-                "teamA": "Bahadurgarh Royals",
-                "teamB": "Ddh Meerut Spartans",
-                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BGR@2x.png",
-                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DDHMS@2x.png",
-                "eventName": "Future Star U-15 Championship 2026",
-                "startTime": "27-06-2026 07:30 PM"
+                "teamA": "Bahamas",
+                "teamB": "Belize",
+                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BH@2x.png",
+                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BLE@2x.png",
+                "eventName": "Icc Men's T20 Wc Americas Sub-regional Qualifier A",
+                "startTime": "27-06-2026 07:00 PM"
             },
             "streams": []
         },
@@ -1961,14 +1886,14 @@
         {
             "status": "UPCOMING",
             "Category": "Cricket",
-            "event_name": "Mysore Warriors Vs Gulbarga Mystics",
+            "event_name": "Bahadurgarh Royals Vs Ddh Meerut Spartans",
             "eventInfo": {
-                "teamA": "Mysore Warriors",
-                "teamB": "Gulbarga Mystics",
-                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MW@2x.png",
-                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GM@2x.png",
-                "eventName": "Maharaja T20 Trophy, 2026",
-                "startTime": "27-06-2026 07:00 PM"
+                "teamA": "Bahadurgarh Royals",
+                "teamB": "Ddh Meerut Spartans",
+                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BGR@2x.png",
+                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-DDHMS@2x.png",
+                "eventName": "Future Star U-15 Championship 2026",
+                "startTime": "27-06-2026 07:30 PM"
             },
             "streams": []
         },
@@ -2044,15 +1969,15 @@
         },
         {
             "status": "UPCOMING",
-            "Category": "Formula 1",
-            "event_name": "Practice 2",
+            "Category": "Motorsports",
+            "event_name": "Practice Session",
             "eventInfo": {
-                "teamA": "Practice 2",
-                "teamB": "Austria",
-                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-FR5@2x.png",
-                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png",
-                "eventName": "F1 Lenovo Austrian Grand Prix 2026",
-                "startTime": "26-06-2026 08:30 PM"
+                "teamA": "Practice Session",
+                "teamB": "Red Bull Ring",
+                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-POR@2x.png",
+                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
+                "eventName": "Porsche Mobil 1 Supercup 2026",
+                "startTime": "26-06-2026 10:05 PM"
             },
             "streams": []
         },
@@ -2142,6 +2067,23 @@
         },
         {
             "status": "UPCOMING",
+            "event_name": "Fiziev Vs Torres",
+            "eventInfo": {
+                "teamA": "Fiziev",
+                "teamB": "Torres",
+                "teamAFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1782119515540x302.jpg",
+                "teamBFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1782119515540x302.jpg",
+                "eventName": "Ufc 2026",
+                "startTime": "27-06-2026 10:00 PM"
+            },
+            "streams": [
+                {
+                    "stream_url": ""
+                }
+            ]
+        },
+        {
+            "status": "UPCOMING",
             "event_name": "England Vs New Zealand",
             "eventInfo": {
                 "teamA": "England",
@@ -2159,6 +2101,20 @@
         },
         {
             "status": "UPCOMING",
+            "Category": "World Cup",
+            "event_name": "Croatia Vs Ghana | World Cup",
+            "eventInfo": {
+                "teamA": "Croatia",
+                "teamB": "Ghana",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/3.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1504.png",
+                "eventName": "World Cup",
+                "startTime": "3:00 AM 28-06-2026"
+            },
+            "streams": []
+        },
+        {
+            "status": "UPCOMING",
             "Category": "Motorsports",
             "event_name": "Qualifying Session",
             "eventInfo": {
@@ -2168,20 +2124,6 @@
                 "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
                 "eventName": "F2 Austria 2026",
                 "startTime": "26-06-2026 07:25 PM"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "World Cup",
-            "event_name": "New Zealand Vs Belgium | World Cup",
-            "eventInfo": {
-                "teamA": "New Zealand",
-                "teamB": "Belgium",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/4673.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1.png",
-                "eventName": "World Cup",
-                "startTime": "9:00 AM 27-06-2026"
             },
             "streams": []
         },
@@ -2258,14 +2200,28 @@
         {
             "status": "UPCOMING",
             "Category": "World Cup",
-            "event_name": "Croatia Vs Ghana | World Cup",
+            "event_name": "New Zealand Vs Belgium | World Cup",
             "eventInfo": {
-                "teamA": "Croatia",
-                "teamB": "Ghana",
-                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/3.png",
-                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1504.png",
+                "teamA": "New Zealand",
+                "teamB": "Belgium",
+                "teamAFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/4673.png",
+                "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/1.png",
                 "eventName": "World Cup",
-                "startTime": "3:00 AM 28-06-2026"
+                "startTime": "9:00 AM 27-06-2026"
+            },
+            "streams": []
+        },
+        {
+            "status": "UPCOMING",
+            "Category": "Formula 1",
+            "event_name": "Practice 2",
+            "eventInfo": {
+                "teamA": "Practice 2",
+                "teamB": "Austria",
+                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-FR5@2x.png",
+                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/f1-flags/FC-LOT@2x.png",
+                "eventName": "F1 Lenovo Austrian Grand Prix 2026",
+                "startTime": "26-06-2026 08:30 PM"
             },
             "streams": []
         },
@@ -2282,23 +2238,6 @@
                 "startTime": "6:00 AM 27-06-2026"
             },
             "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "event_name": "Fiziev Vs Torres",
-            "eventInfo": {
-                "teamA": "Fiziev",
-                "teamB": "Torres",
-                "teamAFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelFeaturedAppthumb/1782119515540x302.jpg",
-                "teamBFlag": "https://d34080pnh6e62j.cloudfront.net/images/channels/ChannelTVImage/1782119515540x302.jpg",
-                "eventName": "Ufc 2026",
-                "startTime": "27-06-2026 10:00 PM"
-            },
-            "streams": [
-                {
-                    "stream_url": ""
-                }
-            ]
         },
         {
             "status": "UPCOMING",
@@ -2339,20 +2278,6 @@
                 "teamBFlag": "https://static-live.linewgen.xyz/live/bing/img/rapid/teams/2.png",
                 "eventName": "World Cup",
                 "startTime": "1:00 AM 27-06-2026"
-            },
-            "streams": []
-        },
-        {
-            "status": "UPCOMING",
-            "Category": "Motorsports",
-            "event_name": "Practice Session",
-            "eventInfo": {
-                "teamA": "Practice Session",
-                "teamB": "Red Bull Ring",
-                "teamAFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-POR@2x.png",
-                "teamBFlag": "https://d13ir53smqqeyp.cloudfront.net/flags/race-flags/FC-LOC@2x.png",
-                "eventName": "Porsche Mobil 1 Supercup 2026",
-                "startTime": "26-06-2026 10:05 PM"
             },
             "streams": []
         },
